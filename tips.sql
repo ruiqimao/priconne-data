@@ -10,6 +10,7 @@ INSERT INTO "tips" VALUES(4100901,100901,1,'Fear the Name!');
 INSERT INTO "tips" VALUES(4101001,101001,1,'Because She Says So');
 INSERT INTO "tips" VALUES(4101101,101101,1,'No Oysters for You');
 INSERT INTO "tips" VALUES(4101201,101201,1,'Wayward Sister');
+INSERT INTO "tips" VALUES(4101501,101501,1,'The Power of Love?');
 INSERT INTO "tips" VALUES(4101601,101601,1,'An Alluring Aroma');
 INSERT INTO "tips" VALUES(4101701,101701,1,'Don''t Sweat It!');
 INSERT INTO "tips" VALUES(4101801,101801,1,'Leave It to Miss Io!');

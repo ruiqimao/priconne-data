@@ -85,6 +85,12 @@ INSERT INTO "skill_action" VALUES(101200301,1,1,2,0,0,10.0,10.0,0.8,0.0,0.0,0.0,
 INSERT INTO "skill_action" VALUES(101200302,1,8,7,0,0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,1,1,2160,14,0,1,'Renders an enemy immobile for a set period of time.','Stun success rate + 1');
 INSERT INTO "skill_action" VALUES(101250101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(101251101,1,90,4,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
+INSERT INTO "skill_action" VALUES(101500101,1,4,2,0,0,1.0,4.5,4.5,0.3375,0.0,0.0,0.0,2,3,2160,3,0,99,'Recovers all allies'' HP by {0}.','HP recovery + {0}');
+INSERT INTO "skill_action" VALUES(101500102,1,10,40,1,0,1.0,0.45,0.45,18.0,0.0,0.0,0.0,2,3,2160,3,0,99,'Boosts all allies'' magic defense by {0}.','Magic defense boost + {0}');
+INSERT INTO "skill_action" VALUES(101500201,1,10,30,0,0,1.0,5.5,5.5,12.0,0.0,0.0,0.0,2,2,300,3,0,99,'Boosts magic attack of all allies in range by {0}.','Magic attack boost + {0}');
+INSERT INTO "skill_action" VALUES(101500301,1,48,2,1,0,1.0,1.0,0.12,0.0,7.0,0.0,0.0,2,2,2160,10,0,1,'Recovers HP by {0} every second.','Recovery + {0}');
+INSERT INTO "skill_action" VALUES(101550101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
+INSERT INTO "skill_action" VALUES(101551101,1,90,4,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(101600101,1,1,1,0,0,45.0,45.0,4.0,0.0,1.0,0.0,1.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(101600201,1,1,1,0,0,12.0,12.0,0.9,0.0,1.0,0.0,1.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(101600301,1,10,10,1,0,1.0,15.0,15.0,12.0,0.0,0.0,1.0,2,3,0,7,0,1,'Boosts own physical attack by {0}.','Physical attack + {0}');
@@ -397,6 +403,8 @@ INSERT INTO "skill_action" VALUES(201300101,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.
 INSERT INTO "skill_action" VALUES(201300102,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,2,2160,1,2,1,'','');
 INSERT INTO "skill_action" VALUES(201301101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,2,2160,8,0,1,'','');
 INSERT INTO "skill_action" VALUES(201301102,1,9,1,0,0,2.25,2.25,4.0,0.0,0.0,0.0,0.0,1,3,0,1,0,1,'','');
+INSERT INTO "skill_action" VALUES(201302101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,850,2,0,1,'','');
+INSERT INTO "skill_action" VALUES(201302102,1,8,3,0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,1,0,1,0,0,'','');
 INSERT INTO "skill_action" VALUES(201400101,1,1,2,0,0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,1,1,1500,2,0,3,'','');
 INSERT INTO "skill_action" VALUES(201400201,1,10,30,1,0,1.0,1.8,1.8,12.0,0.0,0.0,1.0,2,1,0,1,0,99,'','');
 INSERT INTO "skill_action" VALUES(201500101,1,4,2,0,0,1.0,3.2,3.2,0.2625,0.0,0.0,0.0,2,3,1500,5,0,5,'','');

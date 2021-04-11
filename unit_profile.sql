@@ -13,7 +13,7 @@ INSERT INTO "unit_profile" VALUES(101101,'Rino','15','Labyrinth','humanfolk','15
 INSERT INTO "unit_profile" VALUES(101201,'Hatsune','17','Forestier','elvenfolk','156','46','12','24','A','playing with her little sister, sleeping in, naps, going to bed early','Ayaka Ohashi',0,'A sleeping beauty who uses her superpowers to help others','','6');
 INSERT INTO "unit_profile" VALUES(101301,'Nanaka','18','Twilight Caravan','Demonfolk','166','55','8','21','O','reading, magic','Haruka Yoshimura',0,'A magical girl who lets her nerd flag fly','','13');
 INSERT INTO "unit_profile" VALUES(101401,'Kasumi','18','Caon','beastfolk','152','41','11','3','AB','reading, reasoning','Inori Minase',0,'A brilliant, beautiful detective','','10');
-INSERT INTO "unit_profile" VALUES(101501,'Misato','21','Forestier','elvenfolk','165','54','9','5','O','making picture books','Mariko Kouda',0,'A kind, motherly young woman','','6');
+INSERT INTO "unit_profile" VALUES(101501,'Misato','21','Forestier','elvenfolk','165','54','9','5','O','making picture books','Mariko Kouda',0,'A motherly figure known to all as Miss Misato','','6');
 INSERT INTO "unit_profile" VALUES(101601,'Suzuna','18','Lucent Academy','Demonfolk','167','48','4','10','O','fashion','Sumire Uesaka',0,'A charismatic fashion model who''s naïve yet popular','','14');
 INSERT INTO "unit_profile" VALUES(101701,'Kaori','19','Caon','beastfolk','158','53','7','7','A','dancing, karate','Natsumi Takamori',0,'A natural airhead who always believes things will work out','','10');
 INSERT INTO "unit_profile" VALUES(101801,'Io','23','Lucent Academy','Demonfolk','162','52','8','14','B','romance novels, romance plays, romance manga','Shizuka Ito',0,'A pure-hearted teacher who charms the hearts of men','','14');

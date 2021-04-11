@@ -87,6 +87,14 @@ INSERT INTO "story_detail" VALUES(1012005,1012,'Hatsune Episode 5','Afternoon Po
 INSERT INTO "story_detail" VALUES(1012006,1012,'Hatsune Episode 6','Sleepless Beauty',0,0,1012005,6,101201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1012007,1012,'Hatsune Episode 7','Landosol''s Last Day',0,0,1012006,7,101201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1012008,1012,'Hatsune Episode 8','I''m Gonna Eat You! ♪',0,0,1012007,8,101201,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1015001,1015,'Misato Episode 1','A True Saint',0,0,0,0,101501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1015002,1015,'Misato Episode 2','A Special Present for a Special Day',0,0,1015001,2,101501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1015003,1015,'Misato Episode 3','A Mother''s Warmth',0,0,1015002,3,101501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1015004,1015,'Misato Episode 4','The Saint of Tsubakigaoka',0,0,1015003,4,101501,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1015005,1015,'Misato Episode 5','Always in My Heart',0,0,1015004,5,101501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1015006,1015,'Misato Episode 6','Woe Is Misato',0,0,1015005,6,101501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1015007,1015,'Misato Episode 7','Time to Let Go',0,0,1015006,7,101501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1015008,1015,'Misato Episode 8','Misato''s Prince',0,0,1015007,8,101501,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1016001,1016,'Suzuna Episode 1','Hella Bad at Math',0,0,0,0,101601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1016002,1016,'Suzuna Episode 2','Fashion Model Suzuna',0,0,1016001,2,101601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1016003,1016,'Suzuna Episode 3','The Perfect Perfume',0,0,1016002,3,101601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -410,6 +418,13 @@ INSERT INTO "story_detail" VALUES(2005004,2005,'Chapter 5 Episode 4','Omniscient
 INSERT INTO "story_detail" VALUES(2005005,2005,'Chapter 5 Episode 5','This Half-Baked World',5,0,2005004,0,0,11010011,0,8,91002,20,0,0,0,0,0,0,'2021/03/15 23:00:00','2030/12/19 14:59:59');
 INSERT INTO "story_detail" VALUES(2005006,2005,'Chapter 5 Episode 6','One Final Reunion',5,1,2005005,0,0,11010017,0,8,91002,20,0,0,0,0,0,0,'2021/03/15 23:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2005010,2005,'Chapter Interlude','Interlude 6',5,0,2005006,0,0,11010017,0,8,91002,20,0,0,0,0,0,0,'2021/03/15 23:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006001,2006,'Chapter 6 Episode 1','After the Storm',5,0,2005010,0,0,11011002,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(2006002,2006,'Chapter 6 Episode 2','The Wisteria Secret Weapon',5,0,2006001,0,0,11011005,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(2006003,2006,'Chapter 6 Episode 3','Home Sweet Home',5,0,2006002,0,0,11011008,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(2006004,2006,'Chapter 6 Episode 4','The Stolen Princess',5,0,2006003,0,0,11011011,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/18 14:59:59');
+INSERT INTO "story_detail" VALUES(2006005,2006,'Chapter 6 Episode 5','A Sleepyhead Hero',5,0,2006004,0,0,11011013,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/19 14:59:59');
+INSERT INTO "story_detail" VALUES(2006006,2006,'Chapter 6 Episode 6','Knights of Nightmare',5,0,2006005,0,0,11011015,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006007,2006,'Chapter 6 Episode 7','The Path to Restoration',5,0,2006006,0,0,11011017,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

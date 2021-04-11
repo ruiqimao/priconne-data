@@ -54,6 +54,11 @@ INSERT INTO "skill_data" VALUES(1012002,'Psychic☆Blast',1,0,1.4,101200201,0,0,
 INSERT INTO "skill_data" VALUES(1012003,'Star☆Light',1,0,1.4,101200301,101200302,0,0,0,0,0,0,101200301,0,0,0,0,0,'Deals small magical damage to an enemy with the highest physical attack and inflict Stun.',2002);
 INSERT INTO "skill_data" VALUES(1012501,'Happy☆Energy',0,0,0.0,101250101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1012511,'Happy☆Energy+',0,0,0.0,101251101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1015001,'Sister''s Blessing',1,0,0.0,101500101,101500102,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers HP of all allies by a moderate amount. Small boost to their magical defense.',1005);
+INSERT INTO "skill_data" VALUES(1015002,'Divine Force',1,0,1.17,101500201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to magical attack of all nearby allies.',2003);
+INSERT INTO "skill_data" VALUES(1015003,'Caring Cure',1,0,1.6,101500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Grants HP regen to the foremost ally.',2005);
+INSERT INTO "skill_data" VALUES(1015501,'Angelic Majesty',0,0,0.0,101550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1015511,'Angelic Majesty+',0,0,0.0,101551101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1016001,'Heart Breaker',1,0,0.0,101600101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front. This always results in a critical hit.',1001);
 INSERT INTO "skill_data" VALUES(1016002,'Meany Missile',0,0,0.71,101600201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front. This always results in a critical hit.',2001);
 INSERT INTO "skill_data" VALUES(1016003,'Charming Aura ♪',1,0,1.4,101600301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack.',2003);
@@ -252,6 +257,7 @@ INSERT INTO "skill_data" VALUES(2011001,'',0,0,3.0,201100101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2011011,'',1,0,4.0,201101101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2013001,'',0,0,3.0,201300101,201300102,0,0,0,0,0,0,201300101,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2013011,'',0,0,3.0,201301101,201301102,0,0,0,0,0,0,201301101,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
+INSERT INTO "skill_data" VALUES(2013021,'',0,0,3.0,201302101,201302102,0,0,0,0,0,0,201302101,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2014001,'',1,0,2.5,201400101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2014002,'',1,0,3.0,201400201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2015001,'',1,0,5.0,201500101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
@@ -315,6 +321,8 @@ INSERT INTO "skill_data" VALUES(3006001,'',0,0,2.0,300600101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3006002,'',0,0,2.0,300600201,300600202,0,0,0,0,0,0,300600201,0,0,0,0,0,'Creeper Skill 2',1001);
 INSERT INTO "skill_data" VALUES(3006011,'',0,0,2.0,300601101,300601102,0,0,0,0,0,0,300601101,0,0,0,0,0,'Creeper Skill 1',1001);
 INSERT INTO "skill_data" VALUES(3006012,'',0,0,2.0,300601201,300601202,0,0,0,0,0,0,300601201,0,0,0,0,0,'Creeper Skill 2',1001);
+INSERT INTO "skill_data" VALUES(3006021,'',0,0,2.0,300602101,300602102,0,0,0,0,0,0,300602101,0,0,0,0,0,'Needle Creeper (Lap 2) Skill 1',1001);
+INSERT INTO "skill_data" VALUES(3006022,'',0,0,2.0,300602201,300602202,0,0,0,0,0,0,300602201,0,0,0,0,0,'Needle Creeper (Lap 2) Skill 2',1001);
 INSERT INTO "skill_data" VALUES(3007001,'',0,0,2.0,300700101,300700102,0,0,0,0,0,0,300700101,0,0,0,0,0,'Orc Leader Skill 1',1001);
 INSERT INTO "skill_data" VALUES(3007002,'',0,0,2.0,300700201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Orc Leader Skill 2',1001);
 INSERT INTO "skill_data" VALUES(3007011,'',0,0,2.0,300701101,300701102,0,0,0,0,0,0,300701101,0,0,0,0,0,'Orc Chief Skill 1',1001);
@@ -372,8 +380,10 @@ INSERT INTO "skill_data" VALUES(3019001,'',0,0,2.0,301900101,301900102,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3019002,'',1,0,2.0,301900201,301900202,0,0,0,0,0,0,301900201,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3020001,'',1,0,2.0,302000101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3020002,'',0,0,2.0,300100201,300100202,0,0,0,0,0,0,300100201,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3020011,'',1,0,2.0,302001101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3021001,'',1,0,2.0,302100101,302100102,0,0,0,0,0,0,302100101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3021002,'',0,0,2.0,300100201,300100202,0,0,0,0,0,0,300100201,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3021011,'',1,0,2.0,302101101,302101102,0,0,0,0,0,0,302101101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3022001,'',1,0,2.0,302200101,302200102,0,0,0,0,0,0,302200101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3022002,'',0,0,2.0,302200201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3023001,'',1,0,2.0,302300101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
@@ -387,6 +397,18 @@ INSERT INTO "skill_data" VALUES(3025003,'',0,0,2.0,302500301,302500302,302500303
 INSERT INTO "skill_data" VALUES(3025004,'',0,0,3.0,302500401,302500402,302500403,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3025005,'',0,0,3.0,302500501,302500502,302500503,0,0,0,0,0,302500501,302500501,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3025006,'',0,0,3.0,302500601,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3026001,'',0,0,2.0,302600101,302600102,0,0,0,0,0,0,302600101,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3026002,'',0,0,2.0,302600201,302600202,0,0,0,0,0,0,302600201,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3026003,'',0,0,2.0,302600301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3026004,'',0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3026005,'',0,0,3.0,302600501,302600502,302600503,0,0,0,0,0,302600501,302600501,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3026006,'',0,0,3.0,302600601,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3026011,'',0,0,2.0,302601101,302601102,0,0,0,0,0,0,302601101,0,0,0,0,0,'Twin Pigs Lap 2 Skill 0',1001);
+INSERT INTO "skill_data" VALUES(3026012,'',0,0,2.0,302601201,302601202,0,0,0,0,0,0,302601201,0,0,0,0,0,'Twin Pigs Lap 2 Skill 1',1001);
+INSERT INTO "skill_data" VALUES(3026013,'',0,0,2.0,302601301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Twin Pigs Lap 2 Skill 2',1001);
+INSERT INTO "skill_data" VALUES(3026014,'',0,0,3.0,302601401,0,0,0,0,0,0,0,0,0,0,0,0,0,'Twin Pigs Lap 2 Skill 3',1001);
+INSERT INTO "skill_data" VALUES(3026015,'',0,0,3.0,302601501,302601502,302601503,0,0,0,0,0,302601501,302601501,0,0,0,0,'Twin Pigs Lap 2 Skill 4',1001);
+INSERT INTO "skill_data" VALUES(3026016,'',0,0,3.0,302601601,0,0,0,0,0,0,0,0,0,0,0,0,0,'Twin Pigs Lap 2 Skill 5',1001);
 INSERT INTO "skill_data" VALUES(3027001,'',0,0,2.0,302700101,302700102,0,0,0,0,0,0,302700101,0,0,0,0,0,'-',1001);
 INSERT INTO "skill_data" VALUES(3027002,'',0,0,2.0,302700201,302700202,0,0,0,0,0,0,302700201,0,0,0,0,0,'-',1001);
 INSERT INTO "skill_data" VALUES(3027003,'',0,0,2.0,302700301,0,0,0,0,0,0,0,0,0,0,0,0,0,'-',1001);
@@ -413,6 +435,8 @@ INSERT INTO "skill_data" VALUES(3030005,'',0,0,3.0,303000501,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3030006,'',0,0,3.0,303000601,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3032001,'',0,0,2.0,303200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3032002,'',0,0,2.0,303200201,303200202,0,0,0,0,0,0,303200201,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3033001,'',1,0,2.0,303300101,303300102,303300103,0,0,0,0,0,303300101,303300102,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3033002,'',1,0,2.0,303300201,303300202,0,0,0,0,0,0,300100201,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3038001,'',1,0,3.0,303800101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Alma: Union Burst',1001);
 INSERT INTO "skill_data" VALUES(3038002,'',0,0,1.5,303800201,303800202,0,0,0,0,0,0,303800201,0,0,0,0,0,'Alma: Attacks enemy with hammer',1001);
 INSERT INTO "skill_data" VALUES(3038003,'',1,0,1.5,303800301,303800302,303800303,0,0,0,0,0,303800301,303800301,0,0,0,0,'Alma: Fires a sub-unit to attack enemy',1001);
@@ -421,6 +445,10 @@ INSERT INTO "skill_data" VALUES(3038011,'',1,0,3.0,303801101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3038012,'',0,0,1.5,303801201,303801202,0,0,0,0,0,0,303801201,0,0,0,0,0,'Alma: Attacks enemy with hammer',1001);
 INSERT INTO "skill_data" VALUES(3038013,'',1,0,1.5,303800301,303800302,303800303,0,0,0,0,0,303800301,303800301,0,0,0,0,'Alma: Fires a sub-unit to attack enemy',1001);
 INSERT INTO "skill_data" VALUES(3038014,'',0,0,1.5,303800401,303800402,303800403,0,0,0,0,0,303800401,303800401,0,0,0,0,'Alma: Awakening',1001);
+INSERT INTO "skill_data" VALUES(3039001,'',1,0,2.0,303900101,303900102,303900103,303900104,0,0,0,0,303900101,303900102,0,0,0,0,'Cyclops: Union Burst',1001);
+INSERT INTO "skill_data" VALUES(3039002,'',0,0,2.0,303900201,303900202,303900203,303900204,0,0,0,0,303900201,303900202,303900203,0,0,0,'Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)',1001);
+INSERT INTO "skill_data" VALUES(3039011,'',1,0,2.0,303901101,303901102,303901103,303901104,0,0,0,0,303901101,303901102,0,0,0,0,'Cyclops: Skill 0 (Union Burst)',1001);
+INSERT INTO "skill_data" VALUES(3039012,'',0,0,2.0,303901201,303901202,303901203,303901204,0,0,0,0,303901201,303901202,303901203,0,0,0,'Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)',1001);
 INSERT INTO "skill_data" VALUES(3901002,'',0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901003,'',0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901004,'',0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);

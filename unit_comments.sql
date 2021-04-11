@@ -109,6 +109,16 @@ INSERT INTO "unit_comments" VALUES(1012007,101231,1,2,1,0.0,1,'After I use my po
 INSERT INTO "unit_comments" VALUES(1012008,101231,1,3,1,0.0,1,'Hee hee! Being with you makes me feel all warm and happy inside... And sleepy. *yawn*');
 INSERT INTO "unit_comments" VALUES(1012009,101231,1,4,1,0.0,1,'*mumble* Feels nice when you''re here... Good dreams tonight...');
 INSERT INTO "unit_comments" VALUES(1012010,101231,1,5,1,0.0,1,'I think I must''ve had a good dream. You were there. Maybe I saw our future? Hee hee.');
+INSERT INTO "unit_comments" VALUES(1015001,101501,1,1,1,3.0,2,'Aww, did you come to see me? Hee hee. I''m so happy!');
+INSERT INTO "unit_comments" VALUES(1015002,101501,1,2,1,3.0,2,'What sort of book should I read today? What type is your favorite?');
+INSERT INTO "unit_comments" VALUES(1015003,101501,1,3,2,1.0,5,'Hee hee. Think of me as something of a surrogate mother.');
+INSERT INTO "unit_comments" VALUES(1015004,101501,1,4,2,0.0,2,'Aww, what a good boy. I''ll always be right here by your side. ♪');
+INSERT INTO "unit_comments" VALUES(1015005,101501,1,5,1,4.0,5,'I''ll always be on your side, no matter what happens. So don''t be afraid to let yourself be spoiled.');
+INSERT INTO "unit_comments" VALUES(1015006,101531,1,1,1,0.0,1,'If you''re ever having a tough time, you can always come to me. I''ll be here to help.');
+INSERT INTO "unit_comments" VALUES(1015007,101531,1,2,1,0.0,1,'You''re doing such a great job! I''m always watching how hard you work. Good boy!');
+INSERT INTO "unit_comments" VALUES(1015008,101531,1,3,1,0.0,1,'Oh no, are you hurt? Let me see that. I''ll make it better. Pain, pain, go away!');
+INSERT INTO "unit_comments" VALUES(1015009,101531,1,4,1,0.0,1,'I''ll be your personal teacher for the day. Don''t tell the kids, of course. Otherwise they might get jealous. ♪');
+INSERT INTO "unit_comments" VALUES(1015010,101531,1,5,1,0.0,1,'It makes me so happy to hear that you feel at ease around me. There''s always a pleasant warmth in my heart when you''re around, too.');
 INSERT INTO "unit_comments" VALUES(1016001,101601,1,1,2,2.0,1,'Whattup, whiz-boy? I was hoping you could help me with my math again?');
 INSERT INTO "unit_comments" VALUES(1016002,101601,1,2,1,5.0,6,'How much of the times table do you know? All of it?! Forget smart, you''re a brain genius!');
 INSERT INTO "unit_comments" VALUES(1016003,101601,1,3,2,4.5,1,'I''m gonna be a model at an event today. You should come and see me!');

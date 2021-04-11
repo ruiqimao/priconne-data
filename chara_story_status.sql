@@ -76,6 +76,13 @@ INSERT INTO "chara_story_status" VALUES(1012005,'Hatsune''s Episode 5',4,40,0,0,
 INSERT INTO "chara_story_status" VALUES(1012006,'Hatsune''s Episode 6',4,60,0,0,0,0,0,0,0,0,1012,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1012007,'Hatsune''s Episode 7',4,60,0,0,0,0,0,0,0,0,1012,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1012008,'Hatsune''s Episode 8',4,90,7,10,0,0,0,0,0,0,1012,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1015002,'Misato''s Episode 2',4,15,0,0,0,0,0,0,0,0,1015,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1015003,'Misato''s Episode 3',4,30,0,0,0,0,0,0,0,0,1015,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1015004,'Misato''s Episode 4',4,30,0,0,0,0,0,0,0,0,1015,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1015005,'Misato''s Episode 5',4,40,0,0,0,0,0,0,0,0,1015,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1015006,'Misato''s Episode 6',4,40,5,4,0,0,0,0,0,0,1015,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1015007,'Misato''s Episode 7',4,40,5,4,0,0,0,0,0,0,1015,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1015008,'Misato''s Episode 8',4,60,5,6,11,60,0,0,0,0,1015,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1016002,'Suzuna''s Episode 2',2,15,0,0,0,0,0,0,0,0,1016,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1016003,'Suzuna''s Episode 3',2,15,0,0,0,0,0,0,0,0,1016,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1016004,'Suzuna''s Episode 4',2,30,0,0,0,0,0,0,0,0,1016,0,0,0,0,0,0,0,0,0);

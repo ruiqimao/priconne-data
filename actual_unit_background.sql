@@ -10,6 +10,7 @@ INSERT INTO "actual_unit_background" VALUES(100931,'Anna Hiragi',510300,4);
 INSERT INTO "actual_unit_background" VALUES(101032,'Maho Himemiya',510300,4);
 INSERT INTO "actual_unit_background" VALUES(101131,'Rino Inosaki',510360,9);
 INSERT INTO "actual_unit_background" VALUES(101231,'Hatsune Kashiwazaki',510330,9);
+INSERT INTO "actual_unit_background" VALUES(101532,'Misato Aikawa',510070,4);
 INSERT INTO "actual_unit_background" VALUES(101631,'Suzuna Minami',510300,4);
 INSERT INTO "actual_unit_background" VALUES(101731,'Kaori Kyan',510050,9);
 INSERT INTO "actual_unit_background" VALUES(101831,'Io Hasekura',510220,2);
