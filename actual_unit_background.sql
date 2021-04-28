@@ -33,6 +33,7 @@ INSERT INTO "actual_unit_background" VALUES(103832,'Shiori Kashiwazaki',510260,2
 INSERT INTO "actual_unit_background" VALUES(104031,'Aoi Futaba',510360,4);
 INSERT INTO "actual_unit_background" VALUES(104231,'Chika Misumi',510200,4);
 INSERT INTO "actual_unit_background" VALUES(104331,'Makoto Aki',510220,1);
+INSERT INTO "actual_unit_background" VALUES(104431,'Illya Ornstein',510120,4);
 INSERT INTO "actual_unit_background" VALUES(104532,'Kuka Tomi',510150,4);
 INSERT INTO "actual_unit_background" VALUES(104632,'Tamaki Miyasaka',510300,2);
 INSERT INTO "actual_unit_background" VALUES(104731,'Jun Shirogane',510240,2);

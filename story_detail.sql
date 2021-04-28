@@ -271,6 +271,14 @@ INSERT INTO "story_detail" VALUES(1043005,1043,'Makoto Episode 5','What a Find!'
 INSERT INTO "story_detail" VALUES(1043006,1043,'Makoto Episode 6','Tedious to Terrific',0,0,1043005,6,104301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1043007,1043,'Makoto Episode 7','Fuel for the Fire',0,0,1043006,7,104301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1043008,1043,'Makoto Episode 8','Beast in the Skirt',0,0,1043007,8,104301,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1044001,1044,'Illya Episode 1','Ruler of the Night',0,0,0,0,104401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1044002,1044,'Illya Episode 2','The Girl Who Wanted to Grow Up',0,0,1044001,2,104401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1044003,1044,'Illya Episode 3','Mysterious Maturation',0,0,1044002,3,104401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1044004,1044,'Illya Episode 4','Offering to the Vampire',0,0,1044003,4,104401,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1044005,1044,'Illya Episode 5','Devilry of the Depths',0,0,1044004,5,104401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1044006,1044,'Illya Episode 6','Li''l Sis Vampire',0,0,1044005,6,104401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1044007,1044,'Illya Episode 7','In Search of Rare Treasures',0,0,1044006,7,104401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1044008,1044,'Illya Episode 8','An Inglorious End?',0,0,1044007,8,104401,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1045001,1045,'Kuka Episode 1','Fantasies Gone Wild!',0,0,0,0,104501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1045002,1045,'Kuka Episode 2','Gyration Blues',0,0,1045001,2,104501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1045003,1045,'Kuka Episode 3','Garden of Secrets',0,0,1045002,3,104501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

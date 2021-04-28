@@ -339,6 +339,16 @@ INSERT INTO "unit_comments" VALUES(1043007,104331,1,2,1,0.0,1,'I can''t let loos
 INSERT INTO "unit_comments" VALUES(1043008,104331,1,3,1,0.0,1,'Together, there''s no enemy we can''t beat! I''ll watch your back, so you watch mine!');
 INSERT INTO "unit_comments" VALUES(1043009,104331,1,4,1,0.0,1,'Aww yeah! Enemies are KO''ed, so let''s blow off some steam and eat! What''cha craving?');
 INSERT INTO "unit_comments" VALUES(1043010,104331,1,5,1,0.0,1,'I''m brimming with power! Stay close. I''ll protect you no matter what comes!');
+INSERT INTO "unit_comments" VALUES(1044001,104401,1,1,6,5.0,1,'Have we met before?\nI have the oddest sense of nostalgia when I look at you.');
+INSERT INTO "unit_comments" VALUES(1044002,104401,1,2,4,6.4,1,'Urgh... I have the most intense craving for tomato juice.\nGo and fetch me some!');
+INSERT INTO "unit_comments" VALUES(1044003,104401,1,3,4,6.9,2,'Moving around during the day is quite the struggle. Thus, you must stay here and speak with me until night falls.');
+INSERT INTO "unit_comments" VALUES(1044004,104401,1,4,6,4.2,4,'Do you not find me at all terrifying? Wha—? "Cute"?!\nDon''t overstep your bounds, minion!');
+INSERT INTO "unit_comments" VALUES(1044005,104401,1,5,2,9.0,5,'You are my most special minion. Henceforth you should refer to yourself as "Ruler of the Day."');
+INSERT INTO "unit_comments" VALUES(1044006,104431,1,1,1,0.0,1,'Is my true form not breathtaking? Hmm? You prefer my usual form? How boring of you!');
+INSERT INTO "unit_comments" VALUES(1044007,104431,1,2,1,0.0,1,'What is my goal, you ask? Nothing other than world domination! As a woman,\nI won''t accept anything less! ♪');
+INSERT INTO "unit_comments" VALUES(1044008,104431,1,3,1,0.0,1,'The vampire of legends herself stands before you! I could snatch away your life with ease, but I do prefer to have you as my minion.');
+INSERT INTO "unit_comments" VALUES(1044009,104431,1,4,1,0.0,1,'Once the world is mine,\nI shall grant half of it to you.\nY-you understand what that implies, yes?');
+INSERT INTO "unit_comments" VALUES(1044010,104431,1,5,1,0.0,1,'Lately I have been seeing you so often, it is disturbing my sleep patterns. Staying up all day is not good for my skin, but...');
 INSERT INTO "unit_comments" VALUES(1045001,104501,1,1,5,4.0,2,'Gueheheh... Huh? Oh, uh, nothing! I was just imagining things while looking at you... *pant*');
 INSERT INTO "unit_comments" VALUES(1045002,104501,1,2,5,5.0,6,'Mr. Sadist cornered Kuka and then forced her to... Gueheheh... Eek! H-how long have you been there?');
 INSERT INTO "unit_comments" VALUES(1045003,104501,1,3,2,3.3,6,'I read an amazing book the other day... Huh? What was it about? U-uh... It''s probably best not to ask.');

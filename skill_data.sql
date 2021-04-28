@@ -169,8 +169,11 @@ INSERT INTO "skill_data" VALUES(1043002,'Hard Slash',0,0,1.125,104300201,0,0,0,0
 INSERT INTO "skill_data" VALUES(1043003,'Heroic Howl',0,0,1.895,104300301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lowers physical defense of an enemy directly in front by a moderate amount.',2004);
 INSERT INTO "skill_data" VALUES(1043501,'Raging Wolf Fang',0,0,0.0,104350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1043511,'Raging Wolf Fang+',0,0,0.0,104351101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
-INSERT INTO "skill_data" VALUES(1044501,'EX Skill 1',0,0,0.0,104450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3003);
-INSERT INTO "skill_data" VALUES(1044511,'EX Skill 1+',0,0,0.0,104451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1044001,'Vermilion Bite',1,0,0.0,104400101,104400102,104400103,104400104,0,0,0,0,104400101,0,0,0,0,0,'Deals large magical damage to all enemies in range and recovers own HP by a moderate amount.',1002);
+INSERT INTO "skill_data" VALUES(1044002,'Bloodthirsty Blast',1,0,1.125,104400201,104400202,104400203,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack. Deals moderate magical damage to an enemy directly in front at the cost of own HP.',2002);
+INSERT INTO "skill_data" VALUES(1044003,'Bloody Spear',1,0,0.865,104400301,104400302,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies in range at the cost of own HP.',2002);
+INSERT INTO "skill_data" VALUES(1044501,'Blood Pact',0,0,0.0,104450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1044511,'Blood Pact+',0,0,0.0,104451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1045001,'Throes of Ecstasy',1,0,0.0,104500101,104500102,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.',1013);
 INSERT INTO "skill_data" VALUES(1045002,'Play with Me Instead!',1,0,0.375,104500201,104500202,0,0,0,0,0,0,0,0,0,0,0,0,'[Taunt] Taunts all enemies. Small boost to own physical defense.',2012);
 INSERT INTO "skill_data" VALUES(1045003,'I Like It Rough!',1,0,1.375,104500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense.',2003);
@@ -306,7 +309,6 @@ INSERT INTO "skill_data" VALUES(3002006,'',1,0,3.0,300200601,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3003001,'',1,0,3.0,300300101,300300102,300300103,0,0,0,0,0,300300101,300300102,0,0,0,0,'Nightmare',1001);
 INSERT INTO "skill_data" VALUES(3003002,'',1,0,3.0,300300201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Purple Boom',1001);
 INSERT INTO "skill_data" VALUES(3003003,'',1,0,2.5,300300301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Dream Shackles',1001);
-INSERT INTO "skill_data" VALUES(3003004,'',0,0,3.0,300300401,300300402,0,0,0,0,0,0,300300401,0,0,0,0,0,'Bope Skill 3',1001);
 INSERT INTO "skill_data" VALUES(3003005,'',0,0,3.0,300300501,300300502,300300503,0,0,0,0,0,300300501,300300501,0,0,0,0,'Awakening',1001);
 INSERT INTO "skill_data" VALUES(3003006,'',0,0,3.0,300300601,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3004001,'',1,0,3.0,300400101,300400102,300400103,0,0,0,0,0,0,0,0,0,0,0,'-',1001);
@@ -449,6 +451,14 @@ INSERT INTO "skill_data" VALUES(3039001,'',1,0,2.0,303900101,303900102,303900103
 INSERT INTO "skill_data" VALUES(3039002,'',0,0,2.0,303900201,303900202,303900203,303900204,0,0,0,0,303900201,303900202,303900203,0,0,0,'Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)',1001);
 INSERT INTO "skill_data" VALUES(3039011,'',1,0,2.0,303901101,303901102,303901103,303901104,0,0,0,0,303901101,303901102,0,0,0,0,'Cyclops: Skill 0 (Union Burst)',1001);
 INSERT INTO "skill_data" VALUES(3039012,'',0,0,2.0,303901201,303901202,303901203,303901204,0,0,0,0,303901201,303901202,303901203,0,0,0,'Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)',1001);
+INSERT INTO "skill_data" VALUES(3042001,'',1,0,0.0,304200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3042002,'',1,0,1.5,304200201,304200202,0,0,0,0,0,0,304200201,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3042003,'',1,0,1.5,304200301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3042004,'',1,0,0.0,304200401,304200402,304200403,0,0,0,0,0,304200401,304200401,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3042011,'',1,0,0.0,304201101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3042012,'',1,0,1.5,304201201,304201202,0,0,0,0,0,0,304201201,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3042013,'',1,0,1.5,304201301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3042014,'',1,0,0.0,304201401,304201402,304201403,0,0,0,0,0,304201401,304201401,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901002,'',0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901003,'',0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901004,'',0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);

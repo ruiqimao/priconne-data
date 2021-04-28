@@ -33,6 +33,7 @@ INSERT INTO "unit_motion_list" VALUES(103801,1);
 INSERT INTO "unit_motion_list" VALUES(104001,1);
 INSERT INTO "unit_motion_list" VALUES(104201,1);
 INSERT INTO "unit_motion_list" VALUES(104301,1);
+INSERT INTO "unit_motion_list" VALUES(104401,1);
 INSERT INTO "unit_motion_list" VALUES(104501,1);
 INSERT INTO "unit_motion_list" VALUES(104601,1);
 INSERT INTO "unit_motion_list" VALUES(104701,1);

@@ -237,6 +237,13 @@ INSERT INTO "chara_story_status" VALUES(1043005,'Makoto''s Episode 5',2,40,0,0,0
 INSERT INTO "chara_story_status" VALUES(1043006,'Makoto''s Episode 6',2,40,6,10,0,0,0,0,0,0,1043,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1043007,'Makoto''s Episode 7',2,40,6,10,0,0,0,0,0,0,1043,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1043008,'Makoto''s Episode 8',2,80,6,15,0,0,0,0,0,0,1043,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1044002,'Illya''s Episode 2',4,15,0,0,0,0,0,0,0,0,1044,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1044003,'Illya''s Episode 3',4,15,0,0,0,0,0,0,0,0,1044,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1044004,'Illya''s Episode 4',4,30,0,0,0,0,0,0,0,0,1044,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1044005,'Illya''s Episode 5',4,40,0,0,0,0,0,0,0,0,1044,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1044006,'Illya''s Episode 6',4,60,0,0,0,0,0,0,0,0,1044,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1044007,'Illya''s Episode 7',4,60,0,0,0,0,0,0,0,0,1044,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1044008,'Illya''s Episode 8',4,90,7,10,0,0,0,0,0,0,1044,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1045002,'Kuka''s Episode 2',5,3,0,0,0,0,0,0,0,0,1045,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1045003,'Kuka''s Episode 3',5,3,0,0,0,0,0,0,0,0,1045,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1045004,'Kuka''s Episode 4',5,6,0,0,0,0,0,0,0,0,1045,0,0,0,0,0,0,0,0,0);

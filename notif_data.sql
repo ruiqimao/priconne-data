@@ -203,6 +203,12 @@ INSERT INTO "notif_data" VALUES(104301,3,'I hear ya got full stamina back at the
 INSERT INTO "notif_data" VALUES(104301,4,'There are full EXP potions at the guildhouse. Is that your way of saying you want to see me become even stronger?');
 INSERT INTO "notif_data" VALUES(104301,5,'You sure do have a lot of Mana at the guildhouse. Doesn''t it make you want to just go blow it all in one big spree?');
 INSERT INTO "notif_data" VALUES(104301,6,'Hear you got full items waiting at the guildhouse. Some of them could come in handy in a fight.');
+INSERT INTO "notif_data" VALUES(104401,1,'Your stamina is fully primed, I see. The time is ripe for us to conquer the world!');
+INSERT INTO "notif_data" VALUES(104401,2,'Your guildhouse''s supply of skip tickets is full. Let us make short work of our weaker foes!');
+INSERT INTO "notif_data" VALUES(104401,3,'Your guildhouse cannot hold any further stamina. With such a rich supply line, we can make war to our hearts'' content!');
+INSERT INTO "notif_data" VALUES(104401,4,'Your guildhouse is overflowing with EXP potions. Could these concoctions restore me to my adult form?');
+INSERT INTO "notif_data" VALUES(104401,5,'Your guildhouse''s store of Mana appears to be full. Excellent work... Any successful campaign requires funds!');
+INSERT INTO "notif_data" VALUES(104401,6,'Your guildhouse can generate no further items. Perhaps you should offer these supplies as a gift to your dark mistress.');
 INSERT INTO "notif_data" VALUES(104501,1,'Ahhh, you''re practically bursting with stamina... "His body throbbing with forceful vigor, Mr. Sadist grabbed hold of Kuka and..." Gueheheh...');
 INSERT INTO "notif_data" VALUES(104501,2,'Oh my, the guildhouse has so many skip tickets... What are you going to do with me with all that extra time?');
 INSERT INTO "notif_data" VALUES(104501,3,'The stamina at the guildhouse is full, but you''re still not coming to take it...? Ahhh... You''re trying to drive me crazy with anticipation, aren''t you?!');
