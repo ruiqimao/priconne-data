@@ -172,8 +172,8 @@ INSERT INTO "skill_data" VALUES(1043511,'Raging Wolf Fang+',0,0,0.0,104351101,0,
 INSERT INTO "skill_data" VALUES(1044001,'Vermilion Bite',1,0,0.0,104400101,104400102,104400103,104400104,0,0,0,0,104400101,0,0,0,0,0,'Deals large magical damage to all enemies in range and recovers own HP by a moderate amount.',1002);
 INSERT INTO "skill_data" VALUES(1044002,'Bloodthirsty Blast',1,0,1.125,104400201,104400202,104400203,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack. Deals moderate magical damage to an enemy directly in front at the cost of own HP.',2002);
 INSERT INTO "skill_data" VALUES(1044003,'Bloody Spear',1,0,0.865,104400301,104400302,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies in range at the cost of own HP.',2002);
-INSERT INTO "skill_data" VALUES(1044501,'Blood Pact',0,0,0.0,104450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3003);
-INSERT INTO "skill_data" VALUES(1044511,'Blood Pact+',0,0,0.0,104451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1044501,'Blood Pact',0,0,0.0,104450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1044511,'Blood Pact+',0,0,0.0,104451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1045001,'Throes of Ecstasy',1,0,0.0,104500101,104500102,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.',1013);
 INSERT INTO "skill_data" VALUES(1045002,'Play with Me Instead!',1,0,0.375,104500201,104500202,0,0,0,0,0,0,0,0,0,0,0,0,'[Taunt] Taunts all enemies. Small boost to own physical defense.',2012);
 INSERT INTO "skill_data" VALUES(1045003,'I Like It Rough!',1,0,1.375,104500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense.',2003);
@@ -439,6 +439,8 @@ INSERT INTO "skill_data" VALUES(3032001,'',0,0,2.0,303200101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3032002,'',0,0,2.0,303200201,303200202,0,0,0,0,0,0,303200201,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3033001,'',1,0,2.0,303300101,303300102,303300103,0,0,0,0,0,303300101,303300102,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3033002,'',1,0,2.0,303300201,303300202,0,0,0,0,0,0,300100201,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3034001,'',0,0,2.0,303400101,303400102,303400103,0,0,0,0,0,303400101,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3034002,'',0,0,2.0,303400201,303400202,303400203,303400204,0,0,0,0,303400201,303400202,303400203,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3038001,'',1,0,3.0,303800101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Alma: Union Burst',1001);
 INSERT INTO "skill_data" VALUES(3038002,'',0,0,1.5,303800201,303800202,0,0,0,0,0,0,303800201,0,0,0,0,0,'Alma: Attacks enemy with hammer',1001);
 INSERT INTO "skill_data" VALUES(3038003,'',1,0,1.5,303800301,303800302,303800303,0,0,0,0,0,303800301,303800301,0,0,0,0,'Alma: Fires a sub-unit to attack enemy',1001);

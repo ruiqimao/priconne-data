@@ -433,6 +433,13 @@ INSERT INTO "story_detail" VALUES(2006004,2006,'Chapter 6 Episode 4','The Stolen
 INSERT INTO "story_detail" VALUES(2006005,2006,'Chapter 6 Episode 5','A Sleepyhead Hero',5,0,2006004,0,0,11011013,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/19 14:59:59');
 INSERT INTO "story_detail" VALUES(2006006,2006,'Chapter 6 Episode 6','Knights of Nightmare',5,0,2006005,0,0,11011015,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2006007,2006,'Chapter 6 Episode 7','The Path to Restoration',5,0,2006006,0,0,11011017,0,8,91002,20,0,0,0,0,0,0,'2021/04/11 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006008,2006,'Chapter 6 Episode 8','An Elusive Girl',5,0,2006007,0,0,11012002,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006009,2006,'Chapter 6 Episode 9','Rebuilding Paradise',5,0,2006008,0,0,11012005,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006010,2006,'Chapter 6 Episode 10','Working Together',5,0,2006009,0,0,11012008,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006011,2006,'Chapter 6 Episode 11','Nest of Monsters',5,0,2006010,0,0,11012011,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006012,2006,'Chapter 6 Episode 12','Regina Geas Imprisoned',5,0,2006011,0,0,11012014,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006013,2006,'Chapter 6 Episode 13','One More Prisoner',5,1,2006012,0,0,11012017,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2006099,2006,'Chapter Interlude','Interlude 7',5,0,2006013,0,0,11012017,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
