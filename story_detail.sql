@@ -399,6 +399,14 @@ INSERT INTO "story_detail" VALUES(1063005,1063,'Arisa Episode 5','Elven Archery'
 INSERT INTO "story_detail" VALUES(1063006,1063,'Arisa Episode 6','Forest of Dreams',0,0,1063005,6,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1063007,1063,'Arisa Episode 7','The Elven Wanderer',0,0,1063006,7,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1063008,1063,'Arisa Episode 8','Pixie Paradise',0,0,1063007,8,106301,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1075001,1075,'Pecorine (Summer) Episode 1','In Anticipation of the Tour',0,0,0,0,107501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1075002,1075,'Pecorine (Summer) Episode 2','Our First Vacation',0,0,1075001,4,107501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1075003,1075,'Pecorine (Summer) Episode 3','Siesta on the Beachside',0,0,1075002,5,107501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1075004,1075,'Pecorine (Summer) Episode 4','The Water Princess',0,0,1075003,8,107501,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1076001,1076,'Kokkoro (Summer) Episode 1','Do You Think It Suits Me?',0,0,0,0,107601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1076002,1076,'Kokkoro (Summer) Episode 2','Take My Hand in Yours',0,0,1076001,4,107601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1076003,1076,'Kokkoro (Summer) Episode 3','A Blessed Life',0,0,1076002,5,107601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1076004,1076,'Kokkoro (Summer) Episode 4','Even in Another Life',0,0,1076003,8,107601,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1900999,1900,'Ameth','Ameth''s Talk',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000001,2000,'Prologue','Part 1',0,0,0,0,0,0,51200001,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000002,2000,'Prologue','Part 2',0,1,0,0,0,0,51200002,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

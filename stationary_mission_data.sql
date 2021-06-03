@@ -231,6 +231,8 @@ INSERT INTO "stationary_mission_data" VALUES(21003024,40,102,'Gather 720 clear r
 INSERT INTO "stationary_mission_data" VALUES(21003025,40,102,'Gather 750 clear rank stars',1002,0,0,0,750,21003001,101,'2021/04/28 23:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003026,40,102,'Gather 780 clear rank stars',1002,0,0,0,780,21003001,101,'2021/05/12 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003027,40,102,'Gather 810 clear rank stars',1002,0,0,0,810,21003001,101,'2021/05/12 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21003028,40,102,'Gather 840 clear rank stars',1002,0,0,0,840,21003001,101,'2021/06/03 23:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21003029,40,102,'Gather 870 clear rank stars',1002,0,0,0,870,21003001,101,'2021/06/03 23:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21005001,110,204,'Clear the Cloudtop Peak.',1005,31001007,0,0,1,21005001,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21005002,110,204,'Clear the Deepwood Oak.',1005,31002010,0,0,1,21005002,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21005003,110,204,'Clear the Sheercliff Ruins.',1005,31003010,0,0,1,21005003,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
@@ -260,6 +262,7 @@ INSERT INTO "stationary_mission_data" VALUES(26002001,120,301,'Recruit a total o
 INSERT INTO "stationary_mission_data" VALUES(26002002,120,301,'Recruit a total of 20 characters',6002,0,0,0,20,26002002,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26002003,120,301,'Recruit a total of 30 characters',6002,0,0,0,30,26002003,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26002004,120,301,'Recruit a total of 40 characters',6002,0,0,0,40,26002004,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(26002005,120,301,'Recruit a total of 50 characters',6002,0,0,0,50,26002005,302,'2021/06/03 23:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26003001,70,301,'Raise 5 characters to rank 2',6003,2,0,0,5,26003001,508,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26003002,70,301,'Raise 5 characters to rank 3',6003,3,0,0,5,26003001,508,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26003003,70,301,'Raise 5 characters to rank 4',6003,4,0,0,5,26003001,508,'2015/04/01 15:00:00','2030/04/01 14:59:59');
