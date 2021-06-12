@@ -59,6 +59,7 @@ INSERT INTO "story_data" VALUES(2003,2,0,'Chapter 3_Lurking Shadows',2003005,4,'
 INSERT INTO "story_data" VALUES(2004,2,0,'Chapter 4_Pastures in Peril',2004005,5,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2005,2,0,'Chapter 5_The Seven Crowns',2005006,6,'2021/02/17 23:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2006,2,0,'Chapter 6_Forgotten Princess',2006013,7,'2021/04/11 13:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(2007,2,0,'Chapter 7_Calamity Foretold',2007012,8,'2021/06/12 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3002,3,2,'Nightmare, Defenders of the Throne',0,8,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);

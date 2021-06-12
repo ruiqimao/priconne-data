@@ -456,6 +456,14 @@ INSERT INTO "story_detail" VALUES(2006011,2006,'Chapter 6 Episode 11','Nest of M
 INSERT INTO "story_detail" VALUES(2006012,2006,'Chapter 6 Episode 12','Regina Geas Imprisoned',5,0,2006011,0,0,11012014,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2006013,2006,'Chapter 6 Episode 13','One More Prisoner',5,1,2006012,0,0,11012017,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2006099,2006,'Chapter Interlude','Interlude 7',5,0,2006013,0,0,11012017,0,8,91002,20,0,0,0,0,0,0,'2021/05/12 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007001,2007,'Chapter 7 Episode 1','Elven Forest Sisters',5,0,2006099,0,0,11013002,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007002,2007,'Chapter 7 Episode 2','A Mystery Fortune-Teller',5,0,2007001,0,0,11013004,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007003,2007,'Chapter 7 Episode 3','For a Peaceful Future',5,0,2007002,0,0,11013006,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007004,2007,'Chapter 7 Episode 4','An Unlikely Pair of Twins',5,0,2007003,0,0,11013008,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007005,2007,'Chapter 7 Episode 5','Castle of Outcasts',5,0,2007004,0,0,11013010,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007006,2007,'Chapter 7 Episode 6','A Petulant Ghost and a Miniature Vampire',5,0,2007005,0,0,11013012,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007007,2007,'Chapter 7 Episode 7','Fortune-Telling and True Foresight',5,0,2007006,0,0,11013014,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007008,2007,'Chapter 7 Episode 8','Mystery of the Seven Crowns',5,0,2007007,0,0,11013016,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
