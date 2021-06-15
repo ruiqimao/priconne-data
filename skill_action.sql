@@ -414,11 +414,11 @@ INSERT INTO "skill_action" VALUES(107500301,1,1,1,0,0,10.0,10.0,0.8,0.0,0.0,0.0,
 INSERT INTO "skill_action" VALUES(107500302,1,3,3,0,0,200.0,0.0,500.0,0.0,0.0,0.0,0.0,1,1,325,3,0,1,'','');
 INSERT INTO "skill_action" VALUES(107550101,1,90,2,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
 INSERT INTO "skill_action" VALUES(107551101,1,90,2,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
-INSERT INTO "skill_action" VALUES(107600101,1,4,1,0,0,1.0,22.5,22.5,2.7,0.0,0.0,0.0,2,2,2160,5,0,1,'Recovers an ally''s HP by {0}.','');
+INSERT INTO "skill_action" VALUES(107600101,1,4,1,0,0,1.0,22.5,22.5,2.7,0.0,0.0,0.0,2,2,2160,5,0,1,'Recovers an ally''s HP by {0}.','HP recovery + {0}');
 INSERT INTO "skill_action" VALUES(107600201,1,2,1,0,0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'','');
-INSERT INTO "skill_action" VALUES(107600202,1,1,1,0,0,10.0,10.0,0.8,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','');
-INSERT INTO "skill_action" VALUES(107600203,1,10,21,0,0,1.0,0.6,0.6,12.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Lowers an enemy''s physical defense by {0}.','');
-INSERT INTO "skill_action" VALUES(107600301,1,10,10,0,0,1.0,6.0,6.0,12.0,0.0,0.0,0.0,2,3,2160,3,0,99,'Boosts all allies'' physical attack by {0}.','');
+INSERT INTO "skill_action" VALUES(107600202,1,1,1,0,0,10.0,10.0,0.8,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(107600203,1,10,21,0,0,1.0,0.6,0.6,12.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Lowers an enemy''s physical defense by {0}.','Physical defense lowered + {0}');
+INSERT INTO "skill_action" VALUES(107600301,1,10,10,0,0,1.0,6.0,6.0,12.0,0.0,0.0,0.0,2,3,2160,3,0,99,'Boosts all allies'' physical attack by {0}.','Physical attack boost + {0}');
 INSERT INTO "skill_action" VALUES(107650101,1,90,5,0,0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic defense by {0}.','Magic defense boost + {0}');
 INSERT INTO "skill_action" VALUES(107651101,1,90,5,0,0,1.0,32.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic defense by {0}.','Magic defense boost + {0}');
 INSERT INTO "skill_action" VALUES(200100101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,2160,4,0,1,'','');
