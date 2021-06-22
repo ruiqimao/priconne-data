@@ -407,6 +407,10 @@ INSERT INTO "story_detail" VALUES(1076001,1076,'Kokkoro (Summer) Episode 1','Do 
 INSERT INTO "story_detail" VALUES(1076002,1076,'Kokkoro (Summer) Episode 2','Take My Hand in Yours',0,0,1076001,4,107601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1076003,1076,'Kokkoro (Summer) Episode 3','A Blessed Life',0,0,1076002,5,107601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1076004,1076,'Kokkoro (Summer) Episode 4','Even in Another Life',0,0,1076003,8,107601,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1077001,1077,'Suzume (Summer) Episode 1','It''s Time for Work!',0,0,0,0,107701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1077002,1077,'Suzume (Summer) Episode 2','That''s Far Too Much Pressure!',0,0,1077001,4,107701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1077003,1077,'Suzume (Summer) Episode 3','That Might Be a Big Issue!',0,0,1077002,5,107701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1077004,1077,'Suzume (Summer) Episode 4','I''m Trying to Save a Life Here!',0,0,1077003,8,107701,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1900999,1900,'Ameth','Ameth''s Talk',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000001,2000,'Prologue','Part 1',0,0,0,0,0,0,51200001,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000002,2000,'Prologue','Part 2',0,1,0,0,0,0,51200002,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

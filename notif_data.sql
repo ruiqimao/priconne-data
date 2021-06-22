@@ -311,3 +311,9 @@ INSERT INTO "notif_data" VALUES(107601,3,'Our guildhouse''s stamina supply seems
 INSERT INTO "notif_data" VALUES(107601,4,'Our guildhouse EXP potions have reached maximum capacity, my lord. Will they help me to grow in various ways?');
 INSERT INTO "notif_data" VALUES(107601,5,'It seems our Mana supply at the guildhouse is full, my lord. Perhaps we should splash out on a treat for ourselves!');
 INSERT INTO "notif_data" VALUES(107601,6,'All of the items at our guildhouse are at maximum capacity. Come, my lord—let us claim our rewards together!');
+INSERT INTO "notif_data" VALUES(107701,1,'Oh! Your stamina is—Oof! U-um, your stamina is full...');
+INSERT INTO "notif_data" VALUES(107701,2,'Your skip tickets at the guildhouse are full! Oh, going to the beach sure sounds nice.');
+INSERT INTO "notif_data" VALUES(107701,3,'Oh, your stamina is full at the guildhouse! Don''t worry, I can perform my duties just as well in a swimsuit!');
+INSERT INTO "notif_data" VALUES(107701,4,'Oh, your EXP potions at the guildhouse are full! Maybe now I can leave my days as a disaster of a maid behind me!');
+INSERT INTO "notif_data" VALUES(107701,5,'The guildhouse is overflowing with Mana! I''ll wait for you at the beachside cafe! ♪');
+INSERT INTO "notif_data" VALUES(107701,6,'Your items are all full at the guildhouse! Shall I gather them for you? Oh, you''re not sure that''s a good idea?');

@@ -421,6 +421,15 @@ INSERT INTO "skill_action" VALUES(107600203,1,10,21,0,0,1.0,0.6,0.6,12.0,0.0,0.0
 INSERT INTO "skill_action" VALUES(107600301,1,10,10,0,0,1.0,6.0,6.0,12.0,0.0,0.0,0.0,2,3,2160,3,0,99,'Boosts all allies'' physical attack by {0}.','Physical attack boost + {0}');
 INSERT INTO "skill_action" VALUES(107650101,1,90,5,0,0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic defense by {0}.','Magic defense boost + {0}');
 INSERT INTO "skill_action" VALUES(107651101,1,90,5,0,0,1.0,32.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic defense by {0}.','Magic defense boost + {0}');
+INSERT INTO "skill_action" VALUES(107700101,1,10,20,1,0,1.0,0.45,0.45,18.0,0.0,0.0,0.0,2,3,2160,3,0,99,'Boosts all allies'' physical defense by {0}.','Physical defense boost + {0}');
+INSERT INTO "skill_action" VALUES(107700102,1,10,40,3,0,1.0,0.45,0.45,18.0,0.0,0.0,0.0,2,3,2160,3,0,99,'Boosts all allies'' magic defense by {0}.','Magic defense boost + {0}');
+INSERT INTO "skill_action" VALUES(107700103,1,48,2,1,0,1.5,1.5,0.09,0.0,10.0,0.0,0.0,2,3,2160,3,0,99,'Recovers HP by {0} every second.','Recovery + {0}');
+INSERT INTO "skill_action" VALUES(107700201,1,15,1,407701,1,0.0,0.0,1.0,0.0,1.0,1.0,200.0,2,1,0,7,0,1,'Summons a Mini-Golem.','Summoned Mini-Golem level + {0}');
+INSERT INTO "skill_action" VALUES(107700301,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,1,2160,10,0,1,'','');
+INSERT INTO "skill_action" VALUES(107700302,1,10,40,1,0,1.0,0.75,0.75,12.0,0.0,0.0,1.0,2,2,200,1,0,99,'Boosts magic defense of all allies in range by {0}.','Magic defense boost + {0}');
+INSERT INTO "skill_action" VALUES(107750101,1,90,5,0,0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic defense by {0}.','Magic defense boost + {0}');
+INSERT INTO "skill_action" VALUES(107751101,1,90,5,0,0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic defense by {0}.','Magic defense boost + {0}');
+INSERT INTO "skill_action" VALUES(107751102,1,90,3,0,0,1.0,30.0,0.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical defense by {0}.','');
 INSERT INTO "skill_action" VALUES(200100101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,2160,4,0,1,'','');
 INSERT INTO "skill_action" VALUES(200200101,1,4,2,0,0,1.0,3.2,3.2,0.2625,0.0,0.0,0.0,2,1,1500,2,0,3,'','');
 INSERT INTO "skill_action" VALUES(200300101,1,1,2,0,0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,400,3,0,5,'','');

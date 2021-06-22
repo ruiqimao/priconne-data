@@ -262,6 +262,11 @@ INSERT INTO "skill_data" VALUES(1076002,'Nereid Spear',1,0,0.69,107600201,107600
 INSERT INTO "skill_data" VALUES(1076003,'Naval Support',1,0,0.59,107600301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to all allies'' physical attack.',2003);
 INSERT INTO "skill_data" VALUES(1076501,'Summer Oracle',0,0,0.0,107650101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(1076511,'Summer Oracle+',0,0,0.0,107651101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3004);
+INSERT INTO "skill_data" VALUES(1077001,'Tropical Vacation',1,0,0.0,107700101,107700102,107700103,0,0,0,0,0,0,0,0,0,0,0,'Small boost to all allies'' physical and magical defense. Grants HP regen to all allies.',1003);
+INSERT INTO "skill_data" VALUES(1077002,'Summon Mini-Golem',1,0,0.85,107700201,0,0,0,0,0,0,0,0,0,0,0,0,0,'[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front.',2017);
+INSERT INTO "skill_data" VALUES(1077003,'Soda Support',1,0,0.92,107700301,107700302,0,0,0,0,0,0,107700301,0,0,0,0,0,'Moderate boost to magical defense of allies in a radius around the foremost ally.',2003);
+INSERT INTO "skill_data" VALUES(1077501,'Tropical Maid',0,0,0.0,107750101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
+INSERT INTO "skill_data" VALUES(1077511,'Tropical Maid+',0,0,0.0,107751101,107751102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense and small boost to own physical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(2001001,'',0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2002001,'',1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2003001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);

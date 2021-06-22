@@ -519,3 +519,13 @@ INSERT INTO "unit_comments" VALUES(1076007,107631,1,2,1,0.0,1,'Look, my lord!\nT
 INSERT INTO "unit_comments" VALUES(1076008,107631,1,3,1,0.0,1,'If we surrender ourselves to the currents, where might they carry us off to? With you by my side,\nI would not mind finding out.');
 INSERT INTO "unit_comments" VALUES(1076009,107631,1,4,1,0.0,1,'I hope the two of us can always remain together, visiting the same places and admiring the same wondrous sights.');
 INSERT INTO "unit_comments" VALUES(1076010,107631,1,5,1,0.0,1,'The two of us are alone in these vast ocean waters. At least for this moment, I have you all to myself.');
+INSERT INTO "unit_comments" VALUES(1077001,107701,1,1,1,2.8,5,'Working''s just so fun! Even more so when it''s with you! ♪');
+INSERT INTO "unit_comments" VALUES(1077002,107701,1,2,1,2.9,2,'What''s that? You''d like to go for a swim during your break time? Feel free! In fact, let me join you!');
+INSERT INTO "unit_comments" VALUES(1077003,107701,1,3,4,6.2,2,'I''m too much of a klutz to ever make a proper sand castle, so... Would you mind making one with me? Thank you! ♪');
+INSERT INTO "unit_comments" VALUES(1077004,107701,1,4,1,4.2,2,'I''m glad you think my swimsuit looks good on me, but, well... It''s kind of embarrassing if you stare at me that much!');
+INSERT INTO "unit_comments" VALUES(1077005,107701,1,5,1,4.7,5,'Are you busy right now? If not, then... D-do you mind if I stay by your side for a bit?');
+INSERT INTO "unit_comments" VALUES(1077006,107731,1,1,1,0.0,1,'Oh no, I didn''t realize there were fireworks here! Please stay back, children! It''s dangerous! Wahhh! That''s hot!');
+INSERT INTO "unit_comments" VALUES(1077007,107731,1,2,1,0.0,1,'The fireworks are pretty, yes, but there are more pressing matters here! Someone help me!');
+INSERT INTO "unit_comments" VALUES(1077008,107731,1,3,1,0.0,1,'Doing this with everyone is so much fun! For my next trick, I''ll dual wield these fireworks! ♪');
+INSERT INTO "unit_comments" VALUES(1077009,107731,1,4,1,0.0,1,'I wonder if people see us as a couple like this? Just kidding. Ehehe. ☆');
+INSERT INTO "unit_comments" VALUES(1077010,107731,1,5,1,0.0,1,'W-would you mind if I offered to serve you, too? W-wait, ignore that! Please!');
