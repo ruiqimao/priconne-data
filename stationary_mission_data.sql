@@ -255,9 +255,10 @@ INSERT INTO "stationary_mission_data" VALUES(21003028,40,102,'Gather 840 clear r
 INSERT INTO "stationary_mission_data" VALUES(21003029,40,102,'Gather 870 clear rank stars',1002,0,0,0,870,21003001,101,'2021/06/03 23:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003030,40,102,'Gather 900 clear rank stars',1002,0,0,0,900,21003001,101,'2021/06/12 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21003031,40,102,'Gather 930 clear rank stars',1002,0,0,0,930,21003001,101,'2021/06/12 13:00:00','2030/04/01 14:59:59');
-INSERT INTO "stationary_mission_data" VALUES(21005001,110,204,'Clear the Cloudtop Peak.',1005,31001007,0,0,1,21005001,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "stationary_mission_data" VALUES(21005002,110,204,'Clear the Deepwood Oak.',1005,31002010,0,0,1,21005002,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "stationary_mission_data" VALUES(21005003,110,204,'Clear the Sheercliff Ruins.',1005,31003010,0,0,1,21005003,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21005001,110,204,'Clear the Cloudtop Peak',1005,31001007,0,0,1,21005001,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21005002,110,204,'Clear the Deepwood Oak',1005,31002010,0,0,1,21005002,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21005003,110,204,'Clear the Sheercliff Ruins',1005,31003010,0,0,1,21005003,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21005004,110,204,'Clear the Tideborne Tower',1005,31004005,0,0,1,21005004,104,'2021/06/23 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002001,90,205,'Win 10 times in the Battle Arena',4002,0,0,0,10,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002002,90,205,'Win 20 times in the Battle Arena',4002,0,0,0,20,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002003,90,205,'Win 30 times in the Battle Arena',4002,0,0,0,30,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
@@ -278,8 +279,8 @@ INSERT INTO "stationary_mission_data" VALUES(24004007,100,205,'Win 70 times in t
 INSERT INTO "stationary_mission_data" VALUES(24004008,100,205,'Win 80 times in the Princess Arena',4004,0,0,0,80,24004001,402,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24004009,100,205,'Win 90 times in the Princess Arena',4004,0,0,0,90,24004001,402,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24004010,100,205,'Win 100 times in the Princess Arena',4004,0,0,0,100,24004001,402,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "stationary_mission_data" VALUES(26001001,60,501,'Set a dungeon support character for your clan.',6001,0,0,0,1,26001001,701,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "stationary_mission_data" VALUES(26001002,61,501,'Set a Clan Battle support character for your clan.',6010,0,0,0,1,26001001,701,'2021/02/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(26001001,60,501,'Set a dungeon support character for your clan',6001,0,0,0,1,26001001,701,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(26001002,61,501,'Set a Clan Battle support character for your clan',6010,0,0,0,1,26001001,701,'2021/02/10 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26002001,120,301,'Recruit a total of 10 characters',6002,0,0,0,10,26002001,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26002002,120,301,'Recruit a total of 20 characters',6002,0,0,0,20,26002002,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(26002003,120,301,'Recruit a total of 30 characters',6002,0,0,0,30,26002003,302,'2015/04/01 15:00:00','2030/04/01 14:59:59');

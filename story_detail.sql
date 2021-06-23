@@ -523,3 +523,5 @@ INSERT INTO "story_detail" VALUES(4003003,4003,'Dungeon Episode 3','Breach Deepw
 INSERT INTO "story_detail" VALUES(4003004,4003,'Dungeon Episode 4','Thick-Skinned Fruit',7,0,4003003,0,104,0,0,0,0,0,0,0,0,0,0,0,'2017/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(4003005,4003,'Dungeon Episode 5','Up Sheercliff Ruins!',7,0,0,0,104,0,0,0,0,0,0,0,0,0,0,0,'2017/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(4003006,4003,'Dungeon Episode 6','A Recipe for Joy',7,0,4003005,0,104,0,0,0,0,0,0,0,0,0,0,0,'2017/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(4003007,4003,'Dungeon Episode 7','Top Tideborne Tower!',7,0,0,0,104,0,0,0,0,0,0,0,0,0,0,0,'2021/06/23 12:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(4003008,4003,'Dungeon Episode 8','Escape God''s Wrath',7,0,4003007,0,104,0,0,0,0,0,0,0,0,0,0,0,'2021/06/23 12:00:00','2030/12/17 14:59:59');

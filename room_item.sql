@@ -142,6 +142,7 @@ INSERT INTO "room_item" VALUES(143,1,299,'Cafe Menu Board',1,1,1,0,'2015-04-01 1
 INSERT INTO "room_item" VALUES(144,1,299,'Cloudtop Monster Meat',1,1,1,5,'2015-04-01 14:00:00','','',-1,0,0,0,0,900144);
 INSERT INTO "room_item" VALUES(145,1,299,'Deepwood Fruit',1,1,1,6,'2015-04-01 14:00:00','','',-1,0,0,0,0,900145);
 INSERT INTO "room_item" VALUES(146,1,299,'Sheercliff Dumplings',1,1,1,7,'2015-04-01 14:00:00','','',-1,0,0,0,0,900146);
+INSERT INTO "room_item" VALUES(147,1,299,'Tideborne Sweetsnow',1,1,1,8,'2021-06-23 13:00:00','','',-1,0,0,0,0,900177);
 INSERT INTO "room_item" VALUES(148,1,299,'Pink Patterned Cushion',1,1,10,0,'2021-02-08 23:00:00','','',300,0,0,0,150,900155);
 INSERT INTO "room_item" VALUES(149,1,204,'Fairy-tale Curtain',1,1,10,0,'2021-02-08 23:00:00','','',600,0,0,0,300,900154);
 INSERT INTO "room_item" VALUES(150,1,299,'Fancy Pillar',1,1,10,0,'2021-02-08 23:00:00','','',600,0,0,0,300,900153);
