@@ -35,3 +35,15 @@ INSERT INTO "event_boss_treasure_content" VALUES(1000430101,2,31076,'0',1,100,0,
 INSERT INTO "event_boss_treasure_content" VALUES(1000430102,2,60032,'0',2,33,2,60032,'0',5,34,2,60032,'0',8,33,0,0,'0',0,0,0,0,'0',0,0);
 INSERT INTO "event_boss_treasure_content" VALUES(1000430103,12,94002,'0',30000,33,12,94002,'0',31500,34,12,94002,'0',33000,33,0,0,'0',0,0,0,0,'0',0,0);
 INSERT INTO "event_boss_treasure_content" VALUES(1000430104,0,0,'eq_rank_5-8',3,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000510101,2,60042,'0',2,33,2,60042,'0',3,34,2,60042,'0',4,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000510102,12,94002,'0',3000,33,12,94002,'0',4000,34,12,94002,'0',5000,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000510103,0,0,'eq_rank_3-6',1,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000520101,0,0,'1000520101',1,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000520102,0,0,'1000520102',1,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000520103,2,60042,'0',4,33,2,60042,'0',5,34,2,60042,'0',6,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000520104,12,94002,'0',10000,33,12,94002,'0',10500,34,12,94002,'0',11000,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000520105,0,0,'eq_rank_4-7',1,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000530101,2,31080,'0',1,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000530102,2,60042,'0',2,33,2,60042,'0',5,34,2,60042,'0',8,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000530103,12,94002,'0',30000,33,12,94002,'0',31500,34,12,94002,'0',33000,33,0,0,'0',0,0,0,0,'0',0,0);
+INSERT INTO "event_boss_treasure_content" VALUES(1000530104,0,0,'eq_rank_5-8',3,100,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0,0,0,'0',0,0);

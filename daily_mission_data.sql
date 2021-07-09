@@ -10,6 +10,10 @@ INSERT INTO "daily_mission_data" VALUES(15004001,10,501,'Attempt a Clan Battle 1
 INSERT INTO "daily_mission_data" VALUES(15005001,13,501,'Like a clan member',5005,0,0,0,1,15005001,701,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "daily_mission_data" VALUES(16006001,5,301,'Enhance a character''s skills 1 time',6006,0,0,0,1,16006001,503,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "daily_mission_data" VALUES(16007001,6,304,'Refine an equipment item and increase the ★ by 1',6007,0,0,0,1,16007001,506,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "daily_mission_data" VALUES(18001001,1,106,'Login to the game between 2:00 a.m. and 0:59 p.m. UTC.',8001,20000,125959,0,1,18001001,0,'2015/04/01 15:00:00','2030/04/01 14:59:59');
-INSERT INTO "daily_mission_data" VALUES(18001002,1,106,'Login to the game between 8:00 p.m. and 0:59 p.m. the next day UTC.',8001,200000,125959,0,1,18001002,0,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "daily_mission_data" VALUES(18001001,1,106,'Login to the game between 2:00 a.m. and 0:59 p.m. UTC.',8001,20000,125959,0,1,18001001,0,'2015/04/01 15:00:00','2021/07/19 12:59:59');
+INSERT INTO "daily_mission_data" VALUES(18001002,1,106,'Login to the game between 8:00 p.m. and 0:59 p.m. the next day UTC.',8001,200000,125959,0,1,18001002,0,'2015/04/01 15:00:00','2021/07/19 12:59:59');
+INSERT INTO "daily_mission_data" VALUES(18001003,1,106,'Login to the game between 2:00 a.m. and 0:59 p.m. UTC.',8001,20000,125959,0,1,18001003,0,'2021/07/19 13:00:00','2021/08/04 12:59:59');
+INSERT INTO "daily_mission_data" VALUES(18001004,1,106,'Login to the game between 8:00 p.m. and 0:59 p.m. the next day UTC.',8001,200000,125959,0,1,18001004,0,'2021/07/19 13:00:00','2021/08/04 12:59:59');
+INSERT INTO "daily_mission_data" VALUES(18001005,1,106,'Login to the game between 2:00 a.m. and 0:59 p.m. UTC.',8001,20000,125959,0,1,18001001,0,'2021/08/04 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "daily_mission_data" VALUES(18001006,1,106,'Login to the game between 8:00 p.m. and 0:59 p.m. the next day UTC.',8001,200000,125959,0,1,18001002,0,'2021/08/04 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "daily_mission_data" VALUES(18004001,4,404,'Purchase Mana 1 time',8004,0,0,0,1,18004001,208,'2015/04/01 15:00:00','2030/04/01 14:59:59');

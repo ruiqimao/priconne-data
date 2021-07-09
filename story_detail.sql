@@ -411,6 +411,14 @@ INSERT INTO "story_detail" VALUES(1077001,1077,'Suzume (Summer) Episode 1','It''
 INSERT INTO "story_detail" VALUES(1077002,1077,'Suzume (Summer) Episode 2','That''s Far Too Much Pressure!',0,0,1077001,4,107701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1077003,1077,'Suzume (Summer) Episode 3','That Might Be a Big Issue!',0,0,1077002,5,107701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1077004,1077,'Suzume (Summer) Episode 4','I''m Trying to Save a Life Here!',0,0,1077003,8,107701,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1078001,1078,'Karyl (Summer) Episode 1','A Tropical Island to Dream Of',0,0,0,0,107801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1078002,1078,'Karyl (Summer) Episode 2','Welcome to... the Tropical Resort?',0,0,1078001,4,107801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1078003,1078,'Karyl (Summer) Episode 3','A Break by the Beach',0,0,1078002,5,107801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1078004,1078,'Karyl (Summer) Episode 4','I''m a Lot Happier Than You Think',0,0,1078003,8,107801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1080001,1080,'Mifuyu (Summer) Episode 1','To Revitalize a Resort',0,0,0,0,108001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1080002,1080,'Mifuyu (Summer) Episode 2','Inspiration and Innovation',0,0,1080001,4,108001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1080003,1080,'Mifuyu (Summer) Episode 3','The Ultimate Resort',0,0,1080002,5,108001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1080004,1080,'Mifuyu (Summer) Episode 4','The Treasure You Gave Me',0,0,1080003,8,108001,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1900999,1900,'Ameth','Ameth''s Talk',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000001,2000,'Prologue','Part 1',0,0,0,0,0,0,51200001,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000002,2000,'Prologue','Part 2',0,1,0,0,0,0,51200002,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -468,6 +476,12 @@ INSERT INTO "story_detail" VALUES(2007005,2007,'Chapter 7 Episode 5','Castle of 
 INSERT INTO "story_detail" VALUES(2007006,2007,'Chapter 7 Episode 6','A Petulant Ghost and a Miniature Vampire',5,0,2007005,0,0,11013012,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2007007,2007,'Chapter 7 Episode 7','Fortune-Telling and True Foresight',5,0,2007006,0,0,11013014,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2007008,2007,'Chapter 7 Episode 8','Mystery of the Seven Crowns',5,0,2007007,0,0,11013016,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007009,2007,'Chapter 7 Episode 9','A Troubled Meeting',5,0,2007008,0,0,11014002,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007010,2007,'Chapter 7 Episode 10','The Hidden Laboratory',5,0,2007009,0,0,11014005,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007011,2007,'Chapter 7 Episode 11','A Sweetened Strike',5,0,2007010,0,0,11014008,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007012,2007,'Chapter 7 Episode 12','Critical Juncture',5,1,2007011,0,0,11014011,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007013,2007,'Chapter 7 Episode 13','Labyrinth of Hope',5,0,2007012,0,0,11014014,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2007099,2007,'Chapter 7 Interlude','Interlude 8',5,0,2007013,0,0,11014014,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

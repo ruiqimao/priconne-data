@@ -3,3 +3,4 @@ INSERT INTO "event_gacha_data" VALUES(10001,10001,'Hatsune Box Gacha',2,60002,1,
 INSERT INTO "event_gacha_data" VALUES(10002,10002,'Little Lyrical Adventures Victory Medal Exchange',2,60012,1,5);
 INSERT INTO "event_gacha_data" VALUES(10003,10003,'Vampire Hunters with Illya Victory Medal Exchange',2,60022,1,5);
 INSERT INTO "event_gacha_data" VALUES(10004,10004,'Dangerous Vacation! Gourmet Princess on the Beach',2,60032,1,5);
+INSERT INTO "event_gacha_data" VALUES(10005,10005,'Tamaki and Mifuyu''s Desert Island 0-Rupie Life!',2,60042,1,5);

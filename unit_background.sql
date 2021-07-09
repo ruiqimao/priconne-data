@@ -60,3 +60,5 @@ INSERT INTO "unit_background" VALUES(107101,'Christina Morgan',500090,'Landosol 
 INSERT INTO "unit_background" VALUES(107501,'Pecorine (Summer)',500164,'Marjan Coast',0.0,4);
 INSERT INTO "unit_background" VALUES(107601,'Kokkoro (Summer)',500164,'Marjan Coast',0.0,4);
 INSERT INTO "unit_background" VALUES(107701,'Suzume (Summer)',500164,'Marjan Coast',0.0,4);
+INSERT INTO "unit_background" VALUES(107801,'Karyl (Summer)',500164,'Marjan Coast',0.0,6);
+INSERT INTO "unit_background" VALUES(108001,'Mifuyu (Summer)',500284,'Desert Island',0.0,2);

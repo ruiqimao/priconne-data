@@ -156,7 +156,11 @@ INSERT INTO "equipment_enhance_rate" VALUES(104522,'Holy Hood','Wizard''s Hat',4
 INSERT INTO "equipment_enhance_rate" VALUES(104523,'Gospel Tiara','Wizard''s Hat',4,20.0,0.0,9.0,0.6,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(104551,'Elemental Heart','Attack Accessories',4,0.0,13.2,0.0,0.4,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(104552,'Sun Amulet','Attack Accessories',4,0.0,14.0,0.0,0.0,0.4,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(104553,'Sovereign Flame','Attack Accessories',4,40.0,14.8,0.0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(104554,'Feline Pendant','Accuracy Accessory',4,0.0,10.8,0.0,0.0,0.0,1.6,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0);
 INSERT INTO "equipment_enhance_rate" VALUES(104581,'Sacrificial Bangles','Defense Accessory',4,48.0,0.0,2.0,1.0,1.2,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(104582,'Lunar Bracelet','Defense Accessory',4,60.0,0.0,0.0,1.8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(104583,'Disciple''s Pendant','Defense Accessory',4,40.0,0.0,0.0,1.2,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(104611,'Selene''s Lament','Magic Accessory',4,20.0,0.0,12.0,0.0,0.0,0.0,1.2,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(104612,'Dragon''s Tears','Magic Accessory',4,24.0,0.0,14.0,0.0,0.0,0.0,1.6,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(104613,'Archsage''s Orb','Magic Accessory',4,0.0,0.0,16.0,0.0,0.0,0.0,2.0,0.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);

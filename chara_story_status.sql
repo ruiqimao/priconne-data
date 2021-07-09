@@ -358,3 +358,9 @@ INSERT INTO "chara_story_status" VALUES(1076004,'Kokkoro (Summer)''s Episode 4',
 INSERT INTO "chara_story_status" VALUES(1077002,'Suzume (Summer)''s Episode 2',4,10,0,0,0,0,0,0,0,0,1077,1025,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1077003,'Suzume (Summer)''s Episode 3',4,30,0,0,0,0,0,0,0,0,1077,1025,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1077004,'Suzume (Summer)''s Episode 4',4,20,5,4,0,0,0,0,0,0,1077,1025,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1078002,'Karyl (Summer)''s Episode 2',4,15,0,0,0,0,0,0,0,0,1078,1060,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1078003,'Karyl (Summer)''s Episode 3',4,15,0,0,0,0,0,0,0,0,1078,1060,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1078004,'Karyl (Summer)''s Episode 4',4,30,0,0,0,0,0,0,0,0,1078,1060,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1080002,'Mifuyu (Summer)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1080,1048,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1080003,'Mifuyu (Summer)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1080,1048,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1080004,'Mifuyu (Summer)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1080,1048,0,0,0,0,0,0,0,0);

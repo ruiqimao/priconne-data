@@ -317,3 +317,15 @@ INSERT INTO "notif_data" VALUES(107701,3,'Oh, your stamina is full at the guildh
 INSERT INTO "notif_data" VALUES(107701,4,'Oh, your EXP potions at the guildhouse are full! Maybe now I can leave my days as a disaster of a maid behind me!');
 INSERT INTO "notif_data" VALUES(107701,5,'The guildhouse is overflowing with Mana! I''ll wait for you at the beachside cafe! ♪');
 INSERT INTO "notif_data" VALUES(107701,6,'Your items are all full at the guildhouse! Shall I gather them for you? Oh, you''re not sure that''s a good idea?');
+INSERT INTO "notif_data" VALUES(107801,1,'Hey, can''t you see that you''ve got full stamina?! Quit goofing around and get back here!');
+INSERT INTO "notif_data" VALUES(107801,2,'Hey, you''ve got full skip tickets at the guildhouse! Come and grab them fast so you can take me to the beach!');
+INSERT INTO "notif_data" VALUES(107801,3,'Hey, you''ve got full stamina at the guildhouse! C''mon, it''s time for a little fun in the sun!');
+INSERT INTO "notif_data" VALUES(107801,4,'There''s tons of EXP potions at the guildhouse! You know, I might just end up getting even stronger!');
+INSERT INTO "notif_data" VALUES(107801,5,'You have a lot of Mana sitting at the guildhouse. Think carefully about how you spend it, okay?');
+INSERT INTO "notif_data" VALUES(107801,6,'Hey, you''ve got full items at the guildhouse. I thought I''d give you a reminder, since everything''s in one ear and out the other with you.');
+INSERT INTO "notif_data" VALUES(108001,1,'You certainly seem full of stamina. Just what you need for some seaside adventures!');
+INSERT INTO "notif_data" VALUES(108001,2,'I think your skip ticket supply at the guildhouse is full. Let''s head out and enjoy the summer sun!');
+INSERT INTO "notif_data" VALUES(108001,3,'Your guildhouse''s stamina supply is full to the brim. I''m sure you''ll be able to power through the summer heat now!');
+INSERT INTO "notif_data" VALUES(108001,4,'Your guildhouse has generated a full stock of EXP potions. Let''s boost our levels and conquer the beach!');
+INSERT INTO "notif_data" VALUES(108001,5,'The Mana you''ve been generating at your guildhouse is full. Let''s use it to fund a summer expedition!');
+INSERT INTO "notif_data" VALUES(108001,6,'All the items at your guildhouse are at full capacity. Let''s put them to use and maximize our seaside efficiency!');
