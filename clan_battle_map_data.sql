@@ -9,3 +9,5 @@ INSERT INTO "clan_battle_map_data" VALUES(7,1004,710041,1,1,1,1004001,1,1,1);
 INSERT INTO "clan_battle_map_data" VALUES(8,1004,710041,1,2,-1,1004002,2,1,1);
 INSERT INTO "clan_battle_map_data" VALUES(9,1005,710051,1,1,1,1005001,1,1,1);
 INSERT INTO "clan_battle_map_data" VALUES(10,1005,710051,1,2,-1,1005002,2,1,1);
+INSERT INTO "clan_battle_map_data" VALUES(11,1006,710061,1,1,1,1006001,1,1,1);
+INSERT INTO "clan_battle_map_data" VALUES(12,1006,710061,1,2,-1,1006002,2,1,2);
