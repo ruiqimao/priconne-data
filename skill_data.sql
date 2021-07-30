@@ -272,6 +272,11 @@ INSERT INTO "skill_data" VALUES(1078002,'Aqua Bullet',1,0,0.74,107800201,0,0,0,0
 INSERT INTO "skill_data" VALUES(1078003,'Spiral Wave',1,0,1.14,107800301,107800302,0,0,0,0,0,0,107800301,0,0,0,0,0,'Deals small magical damage to an enemy directly in front and lowers their magical defense by a moderate amount.',2004);
 INSERT INTO "skill_data" VALUES(1078501,'Hydro Link',0,0,0.0,107850101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1078511,'Hydro Link+',0,0,0.0,107851101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1079001,'Kitty-Cat Summer Rave',1,0,0.0,107900101,107900102,107900103,107900104,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to a random enemy in range 4 times.',1001);
+INSERT INTO "skill_data" VALUES(1079002,'Summer Sun Absorption',1,0,0.5,107900201,107900202,0,0,0,0,0,0,107600201,0,0,0,0,0,'Lowers the TP of an enemy directly in front by a small amount and recovers own TP by a small amount.',2006);
+INSERT INTO "skill_data" VALUES(1079003,'Ice Breaker',1,0,1.1,107900301,107900302,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack and action speed.',2003);
+INSERT INTO "skill_data" VALUES(1079501,'Kitty in Paradise',0,0,0.0,107950101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1079511,'Kitty in Paradise+',0,0,0.0,107951101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1080001,'Leviathan Lance',1,0,0.0,108000101,108000102,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front. Moderate boost to all allies'' physical attack.',1001);
 INSERT INTO "skill_data" VALUES(1080002,'Hydro Swing',1,0,1.05,108000201,108000202,108000203,0,0,0,0,0,0,108000202,0,0,0,0,'Deals small physical damage to an enemy directly in front, and additional small physical damage to enemies nearby the target.',2001);
 INSERT INTO "skill_data" VALUES(1080003,'Hunting Mode',1,0,1.19,108000301,108000302,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack and physical critical rate.',2003);

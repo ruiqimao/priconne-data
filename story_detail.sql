@@ -415,6 +415,10 @@ INSERT INTO "story_detail" VALUES(1078001,1078,'Karyl (Summer) Episode 1','A Tro
 INSERT INTO "story_detail" VALUES(1078002,1078,'Karyl (Summer) Episode 2','Welcome to... the Tropical Resort?',0,0,1078001,4,107801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1078003,1078,'Karyl (Summer) Episode 3','A Break by the Beach',0,0,1078002,5,107801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1078004,1078,'Karyl (Summer) Episode 4','I''m a Lot Happier Than You Think',0,0,1078003,8,107801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1079001,1079,'Tamaki (Summer) Episode 1','Volleyball Vandal',0,0,0,0,107901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1079002,1079,'Tamaki (Summer) Episode 2','In Search of Catty Happiness',0,0,1079001,4,107901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1079003,1079,'Tamaki (Summer) Episode 3','The Treasure of the Marjan Coast',0,0,1079002,5,107901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1079004,1079,'Tamaki (Summer) Episode 4','Beachside Business',0,0,1079003,8,107901,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1080001,1080,'Mifuyu (Summer) Episode 1','To Revitalize a Resort',0,0,0,0,108001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1080002,1080,'Mifuyu (Summer) Episode 2','Inspiration and Innovation',0,0,1080001,4,108001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1080003,1080,'Mifuyu (Summer) Episode 3','The Ultimate Resort',0,0,1080002,5,108001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

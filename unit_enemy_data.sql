@@ -175,6 +175,7 @@ INSERT INTO "unit_enemy_data" VALUES(607501,'Pecorine (Summer)''s Shadow',107501
 INSERT INTO "unit_enemy_data" VALUES(607601,'Kokkoro (Summer)''s Shadow',107601,6,6,450,535,1,2.34,0,1,'A peculiar monster bearing a striking resemblance to Kokkoro (Summer).');
 INSERT INTO "unit_enemy_data" VALUES(607701,'Suzume (Summer)''s Shadow',107701,5,5,450,775,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Suzume (Summer).');
 INSERT INTO "unit_enemy_data" VALUES(607801,'Karyl (Summer)''s Shadow',107801,5,5,450,780,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Karyl (Summer).');
+INSERT INTO "unit_enemy_data" VALUES(607901,'Tamaki (Summer)''s Shadow',107901,5,5,450,225,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Tamaki (Summer).');
 INSERT INTO "unit_enemy_data" VALUES(608001,'Mifuyu (Summer)''s Shadow',108001,5,5,450,495,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Mifuyu (Summer).');
 INSERT INTO "unit_enemy_data" VALUES(902801,'Saren''s Shadow',902801,0,4,600,350,1,2.0,0,1,'A peculiar monster bearing a striking resemblance to Saren.');
 INSERT INTO "unit_enemy_data" VALUES(912401,'Rock Lizard',912401,0,14,270,200,1,3.0,0,0,'[Physical] Short-ranged attack.\nA rock lizard-like monster\nwhose head is as tough as\nan armor.');

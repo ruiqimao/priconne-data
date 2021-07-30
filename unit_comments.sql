@@ -539,6 +539,16 @@ INSERT INTO "unit_comments" VALUES(1078007,107831,1,2,1,0.0,1,'Quit eyeing my ju
 INSERT INTO "unit_comments" VALUES(1078008,107831,1,3,1,0.0,1,'Nothing better than a good drink after working up a sweat. Ahh. Simply delicious. ♪');
 INSERT INTO "unit_comments" VALUES(1078009,107831,1,4,1,0.0,1,'You''re looking pretty exhausted. Wanna hop on my swim ring and chill out together?');
 INSERT INTO "unit_comments" VALUES(1078010,107831,1,5,1,0.0,1,'Honestly, this is one of those times I feel like I''m genuinely happy. And I think it''s all because of you. Um... Th-thank— Actually, never mind!');
+INSERT INTO "unit_comments" VALUES(1079001,107901,1,1,6,0.0,1,'What''s up?\nDoes the sight of my swimsuit make your heart start purring?');
+INSERT INTO "unit_comments" VALUES(1079002,107901,1,2,1,4.3,2,'What am I doing? Getting ready to make taiyaki, of course!\nWe''ve got a business to run here!');
+INSERT INTO "unit_comments" VALUES(1079003,107901,1,3,1,6.2,2,'You want to lend a paw?\nMuch a-purr-eciated!\nAs thanks, I''ll let you touch... Myahaha! Just kidding!');
+INSERT INTO "unit_comments" VALUES(1079004,107901,1,4,1,3.4,6,'I can''t stand the water,\nso let''s play on the sand!\nMyah?! The waves are closing in!');
+INSERT INTO "unit_comments" VALUES(1079005,107901,1,5,1,4.1,4,'You can''t beat the sea as a source of tasty treats! If only it didn''t have... all that nyasty water...');
+INSERT INTO "unit_comments" VALUES(1079006,107931,1,1,1,0.0,1,'Yakisoba noodles, shaved ice, taiyaki... Beach cafes are a treasure trove of tasty snyacks!');
+INSERT INTO "unit_comments" VALUES(1079007,107931,1,2,1,0.0,1,'Come one, come all,\nto our beach cafe!\nNyow with a new sweet treat\nyou won''t find anywhere else!');
+INSERT INTO "unit_comments" VALUES(1079008,107931,1,3,1,0.0,1,'You don''t want to miss out on this summer''s exclusive dessert! Experience a flavor like you''ve nyever tasted before!');
+INSERT INTO "unit_comments" VALUES(1079009,107931,1,4,1,0.0,1,'You want to try a bite?\nGo on, say "myaaaah"!');
+INSERT INTO "unit_comments" VALUES(1079010,107931,1,5,1,0.0,1,'You''ve done nyothing but help\nme out this whole summer.\nYou''re the world''s best partner!');
 INSERT INTO "unit_comments" VALUES(1080001,108001,1,1,1,9.2,2,'I''m lucky to have a fine student to help me. What''s that? Payment? Hmmm... Isn''t seeing me in this swimsuit payment enough?');
 INSERT INTO "unit_comments" VALUES(1080002,108001,1,2,1,3.2,2,'Have you forgotten anything?\nAre you fully prepared?\nThen let''s head out and have ourselves an adventure!');
 INSERT INTO "unit_comments" VALUES(1080003,108001,1,3,6,2.3,2,'Why am I wearing a swimsuit, you ask? Because it''s the most efficient attire for beach work!');
