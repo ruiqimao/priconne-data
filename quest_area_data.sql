@@ -13,6 +13,7 @@ INSERT INTO "quest_area_data" VALUES(11011,'11. Genua Desert',101,'bgm_M93','bgm
 INSERT INTO "quest_area_data" VALUES(11012,'12. Bononia Dunes',101,'bgm_M94','bgm_M94','2021/05/12 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11013,'13. Dorothea Wetlands',101,'bgm_M118','bgm_M118','2021/06/12 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11014,'14. Eugenia Hotlands',101,'bgm_M95','bgm_M95','2021/07/09 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(11015,'15. Thalia Volcano',101,'bgm_M96','bgm_M96','2021/08/09 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12001,'1. Juno Plains',101,'bgm_M61','bgm_M61','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12002,'2. Pallas Peaks',101,'bgm_M61','bgm_M61_02','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12003,'3. Hebe Hill',101,'bgm_M61','bgm_M61_03','2015/12/17 15:00:00','2030/12/17 14:59:59');
@@ -27,5 +28,6 @@ INSERT INTO "quest_area_data" VALUES(12011,'11. Genua Desert',101,'bgm_M93','bgm
 INSERT INTO "quest_area_data" VALUES(12012,'12. Bononia Dunes',101,'bgm_M94','bgm_M94','2021/05/12 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12013,'13. Dorothea Wetlands',101,'bgm_M118','bgm_M118','2021/06/12 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12014,'14. Eugenia Hotlands',101,'bgm_M95','bgm_M95','2021/07/09 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(12015,'15. Thalia Volcano',101,'bgm_M96','bgm_M96','2021/08/09 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(21001,'Mana Quests',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(21002,'EXP Quests',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');

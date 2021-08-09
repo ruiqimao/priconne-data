@@ -486,6 +486,13 @@ INSERT INTO "story_detail" VALUES(2007011,2007,'Chapter 7 Episode 11','A Sweeten
 INSERT INTO "story_detail" VALUES(2007012,2007,'Chapter 7 Episode 12','Critical Juncture',5,1,2007011,0,0,11014011,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2007013,2007,'Chapter 7 Episode 13','Labyrinth of Hope',5,0,2007012,0,0,11014014,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2007099,2007,'Chapter 7 Interlude','Interlude 8',5,0,2007013,0,0,11014014,0,8,91002,20,0,0,0,0,0,0,'2021/07/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2008001,2008,'Chapter 8 Episode 1','Three Little Sleepyheads',5,0,2007099,0,0,11015002,0,8,91002,20,0,0,0,0,0,0,'2021/08/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2008002,2008,'Chapter 8 Episode 2','A Sisterly Reunion',5,0,2008001,0,0,11015004,0,8,91002,20,0,0,0,0,0,0,'2021/08/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2008003,2008,'Chapter 8 Episode 3','From One Dingy Hole to Another',5,0,2008002,0,0,11015006,0,8,91002,20,0,0,0,0,0,0,'2021/08/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2008004,2008,'Chapter 8 Episode 4','An Unknowable Battle',5,0,2008003,0,0,11015008,0,8,91002,20,0,0,0,0,0,0,'2021/08/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2008005,2008,'Chapter 8 Episode 5','A Hearty Breakfast',5,0,2008004,0,0,11015010,0,8,91002,20,0,0,0,0,0,0,'2021/08/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2008006,2008,'Chapter 8 Episode 6','A Labyrinthine Harem',5,0,2008005,0,0,11015012,0,8,91002,20,0,0,0,0,0,0,'2021/08/09 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2008007,2008,'Chapter 8 Episode 7','Far From Home',5,0,2008006,0,0,11015014,0,8,91002,20,0,0,0,0,0,0,'2021/08/09 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
