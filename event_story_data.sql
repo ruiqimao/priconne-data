@@ -4,3 +4,4 @@ INSERT INTO "event_story_data" VALUES(5002,5,10002,'Little Lyrical Adventures',0
 INSERT INTO "event_story_data" VALUES(5003,5,10003,'Vampire Hunters with Illya',0,1,'2021/04/28 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5004,5,10004,'Dangerous Vacation! Gourmet Princess on the Beach',0,1,'2021/06/03 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5005,5,10005,'Tamaki and Mifuyu''s Desert Island 0-Rupie Life!',0,1,'2021/07/09 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_data" VALUES(5006,5,10006,'Ironclad Nightmare',0,1,'2021/08/18 23:00:00','2030/04/24 14:59:59');
