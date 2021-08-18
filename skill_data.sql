@@ -149,6 +149,11 @@ INSERT INTO "skill_data" VALUES(1036002,'Ice Lance',1,0,1.83,103600201,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(1036003,'Magical Surge',1,0,1.4,103600301,0,0,0,0,0,0,0,103600301,0,0,0,0,0,'Large boost to own magical attack for a brief period.',2003);
 INSERT INTO "skill_data" VALUES(1036501,'Pinch of Bravery',0,0,0.0,103650101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1036511,'Pinch of Bravery+',0,0,0.0,103651101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1037001,'Mikuma Hidden Art: Asura',0,0,0.0,103700101,103700102,103700103,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front. Massive boost to own physical attack and moderate boost to own action speed.',1001);
+INSERT INTO "skill_data" VALUES(1037002,'Mikuma Style: Gale Strike',0,0,0.76,103700201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to all enemies in range.',2001);
+INSERT INTO "skill_data" VALUES(1037003,'Mikuma Style: Returning Swallow',0,0,1.5,103700301,103700302,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and recovers own TP by a small amount.',2001);
+INSERT INTO "skill_data" VALUES(1037501,'Vital Resonance: Sheer Focus',0,0,0.0,103750101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1037511,'Vital Resonance: Sheer Focus+',0,0,0.0,103751101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1038001,'Enchanted Arrow',0,0,0.0,103800101,103800102,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front. Large boost to own physical attack.',1001);
 INSERT INTO "skill_data" VALUES(1038002,'Triple Shot',0,0,0.76,103800201,103800202,103800203,103800204,0,0,0,0,0,0,0,0,0,0,'Deals small physical damage to up to 3 enemies directly in front. Recovers own TP by a small amount.',2001);
 INSERT INTO "skill_data" VALUES(1038003,'Wind Arrow',0,0,1.5,103800301,103800302,0,0,0,0,0,0,0,0,0,0,0,0,'Inflicts moderate physical damage to one enemy directly in front while also recovering own TP by a small amount.',2001);
@@ -524,6 +529,10 @@ INSERT INTO "skill_data" VALUES(3044003,'',1,0,6.0,304400301,304400302,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3044004,'',1,0,0.0,304400401,304400402,304400403,304400404,0,0,0,0,0,0,0,0,0,0,'Island Whale Awakening',1001);
 INSERT INTO "skill_data" VALUES(3045001,'',0,0,1.5,304500101,304500102,304500103,304500104,304500105,0,0,0,304500101,0,0,0,0,0,'Ninja Stag Beetle Skill 0',1001);
 INSERT INTO "skill_data" VALUES(3045002,'',0,0,1.5,304500201,304500202,304500203,0,0,0,0,0,0,0,304500202,0,0,0,'Ninja Stag Beetle Skill 1',1001);
+INSERT INTO "skill_data" VALUES(3047001,'',1,0,2.7,304700101,304700102,304700103,0,0,0,0,0,304700101,304700101,0,0,0,0,'Living Mail Union Burst',1001);
+INSERT INTO "skill_data" VALUES(3047002,'',1,0,2.2,304700203,304700204,304700201,304700202,0,0,0,0,0,0,0,0,0,0,'Living Mail Skill 1',1001);
+INSERT INTO "skill_data" VALUES(3047003,'',1,0,3.5,304700301,0,0,0,0,0,0,0,304700301,0,0,0,0,0,'Living Mail Skill 2',1001);
+INSERT INTO "skill_data" VALUES(3047004,'',1,0,2.7,304700401,304700402,304700403,0,0,0,0,0,0,0,0,0,0,0,'Living Mail Awakening',1001);
 INSERT INTO "skill_data" VALUES(3048001,'',2,0,1.5,304800101,304800102,0,0,0,0,0,0,304800101,0,0,0,0,0,'Wraithlord Skill 0',1001);
 INSERT INTO "skill_data" VALUES(3048002,'',2,0,1.5,304800201,304800202,304800203,0,0,0,0,0,0,0,0,0,0,0,'Wraithlord Skill 1',1001);
 INSERT INTO "skill_data" VALUES(3901002,'',0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);

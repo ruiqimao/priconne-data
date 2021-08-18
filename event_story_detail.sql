@@ -39,3 +39,11 @@ INSERT INTO "event_story_detail" VALUES(5005004,5005,'Episode 4','The Terrible T
 INSERT INTO "event_story_detail" VALUES(5005005,5005,'Episode 5','Paradise Lost',0,0,5005004,0,0,0,0,8,91002,20,2,31080,1,0,0,0,'2021/07/09 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5005006,5005,'Episode 6','Island Attack!',0,0,5005005,0,0,0,55005006,8,91002,20,2,31032,1,0,0,0,'2021/07/09 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5005007,5005,'Ending','Back to Reality',0,0,5005006,0,0,0,0,8,91002,20,2,31080,1,0,0,0,'2021/07/09 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5006000,5006,'Opening','Lonesome Captain',0,0,0,0,0,0,0,8,91002,20,2,31034,1,0,0,0,'2021/08/18 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5006001,5006,'Episode 1','Enduring Enmity',0,0,5006000,0,0,0,0,8,91002,20,2,31047,1,0,0,0,'2021/08/18 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5006002,5006,'Episode 2','Mistrust and Suspicion',0,0,5006001,0,0,0,0,8,91002,20,2,31034,1,0,0,0,'2021/08/18 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5006003,5006,'Episode 3','Wandering Armor',0,0,5006002,0,0,0,0,8,91002,20,2,31047,1,0,0,0,'2021/08/18 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5006004,5006,'Episode 4','Nightmares at Large',0,0,5006003,0,0,0,0,8,91002,20,2,31034,1,0,0,0,'2021/08/18 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5006005,5006,'Episode 5','Chaos in the Beastfolk Quarter',0,0,5006004,0,0,0,0,8,91002,20,2,31047,1,0,0,0,'2021/08/18 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5006006,5006,'Episode 6','The Nature of Justice',0,0,5006005,0,0,0,0,8,91002,20,2,31034,1,0,0,0,'2021/08/18 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5006007,5006,'Ending','Looking to the Future',0,0,5006006,0,0,0,0,8,91002,20,2,31047,1,0,0,0,'2021/08/18 23:00:00','2030/04/24 14:59:59');

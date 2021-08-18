@@ -13,3 +13,5 @@ INSERT INTO "odds_name_data" VALUES(11,'1000420102','Saren''s Memory Shard',9900
 INSERT INTO "odds_name_data" VALUES(12,'eq_rank_5-8','Rank 5~8 Equipment',99002,'Equipment required for characters at ranks 5~8.');
 INSERT INTO "odds_name_data" VALUES(13,'1000520101','Mifuyu (Summer)''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(14,'1000520102','Akino''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(15,'1000620101','Jun''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(16,'1000620102','Yukari''s Memory Shard',99002,'');

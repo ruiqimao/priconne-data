@@ -230,6 +230,14 @@ INSERT INTO "skill_action" VALUES(103600201,1,1,2,0,0,20.0,20.0,1.6,0.0,0.0,0.0,
 INSERT INTO "skill_action" VALUES(103600301,1,10,30,1,0,1.0,28.0,28.0,9.0,0.0,0.0,0.0,2,3,0,3,0,1,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(103650101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(103651101,1,90,4,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
+INSERT INTO "skill_action" VALUES(103700101,1,1,1,0,0,30.0,30.0,2.25,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(103700102,1,10,10,1,0,1.0,64.0,64.0,24.0,0.0,0.0,0.0,2,3,0,7,0,1,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
+INSERT INTO "skill_action" VALUES(103700103,1,8,2,0,0,1.25,0.0,24.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'Boosts own action speed.','');
+INSERT INTO "skill_action" VALUES(103700201,1,1,1,0,0,10.0,10.0,0.8,0.0,0.0,0.0,0.0,1,1,600,3,0,99,'Deals {0} physical damage to enemies in range.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(103700301,1,1,1,0,0,15.0,15.0,1.2,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(103700302,1,16,1,0,0,60.0,0.6,0.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'Recovers own TP by {0}.','TP recovery + {0}');
+INSERT INTO "skill_action" VALUES(103750101,1,90,2,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
+INSERT INTO "skill_action" VALUES(103751101,1,90,2,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
 INSERT INTO "skill_action" VALUES(103800101,1,10,10,1,0,1.0,22.5,22.5,90.0,8.0,0.0,1.0,2,1,0,7,0,1,'Boosts own physical attack by {0}.','Physical attack boost + {0}');
 INSERT INTO "skill_action" VALUES(103800102,1,1,1,0,0,30.0,30.0,2.4,0.0,0.0,0.0,0.0,1,1,2160,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(103800201,1,1,1,0,0,4.5,4.5,0.36,0.0,0.0,0.0,0.0,1,1,2160,3,0,1,'Deals {0} physical damage to a maximum of 3 characters.','Physical damage + {0}');

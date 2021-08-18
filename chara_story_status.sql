@@ -209,6 +209,13 @@ INSERT INTO "chara_story_status" VALUES(1036005,'Kyoka''s Episode 5',4,40,0,0,0,
 INSERT INTO "chara_story_status" VALUES(1036006,'Kyoka''s Episode 6',4,60,0,0,0,0,0,0,0,0,1036,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1036007,'Kyoka''s Episode 7',4,60,0,0,0,0,0,0,0,0,1036,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1036008,'Kyoka''s Episode 8',4,90,7,10,0,0,0,0,0,0,1036,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1037002,'Tomo''s Episode 2',2,15,0,0,0,0,0,0,0,0,1037,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1037003,'Tomo''s Episode 3',2,15,0,0,0,0,0,0,0,0,1037,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1037004,'Tomo''s Episode 4',2,30,0,0,0,0,0,0,0,0,1037,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1037005,'Tomo''s Episode 5',2,40,0,0,0,0,0,0,0,0,1037,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1037006,'Tomo''s Episode 6',2,40,6,10,0,0,0,0,0,0,1037,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1037007,'Tomo''s Episode 7',2,40,6,10,0,0,0,0,0,0,1037,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1037008,'Tomo''s Episode 8',2,60,6,15,11,60,0,0,0,0,1037,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1038002,'Shiori''s Episode 2',2,15,0,0,0,0,0,0,0,0,1038,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1038003,'Shiori''s Episode 3',2,15,0,0,0,0,0,0,0,0,1038,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1038004,'Shiori''s Episode 4',2,30,0,0,0,0,0,0,0,0,1038,0,0,0,0,0,0,0,0,0);

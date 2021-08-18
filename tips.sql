@@ -29,6 +29,7 @@ INSERT INTO "tips" VALUES(4103201,103201,1,'Follow Me!');
 INSERT INTO "tips" VALUES(4103301,103301,1,'Cutting-Edge Comedy');
 INSERT INTO "tips" VALUES(4103401,103401,1,'Setting the Best Example');
 INSERT INTO "tips" VALUES(4103601,103601,1,'Suspicious...');
+INSERT INTO "tips" VALUES(4103701,103701,1,'Kitchen Prowess');
 INSERT INTO "tips" VALUES(4103801,103801,1,'Priorities');
 INSERT INTO "tips" VALUES(4104001,104001,1,'Doing Her Best');
 INSERT INTO "tips" VALUES(4104201,104201,1,'Enchanting Melody');

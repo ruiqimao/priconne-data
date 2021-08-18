@@ -9,3 +9,5 @@ INSERT INTO "hatsune_daily_mission_data" VALUES(61004001,101,601,'Battle Tentapu
 INSERT INTO "hatsune_daily_mission_data" VALUES(61004002,102,601,'Clear 10 event quests',9004,0,0,0,10,61004002,6004,10004,'2021/06/03 23:00:00','2021/06/22 22:59:59');
 INSERT INTO "hatsune_daily_mission_data" VALUES(61005001,101,601,'Battle the Island Whale 1 time (Any Difficulty)',9012,0,0,0,1,61005001,6008,10005,'2021/07/09 23:00:00','2021/07/28 22:59:59');
 INSERT INTO "hatsune_daily_mission_data" VALUES(61005002,102,601,'Clear 10 event quests',9004,0,0,0,10,61005002,6004,10005,'2021/07/09 23:00:00','2021/07/28 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61006001,101,601,'Battle the Living Mail 1 time (Any Difficulty)',9012,0,0,0,1,61006001,6008,10006,'2021/08/18 23:00:00','2021/09/05 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61006002,102,601,'Clear 10 event quests',9004,0,0,0,10,61006002,6004,10006,'2021/08/18 23:00:00','2021/09/05 22:59:59');

@@ -63,3 +63,4 @@ INSERT INTO "gift_message" VALUES(9800,'A present in celebration of a characterâ
 INSERT INTO "gift_message" VALUES(9801,'Celebrating 100 wonderful days!',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9802,'Celebrating 150K Social Media Followers!',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9803,'Celebrating Princess Connect! Re: Dive at the Virtual Crunchyroll Expo!',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9804,'A present in celebration of Japan''s National Rice Day',0,0,0,0);

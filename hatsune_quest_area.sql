@@ -9,3 +9,5 @@ INSERT INTO "hatsune_quest_area" VALUES(10004101,10004,'Tapas Beach',201,'bgm_M1
 INSERT INTO "hatsune_quest_area" VALUES(10004201,10004,'Tapas Beach',201,'bgm_M112','bgm_M112','2021/06/03 23:00:00','2021/06/22 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10005101,10005,'Ellusion Isle',201,'bgm_M121','bgm_M121','2021/07/09 23:00:00','2021/07/28 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10005201,10005,'Ellusion Isle',201,'bgm_M121','bgm_M121','2021/07/09 23:00:00','2021/07/28 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10006101,10006,'Landosol City',201,'bgm_M128','bgm_M128','2021/08/18 23:00:00','2021/09/05 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10006201,10006,'Landosol City',201,'bgm_M128','bgm_M128','2021/08/18 23:00:00','2021/09/05 22:59:59',1,0,0,0,0,'0','0',0);

@@ -239,6 +239,14 @@ INSERT INTO "album_production_list" VALUES(10360105,103601,104,'Bond Level 4',''
 INSERT INTO "album_production_list" VALUES(10360106,103601,105,'Bond Level 5','');
 INSERT INTO "album_production_list" VALUES(10360107,103601,106,'Bond Level 6','');
 INSERT INTO "album_production_list" VALUES(10360108,103601,107,'Bond Level 7','');
+INSERT INTO "album_production_list" VALUES(10370101,103701,201,'Unlock animation 1','');
+INSERT INTO "album_production_list" VALUES(10370102,103701,101,'Bond Level 1','');
+INSERT INTO "album_production_list" VALUES(10370103,103701,102,'Bond Level 2','');
+INSERT INTO "album_production_list" VALUES(10370104,103701,103,'Bond Level 3','');
+INSERT INTO "album_production_list" VALUES(10370105,103701,104,'Bond Level 4','');
+INSERT INTO "album_production_list" VALUES(10370106,103701,105,'Bond Level 5','');
+INSERT INTO "album_production_list" VALUES(10370107,103701,106,'Bond Level 6','');
+INSERT INTO "album_production_list" VALUES(10370108,103701,107,'Bond Level 7','');
 INSERT INTO "album_production_list" VALUES(10380101,103801,201,'Unlock animation 1','');
 INSERT INTO "album_production_list" VALUES(10380102,103801,101,'Bond Level 1','');
 INSERT INTO "album_production_list" VALUES(10380103,103801,102,'Bond Level 2','');

@@ -299,6 +299,16 @@ INSERT INTO "unit_comments" VALUES(1036007,103631,1,2,1,0.0,1,'M-my legs have go
 INSERT INTO "unit_comments" VALUES(1036008,103631,1,3,1,0.0,1,'Urgh... Why does he always have to see me at the most embarrassing moments?');
 INSERT INTO "unit_comments" VALUES(1036009,103631,1,4,1,0.0,1,'I... I''m not scared of monsters!\nB-but it was nice of you...\nto protect me...');
 INSERT INTO "unit_comments" VALUES(1036010,103631,1,5,1,0.0,1,'It''s not safe outside the city.\nThere are monsters out there.\nSo I''ll just have to protect you.');
+INSERT INTO "unit_comments" VALUES(1037001,103701,1,1,3,8.2,1,'Oh? What are you doing here?\nIf you make any sudden moves,\nI might have to arrest you.\n...Haha, I''m just kidding!');
+INSERT INTO "unit_comments" VALUES(1037002,103701,1,2,1,6.6,2,'I''d like to do some training with you. Don''t worry, don''t worry!\nOf course I''ll go easy on you!\nHaha... Unless I change my mind.');
+INSERT INTO "unit_comments" VALUES(1037003,103701,1,3,1,5.6,2,'It''s about time for my daily patrol. Want to join me?\nDon''t worry, I''ll keep you safe if we run into any kind of trouble.');
+INSERT INTO "unit_comments" VALUES(1037004,103701,1,4,1,6.4,4,'Hmmm... I always thought I was pretty quick-witted, but with you, I stumble over my words. What''s wrong with me lately?');
+INSERT INTO "unit_comments" VALUES(1037005,103701,1,5,4,9.1,5,'Whenever I try to tease you, you seem to turn the tables on me. Honestly, what am I going to do with you? It really throws me off.');
+INSERT INTO "unit_comments" VALUES(1037006,103731,1,1,1,0.0,1,'Watch the enemy''s movements, and when you see an opening, deliver a decisive strike! That''s the essence of swordfighting.');
+INSERT INTO "unit_comments" VALUES(1037007,103731,1,2,1,0.0,1,'I''m always tired out after a battle, and hungry, too. Do you want to join me for a meal?');
+INSERT INTO "unit_comments" VALUES(1037008,103731,1,3,1,0.0,1,'As you eliminate unnecessary motions, your strikes become more and more fluid. A simple concept, but tricky to execute.');
+INSERT INTO "unit_comments" VALUES(1037009,103731,1,4,1,0.0,1,'I want to get even stronger\nso I can protect you from harm. That''s my main motivation lately.\nIt makes me glad to be a knight.');
+INSERT INTO "unit_comments" VALUES(1037010,103731,1,5,1,0.0,1,'Just being around you fills me with strength. There''s something about you that has a positive effect on me.');
 INSERT INTO "unit_comments" VALUES(1038001,103801,1,1,2,2.5,5,'I know a great book you should read. It''d be fun if we could talk about it together.');
 INSERT INTO "unit_comments" VALUES(1038002,103801,1,2,4,2.0,1,'*cough, hack* Umm, could you please pat my back a little?');
 INSERT INTO "unit_comments" VALUES(1038003,103801,1,3,2,7.0,5,'When I get better, I want to go somewhere far, far away with you. Maybe. Hee hee!');
