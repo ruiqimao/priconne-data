@@ -39,6 +39,16 @@ INSERT INTO "unit_comments" VALUES(1004007,100431,1,2,1,0.0,1,'I''m looking forw
 INSERT INTO "unit_comments" VALUES(1004008,100431,1,3,1,0.0,1,'C''mon, mister! Hurry up! Let''s go exploring! I''ve been waiting for you!');
 INSERT INTO "unit_comments" VALUES(1004009,100431,1,4,1,0.0,1,'Since I like you so much, I''m gonna come up with lots more pranks just for you!');
 INSERT INTO "unit_comments" VALUES(1004010,100431,1,5,1,0.0,1,'When I play with you, it''s almost like I''ve got a big brother! I love it!');
+INSERT INTO "unit_comments" VALUES(1005001,100501,1,1,1,4.6,2,'If you''re ever in trouble,\nyou can always call on me!\nI may only be an apprentice knight, but I''m a hero at heart!');
+INSERT INTO "unit_comments" VALUES(1005002,100501,1,2,1,3.2,2,'Let''s go take down some evil organizations! We''re still barely halfway to being true heroes, but two halves make a whole!');
+INSERT INTO "unit_comments" VALUES(1005003,100501,1,3,1,8.8,4,'My mom and dad always want me to wear cute outfits. All covered in ribbons and lace... Simple and practical is more my style!');
+INSERT INTO "unit_comments" VALUES(1005004,100501,1,4,1,4.6,5,'We should go somewhere quiet together once in a while. Even heroes need to rest sometimes!');
+INSERT INTO "unit_comments" VALUES(1005005,100501,1,5,4,9.8,5,'I really wanna play with you\nall day long! But if we get any closer, you''ll find out my...\nN-no! I didn''t say anything!');
+INSERT INTO "unit_comments" VALUES(1005006,100531,1,1,1,0.0,1,'Haaahhhh!\nAs long as we have the\ncourage to stand up to evil,\njustice will always prevail!');
+INSERT INTO "unit_comments" VALUES(1005007,100531,1,2,1,0.0,1,'Yeeeaahhh! I''m getting fired up! Let''s blaze down the path to true herodom!');
+INSERT INTO "unit_comments" VALUES(1005008,100531,1,3,1,0.0,1,'If world peace is at stake,\nI won''t lose to any villain!\nA true hero never goes back\non her word!');
+INSERT INTO "unit_comments" VALUES(1005009,100531,1,4,1,0.0,1,'With the courage you give me,\nI''ll transform into the world''s greatest hero!');
+INSERT INTO "unit_comments" VALUES(1005010,100531,1,5,1,0.0,1,'Being with you gives me a hundred... no, a million times\nmy usual courage!\nSo you gotta stick with me!');
 INSERT INTO "unit_comments" VALUES(1006001,100601,1,1,5,3.5,2,'Say, would you come help me with my saxophone practice later?');
 INSERT INTO "unit_comments" VALUES(1006002,100601,1,2,4,5.0,5,'*pant... pant...* That''s enough sax for now... You really know how to wear a girl out...');
 INSERT INTO "unit_comments" VALUES(1006003,100601,1,3,6,3.0,4,'What? You want to keep going? But I''m so worn out... I don''t have much more in me...');

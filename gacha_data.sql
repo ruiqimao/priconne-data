@@ -13,6 +13,7 @@ INSERT INTO "gacha_data" VALUES(10011,'Normal Gacha','Get items and Memory Shard
 INSERT INTO "gacha_data" VALUES(10012,'Normal Gacha','Get items and Memory Shards!',1,3,0,1,0,10,0,'10012','',0,0,'2021/07/09 23:00:00','2021/08/01 22:59:59',0,0,0,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(10013,'Normal Gacha','Get items and Memory Shards!',1,3,0,1,0,10,0,'10013','',0,0,'2021/08/01 23:00:00','2021/08/18 22:59:59',0,0,0,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(10014,'Normal Gacha','Get items and Memory Shards!',1,3,0,1,0,10,0,'10014','',0,0,'2021/08/18 23:00:00','2021/09/07 22:59:59',0,0,0,0,'0','0','0','0');
+INSERT INTO "gacha_data" VALUES(10015,'Normal Gacha','Get items and Memory Shards!',1,3,0,1,0,10,0,'10015','',0,0,'2021/09/07 23:00:00','2021/09/24 22:59:59',0,0,0,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(20001,'Premium Gacha','The Premium Gacha only contains characters!',2,2,150,0,0,0,50,'20001','21001',1,200001,'2020/03/13 15:00:00','2021/01/29 22:59:59',24001,0,0,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(20002,'Premium Gacha','The Premium Gacha only contains characters!',2,2,150,0,0,0,50,'20002','21002',1,200001,'2021/01/29 23:00:00','2021/02/08 22:59:59',24001,0,2,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(20003,'Premium Gacha','The Premium Gacha only contains characters!',2,2,150,0,0,0,50,'20003','21003',1,200001,'2021/02/08 23:00:00','2021/02/17 22:59:59',24001,0,3,0,'0','0','0','0');
@@ -27,6 +28,7 @@ INSERT INTO "gacha_data" VALUES(20011,'Premium Gacha','The Premium Gacha only co
 INSERT INTO "gacha_data" VALUES(20012,'Premium Gacha','The Premium Gacha only contains characters!',2,2,150,0,0,0,50,'20012','21012',1,200001,'2021/07/09 23:00:00','2021/08/01 22:59:59',24001,0,12,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(20013,'Premium Gacha','The Premium Gacha only contains characters!',2,2,150,0,0,0,50,'20013','21013',1,200001,'2021/08/01 23:00:00','2021/08/18 22:59:59',24001,0,13,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(20014,'Premium Gacha','The Premium Gacha only contains characters!',2,2,150,0,0,0,50,'20014','21014',1,200001,'2021/08/18 23:00:00','2021/09/07 22:59:59',24001,0,14,0,'0','0','0','0');
+INSERT INTO "gacha_data" VALUES(20015,'Premium Gacha','The Premium Gacha only contains characters!',2,2,150,0,0,0,50,'20015','21015',1,200001,'2021/09/07 23:00:00','2021/09/24 22:59:59',24001,0,15,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(30001,'Focus Gacha','Boosted rates for the new character Djeeta!',2,2,150,0,0,0,50,'30001','31001',1,300001,'2021/01/19 23:00:00','2021/01/29 22:59:59',24001,0,0,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(30002,'Focus Gacha','Boosted rates for the new character Jun!',2,2,150,0,0,0,50,'30002','31002',1,300002,'2021/01/29 23:00:00','2021/02/08 22:59:59',24001,0,2,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(30003,'Focus Gacha','Boosted rates for the new character Rin!',2,2,150,0,0,0,50,'30003','31003',1,300003,'2021/02/08 23:00:00','2021/02/17 22:59:59',24001,0,3,0,'0','0','0','0');
@@ -40,5 +42,6 @@ INSERT INTO "gacha_data" VALUES(30010,'Focus Gacha','Boosted rates for the limit
 INSERT INTO "gacha_data" VALUES(30011,'Focus Gacha','Boosted rates for the limited character Suzume!',2,2,150,0,0,0,50,'30011','31011',1,300011,'2021/06/22 23:00:00','2021/07/09 22:59:59',24001,0,11,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(30012,'Focus Gacha','Boosted rates for the limited character Karyl!',2,2,150,0,0,0,50,'30012','31012',1,300012,'2021/07/09 23:00:00','2021/08/01 22:59:59',24001,0,12,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(30014,'Focus Gacha','Boosted rates for the new character Tomo!',2,2,150,0,0,0,50,'30014','31014',1,300014,'2021/08/18 23:00:00','2021/09/07 22:59:59',24001,0,14,0,'0','0','0','0');
+INSERT INTO "gacha_data" VALUES(30015,'Focus Gacha','Boosted rates for the new character Matsuri!',2,2,150,0,0,0,50,'30015','31015',1,300015,'2021/09/07 23:00:00','2021/09/24 22:59:59',24001,0,15,0,'0','0','0','0');
 INSERT INTO "gacha_data" VALUES(40001,'Half Anniversary Gacha','Double rates for 3★ characters!\nBoosted rates for the limited character Tamaki!',2,2,150,0,0,0,50,'40001','41001',1,400001,'2021/08/01 23:00:00','2021/08/18 22:59:59',24001,0,13,0,'0','0','0','0');
-INSERT INTO "gacha_data" VALUES(60001,'Jump Start Gacha','The Jump Start Gacha is here!',2,2,1500,0,0,0,50,'60014','61014',1,600001,'2021/01/19 23:00:00','2030/02/28 14:59:59',24001,0,9999,0,'250000','0','0','0');
+INSERT INTO "gacha_data" VALUES(60001,'Jump Start Gacha','The Jump Start Gacha is here!',2,2,1500,0,0,0,50,'60015','61015',1,600001,'2021/01/19 23:00:00','2030/02/28 14:59:59',24001,0,9999,0,'250000','0','0','0');

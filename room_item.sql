@@ -211,3 +211,14 @@ INSERT INTO "room_item" VALUES(609,4,902,'Seabed Wall',1,1,1,0,'2021-08-01 23:00
 INSERT INTO "room_item" VALUES(610,3,901,'Seabed Flooring',1,1,1,0,'2021-08-01 23:00:00','2021-09-04 22:59:59','',1200,0,0,0,600,900203);
 INSERT INTO "room_item" VALUES(611,1,299,'Pink Shell Cushion',1,1,10,0,'2021-08-01 23:00:00','2021-09-04 22:59:59','',1500,0,0,0,750,900210);
 INSERT INTO "room_item" VALUES(612,1,299,'Rice Ball Costume',1,1,1,0,'2021-08-18 01:00:00','','',-1,0,0,0,0,900213);
+INSERT INTO "room_item" VALUES(701,1,299,'Training Cannon',1,1,10,0,'2021-09-07 23:00:00','','',1000,0,0,0,500,900224);
+INSERT INTO "room_item" VALUES(702,1,299,'Training Dummy',1,1,10,0,'2021-09-07 23:00:00','','',600,0,0,0,300,900223);
+INSERT INTO "room_item" VALUES(703,1,202,'Lion Fountain',1,1,10,0,'2021-09-07 23:00:00','','',600,0,0,0,300,900222);
+INSERT INTO "room_item" VALUES(704,1,202,'Jun''s Spare Armor',1,1,10,0,'2021-09-07 23:00:00','','',600,0,0,0,300,900221);
+INSERT INTO "room_item" VALUES(705,2,202,'Matsuri''s Spare Shield',1,1,10,0,'2021-09-07 23:00:00','','',300,0,0,0,150,900220);
+INSERT INTO "room_item" VALUES(706,1,904,'Palace Upward Stairwell',1,1,3,0,'2021-09-07 23:00:00','','',1500,0,0,0,750,900219);
+INSERT INTO "room_item" VALUES(707,1,904,'Palace Downward Stairwell',1,1,3,0,'2021-09-07 23:00:00','','',1500,0,0,0,750,900218);
+INSERT INTO "room_item" VALUES(708,2,202,'Elegant Banner',1,1,10,0,'2021-09-07 23:00:00','','',600,0,0,0,300,900217);
+INSERT INTO "room_item" VALUES(709,2,199,'Stylish Wall Lamp',1,1,10,0,'2021-09-07 23:00:00','','',600,0,0,0,300,900216);
+INSERT INTO "room_item" VALUES(710,4,902,'Palace Wall',1,1,1,0,'2021-09-07 23:00:00','','',1200,0,0,0,600,900215);
+INSERT INTO "room_item" VALUES(711,3,901,'Palace Flooring',1,1,1,0,'2021-09-07 23:00:00','','',1200,0,0,0,600,900214);

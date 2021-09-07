@@ -19,6 +19,11 @@ INSERT INTO "skill_data" VALUES(1004002,'Ink Spray',0,0,1.55,100400201,100400202
 INSERT INTO "skill_data" VALUES(1004003,'Water Balloon',0,0,1.18,100400301,100400302,100400303,0,0,0,0,0,100400301,0,0,0,0,0,'Deals small physical damage to an enemy with the highest physical attack and lowers its physical attack by a small amount. Small boost to own physical attack.',2004);
 INSERT INTO "skill_data" VALUES(1004501,'Professional Prankster',0,0,0.0,100450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical defense at start of battle.',3002);
 INSERT INTO "skill_data" VALUES(1004511,'Professional Prankster+',0,0,0.0,100451101,100451102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical defense and small boost to physical attack at start of battle.',3002);
+INSERT INTO "skill_data" VALUES(1005001,'Tiger Heroic Bomber',0,0,0.0,100500101,100500102,100500103,0,0,0,0,0,0,100500102,0,0,0,0,'Leaps toward the third-closest enemy and deals large physical damage to all enemies in an area around oneself.',1001);
+INSERT INTO "skill_data" VALUES(1005002,'Tiger Shock',0,0,0.76,100500201,100500202,0,0,0,0,0,0,100500201,0,0,0,0,0,'Deals small physical damage to all enemies in an area around oneself and inflicts Stun.',2018);
+INSERT INTO "skill_data" VALUES(1005003,'Tiger Spin',0,0,1.5,100500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to all enemies in an area around oneself.',2001);
+INSERT INTO "skill_data" VALUES(1005501,'Hero''s Code',0,0,0.0,100550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1005511,'Hero''s Code+',0,0,0.0,100551101,100551102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack and small boost to own physical defense at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1006001,'Little Devil''s Cheer',1,0,0.0,100600101,100600102,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to magical attack of all allies and recovers their HP based on the damage dealt by their next attack.',1003);
 INSERT INTO "skill_data" VALUES(1006002,'Shadow Bolt',0,0,1.18,100600201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to an enemy directly in front.',2002);
 INSERT INTO "skill_data" VALUES(1006003,'Impish Kiss',1,0,1.25,100600301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lowers magical defense of an enemy directly in front by a moderate amount.',2004);
@@ -323,6 +328,7 @@ INSERT INTO "skill_data" VALUES(2033012,'',1,0,3.0,200300101,200300102,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2033013,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2034001,'',1,0,4.0,203400101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2035001,'',0,0,3.0,203500101,203500102,0,0,0,0,0,0,203500101,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(2035011,'',0,0,3.0,203501101,203501102,0,0,0,0,0,0,203501101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2037001,'',0,0,3.0,203700101,203700102,0,0,0,0,0,0,203700101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2042001,'',1,0,5.0,204200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2043001,'',1,0,3.0,204300101,204300102,0,0,0,0,0,0,204300101,0,0,0,0,0,'sample',1001);
@@ -338,6 +344,7 @@ INSERT INTO "skill_data" VALUES(2053001,'',1,0,3.0,205300101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2054001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2054011,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'Magma Fish',1001);
 INSERT INTO "skill_data" VALUES(2055001,'',0,0,3.0,205500101,205500102,205500103,0,0,0,0,0,205500101,205500102,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(2060001,'',1,0,4.0,206000101,206000102,206000103,206000104,0,0,0,0,206000101,206000101,206000101,0,0,0,'Sealidon skill',1001);
 INSERT INTO "skill_data" VALUES(3001001,'',0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3001002,'',0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3001003,'',1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,'sample',1001);
@@ -480,6 +487,8 @@ INSERT INTO "skill_data" VALUES(3030003,'',0,0,2.0,303000301,303000302,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3030004,'',0,0,3.0,303000401,0,0,0,0,0,0,0,0,0,0,0,0,0,'Awakening',1001);
 INSERT INTO "skill_data" VALUES(3030005,'',0,0,3.0,303000501,0,0,0,0,0,0,0,0,0,0,0,0,0,'-',1001);
 INSERT INTO "skill_data" VALUES(3030006,'',0,0,3.0,303000601,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
+INSERT INTO "skill_data" VALUES(3031001,'',0,0,0.0,303100101,303100102,0,0,0,0,0,0,0,0,0,0,0,0,'Slumbear: Union Burst',1001);
+INSERT INTO "skill_data" VALUES(3031002,'',0,0,1.5,303100201,303100202,303100203,303100204,0,0,0,0,0,303100202,303100202,0,0,0,'Slumbear: Skill',1001);
 INSERT INTO "skill_data" VALUES(3032001,'',0,0,2.0,303200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3032002,'',0,0,2.0,303200201,303200202,0,0,0,0,0,0,303200201,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3033001,'',1,0,2.0,303300101,303300102,303300103,0,0,0,0,0,303300101,303300102,0,0,0,0,'sample',1001);

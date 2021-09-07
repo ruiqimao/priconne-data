@@ -27,6 +27,13 @@ INSERT INTO "chara_story_status" VALUES(1004005,'Misogi''s Episode 5',2,40,0,0,0
 INSERT INTO "chara_story_status" VALUES(1004006,'Misogi''s Episode 6',2,40,3,4,0,0,0,0,0,0,1004,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1004007,'Misogi''s Episode 7',2,40,3,4,0,0,0,0,0,0,1004,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1004008,'Misogi''s Episode 8',2,60,3,6,1,200,0,0,0,0,1004,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1005002,'Matsuri''s Episode 2',2,15,0,0,0,0,0,0,0,0,1005,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1005003,'Matsuri''s Episode 3',2,30,0,0,0,0,0,0,0,0,1005,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1005004,'Matsuri''s Episode 4',2,30,0,0,0,0,0,0,0,0,1005,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1005005,'Matsuri''s Episode 5',2,40,0,0,0,0,0,0,0,0,1005,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1005006,'Matsuri''s Episode 6',2,40,1,200,0,0,0,0,0,0,1005,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1005007,'Matsuri''s Episode 7',2,40,1,200,0,0,0,0,0,0,1005,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1005008,'Matsuri''s Episode 8',2,60,1,300,6,10,0,0,0,0,1005,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1006002,'Akari''s Episode 2',4,15,0,0,0,0,0,0,0,0,1006,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1006003,'Akari''s Episode 3',4,15,0,0,0,0,0,0,0,0,1006,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1006004,'Akari''s Episode 4',4,30,0,0,0,0,0,0,0,0,1006,0,0,0,0,0,0,0,0,0);

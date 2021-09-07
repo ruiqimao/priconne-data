@@ -3,6 +3,7 @@ INSERT INTO "tips" VALUES(4100101,100101,1,'The Best-Laid Plans');
 INSERT INTO "tips" VALUES(4100201,100201,1,'Sweet Dreams');
 INSERT INTO "tips" VALUES(4100301,100301,1,'Simple Pleasures');
 INSERT INTO "tips" VALUES(4100401,100401,1,'Little Prankster');
+INSERT INTO "tips" VALUES(4100501,100501,1,'Pose Practice');
 INSERT INTO "tips" VALUES(4100601,100601,1,'Puppy-Dog Eyes');
 INSERT INTO "tips" VALUES(4100701,100701,1,'A Haunting Decision');
 INSERT INTO "tips" VALUES(4100801,100801,1,'The Finest Prize of All');

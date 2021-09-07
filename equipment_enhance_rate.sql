@@ -38,7 +38,7 @@ INSERT INTO "equipment_enhance_rate" VALUES(102342,'Ninja Outfit','Clothing',2,1
 INSERT INTO "equipment_enhance_rate" VALUES(102371,'Springtime Robe','Wizard''s Robes',2,65.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(102372,'Nordic Robe','Wizard''s Robes',2,120.0,0.0,7.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(102401,'Tower Shield','Shield',2,135.0,7.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
-INSERT INTO "equipment_enhance_rate" VALUES(102431,'Crown Boots','Shoes',2,30.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(102431,'Clown Boots','Shoes',2,30.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(102432,'Hunting Boots','Shoes',2,60.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(102461,'Witch''s Boots','Wizard''s Shoes',2,30.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(102491,'Cute Cap','Helmet',2,90.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
@@ -170,3 +170,12 @@ INSERT INTO "equipment_enhance_rate" VALUES(104583,'Disciple''s Pendant','Defens
 INSERT INTO "equipment_enhance_rate" VALUES(104611,'Selene''s Lament','Magic Accessory',4,20.0,0.0,12.0,0.0,0.0,0.0,1.2,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(104612,'Dragon''s Tears','Magic Accessory',4,24.0,0.0,14.0,0.0,0.0,0.0,1.6,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(104613,'Archsage''s Orb','Magic Accessory',4,0.0,0.0,16.0,0.0,0.0,0.0,2.0,0.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105011,'Lightning Blade','Sword',5,24.0,21.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6);
+INSERT INTO "equipment_enhance_rate" VALUES(105041,'Whiteblossom Blade','Katana',5,0.0,23.6,0.0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6);
+INSERT INTO "equipment_enhance_rate" VALUES(105071,'Emerald Dagger','Dagger',5,24.0,20.0,0.0,0.0,0.0,4.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105101,'Moon Caestus','Fist',5,0.0,24.0,0.0,0.0,0.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6);
+INSERT INTO "equipment_enhance_rate" VALUES(105131,'Platinum Wingspan','Bow',5,0.0,20.0,0.0,0.0,0.8,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105161,'Deepfrost Lance','Spear',5,0.0,19.6,0.0,0.8,0.4,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105191,'Reaper Axe','Axe',5,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.2);
+INSERT INTO "equipment_enhance_rate" VALUES(105221,'Xenosphere Rod','Attack Staff',5,0.0,0.0,20.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105251,'Pyramour Rod','Restoration Staff',5,0.0,0.0,19.0,0.0,0.8,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,1.2,0.0,0.0,0.0);
