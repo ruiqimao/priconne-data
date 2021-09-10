@@ -538,6 +538,7 @@ INSERT INTO "skill_action" VALUES(206000101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.
 INSERT INTO "skill_action" VALUES(206000102,1,3,1,0,0,140.0,0.0,1050.0,450.0,0.0,0.0,0.0,1,1,150,1,0,1,'Knockback (vertical)','');
 INSERT INTO "skill_action" VALUES(206000103,1,3,3,0,0,270.0,0.0,525.0,0.0,0.0,0.0,0.0,1,1,150,1,0,1,'Knockback (horizontal)','');
 INSERT INTO "skill_action" VALUES(206000104,1,10,41,1,0,1.0,0.8,0.8,12.0,0.0,0.0,0.0,1,1,150,1,0,1,'Magic defense debuff','');
+INSERT INTO "skill_action" VALUES(206300101,1,16,1,0,0,99.0,1.0,0.0,0.0,0.0,0.0,0.0,2,1,1500,24,0,1,'','');
 INSERT INTO "skill_action" VALUES(300100101,1,1,1,0,0,0.5,0.5,0.2,0.0,0.0,0.0,0.0,1,3,3000,3,0,99,'','');
 INSERT INTO "skill_action" VALUES(300100102,1,9,2,0,0,15.0,1.5,10.0,0.0,0.0,0.0,0.0,1,3,3000,3,0,99,'','');
 INSERT INTO "skill_action" VALUES(300100201,1,1,1,0,0,5.0,0.4,1.0,0.0,0.0,0.0,0.0,1,1,3000,3,0,1,'','');

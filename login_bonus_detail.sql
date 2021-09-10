@@ -39,7 +39,7 @@ INSERT INTO "login_bonus_detail" VALUES(38,40001,2,8,91002,150,107601,'Kokkoro',
 INSERT INTO "login_bonus_detail" VALUES(39,40001,3,8,91002,150,107801,'Karyl','Hey, this is actually kind of a big\ndeal, huh? I guess I''m a little bit...\nw-well, okay, a lot impressed.\nKeep up the good work! ♪',1,0);
 INSERT INTO "login_bonus_detail" VALUES(40,40001,4,8,91002,150,107701,'Suzume','This celebration is a special time\nfor both of us. You give me the\ncourage to always do my best!',1,0);
 INSERT INTO "login_bonus_detail" VALUES(41,40001,5,8,91002,150,107901,'Tamaki','I''d nyever miss out on\ncelebrating your special occasion.\nI''m a huge fan of all the fur-\nraising exploits you get up to! ♪',1,0);
-INSERT INTO "login_bonus_detail" VALUES(42,40001,6,8,91002,150,107501,'Pecorine','Ahhh, I ate too much shaved ice,]nand now my body''s freezing!]nYou''ll help me warm up,\nwon''t you? Big hugs~! ♪',2,0);
+INSERT INTO "login_bonus_detail" VALUES(42,40001,6,8,91002,150,107501,'Pecorine','Ahhh, I ate too much shaved ice,\nand now my body''s freezing!\nYou''ll help me warm up,\nwon''t you? Big hugs~! ♪',2,0);
 INSERT INTO "login_bonus_detail" VALUES(43,40001,7,8,91002,150,107601,'Kokkoro','One frequently hears that the\nsummer season is rife with\ndangers... But I will protect you\nno matter what arises, my lord.',2,0);
 INSERT INTO "login_bonus_detail" VALUES(44,40001,8,8,91002,150,107801,'Karyl','How did I end up spending my\nsummer with you of all people?\nOh well, I guess it''s been fun.\nCome on, we''re not done yet!',2,0);
 INSERT INTO "login_bonus_detail" VALUES(45,40001,9,8,91002,150,107701,'Suzume','Our very first summer together...\nI''m so excited, I might collapse!\nI''m sure it''ll be another wonderful\nexperience to remember!',2,0);

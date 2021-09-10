@@ -319,6 +319,14 @@ INSERT INTO "stationary_mission_data" VALUES(21005001,110,204,'Clear the Cloudto
 INSERT INTO "stationary_mission_data" VALUES(21005002,110,204,'Clear the Deepwood Oak',1005,31002010,0,0,1,21005002,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21005003,110,204,'Clear the Sheercliff Ruins',1005,31003010,0,0,1,21005003,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21005004,110,204,'Clear the Tideborne Tower',1005,31004005,0,0,1,21005004,104,'2021/06/23 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102001,160,208,'Clear Floor 10 of the Tower of Luna',1102,71010010,0,0,1,21102001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102002,160,208,'Clear Floor 20 of the Tower of Luna',1102,71010020,0,0,1,21102001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102003,160,208,'Clear Floor 30 of the Tower of Luna',1102,71010030,0,0,1,21102001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102004,160,208,'Clear Floor 40 of the Tower of Luna',1102,71010040,0,0,1,21102001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102005,160,208,'Clear Floor 50 of the Tower of Luna',1102,71010050,0,0,1,21102001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102006,160,208,'Clear Floor 60 of the Tower of Luna',1102,71010060,0,0,1,21102001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102007,160,208,'Clear Floor 70 of the Tower of Luna',1102,71010070,0,0,1,21102001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21103001,161,208,'Clear Floor 70''s EX Quest in the Tower of Luna',1103,72010070,0,0,1,21103001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002001,90,205,'Win 10 times in the Battle Arena',4002,0,0,0,10,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002002,90,205,'Win 20 times in the Battle Arena',4002,0,0,0,20,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002003,90,205,'Win 30 times in the Battle Arena',4002,0,0,0,30,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');

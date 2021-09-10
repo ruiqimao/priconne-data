@@ -3,6 +3,7 @@ INSERT INTO "daily_mission_data" VALUES(11001001,1,200,'Clear Main or event ques
 INSERT INTO "daily_mission_data" VALUES(11003001,2,200,'Clear Main or event quests (HARD) 3 times',1003,0,0,0,3,11003001,102,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "daily_mission_data" VALUES(11004001,7,202,'Clear Grotto 4 times',1004,0,0,0,4,11004001,103,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "daily_mission_data" VALUES(11005001,9,204,'Clear a Dungeon battle 1 time',1005,0,0,0,1,11005001,104,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "daily_mission_data" VALUES(11101001,14,208,'Attempt a Tower of Luna battle 1 time',1101,0,0,0,1,11101001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "daily_mission_data" VALUES(13002001,3,401,'Draw the normal Gacha 10 times',3002,0,0,0,10,13002001,301,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "daily_mission_data" VALUES(14001001,11,205,'Participate in the Battle Arena 1 time',4001,0,0,0,1,14001001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "daily_mission_data" VALUES(14003001,12,205,'Participate in the Princess Arena 1 time',4003,0,0,0,1,14003001,402,'2015/04/01 15:00:00','2030/04/01 14:59:59');

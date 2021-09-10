@@ -320,3 +320,4 @@ INSERT INTO "equipment_data" VALUES(124523,'Gospel Tiara Blueprint','Gospel Tiar
 INSERT INTO "equipment_data" VALUES(125101,'Moon Caestus Blueprint','Moon Caestus Blueprint.',5,0,4,1200,64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0);
 INSERT INTO "equipment_data" VALUES(125131,'Platinum Wingspan Blueprint','Platinum Wingspan Blueprint.',5,0,4,1200,64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0);
 INSERT INTO "equipment_data" VALUES(125191,'Reaper Axe Blueprint','Reaper Axe Blueprint.',5,0,4,1200,64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0);
+INSERT INTO "equipment_data" VALUES(140000,'Princess Heart','An item necessary to forge each character''s Unique Equipment.',99,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0);
