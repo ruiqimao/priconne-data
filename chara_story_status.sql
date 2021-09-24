@@ -381,3 +381,9 @@ INSERT INTO "chara_story_status" VALUES(1079004,'Tamaki (Summer)''s Episode 4',2
 INSERT INTO "chara_story_status" VALUES(1080002,'Mifuyu (Summer)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1080,1048,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1080003,'Mifuyu (Summer)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1080,1048,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1080004,'Mifuyu (Summer)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1080,1048,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1081002,'Shinobu (Halloween)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1081,1031,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1081003,'Shinobu (Halloween)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1081,1031,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1081004,'Shinobu (Halloween)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1081,1031,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1082002,'Miyako (Halloween)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1082,1007,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1082003,'Miyako (Halloween)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1082,1007,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1082004,'Miyako (Halloween)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1082,1007,0,0,0,0,0,0,0,0);

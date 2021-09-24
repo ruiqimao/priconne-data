@@ -346,3 +346,15 @@ INSERT INTO "notif_data" VALUES(108001,3,'Your guildhouse''s stamina supply is f
 INSERT INTO "notif_data" VALUES(108001,4,'Your guildhouse has generated a full stock of EXP potions. Let''s boost our levels and conquer the beach!');
 INSERT INTO "notif_data" VALUES(108001,5,'The Mana you''ve been generating at your guildhouse is full. Let''s use it to fund a summer expedition!');
 INSERT INTO "notif_data" VALUES(108001,6,'All the items at your guildhouse are at full capacity. Let''s put them to use and maximize our seaside efficiency!');
+INSERT INTO "notif_data" VALUES(108101,1,'Your stamina is fully recovered... Apparently my father would like to go out and look at girls in Halloween costumes.');
+INSERT INTO "notif_data" VALUES(108101,2,'Your guildhouse''s skip ticket supply is full now... There''s always time for some Halloween adventures.');
+INSERT INTO "notif_data" VALUES(108101,3,'Your guildhouse has generated a full supply of stamina... Perhaps we should throw a big Halloween party.');
+INSERT INTO "notif_data" VALUES(108101,4,'The EXP potion device in your guildhouse is overflowing... This should give us the strength to defeat any nasty Halloween spirits.');
+INSERT INTO "notif_data" VALUES(108101,5,'The Mana generator in your guildhouse is full. Let''s buy some candy to hand out at Halloween.');
+INSERT INTO "notif_data" VALUES(108101,6,'All the resources being generated in your guildhouse are full. Do you think it''s time for some Halloween adventures?');
+INSERT INTO "notif_data" VALUES(108201,1,'Your stamina filled right up! Time to go buy special Halloween pudding!');
+INSERT INTO "notif_data" VALUES(108201,2,'Trick or pudding! Your guildhouse is full of skip tickets!');
+INSERT INTO "notif_data" VALUES(108201,3,'Your guildhouse made too much stamina! Time for a Halloween party to use it up!');
+INSERT INTO "notif_data" VALUES(108201,4,'Your guildhouse filled up with EXP potions. Miyako will play tricks if you don''t pick them up!');
+INSERT INTO "notif_data" VALUES(108201,5,'How much Mana is in your guildhouse now? Enough to buy puddings and treats for Miyako!');
+INSERT INTO "notif_data" VALUES(108201,6,'Your guildhouse is all filled up with items! Pick them up and let''s do Halloween!');
