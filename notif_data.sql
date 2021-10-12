@@ -358,3 +358,9 @@ INSERT INTO "notif_data" VALUES(108201,3,'Your guildhouse made too much stamina!
 INSERT INTO "notif_data" VALUES(108201,4,'Your guildhouse filled up with EXP potions. Miyako will play tricks if you don''t pick them up!');
 INSERT INTO "notif_data" VALUES(108201,5,'How much Mana is in your guildhouse now? Enough to buy puddings and treats for Miyako!');
 INSERT INTO "notif_data" VALUES(108201,6,'Your guildhouse is all filled up with items! Pick them up and let''s do Halloween!');
+INSERT INTO "notif_data" VALUES(108301,1,'Your stamina''s all recovered! Let''s head out into town and enjoy Halloween!');
+INSERT INTO "notif_data" VALUES(108301,2,'Your skip tickets at the guildhouse are full! Which means you''ve got a responsibility to take me on a date.');
+INSERT INTO "notif_data" VALUES(108301,3,'Your stamina at the guildhouse is all full. And you look like you''re in the mood for some candy, so let''s go get some.');
+INSERT INTO "notif_data" VALUES(108301,4,'EXP potions at the guildhouse are full! I''ll use them to become an even more bewitching woman. ♪');
+INSERT INTO "notif_data" VALUES(108301,5,'Hey, your Mana at the guildhouse is full! What, you think I''m excited? Of course I''m not!');
+INSERT INTO "notif_data" VALUES(108301,6,'Your items at the guildhouse are all full! Don''t forget to pick them up—and some candy too!');

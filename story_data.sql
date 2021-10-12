@@ -59,6 +59,7 @@ INSERT INTO "story_data" VALUES(1079,1,1079,'Tamaki (Summer)',0,66,'2015/04/01 1
 INSERT INTO "story_data" VALUES(1080,1,1080,'Mifuyu (Summer)',0,65,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1081,1,1081,'Shinobu (Halloween)',0,67,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1082,1,1082,'Miyako (Halloween)',0,68,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1083,1,1083,'Misaki (Halloween)',0,69,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1900,1,1900,'Ameth',0,90,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2000,2,0,'Prologue_First Connections',2000002,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2001,2,0,'Chapter 1_A Mysterious Girl',2001005,2,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
@@ -69,6 +70,7 @@ INSERT INTO "story_data" VALUES(2005,2,0,'Chapter 5_The Seven Crowns',2005006,6,
 INSERT INTO "story_data" VALUES(2006,2,0,'Chapter 6_Forgotten Princess',2006013,7,'2021/04/11 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2007,2,0,'Chapter 7_Calamity Foretold',2007012,8,'2021/06/12 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2008,2,0,'Chapter 8_Friends or Foes?',2008015,9,'2021/08/09 13:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(2009,2,0,'Chapter 9_Crisis at the Concert',2009099,10,'2021/10/12 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3002,3,2,'Nightmare, Defenders of the Throne',0,8,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);

@@ -387,3 +387,6 @@ INSERT INTO "chara_story_status" VALUES(1081004,'Shinobu (Halloween)''s Episode 
 INSERT INTO "chara_story_status" VALUES(1082002,'Miyako (Halloween)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1082,1007,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1082003,'Miyako (Halloween)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1082,1007,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1082004,'Miyako (Halloween)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1082,1007,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1083002,'Misaki (Halloween)''s Episode 2',4,15,0,0,0,0,0,0,0,0,1083,1050,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1083003,'Misaki (Halloween)''s Episode 3',4,15,0,0,0,0,0,0,0,0,1083,1050,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1083004,'Misaki (Halloween)''s Episode 4',4,30,0,0,0,0,0,0,0,0,1083,1050,0,0,0,0,0,0,0,0);

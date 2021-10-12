@@ -59,3 +59,4 @@ INSERT INTO "unlock_unit_condition" VALUES(107901,'Tamaki (Summer)',1,0,1,2,3107
 INSERT INTO "unlock_unit_condition" VALUES(108001,'Mifuyu (Summer)',1,0,1,2,31080,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(108101,'Shinobu (Halloween)',1,0,1,2,31081,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(108201,'Miyako (Halloween)',1,0,1,2,31082,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_unit_condition" VALUES(108301,'Misaki (Halloween)',1,0,1,2,31083,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

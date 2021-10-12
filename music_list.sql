@@ -1,1 +1,18 @@
 CREATE TABLE 'music_list' ('music_id' INTEGER NOT NULL, 'list_name' TEXT NOT NULL, 'font_size' REAL NOT NULL, 'pre_shop_start' TEXT NOT NULL, 'shop_start' TEXT NOT NULL, 'shop_end' TEXT NOT NULL, 'story_id' INTEGER NOT NULL, 'cost_item_num' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, 'kana' TEXT NOT NULL, 'ios_url' TEXT NOT NULL, 'android_url' TEXT NOT NULL, 'dmm_url' TEXT NOT NULL, PRIMARY KEY('music_id'));
+INSERT INTO "music_list" VALUES(1,'Lost Princess',20.0,'','2021-10-12 23:00:00','',-1,-1,1,'Lost Princess','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-01/1361481742?app=itunes','Br3pksgngmty2s7ovfeflpklt5a','A2001197329/');
+INSERT INTO "music_list" VALUES(2,'Connecting Happy!!',20.0,'','2021-10-12 23:00:00','',-1,-1,2,'Connecting Happy!!','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-02/1361483195?app=itunes','B2m4zv3rn3o4cxukqtjny3sioda','A2001197334/');
+INSERT INTO "music_list" VALUES(3,'The Journey Begins',20.0,'','2021-10-12 23:00:00','',-1,1000,3,'The Journey Begins','','','');
+INSERT INTO "music_list" VALUES(4,'Forest Winds',20.0,'','2021-10-12 23:00:00','',-1,1000,4,'Forest Winds','','','');
+INSERT INTO "music_list" VALUES(5,'Mesarthim',20.0,'','2021-10-12 23:00:00','',-1,1000,5,'Mesarthim','','','');
+INSERT INTO "music_list" VALUES(6,'Hatsune''s Perfect Present',20.0,'','2021-10-12 23:00:00','',-1,1000,6,'Hatsune''s Perfect Present','','','');
+INSERT INTO "music_list" VALUES(7,'Ziz',20.0,'','2021-10-12 23:00:00','',-1,1000,7,'Ziz','','','');
+INSERT INTO "music_list" VALUES(8,'Smiley Contrast',20.0,'','2021-10-12 23:00:00','',-1,1500,8,'Smiley Contrast','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-04/1411112401?app=itunes','Blcnkk6svg3dnhgclbpdljuqjcq','A2001305115/');
+INSERT INTO "music_list" VALUES(9,'Minotaurus',20.0,'','2021-10-12 23:00:00','',-1,1000,9,'Minotaurus','','','');
+INSERT INTO "music_list" VALUES(10,'Little Lyrical Adventure',20.0,'','2021-10-12 23:00:00','',-1,1000,10,'Little Lyrical Adventure','','','');
+INSERT INTO "music_list" VALUES(11,'Alma',20.0,'','2021-10-12 23:00:00','',-1,1000,11,'Alma','','','');
+INSERT INTO "music_list" VALUES(12,'Little Adventure',20.0,'','2021-10-12 23:00:00','',-1,1500,12,'Little Adventure','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-05/1436280052?app=itunes','Bxzjx4azjbgy4jl5pw7wwd7nx2e','A2001336697/');
+INSERT INTO "music_list" VALUES(13,'Glutton',20.0,'','2021-10-12 23:00:00','',-1,1000,13,'Glutton','','','');
+INSERT INTO "music_list" VALUES(14,'Trick or Pudding! The Promised Halloween Party',20.0,'','2021-10-12 23:00:00','',-1,1000,14,'Trick or Pudding! The Promised Halloween Party','','','');
+INSERT INTO "music_list" VALUES(15,'Jack-o-Pudding',20.0,'','2021-10-12 23:00:00','',-1,1000,15,'Jack-o-Pudding','','','');
+INSERT INTO "music_list" VALUES(16,'More! Party Night for Two',20.0,'','2021-10-12 23:00:00','',-1,1500,16,'More! Party Night for Two','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-07/1450772144?app=itunes','B2cxqh5uebipjexv2liwzl6aecu','A2001411119/');
+INSERT INTO "music_list" VALUES(17,'Sparkling Ice Crystals',20.0,'','2021-10-12 23:00:00','',-1,1000,17,'Sparkling Ice Crystals','','','');

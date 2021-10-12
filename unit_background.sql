@@ -65,3 +65,4 @@ INSERT INTO "unit_background" VALUES(107901,'Tamaki (Summer)',500284,'Desert Isl
 INSERT INTO "unit_background" VALUES(108001,'Mifuyu (Summer)',500284,'Desert Island',0.0,2);
 INSERT INTO "unit_background" VALUES(108101,'Shinobu (Halloween)',500264,'Ancient Castle (Halloween)',0.0,4);
 INSERT INTO "unit_background" VALUES(108201,'Miyako (Halloween)',500264,'Ancient Castle (Halloween)',0.0,4);
+INSERT INTO "unit_background" VALUES(108301,'Misaki (Halloween)',505030,'Landosol - Business District (Halloween)',0.0,2);
