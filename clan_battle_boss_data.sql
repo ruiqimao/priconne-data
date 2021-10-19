@@ -39,3 +39,8 @@ INSERT INTO "clan_battle_boss_data" VALUES(10080102,1008,1,2,2);
 INSERT INTO "clan_battle_boss_data" VALUES(10080103,1008,1,3,3);
 INSERT INTO "clan_battle_boss_data" VALUES(10080104,1008,1,4,4);
 INSERT INTO "clan_battle_boss_data" VALUES(10080105,1008,1,5,5);
+INSERT INTO "clan_battle_boss_data" VALUES(10090101,1009,1,1,1);
+INSERT INTO "clan_battle_boss_data" VALUES(10090102,1009,1,2,2);
+INSERT INTO "clan_battle_boss_data" VALUES(10090103,1009,1,3,3);
+INSERT INTO "clan_battle_boss_data" VALUES(10090104,1009,1,4,4);
+INSERT INTO "clan_battle_boss_data" VALUES(10090105,1009,1,5,5);
