@@ -363,6 +363,9 @@ INSERT INTO "chara_story_status" VALUES(1063005,'Arisa''s Episode 5',2,40,0,0,0,
 INSERT INTO "chara_story_status" VALUES(1063006,'Arisa''s Episode 6',2,60,0,0,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1063007,'Arisa''s Episode 7',2,60,0,0,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1063008,'Arisa''s Episode 8',2,90,6,10,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1071002,'Christina''s Episode 2',2,60,0,0,0,0,0,0,0,0,1071,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1071003,'Christina''s Episode 3',2,80,11,60,0,0,0,0,0,0,1071,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1071004,'Christina''s Episode 4',2,100,11,150,5,4,0,0,0,0,1071,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1075002,'Pecorine (Summer)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1075,1058,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1075003,'Pecorine (Summer)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1075,1058,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1075004,'Pecorine (Summer)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1075,1058,0,0,0,0,0,0,0,0);

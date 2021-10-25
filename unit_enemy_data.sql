@@ -202,6 +202,7 @@ INSERT INTO "unit_enemy_data" VALUES(605801,'Pecorine''s Shadow',105801,5,5,450,
 INSERT INTO "unit_enemy_data" VALUES(605901,'Kokkoro''s Shadow',105901,6,6,450,500,1,2.34,0,1,'A peculiar monster bearing a striking resemblance to Kokkoro.');
 INSERT INTO "unit_enemy_data" VALUES(606001,'Karyl''s Shadow',106001,7,7,450,750,2,2.07,0,1,'A peculiar monster bearing a striking resemblance to Karyl.');
 INSERT INTO "unit_enemy_data" VALUES(606301,'Arisa''s Shadow',106301,8,8,450,625,1,1.97,0,1,'A peculiar monster bearing a striking resemblance to Arisa.');
+INSERT INTO "unit_enemy_data" VALUES(607101,'Christina''s Shadow',107101,10,4,450,290,1,2.0,0,1,'A peculiar monster bearing a striking resemblance to Christina.');
 INSERT INTO "unit_enemy_data" VALUES(607501,'Pecorine (Summer)''s Shadow',107501,5,5,450,235,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Pecorine (Summer).');
 INSERT INTO "unit_enemy_data" VALUES(607601,'Kokkoro (Summer)''s Shadow',107601,6,6,450,535,1,2.34,0,1,'A peculiar monster bearing a striking resemblance to Kokkoro (Summer).');
 INSERT INTO "unit_enemy_data" VALUES(607701,'Suzume (Summer)''s Shadow',107701,5,5,450,775,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Suzume (Summer).');
