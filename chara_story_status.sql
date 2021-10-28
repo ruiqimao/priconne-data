@@ -328,6 +328,13 @@ INSERT INTO "chara_story_status" VALUES(1054005,'Tsumugi''s Episode 5',2,40,0,0,
 INSERT INTO "chara_story_status" VALUES(1054006,'Tsumugi''s Episode 6',2,40,6,10,0,0,0,0,0,0,1054,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1054007,'Tsumugi''s Episode 7',2,40,6,10,0,0,0,0,0,0,1054,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1054008,'Tsumugi''s Episode 8',2,60,6,15,11,60,0,0,0,0,1054,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1056002,'Ruka''s Episode 2',1,150,0,0,0,0,0,0,0,0,1056,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1056003,'Ruka''s Episode 3',1,150,0,0,0,0,0,0,0,0,1056,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1056004,'Ruka''s Episode 4',1,300,0,0,0,0,0,0,0,0,1056,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1056005,'Ruka''s Episode 5',1,400,0,0,0,0,0,0,0,0,1056,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1056006,'Ruka''s Episode 6',1,400,3,4,0,0,0,0,0,0,1056,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1056007,'Ruka''s Episode 7',1,400,3,4,0,0,0,0,0,0,1056,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1056008,'Ruka''s Episode 8',1,600,3,6,5,4,0,0,0,0,1056,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1057002,'Djeeta''s Episode 2',2,15,0,0,0,0,0,0,0,0,1057,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1057003,'Djeeta''s Episode 3',2,15,0,0,0,0,0,0,0,0,1057,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1057004,'Djeeta''s Episode 4',2,30,0,0,0,0,0,0,0,0,1057,0,0,0,0,0,0,0,0,0);
