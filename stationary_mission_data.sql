@@ -353,8 +353,11 @@ INSERT INTO "stationary_mission_data" VALUES(21102008,160,208,'Clear Floor 80 of
 INSERT INTO "stationary_mission_data" VALUES(21102009,160,208,'Clear Floor 90 of the Tower of Luna',1102,71020090,0,0,1,21102001,108,'2021/10/13 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21102010,160,208,'Clear Floor 100 of the Tower of Luna',1102,71020100,0,0,1,21102001,108,'2021/10/13 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21102011,160,208,'Clear Floor 110 of the Tower of Luna',1102,71020110,0,0,1,21102001,108,'2021/10/13 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102012,160,208,'Clear Floor 120 of the Tower of Luna',1102,71030120,0,0,1,21102001,108,'2021/11/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21102013,160,208,'Clear Floor 130 of the Tower of Luna',1102,71030130,0,0,1,21102001,108,'2021/11/10 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21103001,161,208,'Clear Floor 70''s EX Quest in the Tower of Luna',1103,72010070,0,0,1,21103001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21103002,162,208,'Clear Floor 110''s EX Quest in the Tower of Luna',1103,72020110,0,0,1,21103001,108,'2021/10/13 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21103003,163,208,'Clear Floor 130''s EX Quest in the Tower of Luna',1103,72030130,0,0,1,21103001,108,'2021/11/10 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002001,90,205,'Win 10 times in the Battle Arena',4002,0,0,0,10,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002002,90,205,'Win 20 times in the Battle Arena',4002,0,0,0,20,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002003,90,205,'Win 30 times in the Battle Arena',4002,0,0,0,30,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
