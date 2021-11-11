@@ -16,3 +16,17 @@ INSERT INTO "music_list" VALUES(14,'Trick or Pudding! The Promised Halloween Par
 INSERT INTO "music_list" VALUES(15,'Jack-o-Pudding',20.0,'','2021-10-12 23:00:00','',-1,1000,15,'Jack-o-Pudding','','','');
 INSERT INTO "music_list" VALUES(16,'More! Party Night for Two',20.0,'','2021-10-12 23:00:00','',-1,1500,16,'More! Party Night for Two','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-07/1450772144?app=itunes','B2cxqh5uebipjexv2liwzl6aecu','A2001411119/');
 INSERT INTO "music_list" VALUES(17,'Sparkling Ice Crystals',20.0,'','2021-10-12 23:00:00','',-1,1000,17,'Sparkling Ice Crystals','','','');
+INSERT INTO "music_list" VALUES(18,'Shining Future',20.0,'','2021-11-11 23:00:00','',3010003,1500,18,'Shining Future','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-03/1386518679?app=itunes','B2qb7u7mqdu4m4gtuqgiabeocai','A2001253711/');
+INSERT INTO "music_list" VALUES(19,'Pledge to the Wind',20.0,'','2021-11-11 23:00:00','',3010003,1500,19,'Pledge to the Wind','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-03/1386518679?app=itunes','B2qb7u7mqdu4m4gtuqgiabeocai','A2001253711/');
+INSERT INTO "music_list" VALUES(20,'I Want to See You Smile',18.0,'','2021-11-11 23:00:00','',3010003,1500,20,'I Want to See You Smile','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-04/1411112401?app=itunes','Blcnkk6svg3dnhgclbpdljuqjcq','A2001305115/');
+INSERT INTO "music_list" VALUES(21,'Contrary Heart!',18.0,'','2021-11-11 23:00:00','',1054007,1500,21,'Contrary Heart!','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-05/1436280052?app=itunes','Bxzjx4azjbgy4jl5pw7wwd7nx2e','A2001336697/');
+INSERT INTO "music_list" VALUES(22,'Courage in the Face of Unrest',20.0,'','2021-11-11 23:00:00','',-1,1000,22,'Courage in the Face of Unrest','','','');
+INSERT INTO "music_list" VALUES(23,'Twin Pigs',20.0,'','2021-11-11 23:00:00','',-1,1000,23,'Twin Pigs','','','');
+INSERT INTO "music_list" VALUES(24,'Vampire Hunters with Illya',20.0,'','2021-11-11 23:00:00','',-1,1000,24,'Vampire Hunters with Illya','','','');
+INSERT INTO "music_list" VALUES(25,'Garoog',20.0,'','2021-11-11 23:00:00','',-1,1000,25,'Garoog','','','');
+INSERT INTO "music_list" VALUES(26,'Peaceful*Champuru',20.0,'','2021-11-11 23:00:00','',-1,1500,26,'Peaceful*Champuru','','','');
+INSERT INTO "music_list" VALUES(27,'Lesathapult',20.0,'','2021-11-11 23:00:00','',-1,1000,27,'Lesathapult','','','');
+INSERT INTO "music_list" VALUES(28,'Twilight Breakers',20.0,'','2021-11-11 23:00:00','',-1,1000,28,'Twilight Breakers','','','');
+INSERT INTO "music_list" VALUES(29,'Olam',20.0,'','2021-11-11 23:00:00','',-1,1000,29,'Olam','','','');
+INSERT INTO "music_list" VALUES(30,'Super Strong, Am I Right?',20.0,'','2021-11-11 23:00:00','',-1,1500,30,'Super Strong, Am I Right?','','','');
+INSERT INTO "music_list" VALUES(31,'Land of Frozen Seas',20.0,'','2021-11-11 23:00:00','',-1,1000,31,'Land of Frozen Seas','','','');

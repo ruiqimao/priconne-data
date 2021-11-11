@@ -16,6 +16,7 @@ INSERT INTO "quest_area_data" VALUES(11014,'14. Eugenia Hotlands',101,'bgm_M95',
 INSERT INTO "quest_area_data" VALUES(11015,'15. Thalia Volcano',101,'bgm_M96','bgm_M96','2021/08/09 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11016,'16. Themis Snowpeaks',101,'bgm_M140','bgm_M140','2021/09/07 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11017,'17. Fides Icefields',101,'bgm_M141','bgm_M141','2021/10/12 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(11018,'18. Phaethon Fields (North)',102,'bgm_M179','bgm_M179','2021/11/11 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12001,'1. Juno Plains',101,'bgm_M61','bgm_M61','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12002,'2. Pallas Peaks',101,'bgm_M61','bgm_M61_02','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12003,'3. Hebe Hill',101,'bgm_M61','bgm_M61_03','2015/12/17 15:00:00','2030/12/17 14:59:59');
@@ -33,5 +34,6 @@ INSERT INTO "quest_area_data" VALUES(12014,'14. Eugenia Hotlands',101,'bgm_M95',
 INSERT INTO "quest_area_data" VALUES(12015,'15. Thalia Volcano',101,'bgm_M96','bgm_M96','2021/08/09 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12016,'16. Themis Snowpeaks',101,'bgm_M140','bgm_M140','2021/09/07 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12017,'17. Fides Icefields',101,'bgm_M141','bgm_M141','2021/10/12 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(12018,'18. Phaethon Fields (North)',102,'bgm_M179','bgm_M179','2021/11/11 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(21001,'Mana Quests',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(21002,'EXP Quests',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');

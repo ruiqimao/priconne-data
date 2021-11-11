@@ -94,6 +94,13 @@ INSERT INTO "skill_action" VALUES(101200301,1,1,2,0,0,10.0,10.0,0.8,0.0,0.0,0.0,
 INSERT INTO "skill_action" VALUES(101200302,1,8,7,0,0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,1,1,2160,14,0,1,'Renders an enemy immobile for a set period of time.','Stun success rate + 1');
 INSERT INTO "skill_action" VALUES(101250101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(101251101,1,90,4,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
+INSERT INTO "skill_action" VALUES(101300101,1,1,2,0,0,60.0,60.0,5.6,0.0,0.0,0.0,0.0,1,2,2160,6,0,1,'Deals {0} magic damage to an enemy.','Magic damage + {0}');
+INSERT INTO "skill_action" VALUES(101300201,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,2160,3,0,1,'','');
+INSERT INTO "skill_action" VALUES(101300202,1,10,41,0,0,1.0,0.48,0.48,12.0,0.0,0.0,0.0,1,2,200,3,0,99,'Lowers physical defense of enemies in range by {0}.','Magic defense lowered + {0}');
+INSERT INTO "skill_action" VALUES(101300301,1,1,2,0,0,20.0,20.0,1.6,0.0,0.0,0.0,0.0,1,2,2160,6,0,1,'Deals {0} magic damage to an enemy.','Magic damage + {0}');
+INSERT INTO "skill_action" VALUES(101300302,1,8,7,0,0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,1,2,2160,6,0,1,'Renders an enemy immobile for a set period of time.','Stun success rate + 1');
+INSERT INTO "skill_action" VALUES(101350101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
+INSERT INTO "skill_action" VALUES(101351101,1,90,4,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(101500101,1,4,2,0,0,1.0,4.5,4.5,0.3375,0.0,0.0,0.0,2,3,2160,3,0,99,'Recovers all allies'' HP by {0}.','HP recovery + {0}');
 INSERT INTO "skill_action" VALUES(101500102,1,10,40,1,0,1.0,0.45,0.45,18.0,0.0,0.0,0.0,2,3,2160,3,0,99,'Boosts all allies'' magic defense by {0}.','Magic defense boost + {0}');
 INSERT INTO "skill_action" VALUES(101500201,1,10,30,0,0,1.0,5.5,5.5,12.0,0.0,0.0,0.0,2,2,300,3,0,99,'Boosts magic attack of all allies in range by {0}.','Magic attack boost + {0}');
@@ -530,6 +537,7 @@ INSERT INTO "skill_action" VALUES(200800102,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.
 INSERT INTO "skill_action" VALUES(201000101,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,2160,4,2,1,'','');
 INSERT INTO "skill_action" VALUES(201000102,1,1,2,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,2,2160,1,2,1,'','');
 INSERT INTO "skill_action" VALUES(201100101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,2160,4,2,1,'','');
+INSERT INTO "skill_action" VALUES(201101101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,2160,4,2,1,'','');
 INSERT INTO "skill_action" VALUES(201300101,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,2160,4,2,1,'','');
 INSERT INTO "skill_action" VALUES(201300102,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,2,2160,1,2,1,'','');
 INSERT INTO "skill_action" VALUES(201301101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,2,2160,8,0,1,'','');
@@ -562,6 +570,9 @@ INSERT INTO "skill_action" VALUES(203501101,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.
 INSERT INTO "skill_action" VALUES(203501102,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,2,2160,1,2,1,'','');
 INSERT INTO "skill_action" VALUES(203700101,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,710,4,1,1,'','');
 INSERT INTO "skill_action" VALUES(203700102,1,1,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,2,88,3,0,5,'','');
+INSERT INTO "skill_action" VALUES(203702101,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,710,4,1,1,'','');
+INSERT INTO "skill_action" VALUES(203702102,1,1,1,0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,2,88,3,0,99,'','');
+INSERT INTO "skill_action" VALUES(203702103,1,12,40,0,0,8.0,0.0,40.0,0.0,0.0,0.0,0.0,1,2,88,1,0,1,'','');
 INSERT INTO "skill_action" VALUES(204200101,1,4,2,0,0,1.0,3.2,3.2,0.2625,0.0,0.0,0.0,2,1,1500,2,0,3,'','');
 INSERT INTO "skill_action" VALUES(204300101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,2,2160,3,0,1,'','');
 INSERT INTO "skill_action" VALUES(204300102,1,9,1,0,0,25.0,5.0,4.0,0.0,0.0,0.0,0.0,1,3,0,1,0,1,'','');

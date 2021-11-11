@@ -179,6 +179,12 @@ INSERT INTO "equipment_enhance_rate" VALUES(105161,'Deepfrost Lance','Spear',5,0
 INSERT INTO "equipment_enhance_rate" VALUES(105191,'Reaper Axe','Axe',5,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.2);
 INSERT INTO "equipment_enhance_rate" VALUES(105221,'Xenosphere Rod','Attack Staff',5,0.0,0.0,20.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105251,'Pyramour Rod','Restoration Staff',5,0.0,0.0,19.0,0.0,0.8,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,1.2,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105281,'Phantasm Mail','Light Armor',5,20.0,6.4,0.0,1.2,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105311,'Azure Splendor','Heavy Armor',5,24.0,0.0,0.0,2.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105341,'Aegis Coat','Clothing',5,20.0,6.8,0.0,0.8,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105371,'Priestess Garb','Wizard''s Robes',5,24.0,0.0,4.0,1.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105401,'Diviner''s Shield','Shield',5,0.0,10.8,0.0,1.0,0.6,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105521,'Crown of Anguish','Wizard''s Hat',5,20.0,0.0,9.6,0.6,1.0,0.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105551,'Millennium Earrings','Attack Accessories',5,14.0,12.8,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105581,'Spirit King''s Talisman','Defense Accessory',5,40.0,0.0,0.0,2.0,1.2,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105611,'Poseidon Earrings','Magic Accessory',5,0.0,0.0,15.6,0.0,0.0,0.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0);
