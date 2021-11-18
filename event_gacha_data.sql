@@ -7,3 +7,4 @@ INSERT INTO "event_gacha_data" VALUES(10005,10005,'Tamaki and Mifuyu''s Desert I
 INSERT INTO "event_gacha_data" VALUES(10006,10006,'Ironclad Nightmare',2,60052,1,5);
 INSERT INTO "event_gacha_data" VALUES(10007,10007,'Trick or Pudding! The Promised Halloween Party',2,60062,1,5);
 INSERT INTO "event_gacha_data" VALUES(10008,10008,'Twilight Breakers',2,60072,1,5);
+INSERT INTO "event_gacha_data" VALUES(10009,10009,'The Carol That Never Was',2,60082,1,5);

@@ -63,6 +63,8 @@ INSERT INTO "story_data" VALUES(1080,1,1080,'Mifuyu (Summer)',0,65,'2015/04/01 1
 INSERT INTO "story_data" VALUES(1081,1,1081,'Shinobu (Halloween)',0,67,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1082,1,1082,'Miyako (Halloween)',0,68,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1083,1,1083,'Misaki (Halloween)',0,69,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1084,1,1084,'Chika (Holiday)',0,70,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1085,1,1085,'Kurumi (Holiday)',0,71,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1900,1,1900,'Ameth',0,90,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2000,2,0,'Prologue_First Connections',2000002,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2001,2,0,'Chapter 1_A Mysterious Girl',2001005,2,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);

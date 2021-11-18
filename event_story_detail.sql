@@ -63,3 +63,11 @@ INSERT INTO "event_story_detail" VALUES(5008004,5008,'Episode 4','Den of Villain
 INSERT INTO "event_story_detail" VALUES(5008005,5008,'Episode 5','Pact of Vengeance',0,0,5008004,0,0,0,0,8,91002,20,2,31009,1,0,0,0,'2021/10/28 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5008006,5008,'Episode 6','A Superweapon Awakens',0,0,5008005,0,0,0,0,8,91002,20,2,31051,1,0,0,0,'2021/10/28 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5008007,5008,'Ending','The Journey Never Ends',0,0,5008006,0,0,0,0,8,91002,20,2,31009,1,0,0,0,'2021/10/28 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5009000,5009,'Opening','Wintertide''s Lament',0,0,0,0,0,0,0,8,91002,20,2,31029,1,0,0,0,'2021/11/22 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5009001,5009,'Episode 1','The Sleeping Diva',0,0,5009000,0,0,0,0,8,91002,20,2,31085,1,0,0,0,'2021/11/22 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5009002,5009,'Episode 2','Beastly Banquet',0,0,5009001,0,0,0,0,8,91002,20,2,31029,1,0,0,0,'2021/11/22 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5009003,5009,'Episode 3','Why We Sing',0,0,5009002,0,0,0,0,8,91002,20,2,31085,1,0,0,0,'2021/11/22 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5009004,5009,'Episode 4','Of Songs and Family',0,0,5009003,0,0,0,0,8,91002,20,2,31029,1,0,0,0,'2021/11/22 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5009005,5009,'Episode 5','Foggy, the Great Evoker Spirit',0,0,5009004,0,0,0,0,8,91002,20,2,31085,1,0,0,0,'2021/11/22 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5009006,5009,'Episode 6','Cherished Memories',0,0,5009005,0,0,0,0,8,91002,20,2,31029,1,0,0,0,'2021/11/22 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5009007,5009,'Ending','A Carmina Carol to Be Remembered',0,0,5009006,0,0,0,0,8,91002,20,2,31085,1,0,0,0,'2021/11/22 23:00:00','2030/12/31 14:59:59');

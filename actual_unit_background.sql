@@ -63,3 +63,5 @@ INSERT INTO "actual_unit_background" VALUES(108031,'Mifuyu Ogami',510250,4);
 INSERT INTO "actual_unit_background" VALUES(108131,'Shinobu Kamiki',510300,4);
 INSERT INTO "actual_unit_background" VALUES(108231,'Miyako Izumo',510030,4);
 INSERT INTO "actual_unit_background" VALUES(108331,'Misaki Tamaizumi',510101,4);
+INSERT INTO "actual_unit_background" VALUES(108431,'Chika Misumi',510150,2);
+INSERT INTO "actual_unit_background" VALUES(108531,'Kurumi Kuribayashi',510160,2);
