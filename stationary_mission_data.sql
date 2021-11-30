@@ -379,6 +379,8 @@ INSERT INTO "stationary_mission_data" VALUES(21102013,160,208,'Clear Floor 130 o
 INSERT INTO "stationary_mission_data" VALUES(21103001,161,208,'Clear Floor 70''s EX Quest in the Tower of Luna',1103,72010070,0,0,1,21103001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21103002,162,208,'Clear Floor 110''s EX Quest in the Tower of Luna',1103,72020110,0,0,1,21103001,108,'2021/10/13 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(21103003,163,208,'Clear Floor 130''s EX Quest in the Tower of Luna',1103,72030130,0,0,1,21103001,108,'2021/11/10 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21201001,200,209,'Clear Sanctum Survey Lvl 1',1201,18001001,0,0,1,21001004,109,'2021/11/30 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "stationary_mission_data" VALUES(21201002,200,209,'Clear Sanctum Survey Lvl 2',1201,18001002,0,0,1,21001004,109,'2021/11/30 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002001,90,205,'Win 10 times in the Battle Arena',4002,0,0,0,10,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002002,90,205,'Win 20 times in the Battle Arena',4002,0,0,0,20,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "stationary_mission_data" VALUES(24002003,90,205,'Win 30 times in the Battle Arena',4002,0,0,0,30,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59');

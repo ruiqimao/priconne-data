@@ -339,3 +339,4 @@ INSERT INTO "equipment_data" VALUES(125371,'Priestess Garb Blueprint','Priestess
 INSERT INTO "equipment_data" VALUES(125401,'Diviner''s Shield Blueprint','Diviner''s Shield Blueprint.',5,0,4,1200,70,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0);
 INSERT INTO "equipment_data" VALUES(125521,'Crown of Anguish Blueprint','Crown of Anguish Blueprint.',5,0,4,1200,70,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0);
 INSERT INTO "equipment_data" VALUES(140000,'Princess Heart','An item necessary to forge each character''s Unique Equipment.',99,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0);
+INSERT INTO "equipment_data" VALUES(140001,'Princess Heart (Fragment)','A fragment of a Princess Heart.',99,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0);
