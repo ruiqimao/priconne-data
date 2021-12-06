@@ -76,6 +76,7 @@ INSERT INTO "story_data" VALUES(2006,2,0,'Chapter 6_Forgotten Princess',2006013,
 INSERT INTO "story_data" VALUES(2007,2,0,'Chapter 7_Calamity Foretold',2007012,8,'2021/06/12 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2008,2,0,'Chapter 8_Friends or Foes?',2008015,9,'2021/08/09 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2009,2,0,'Chapter 9_Crisis at the Concert',2009099,10,'2021/10/12 13:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(2010,2,0,'Chapter 10_Saving Pecorine',2010006,11,'2021/12/06 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3002,3,2,'Nightmare, Defenders of the Throne',0,8,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);

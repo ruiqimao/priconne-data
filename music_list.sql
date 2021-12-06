@@ -30,3 +30,13 @@ INSERT INTO "music_list" VALUES(28,'Twilight Breakers',20.0,'','2021-11-11 23:00
 INSERT INTO "music_list" VALUES(29,'Olam',20.0,'','2021-11-11 23:00:00','',-1,1000,29,'Olam','','','');
 INSERT INTO "music_list" VALUES(30,'Super Strong, Am I Right?',20.0,'','2021-11-11 23:00:00','',-1,1500,30,'Super Strong, Am I Right?','','','');
 INSERT INTO "music_list" VALUES(31,'Land of Frozen Seas',20.0,'','2021-11-11 23:00:00','',-1,1000,31,'Land of Frozen Seas','','','');
+INSERT INTO "music_list" VALUES(32,'World of Ice and Snow',20.0,'','2021-12-06 23:00:00','',-1,1000,32,'World of Ice and Snow','','','');
+INSERT INTO "music_list" VALUES(33,'Refreshing Breeze',20.0,'','2021-12-06 23:00:00','',-1,1000,33,'Refreshing Breeze','','','');
+INSERT INTO "music_list" VALUES(34,'Karkinos',20.0,'','2021-12-06 23:00:00','',-1,1000,34,'Karkinos','','','');
+INSERT INTO "music_list" VALUES(35,'Dangerous Vacation! Gourmet Princess on the Beach',20.0,'','2021-12-06 23:00:00','',-1,1000,35,'Dangerous Vacation! Gourmet Princess on the Beach','','','');
+INSERT INTO "music_list" VALUES(36,'Tentapus',20.0,'','2021-12-06 23:00:00','',-1,1000,36,'Tentapus','','','');
+INSERT INTO "music_list" VALUES(37,'Home Full of Smiles',20.0,'','2021-12-06 23:00:00','',-1,1500,37,'Home Full of Smiles','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-02/1361483195?app=itunes','B2m4zv3rn3o4cxukqtjny3sioda','A2001197334/');
+INSERT INTO "music_list" VALUES(38,'Sagittarius',20.0,'','2021-12-06 23:00:00','',-1,1000,38,'Sagittarius','','','');
+INSERT INTO "music_list" VALUES(39,'The Carol That Never Was',20.0,'','2021-12-06 23:00:00','',-1,1000,39,'The Carol That Never Was','','','');
+INSERT INTO "music_list" VALUES(40,'Foggy',20.0,'','2021-12-06 23:00:00','',-1,1000,40,'Foggy','','','');
+INSERT INTO "music_list" VALUES(41,'Ding Dong Holy Night♪',20.0,'','2021-12-06 23:00:00','',-1,1500,41,'Ding Dong Holy Night♪','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-07/1450772144?app=itunes','B2cxqh5uebipjexv2liwzl6aecu','A2001411119/');

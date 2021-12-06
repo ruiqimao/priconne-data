@@ -349,6 +349,7 @@ INSERT INTO "skill_data" VALUES(2007001,'',1,0,3.0,200700101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2007011,'',1,0,3.0,200701101,200701102,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2008001,'',0,0,3.0,200800101,200800102,0,0,0,0,0,0,200800101,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2008011,'',0,0,3.0,200801101,200801102,0,0,0,0,0,0,200801101,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
+INSERT INTO "skill_data" VALUES(2009021,'',0,0,3.0,200902101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Treant',1001);
 INSERT INTO "skill_data" VALUES(2010001,'',1,0,3.0,201000101,201000102,0,0,0,0,0,0,201000101,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2011001,'',0,0,3.0,201100101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2011011,'',1,0,4.0,201101101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
