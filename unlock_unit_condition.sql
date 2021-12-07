@@ -65,3 +65,4 @@ INSERT INTO "unlock_unit_condition" VALUES(108201,'Miyako (Halloween)',1,0,1,2,3
 INSERT INTO "unlock_unit_condition" VALUES(108301,'Misaki (Halloween)',1,0,1,2,31083,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(108401,'Chika (Holiday)',1,0,1,2,31084,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(108501,'Kurumi (Holiday)',1,0,1,2,31085,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(108601,'Ayane (Holiday)',1,0,1,2,31086,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

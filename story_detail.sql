@@ -479,6 +479,10 @@ INSERT INTO "story_detail" VALUES(1085001,1085,'Kurumi (Holiday) Episode 1','A V
 INSERT INTO "story_detail" VALUES(1085002,1085,'Kurumi (Holiday) Episode 2','Everyone Loves Santa Claus',0,0,1085001,4,108501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1085003,1085,'Kurumi (Holiday) Episode 3','Sleep Tight on the Holy Night',0,0,1085002,5,108501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1085004,1085,'Kurumi (Holiday) Episode 4','A Future Superstar',0,0,1085003,8,108501,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1086001,1086,'Ayane (Holiday) Episode 1','Don''t Take Them Away from Me!',0,0,0,0,108601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1086002,1086,'Ayane (Holiday) Episode 2','Mutual Feelings',0,0,1086001,4,108601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1086003,1086,'Ayane (Holiday) Episode 3','In My Sister''s Stead',0,0,1086002,5,108601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1086004,1086,'Ayane (Holiday) Episode 4','Love Grows',0,0,1086003,8,108601,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1900999,1900,'Ameth','Ameth''s Talk',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000001,2000,'Prologue','Part 1',0,0,0,0,0,0,51200001,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000002,2000,'Prologue','Part 2',0,1,0,0,0,0,51200002,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

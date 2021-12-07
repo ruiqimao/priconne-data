@@ -341,6 +341,11 @@ INSERT INTO "skill_data" VALUES(1085002,'Jingling Cheer',1,0,1.05,108500201,0,0,
 INSERT INTO "skill_data" VALUES(1085003,'Healing Bell',1,0,1.19,108500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a field that recovers HP of all nearby allies by a small amount.',2016);
 INSERT INTO "skill_data" VALUES(1085501,'Saint Etoile',0,0,0.0,108550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(1085511,'Saint Etoile+',0,0,0.0,108551101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3004);
+INSERT INTO "skill_data" VALUES(1086001,'Pukichi Santa Storm',1,0,0.0,108600101,108600102,0,0,0,0,0,0,0,0,0,0,0,0,'Deals massive physical damage to an enemy directly in front, at the cost of HP.',1001);
+INSERT INTO "skill_data" VALUES(1086002,'Pukichi Cheering',1,0,1.05,108600201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack.',2003);
+INSERT INTO "skill_data" VALUES(1086003,'Pukichi Rush',1,0,1.19,108600301,108600302,0,0,0,0,0,0,108600301,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and knocks them back slightly.',2001);
+INSERT INTO "skill_data" VALUES(1086501,'Holy Night Slugger',0,0,0.0,108650101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1086511,'Holy Night Slugger+',0,0,0.0,108651101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(2001001,'',0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2002001,'',1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2003001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
@@ -638,6 +643,10 @@ INSERT INTO "skill_data" VALUES(3055006,'',1,0,1.5,305500601,305500602,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3055007,'',1,0,1.5,305500701,305500702,0,0,0,0,0,0,0,0,0,0,0,0,'Foggy Skill 5',1001);
 INSERT INTO "skill_data" VALUES(3055008,'',1,0,1.5,305500801,305500802,0,0,0,0,0,0,0,0,0,0,0,0,'Foggy Skill 6',1001);
 INSERT INTO "skill_data" VALUES(3055009,'',1,0,0.0,305500901,305500902,305500903,305500904,0,0,0,0,0,0,0,0,0,0,'Foggy Awakening',1001);
+INSERT INTO "skill_data" VALUES(3056001,'',1,0,0.0,305600101,305600102,0,0,0,0,0,0,0,0,0,0,0,0,'Lord Evyle UB',1001);
+INSERT INTO "skill_data" VALUES(3056002,'',1,0,1.8,305600201,305600202,305600203,305600204,305600205,305600206,0,0,0,0,0,0,0,0,'Lord Evyle Skill 1',1001);
+INSERT INTO "skill_data" VALUES(3056003,'',1,0,2.0,305600301,305600302,305600303,0,0,0,0,0,0,0,0,0,0,0,'Lord Evyle Skill 2',1001);
+INSERT INTO "skill_data" VALUES(3056004,'',1,0,0.0,305600401,305600402,305600403,0,0,0,0,0,0,0,0,0,0,0,'Lord Evyle Awakening',1001);
 INSERT INTO "skill_data" VALUES(3057001,'',0,0,2.0,305700101,305700102,305700103,0,0,0,0,0,0,0,0,0,0,0,'Goblin Brave UB',1001);
 INSERT INTO "skill_data" VALUES(3061001,'',0,0,2.0,306100101,306100102,0,0,0,0,0,0,306100101,0,0,0,0,0,'Jackal Thief: Union Burst',1001);
 INSERT INTO "skill_data" VALUES(3061002,'',0,0,2.0,306100201,306100202,306100203,306100204,0,0,0,0,306100201,306100201,0,0,0,0,'Jackal Thief: Skill',1001);
