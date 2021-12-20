@@ -8,3 +8,4 @@ INSERT INTO "hatsune_map" VALUES(10006,10006,'Landosol City',10006,'bgm_M128','b
 INSERT INTO "hatsune_map" VALUES(10007,10007,'Landosol Vicinity',10007,'bgm_M135','bgm_M135',10007101,10007101);
 INSERT INTO "hatsune_map" VALUES(10008,10008,'Landosol Vicinity',10008,'bgm_M121','bgm_M121',10008101,10008101);
 INSERT INTO "hatsune_map" VALUES(10009,10009,'Holiday',10009,'bgm_M171','bgm_M171',10009101,10009101);
+INSERT INTO "hatsune_map" VALUES(10010,10010,'Temple Trail',10010,'bgm_M121','bgm_M121',10010101,10010101);
