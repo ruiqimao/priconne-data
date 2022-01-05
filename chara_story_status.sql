@@ -416,6 +416,9 @@ INSERT INTO "chara_story_status" VALUES(1085004,'Kurumi (Holiday)''s Episode 4',
 INSERT INTO "chara_story_status" VALUES(1086002,'Ayane (Holiday)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1086,1023,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1086003,'Ayane (Holiday)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1086,1023,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1086004,'Ayane (Holiday)''s Episode 4',2,30,3,4,0,0,0,0,0,0,1086,1023,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1087002,'Hiyori (New Year)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1087,1001,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1087003,'Hiyori (New Year)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1087,1001,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1087004,'Hiyori (New Year)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1087,1001,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1088002,'Yui (New Year)''s Episode 2',4,10,0,0,0,0,0,0,0,0,1088,1002,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1088003,'Yui (New Year)''s Episode 3',4,30,0,0,0,0,0,0,0,0,1088,1002,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1088004,'Yui (New Year)''s Episode 4',4,50,0,0,0,0,0,0,0,0,1088,1002,0,0,0,0,0,0,0,0);

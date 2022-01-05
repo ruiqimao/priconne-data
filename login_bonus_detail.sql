@@ -44,6 +44,16 @@ INSERT INTO "login_bonus_detail" VALUES(43,40001,7,8,91002,150,107601,'Kokkoro',
 INSERT INTO "login_bonus_detail" VALUES(44,40001,8,8,91002,150,107801,'Karyl','How did I end up spending my\nsummer with you of all people?\nOh well, I guess it''s been fun.\nCome on, we''re not done yet!',2,0);
 INSERT INTO "login_bonus_detail" VALUES(45,40001,9,8,91002,150,107701,'Suzume','Our very first summer together...\nI''m so excited, I might collapse!\nI''m sure it''ll be another wonderful\nexperience to remember!',2,0);
 INSERT INTO "login_bonus_detail" VALUES(46,40001,10,8,91002,150,107901,'Tamaki','Summer''s big for business,\nbut somehow this year I want to\nspend it with you. You''re nyot\ngonna make me regret it, are ya?',2,0);
+INSERT INTO "login_bonus_detail" VALUES(57,40003,1,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(58,40003,2,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(59,40003,3,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(60,40003,4,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(61,40003,5,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(62,40003,6,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(63,40003,7,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(64,40003,8,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(65,40003,9,8,91002,150,0,'','',0,0);
+INSERT INTO "login_bonus_detail" VALUES(66,40003,10,8,91002,150,0,'','',0,0);
 INSERT INTO "login_bonus_detail" VALUES(87,70000,1,8,91002,750,0,'','',0,0);
 INSERT INTO "login_bonus_detail" VALUES(88,70000,2,8,91002,750,0,'','',0,0);
 INSERT INTO "login_bonus_detail" VALUES(89,70001,1,8,91002,500,0,'','',0,0);

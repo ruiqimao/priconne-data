@@ -352,6 +352,11 @@ INSERT INTO "skill_data" VALUES(1086002,'Pukichi Cheering',1,0,1.05,108600201,0,
 INSERT INTO "skill_data" VALUES(1086003,'Pukichi Rush',1,0,1.19,108600301,108600302,0,0,0,0,0,0,108600301,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and knocks them back slightly.',2001);
 INSERT INTO "skill_data" VALUES(1086501,'Holy Night Slugger',0,0,0.0,108650101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1086511,'Holy Night Slugger+',0,0,0.0,108651101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1087001,'Hiyori Happy Stamp',1,0,0.0,108700101,108700102,108700103,0,0,0,0,0,108700101,108700101,0,0,0,0,'Deals massive physical damage to an enemy directly in front and lowers their physical defense and TP Boost by a small amount.',1001);
+INSERT INTO "skill_data" VALUES(1087002,'Paw-Paw Charge',1,0,0.8,108700201,108700202,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack, and moderate boost to the physical attack of all allies that use physical attacks.',2003);
+INSERT INTO "skill_data" VALUES(1087003,'Good Luck Punch',1,0,0.94,108700301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front.',2001);
+INSERT INTO "skill_data" VALUES(1087501,'Strength of Happiness',0,0,0.0,108750101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1087511,'Strength of Happiness+',0,0,0.0,108751101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1088001,'Sunrise Protection',1,0,0.0,108800101,108800102,108800103,0,0,0,0,0,0,0,0,0,0,0,'Grants HP regen and a barrier that negates physical and magical damage to all allies, but lowers own magical attack by a massive amount.',1013);
 INSERT INTO "skill_data" VALUES(1088002,'Weakening Petals',1,0,1.05,108800201,108800202,0,0,0,0,0,0,0,0,0,0,0,0,'Moderately lowers the physical and magical attack of the 2nd closest enemy.',2004);
 INSERT INTO "skill_data" VALUES(1088003,'Cheerful Bloom',1,0,1.19,108800301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to the magical attack of all allies that use magical attacks.',2003);
@@ -439,6 +444,9 @@ INSERT INTO "skill_data" VALUES(2068003,'',1,0,1.0,206800301,206800302,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2068004,'',1,0,1.0,206800401,206800402,206800403,206800404,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2068011,'',0,0,3.0,206802101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Impure Desire Barrier 2',1001);
 INSERT INTO "skill_data" VALUES(2068021,'',0,0,3.0,206802101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Impure Desire Barrier 3',1001);
+INSERT INTO "skill_data" VALUES(2069001,'',1,0,2.5,206900101,206900102,0,0,0,0,0,0,206900101,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(2070001,'',1,0,2.5,207000101,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(2070002,'',1,0,0.5,207000201,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3001001,'',0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3001002,'',0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3001003,'',1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,'sample',1001);
@@ -693,6 +701,16 @@ INSERT INTO "skill_data" VALUES(3060008,'',0,0,90.0,306000801,0,0,0,0,0,0,0,0,0,
 INSERT INTO "skill_data" VALUES(3060009,'',0,0,2.2,306000901,306000902,0,0,0,0,0,0,0,0,0,0,0,0,'Kagami Mochi Knockback',1001);
 INSERT INTO "skill_data" VALUES(3061001,'',0,0,2.0,306100101,306100102,0,0,0,0,0,0,306100101,0,0,0,0,0,'Jackal Thief: Union Burst',1001);
 INSERT INTO "skill_data" VALUES(3061002,'',0,0,2.0,306100201,306100202,306100203,306100204,0,0,0,0,306100201,306100201,0,0,0,0,'Jackal Thief: Skill',1001);
+INSERT INTO "skill_data" VALUES(3062001,'',0,0,2.0,306200101,306200102,306200103,0,0,0,0,0,0,0,0,0,0,0,'Sham Raccoon: Union Burst',1001);
+INSERT INTO "skill_data" VALUES(3062002,'',0,0,2.0,306200201,306200202,306200203,306200204,306200205,0,0,0,306200201,306200201,306200203,0,0,0,'Sham Raccoon: Skill',1001);
+INSERT INTO "skill_data" VALUES(3063001,'',0,0,0.0,306300101,306300102,306300103,306300104,0,0,0,0,0,306300102,306300102,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3063002,'',0,0,1.8,306300201,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3063003,'',0,0,2.0,306300301,306300302,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3063004,'',0,0,0.0,306300401,306300402,306300403,306300404,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3063011,'',0,0,0.0,306301101,306301102,306301103,306301104,306301105,0,0,0,0,306301102,306301102,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3063012,'',0,0,1.8,306301201,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3063013,'',0,0,2.0,306301301,306301302,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3063014,'',0,0,0.0,306301401,306301402,306301403,306301404,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3901002,'',0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901003,'',0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3901004,'',0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);

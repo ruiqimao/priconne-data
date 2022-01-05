@@ -69,5 +69,6 @@ INSERT INTO "unit_background" VALUES(108301,'Misaki (Halloween)',505030,'Landoso
 INSERT INTO "unit_background" VALUES(108401,'Chika (Holiday)',500114,'Sarendia Orphanage - Main Hall (Holiday)',0.0,2);
 INSERT INTO "unit_background" VALUES(108501,'Kurumi (Holiday)',500114,'Sarendia Orphanage - Main Hall (Holiday)',0.0,4);
 INSERT INTO "unit_background" VALUES(108601,'Ayane (Holiday)',500114,'Sarendia Orphanage - Main Hall (Holiday)',0.0,4);
+INSERT INTO "unit_background" VALUES(108701,'Hiyori (New Year)',500553,'New Year''s Temple',0.0,4);
 INSERT INTO "unit_background" VALUES(108801,'Yui (New Year)',500553,'New Year''s Temple',0.0,4);
 INSERT INTO "unit_background" VALUES(108901,'Rei (New Year)',500553,'New Year''s Temple',0.0,2);
