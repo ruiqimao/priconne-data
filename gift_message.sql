@@ -69,3 +69,4 @@ INSERT INTO "gift_message" VALUES(9806,'Halloween Login Bonus',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9807,'Gourmet Feast Login Bonus',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9808,'Winter Login Bonus',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9809,'Pre-Anniversary Giveaway',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9812,'Item obtained from 1,500 Jewel Gift (Anime Season 2).',0,0,0,0);
