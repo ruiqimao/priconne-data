@@ -21,3 +21,6 @@ INSERT INTO "hatsune_quest_area" VALUES(10009101,10009,'Sarendia Orphanage',201,
 INSERT INTO "hatsune_quest_area" VALUES(10009201,10009,'Landosol City',201,'bgm_M171','bgm_M171','2021/11/22 23:00:00','2021/12/06 22:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10010101,10010,'Temple Trail',201,'bgm_M182','bgm_M182','2021/12/20 23:00:00','2022/01/03 22:59:59',1,1,1,180,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10010201,10010,'Temple Trail',201,'bgm_M182','bgm_M182','2021/12/20 23:00:00','2022/01/03 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10011101,10011,'Landosol City',201,'bgm_M189','bgm_M189','2022/01/18 23:00:00','2022/02/01 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10011102,10011,'Kitchen Stadium',201,'bgm_M189','bgm_M189','2022/01/18 23:00:00','2022/02/01 22:59:59',1,2,110,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10011201,10011,'Kitchen Stadium',201,'bgm_M189','bgm_M189','2022/01/18 23:00:00','2022/02/01 22:59:59',1,1,0,0,0,'0','0',0);

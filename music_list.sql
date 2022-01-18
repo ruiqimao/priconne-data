@@ -50,3 +50,13 @@ INSERT INTO "music_list" VALUES(48,'Algedi',20.0,'','2022-01-05 23:00:00','',-1,
 INSERT INTO "music_list" VALUES(49,'New Year''s Day Twinkle Crisis!',20.0,'','2022-01-05 23:00:00','',-1,1000,49,'New Year''s Day Twinkle Crisis!','','','');
 INSERT INTO "music_list" VALUES(50,'Mochifiend Gummy',20.0,'','2022-01-05 23:00:00','',-1,1000,50,'Mochifiend Gummy','','','');
 INSERT INTO "music_list" VALUES(51,'TwinkleStars',20.0,'','2022-01-05 23:00:00','',-1,1500,51,'TwinkleStars','','','');
+INSERT INTO "music_list" VALUES(52,'Scorching Desert',20.0,'','2022-01-19 23:00:00','',-1,1000,52,'Scorching Desert','','','');
+INSERT INTO "music_list" VALUES(53,'Medusa',20.0,'','2022-01-19 23:00:00','',-1,1000,53,'Medusa','','','');
+INSERT INTO "music_list" VALUES(54,'Ironclad Nightmare',20.0,'','2022-01-19 23:00:00','',-1,1000,54,'Ironclad Nightmare','','','');
+INSERT INTO "music_list" VALUES(55,'Living Mail',20.0,'','2022-01-19 23:00:00','',-1,1000,55,'Living Mail','','','');
+INSERT INTO "music_list" VALUES(56,'Aloofness Code',20.0,'','2022-01-19 23:00:00','',-1,1500,56,'Aloofness Code','','','');
+INSERT INTO "music_list" VALUES(57,'Absolute Secret',20.0,'','2022-01-19 23:00:00','',2008015,1500,57,'Absolute Secret','','','');
+INSERT INTO "music_list" VALUES(58,'Aquarius',20.0,'','2022-01-19 23:00:00','',-1,1000,58,'Aquarius','','','');
+INSERT INTO "music_list" VALUES(59,'Rumble on Valentine''s Day! Fight for Your Right to Love',20.0,'','2022-01-19 23:00:00','',-1,1000,59,'Rumble on Valentine''s Day! Fight for Your Right to Love','','','');
+INSERT INTO "music_list" VALUES(60,'Ugly Lovely',20.0,'','2022-01-19 23:00:00','',-1,1000,60,'Ugly Lovely','','','');
+INSERT INTO "music_list" VALUES(61,'Super Chocolate',20.0,'','2022-01-19 23:00:00','',-1,1500,61,'Super Chocolate','','','');

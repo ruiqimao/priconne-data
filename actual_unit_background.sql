@@ -69,3 +69,5 @@ INSERT INTO "actual_unit_background" VALUES(108631,'Ayane Hojo',510280,1);
 INSERT INTO "actual_unit_background" VALUES(108731,'Hiyori Harusaki',510360,9);
 INSERT INTO "actual_unit_background" VALUES(108831,'Yui Kusano',510220,2);
 INSERT INTO "actual_unit_background" VALUES(108931,'Rei Shijo',510350,2);
+INSERT INTO "actual_unit_background" VALUES(109031,'Eriko Kuraishi',510300,4);
+INSERT INTO "actual_unit_background" VALUES(109131,'Shizuru Hoshino',510090,2);

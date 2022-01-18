@@ -79,6 +79,8 @@ INSERT INTO "item_data" VALUES(31086,'Ayane (Holiday)''s Memory Shard','A shard 
 INSERT INTO "item_data" VALUES(31087,'Hiyori (New Year)''s Memory Shard','A shard of Hiyori (New Year)''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31087,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31088,'Yui (New Year)''s Memory Shard','A shard of Yui (New Year)''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31088,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31089,'Rei (New Year)''s Memory Shard','A shard of Rei (New Year)''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31089,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(31090,'Eriko (Valentine)''s Memory Shard','A shard of Eriko (Valentine)''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31090,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(31091,'Shizuru (Valentine)''s Memory Shard','A shard of Shizuru (Valentine)''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31091,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50001,'Churro Heart','Used in the Guildhouse. Adds 10 character bond points.',1,7,10,200,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50002,'Apple Pie','Used in the Guildhouse. Adds 20 character bond points.',2,7,20,400,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50003,'Mixed Berry Cake','Used in the Guildhouse. Adds 30 character bond points.',3,7,30,600,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
@@ -102,6 +104,11 @@ INSERT INTO "item_data" VALUES(60081,'Boss Ticket','A ticket that you can obtain
 INSERT INTO "item_data" VALUES(60082,'Victory Medal','A medal that is awarded as proof you defeated monsters during the event. You can collect and exchange them.',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
 INSERT INTO "item_data" VALUES(60091,'Boss Ticket','A ticket that you can obtain during the event. Spend them to participate in boss battles.',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
 INSERT INTO "item_data" VALUES(60092,'Victory Medal','A medal that is awarded as proof you defeated monsters during the event. You can collect and exchange them.',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60101,'Boss Ticket','A ticket that you can obtain during the event. Spend them to participate in boss battles.',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60102,'Victory Medal','A medal that is awarded as proof you defeated monsters during the event. You can collect and exchange them.',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60103,'Plain Cocoa','An item for use during a minigame.',1,16,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60104,'Ripe Cocoa','An item for use during a minigame.',1,16,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "item_data" VALUES(60105,'Premium Cocoa','An item for use during a minigame.',1,16,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
 INSERT INTO "item_data" VALUES(60131,'Boss Ticket','A ticket that you can obtain during the event. Spend them to participate in boss battles.',1,13,0,0,9999,'2015/12/17 15:00:00','2030/04/24 14:59:59');
 INSERT INTO "item_data" VALUES(90002,'Dungeon Coins','A special currency that can only be earned in the dungeon. You can use it at the dungeon shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(90003,'Arena Coins','A special currency that can only be earned in the arena. You can use it at the arena shop.',1,12,0,0,999999999,'2015/12/17 15:00:00','2030/08/01 14:59:59');

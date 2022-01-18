@@ -9,3 +9,4 @@ INSERT INTO "event_gacha_data" VALUES(10007,10007,'Trick or Pudding! The Promise
 INSERT INTO "event_gacha_data" VALUES(10008,10008,'Twilight Breakers',2,60072,1,5);
 INSERT INTO "event_gacha_data" VALUES(10009,10009,'The Carol That Never Was',2,60082,1,5);
 INSERT INTO "event_gacha_data" VALUES(10010,10010,'New Year''s Day Twinkle Crisis!',2,60092,1,5);
+INSERT INTO "event_gacha_data" VALUES(10011,10011,'Rumble on Valentine''s Day! Fight for Your Right to Love',2,60102,1,5);

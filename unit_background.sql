@@ -72,3 +72,5 @@ INSERT INTO "unit_background" VALUES(108601,'Ayane (Holiday)',500114,'Sarendia O
 INSERT INTO "unit_background" VALUES(108701,'Hiyori (New Year)',500553,'New Year''s Temple',0.0,4);
 INSERT INTO "unit_background" VALUES(108801,'Yui (New Year)',500553,'New Year''s Temple',0.0,4);
 INSERT INTO "unit_background" VALUES(108901,'Rei (New Year)',500553,'New Year''s Temple',0.0,2);
+INSERT INTO "unit_background" VALUES(109001,'Eriko (Valentine)',500600,'Kitchen Stadium',0.0,4);
+INSERT INTO "unit_background" VALUES(109101,'Shizuru (Valentine)',500600,'Kitchen Stadium',0.0,4);

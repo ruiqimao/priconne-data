@@ -425,3 +425,9 @@ INSERT INTO "chara_story_status" VALUES(1088004,'Yui (New Year)''s Episode 4',4,
 INSERT INTO "chara_story_status" VALUES(1089002,'Rei (New Year)''s Episode 2',5,2,0,0,0,0,0,0,0,0,1089,1003,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1089003,'Rei (New Year)''s Episode 3',5,6,0,0,0,0,0,0,0,0,1089,1003,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1089004,'Rei (New Year)''s Episode 4',5,6,0,0,0,0,0,0,0,0,1089,1003,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1090002,'Eriko (Valentine)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1090,1027,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1090003,'Eriko (Valentine)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1090,1027,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1090004,'Eriko (Valentine)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1090,1027,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1091002,'Shizuru (Valentine)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1091,1049,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1091003,'Shizuru (Valentine)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1091,1049,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1091004,'Shizuru (Valentine)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1091,1049,0,0,0,0,0,0,0,0);
