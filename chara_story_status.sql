@@ -370,6 +370,9 @@ INSERT INTO "chara_story_status" VALUES(1060005,'Karyl''s Episode 5',4,40,0,0,0,
 INSERT INTO "chara_story_status" VALUES(1060006,'Karyl''s Episode 6',4,40,7,10,0,0,0,0,0,0,1060,1078,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1060007,'Karyl''s Episode 7',4,40,7,10,0,0,0,0,0,0,1060,1078,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1060008,'Karyl''s Episode 8',4,60,7,15,11,60,0,0,0,0,1060,1078,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1061002,'Muimi''s Episode 2',2,60,0,0,0,0,0,0,0,0,1061,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1061003,'Muimi''s Episode 3',2,80,6,10,0,0,0,0,0,0,1061,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1061004,'Muimi''s Episode 4',2,100,6,25,11,60,0,0,0,0,1061,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1063002,'Arisa''s Episode 2',2,15,0,0,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1063003,'Arisa''s Episode 3',2,15,0,0,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1063004,'Arisa''s Episode 4',2,30,0,0,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);

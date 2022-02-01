@@ -316,6 +316,12 @@ INSERT INTO "notif_data" VALUES(106001,3,'Well, your stamina at the guildhouse i
 INSERT INTO "notif_data" VALUES(106001,4,'The guildhouse is all filled up with EXP potions. I''m going to be more powerful than ever before! ♪');
 INSERT INTO "notif_data" VALUES(106001,5,'You''ve got full Mana sitting at the guildhouse. It comes in handy pretty much everywhere, so what''s the harm in carrying it with you?');
 INSERT INTO "notif_data" VALUES(106001,6,'Hey, you''ve got items sitting at the guildhouse. Come grab them so we can get adventuring!');
+INSERT INTO "notif_data" VALUES(106101,1,'Your stamina''s full, so let''s go on an adventure! I can''t wait around all day, you know!');
+INSERT INTO "notif_data" VALUES(106101,2,'Your guildhouse is full of skip tickets! Let''s get the boring stuff out of the way, then go out for some crepes!');
+INSERT INTO "notif_data" VALUES(106101,3,'Your guildhouse is all done generating stamina! Now we can do whatever we like! Uh, within reason, I guess.');
+INSERT INTO "notif_data" VALUES(106101,4,'Look at all these EXP potions in your guildhouse! If you don''t need ''em, can I take a few?');
+INSERT INTO "notif_data" VALUES(106101,5,'The guildhouse is packed with tons of Mana! Now if only it could help me grow a few inches... Well, can''t hurt to try!');
+INSERT INTO "notif_data" VALUES(106101,6,'All the items at your guildhouse are full! If you''re busy, I''ll pick them up for you! ...What? Of course I''m not gonna run off with them!');
 INSERT INTO "notif_data" VALUES(106301,1,'Your stamina''s all full! Time to go search for Losaria!');
 INSERT INTO "notif_data" VALUES(106301,2,'Your skip tickets at the guildhouse are full! It''d be nice if you showed me more places outside the city.');
 INSERT INTO "notif_data" VALUES(106301,3,'Your stamina at the guildhouse is all full! Come help me train for my forest guardian trial!');

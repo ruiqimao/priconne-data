@@ -51,6 +51,7 @@ INSERT INTO "unit_enemy_data" VALUES(203100,'Wyrmling',203100,0,17,270,800,2,3.5
 INSERT INTO "unit_enemy_data" VALUES(203200,'Imp',203200,0,12,270,650,2,3.5,0,0,'[Magic] Short-ranged attack.\nA trainee demon that scratches\nwith its abnormally large claws.');
 INSERT INTO "unit_enemy_data" VALUES(203300,'Goblin Guard',203300,0,15,270,150,1,4.0,0,0,'[Physical] Short-ranged attack.\nA trainee goblin soldier who\nprotects its allies with a large\nshield almost as big as itself.');
 INSERT INTO "unit_enemy_data" VALUES(203301,'Jungle Guard',203301,0,15,270,150,1,4.0,0,0,'[Physical] Short-ranged attack.\nA protector of the jungle that wards off invaders and\nintimidates its enemies with a large, face-like shield.');
+INSERT INTO "unit_enemy_data" VALUES(203302,'Goblin Guard',203300,0,15,270,50,1,4.0,0,0,'[Physical] Short-ranged attack.\nA trainee goblin soldier who\nprotects its allies with a large\nshield almost as big as itself.');
 INSERT INTO "unit_enemy_data" VALUES(203400,'Fire Lover',203400,0,0,270,800,2,4.0,0,0,'[Healing] Single target healing.\nA mysterious firefly, the nectar accumulated in its abdomen is a source of nutrition for monsters.');
 INSERT INTO "unit_enemy_data" VALUES(203500,'Drill Mole',203500,0,16,270,750,1,3.5,0,0,'[Physical] Mid-ranged attack.\nA mole-like monster that digs\nunderground to attack from\nunder its enemies'' feet.');
 INSERT INTO "unit_enemy_data" VALUES(203501,'Ice Mole',203501,0,16,270,750,1,3.5,0,0,'[Physical] Mid-ranged attack.\nA mole monster adapted to snowy environments, it uses its specialized claws to carve ice into deadly projectiles.');
@@ -258,6 +259,7 @@ INSERT INTO "unit_enemy_data" VALUES(605701,'Djeeta''s Shadow',105701,4,4,450,24
 INSERT INTO "unit_enemy_data" VALUES(605801,'Pecorine''s Shadow',105801,5,5,450,155,1,2.25,0,1,'A peculiar monster bearing a striking resemblance to Pecorine.');
 INSERT INTO "unit_enemy_data" VALUES(605901,'Kokkoro''s Shadow',105901,6,6,450,500,1,2.34,0,1,'A peculiar monster bearing a striking resemblance to Kokkoro.');
 INSERT INTO "unit_enemy_data" VALUES(606001,'Karyl''s Shadow',106001,7,7,450,750,2,2.07,0,1,'A peculiar monster bearing a striking resemblance to Karyl.');
+INSERT INTO "unit_enemy_data" VALUES(606101,'Muimi''s Shadow',106101,2,2,450,162,1,1.8,0,1,'A peculiar monster bearing a striking resemblance to Muimi.');
 INSERT INTO "unit_enemy_data" VALUES(606301,'Arisa''s Shadow',106301,8,8,450,625,1,1.97,0,1,'A peculiar monster bearing a striking resemblance to Arisa.');
 INSERT INTO "unit_enemy_data" VALUES(607101,'Christina''s Shadow',107101,10,4,450,290,1,2.0,0,1,'A peculiar monster bearing a striking resemblance to Christina.');
 INSERT INTO "unit_enemy_data" VALUES(607501,'Pecorine (Summer)''s Shadow',107501,5,5,450,235,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Pecorine (Summer).');

@@ -52,6 +52,7 @@ INSERT INTO "story_data" VALUES(1057,1,1057,'Djeeta',0,20,'2015/04/01 15:00:00',
 INSERT INTO "story_data" VALUES(1058,1,1058,'Pecorine',0,36,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1059,1,1059,'Kokkoro',0,18,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1060,1,1060,'Karyl',0,13,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1061,1,1061,'Muimi',0,48,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1063,1,1063,'Arisa',0,6,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1071,1,1071,'Christina',0,16,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1075,1,1075,'Pecorine (Summer)',0,61,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
@@ -83,6 +84,7 @@ INSERT INTO "story_data" VALUES(2007,2,0,'Chapter 7_Calamity Foretold',2007012,8
 INSERT INTO "story_data" VALUES(2008,2,0,'Chapter 8_Friends or Foes?',2008015,9,'2021/08/09 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2009,2,0,'Chapter 9_Crisis at the Concert',2009099,10,'2021/10/12 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2010,2,0,'Chapter 10_Saving Pecorine',2010006,11,'2021/12/06 13:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(2011,2,0,'Chapter 11_The Ironclad Guardian',2011003,12,'2022/02/01 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3002,3,2,'Nightmare, Defenders of the Throne',0,8,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
