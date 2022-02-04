@@ -3,3 +3,4 @@ INSERT INTO "tower_story_data" VALUES(7001,7,1,'Where Lost Memories Lie',0,1,'20
 INSERT INTO "tower_story_data" VALUES(7002,7,2,'The Sisters'' Wishes',0,1,'2021/10/13 13:00:00','2030/04/24 14:59:59');
 INSERT INTO "tower_story_data" VALUES(7003,7,3,'Duet of the Stars',0,1,'2021/11/10 13:00:00','2030/04/24 14:59:59');
 INSERT INTO "tower_story_data" VALUES(7004,7,4,'Big Bro Booking',0,1,'2022/01/05 13:00:00','2030/04/24 14:59:59');
+INSERT INTO "tower_story_data" VALUES(7005,7,5,'Haunted House, Hidden Hearts',0,1,'2022/02/05 13:00:00','2030/04/24 14:59:59');
