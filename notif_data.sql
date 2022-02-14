@@ -77,6 +77,12 @@ INSERT INTO "notif_data" VALUES(101301,3,'Your guildhouse is full to bursting wi
 INSERT INTO "notif_data" VALUES(101301,4,'These EXP potions in your guildhouse are overflowing! A magical girl''s training is never done!');
 INSERT INTO "notif_data" VALUES(101301,5,'Your guildhouse is flooded with Mana! Let''s spend it all on ancient tomes! ...Huh? That''s a no?');
 INSERT INTO "notif_data" VALUES(101301,6,'All the items in your guildhouse have hit max capacity! So come get ''em! Don''t be an item hoarder!');
+INSERT INTO "notif_data" VALUES(101401,1,'I detect that you''re back at full stamina again. Time to kick off another fun case, my faithful assistant!');
+INSERT INTO "notif_data" VALUES(101401,2,'Your skip tickets are full over at the guildhouse. They''ll make our detective work much more efficient!');
+INSERT INTO "notif_data" VALUES(101401,3,'Your stamina is full back at the guildhouse. It seems spending long hours on the case won''t be an issue now!');
+INSERT INTO "notif_data" VALUES(101401,4,'I see the EXP potions are full at the guildhouse. Time to level up and challenge ourselves with a real brain-twister of a mystery!');
+INSERT INTO "notif_data" VALUES(101401,5,'Hey, you have a lot of Mana at the guildhouse. What luck! That ought to just about cover the costs of our investigation!');
+INSERT INTO "notif_data" VALUES(101401,6,'All of the items at the guildhouse are full! These''ll be a big help in our investigations!');
 INSERT INTO "notif_data" VALUES(101501,1,'Look at you and your full stamina. What say we go off together somewhere? ♪');
 INSERT INTO "notif_data" VALUES(101501,2,'My, my. Your skip tickets at the guildhouse are all full. Now we can go all sorts of places together.');
 INSERT INTO "notif_data" VALUES(101501,3,'Your stamina at the guildhouse is full. And just where do you plan on taking me, young man?');

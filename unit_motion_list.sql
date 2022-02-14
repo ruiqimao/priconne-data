@@ -12,6 +12,7 @@ INSERT INTO "unit_motion_list" VALUES(101001,1);
 INSERT INTO "unit_motion_list" VALUES(101101,1);
 INSERT INTO "unit_motion_list" VALUES(101201,1);
 INSERT INTO "unit_motion_list" VALUES(101301,1);
+INSERT INTO "unit_motion_list" VALUES(101401,1);
 INSERT INTO "unit_motion_list" VALUES(101501,1);
 INSERT INTO "unit_motion_list" VALUES(101601,1);
 INSERT INTO "unit_motion_list" VALUES(101701,1);

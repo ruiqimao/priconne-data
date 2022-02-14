@@ -24,3 +24,5 @@ INSERT INTO "hatsune_quest_area" VALUES(10010201,10010,'Temple Trail',201,'bgm_M
 INSERT INTO "hatsune_quest_area" VALUES(10011101,10011,'Landosol City',201,'bgm_M189','bgm_M189','2022/01/18 23:00:00','2022/02/01 22:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10011102,10011,'Kitchen Stadium',201,'bgm_M189','bgm_M189','2022/01/18 23:00:00','2022/02/01 22:59:59',1,2,110,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10011201,10011,'Kitchen Stadium',201,'bgm_M189','bgm_M189','2022/01/18 23:00:00','2022/02/01 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10012101,10012,'Landosol City',201,'bgm_M206','bgm_M206','2022/02/14 23:00:00','2022/03/01 22:59:59',1,1,115,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10012201,10012,'Landosol City',201,'bgm_M206','bgm_M206','2022/02/14 23:00:00','2022/03/01 22:59:59',1,1,0,0,0,'0','0',0);

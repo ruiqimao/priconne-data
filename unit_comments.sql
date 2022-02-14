@@ -155,6 +155,18 @@ INSERT INTO "unit_comments" VALUES(1013009,101331,1,4,1,0.0,1,'If you and me fig
 INSERT INTO "unit_comments" VALUES(1013010,101331,1,5,1,0.0,1,'My magical girl story wouldn''t be complete without you, my trusty partner! We''ll become a legend and protect the world together!');
 INSERT INTO "unit_comments" VALUES(1013011,101301,2,6,2,2.8,1,'Happy birthday! This is my present to you! 185 volumes of my top manga recs! ...Um, you think you can carry them home?');
 INSERT INTO "unit_comments" VALUES(1013012,101331,2,6,1,0.0,1,'Hey, birthday boy! Take this pair of glasses as a present! Go on,\ntry them on! ...Yep! Perf-tastic!\nYou''ve never looked sharper!');
+INSERT INTO "unit_comments" VALUES(1014001,101401,1,1,1,0.0,1,'A new volume of my favorite mystery series is coming out soon! Care to give it a read? I''ll lend you the whole set!');
+INSERT INTO "unit_comments" VALUES(1014002,101401,1,2,1,5.4,2,'What say we spend the day as just friends? An active mind needs some good rest now and then. ♪');
+INSERT INTO "unit_comments" VALUES(1014003,101401,1,3,4,6.2,1,'Detective work turns your lifestyle upside down, makes you spend whole days walking around, and requires major patience to boot. But you''re doing pretty well, I''d say.');
+INSERT INTO "unit_comments" VALUES(1014004,101401,1,4,5,4.8,2,'There''s not a case the two of us can''t solve if we''re together!');
+INSERT INTO "unit_comments" VALUES(1014005,101401,1,5,1,6.5,5,'I always worked alone before I met you. And to be honest? I much prefer things the way they are now.');
+INSERT INTO "unit_comments" VALUES(1014006,101431,1,1,1,0.0,1,'Woo! You''d best not underestimate the power of Caon''s finest detective! ♪');
+INSERT INTO "unit_comments" VALUES(1014007,101431,1,2,1,0.0,1,'No incident goes unsolved. No perpetrator roams free. The finest detective in the land, Kasumi, is on the case!');
+INSERT INTO "unit_comments" VALUES(1014008,101431,1,3,1,0.0,1,'I''m not one for violence, but I''m more than willing to take matters into my own hands if the case requires it!');
+INSERT INTO "unit_comments" VALUES(1014009,101431,1,4,1,0.0,1,'We''ve reached the point where I consider you an important partner, even outside of our detective work. ♪');
+INSERT INTO "unit_comments" VALUES(1014010,101431,1,5,1,0.0,1,'A great detective needs a great assistant, and you fill that role perfectly. I''m able to do what I do thanks to your help.');
+INSERT INTO "unit_comments" VALUES(1014011,101401,2,6,1,6.7,5,'It''s your special day? Happy birthday! Let''s wrap things up for today and throw you a big party!');
+INSERT INTO "unit_comments" VALUES(1014012,101431,2,6,1,0.0,1,'It''s your birthday, so what say you take on the role of detective for the day? So, Mr. Detective! What sort of case are you pursuing today? Hehe. ♪');
 INSERT INTO "unit_comments" VALUES(1015001,101501,1,1,1,3.0,2,'Aww, did you come to see me? Hee hee. I''m so happy!');
 INSERT INTO "unit_comments" VALUES(1015002,101501,1,2,1,3.0,2,'What sort of book should I read today? What type is your favorite?');
 INSERT INTO "unit_comments" VALUES(1015003,101501,1,3,2,1.0,5,'Hee hee. Think of me as something of a surrogate mother.');

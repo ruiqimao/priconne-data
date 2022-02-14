@@ -12,6 +12,7 @@ INSERT INTO "unlock_unit_condition" VALUES(101001,'Maho Himemiya',1,0,1,2,31010,
 INSERT INTO "unlock_unit_condition" VALUES(101101,'Rino Inosaki',1,0,1,2,31011,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1);
 INSERT INTO "unlock_unit_condition" VALUES(101201,'Hatsune Kashiwazaki',1,0,1,2,31012,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
 INSERT INTO "unlock_unit_condition" VALUES(101301,'Nanaka Tanno',1,0,1,2,31013,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
+INSERT INTO "unlock_unit_condition" VALUES(101401,'Kasumi Kirihara',1,0,1,2,31014,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
 INSERT INTO "unlock_unit_condition" VALUES(101501,'Misato Aikawa',1,0,1,2,31015,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(101601,'Suzuna Minami',1,0,1,2,31016,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(101701,'Kaori Kyan',1,0,1,2,31017,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

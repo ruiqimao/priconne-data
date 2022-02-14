@@ -25,6 +25,8 @@ INSERT INTO "odds_name_data" VALUES(23,'1001020101','Rei (New Year)''s Memory Sh
 INSERT INTO "odds_name_data" VALUES(24,'1001020102','Yui''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(25,'1001120101','Eriko (Valentine)''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(26,'1001120102','Rino''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(27,'1001220101','Makoto''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(28,'1001220102','Yuki''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(33,'box_rank_2-4','Random Equipment Box',99002,'Various random equipment can be obtained.');
 INSERT INTO "odds_name_data" VALUES(34,'box_rank_2-5','Random Equipment Box',99002,'Various random equipment can be obtained.');
 INSERT INTO "odds_name_data" VALUES(35,'box_rank_3-6','Random Equipment Box',99002,'Various random equipment can be obtained.');

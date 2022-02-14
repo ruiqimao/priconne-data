@@ -12,6 +12,7 @@ INSERT INTO "tips" VALUES(4101001,101001,1,'Because She Says So');
 INSERT INTO "tips" VALUES(4101101,101101,1,'No Oysters for You');
 INSERT INTO "tips" VALUES(4101201,101201,1,'Wayward Sister');
 INSERT INTO "tips" VALUES(4101301,101301,1,'A New Technique?');
+INSERT INTO "tips" VALUES(4101401,101401,1,'The Detective Life');
 INSERT INTO "tips" VALUES(4101501,101501,1,'The Power of Love?');
 INSERT INTO "tips" VALUES(4101601,101601,1,'An Alluring Aroma');
 INSERT INTO "tips" VALUES(4101701,101701,1,'Don''t Sweat It!');
