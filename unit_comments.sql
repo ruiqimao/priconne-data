@@ -587,6 +587,18 @@ INSERT INTO "unit_comments" VALUES(1054009,105431,1,4,1,0.0,1,'Have you been... 
 INSERT INTO "unit_comments" VALUES(1054010,105431,1,5,1,0.0,1,'Tell me, is there anything you need me to help you with?\nJust this once, I''ll do it for free!');
 INSERT INTO "unit_comments" VALUES(1054011,105401,2,6,1,5.3,5,'I-it''s your birthday today, right?\nI suppose I should wish you a happy one! ...Why do you care how I found out the date?!');
 INSERT INTO "unit_comments" VALUES(1054012,105431,2,6,1,0.0,1,'H-happy birthday, Mr. Knight...\nIt''s your special day of the year! Here... take this handkerchief. What?! It''s a present, obviously!');
+INSERT INTO "unit_comments" VALUES(1055001,105501,1,1,1,2.5,5,'*staaaaaare* ...Ah!\nH-hello there!\nN-no, I wasn''t, um, looking at anything in particular...');
+INSERT INTO "unit_comments" VALUES(1055002,105501,1,2,6,4.7,5,'Awawahhh! I-it''s you!\nU-um, v-very wine feather we''re having today! Ahh, I flubbed it...\nThis is so embarrassing...');
+INSERT INTO "unit_comments" VALUES(1055003,105501,1,3,6,3.6,4,'Oh! H-hello!\nI d-definitely wasn''t\nfollowing you or anything!\nI was just, um... watching...');
+INSERT INTO "unit_comments" VALUES(1055004,105501,1,4,6,5.7,5,'Um, um, um... E-excuse me!\nWould you like to g-go out sometime, for l-lun...\nN-no, I can''t say iiiit!');
+INSERT INTO "unit_comments" VALUES(1055005,105501,1,5,2,5.4,5,'Um, I... I promise I''ll thank you properly someday, so...\nP-please wait for me until then!');
+INSERT INTO "unit_comments" VALUES(1055006,105531,1,1,1,0.0,1,'Thank you for letting a nobody like me help you with an important job like defeating monsters! I''ll d-do my best!');
+INSERT INTO "unit_comments" VALUES(1055007,105531,1,2,1,0.0,1,'I''m still scared of fighting,\nbut when you''re here with me,\nI feel much more powerful!');
+INSERT INTO "unit_comments" VALUES(1055008,105531,1,3,1,0.0,1,'S-stay back and leave this to me!\nI-I''ll take care of the m-monsters all by myse— Urgh...\nPlease back me up after all...');
+INSERT INTO "unit_comments" VALUES(1055009,105531,1,4,1,0.0,1,'You''re always helping me when I''m in trouble, so now it''s my turn to help you! I... I want to repay you for everything!');
+INSERT INTO "unit_comments" VALUES(1055010,105531,1,5,1,0.0,1,'You and me, fighting together...\nW-we make a great team, huh?!\nEhehehe... Like real partners...');
+INSERT INTO "unit_comments" VALUES(1055011,105501,2,6,2,8.8,5,'U-um... Listen! I want to wish\nyou a very happy birthday!\nPlease let me celebrate with you!\n...Ahhh, I actually said it!');
+INSERT INTO "unit_comments" VALUES(1055012,105531,2,6,1,0.0,1,'H-happy birthday to you!\nLook, I b-brought a p-present!\nI just know these clothes will suit you! Next up, I got your favorite...');
 INSERT INTO "unit_comments" VALUES(1056001,105601,1,1,1,5.2,2,'I get myself wrapped up in trouble more than I''d like to admit. But don''t be afraid to ask if you need anything, okay?');
 INSERT INTO "unit_comments" VALUES(1056002,105601,1,2,2,4.4,1,'Work''s done for now, so I think it''s time to go fishing. How about you join me?');
 INSERT INTO "unit_comments" VALUES(1056003,105601,1,3,2,8.3,5,'Good timing! Dealing with some hoodlums earned me a bit of extra change, so come join me for a drink.');

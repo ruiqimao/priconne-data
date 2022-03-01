@@ -475,6 +475,15 @@ INSERT INTO "skill_action" VALUES(105400302,1,10,101,0,0,1.0,150.0,0.0,12.0,0.0,
 INSERT INTO "skill_action" VALUES(105400303,1,8,1,0,0,0.9,0.0,12.0,0.0,0.0,0.0,0.0,1,1,700,3,0,99,'Reduces action speed of enemies in range for a set period of time.','Action speed reduction success rate + 1');
 INSERT INTO "skill_action" VALUES(105450101,1,90,3,0,0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical defense by {0}.','Physical defense boost + {0}');
 INSERT INTO "skill_action" VALUES(105451101,1,90,3,0,0,1.0,32.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical defense by {0}.','Physical defense boost + {0}');
+INSERT INTO "skill_action" VALUES(105500101,1,1,1,0,0,12.0,12.0,1.08,0.0,0.0,0.0,0.0,1,1,1200,3,0,99,'Deals {0} physical damage to enemies in range.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(105500102,1,12,30,0,0,6.0,0.0,100.0,0.0,0.0,0.0,0.0,1,1,1200,3,0,99,'Blinds enemies in range.','Blind success rate + 1');
+INSERT INTO "skill_action" VALUES(105500103,1,11,1,0,0,4.0,0.0,100.0,0.0,0.0,0.0,0.0,1,1,1200,3,0,99,'Confuses enemies in range.','Confusion success rate + 1');
+INSERT INTO "skill_action" VALUES(105500201,1,1,1,0,0,9.0,9.0,0.72,0.0,0.0,0.0,0.0,1,2,-1,3,0,99,'Deals {0} physical damage to enemies in range.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(105500202,1,10,11,1,0,1.0,4.0,4.0,12.0,0.0,0.0,1.0,1,2,-1,3,0,99,'Lowers the physical attack of enemies in range by {0}.','Physical attack lowered + {0}');
+INSERT INTO "skill_action" VALUES(105500301,1,1,1,0,0,5.0,5.0,0.4,0.0,0.0,0.0,0.0,1,1,1200,3,0,99,'Deals {0} physical damage to enemies in range.','Physical damage + {0}');
+INSERT INTO "skill_action" VALUES(105500302,1,8,7,0,0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,1,1,1200,3,0,99,'Renders enemies in range immobile for a set period of time.','Stun success rate + 1');
+INSERT INTO "skill_action" VALUES(105550101,1,90,3,0,0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical defense by {0}.','Physical defense boost + {0}');
+INSERT INTO "skill_action" VALUES(105551101,1,90,3,0,0,1.0,32.0,2.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own physical defense by {0}.','Physical defense boost + {0}');
 INSERT INTO "skill_action" VALUES(105600101,1,1,1,0,0,30.0,30.0,2.4,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(105600102,1,10,21,1,0,1.0,1.2,1.2,18.0,0.0,0.0,1.0,1,1,-1,3,0,1,'Lowers an enemy''s physical defense by {0}.','Physical defense lowered + {0}');
 INSERT INTO "skill_action" VALUES(105600201,1,20,1,0,0,5.0,0.05,0.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'Provokes all enemies.','');
@@ -828,6 +837,9 @@ INSERT INTO "skill_action" VALUES(206900101,1,1,2,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.
 INSERT INTO "skill_action" VALUES(206900102,1,8,5,0,0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1,3,-1,1,0,1,'Inflicts Bind on high HP in range.','');
 INSERT INTO "skill_action" VALUES(207000101,1,21,1,0,0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'Becomes invincible.','');
 INSERT INTO "skill_action" VALUES(207000201,1,1,2,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,3,200,2,0,1,'Random magic damage in range.','');
+INSERT INTO "skill_action" VALUES(207100101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,2160,12,0,1,'Deals physical damage to the enemy with the highest TP.','');
+INSERT INTO "skill_action" VALUES(207100102,1,23,950,207100103,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,2160,1,0,1,'Activates when target''s HP is at 50% or below.','');
+INSERT INTO "skill_action" VALUES(207100103,1,8,3,0,0,0.0,0.0,3.5,0.0,0.0,0.0,0.0,1,3,2160,1,0,1,'Inflicts Paralyze on target.','');
 INSERT INTO "skill_action" VALUES(300100101,1,1,1,0,0,0.5,0.5,0.2,0.0,0.0,0.0,0.0,1,3,3000,3,0,99,'','');
 INSERT INTO "skill_action" VALUES(300100102,1,9,2,0,0,15.0,1.5,10.0,0.0,0.0,0.0,0.0,1,3,3000,3,0,99,'','');
 INSERT INTO "skill_action" VALUES(300100201,1,1,1,0,0,5.0,0.4,1.0,0.0,0.0,0.0,0.0,1,1,3000,3,0,1,'','');
@@ -1477,6 +1489,12 @@ INSERT INTO "skill_action" VALUES(306301401,1,17,3,0,0,100.0,0.0,85.0,0.0,0.0,0.
 INSERT INTO "skill_action" VALUES(306301402,1,22,1,30630102,0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,2,1,0,1,0,1,'','');
 INSERT INTO "skill_action" VALUES(306301403,1,10,10,1,0,2.0,20.0,0.0,90.0,0.0,0.0,0.0,2,1,0,7,0,1,'','');
 INSERT INTO "skill_action" VALUES(306301404,1,10,30,1,0,2.0,20.0,0.0,90.0,0.0,0.0,0.0,2,1,0,7,0,1,'','');
+INSERT INTO "skill_action" VALUES(306400101,1,1,1,0,0,8.0,12.0,0.25,0.0,0.0,0.0,0.0,1,3,-1,3,0,99,'Physical damage to all.','');
+INSERT INTO "skill_action" VALUES(306400102,1,10,81,1,0,2.0,80.0,0.0,8.0,0.0,0.0,0.0,1,3,3000,1,0,99,'Lowers TP Boost of all.','');
+INSERT INTO "skill_action" VALUES(306400103,1,34,1,0,0,2.0,40.0,0.0,3.0,0.0,0.0,0.0,1,3,3000,1,0,99,'Damage increases with each attack.','');
+INSERT INTO "skill_action" VALUES(306400201,1,7,4,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,3000,4,1,1,'Targets second from rear.','');
+INSERT INTO "skill_action" VALUES(306400202,1,1,1,0,0,8.0,8.0,0.1,0.0,0.0,0.0,0.0,1,2,100,1,0,99,'Damage to small range.','');
+INSERT INTO "skill_action" VALUES(306400203,1,8,3,0,0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,1,2,100,1,0,99,'Paralyze to small range.','');
 INSERT INTO "skill_action" VALUES(306700101,1,46,1,1,0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,1,3,2160,3,0,99,'-','');
 INSERT INTO "skill_action" VALUES(306700102,1,23,500,306700103,0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1,1,2160,3,0,99,'-','');
 INSERT INTO "skill_action" VALUES(306700103,1,1,1,0,0,50.0,8.0,1.5,0.0,0.0,0.0,0.0,1,1,2160,3,0,99,'-','');

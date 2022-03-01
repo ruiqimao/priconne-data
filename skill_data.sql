@@ -270,9 +270,11 @@ INSERT INTO "skill_data" VALUES(1054002,'Threading Snare',0,0,1.23,105400201,105
 INSERT INTO "skill_data" VALUES(1054003,'Yarn-ado',0,0,1.23,105400301,105400302,105400303,0,0,0,0,0,105400301,0,0,0,0,0,'Deals small physical damage to all enemies in range and reduces their movement speed and action speed by a small amount.',2001);
 INSERT INTO "skill_data" VALUES(1054501,'Tailor''s Grit',0,0,0.0,105450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical defense at start of battle.',3002);
 INSERT INTO "skill_data" VALUES(1054511,'Tailor''s Grit+',0,0,0.0,105451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical defense at start of battle.',3002);
-INSERT INTO "skill_data" VALUES(1055001,'Violetshock Flare',0,0,0.0,105500101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to all enemies in range.',1001);
-INSERT INTO "skill_data" VALUES(1055002,'Curely Cheer',0,0,1.23,105500201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to physical attack and physical defense of all allies.',1003);
-INSERT INTO "skill_data" VALUES(1055003,'Bravely Cheer',1,0,1.23,105500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Small boost to magic attack and magic defense of all allies.',1003);
+INSERT INTO "skill_data" VALUES(1055001,'I Can Do This If I Try!',0,0,0.0,105500101,105500102,105500103,0,0,0,0,0,105500101,105500101,0,0,0,0,'Deals moderate physical damage to all enemies in range and inflicts Blind and Confuse.',1024);
+INSERT INTO "skill_data" VALUES(1055002,'I-I''ll Spear You!',0,0,1.23,105500201,105500202,0,0,0,0,0,0,105500201,0,0,0,0,0,'Deals small physical damage to all enemies in range and lowers their physical attack by a small amount.',2004);
+INSERT INTO "skill_data" VALUES(1055003,'What If I Keep my Eyes Closed?',0,0,1.23,105500301,105500302,0,0,0,0,0,0,105500301,0,0,0,0,0,'Deals small physical damage to all enemies in range and inflicts Stun.',2018);
+INSERT INTO "skill_data" VALUES(1055501,'Burst of Courage',0,0,0.0,105550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical defense at start of battle.',3002);
+INSERT INTO "skill_data" VALUES(1055511,'Burst of Courage+',0,0,0.0,105551101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical defense at start of battle.',3002);
 INSERT INTO "skill_data" VALUES(1056001,'Origin Strike: Severing Moon',1,0,0.0,105600101,105600102,0,0,0,0,0,0,105600101,0,0,0,0,0,'Deals large physical damage to an enemy directly in front and lowers their physical defense by a large amount.',1001);
 INSERT INTO "skill_data" VALUES(1056002,'First Strike: Reticence',1,0,1.125,105600201,105600202,105600203,105600204,0,0,0,0,0,0,105600203,0,0,0,'Taunts all enemies and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range and knocks them back slightly.',2012);
 INSERT INTO "skill_data" VALUES(1056003,'Peerless Stance',1,0,1.125,105600301,105600302,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers own HP by a small amount and boosts physical defense by a moderate amount.',2003);
@@ -484,6 +486,7 @@ INSERT INTO "skill_data" VALUES(2068021,'',0,0,3.0,206802101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2069001,'',1,0,2.5,206900101,206900102,0,0,0,0,0,0,206900101,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(2070001,'',1,0,2.5,207000101,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(2070002,'',1,0,0.5,207000201,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(2071001,'',0,0,3.0,207100101,207100102,0,0,0,0,0,0,207100101,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3001001,'',0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3001002,'',0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3001003,'',1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,'sample',1001);
@@ -764,6 +767,8 @@ INSERT INTO "skill_data" VALUES(3063011,'',0,0,0.0,306301101,306301102,306301103
 INSERT INTO "skill_data" VALUES(3063012,'',0,0,1.8,306301201,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3063013,'',0,0,2.0,306301301,306301302,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3063014,'',0,0,0.0,306301401,306301402,306301403,306301404,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3064001,'',0,0,0.0,306400101,306400102,306400103,0,0,0,0,0,306400101,306400101,0,0,0,0,'Wild Talon: UB',1001);
+INSERT INTO "skill_data" VALUES(3064002,'',0,0,2.5,306400201,306400202,306400203,0,0,0,0,0,306400201,306400202,0,0,0,0,'Wild Talon: Skill',1001);
 INSERT INTO "skill_data" VALUES(3067001,'',0,0,0.0,306700101,306700102,306700103,0,0,0,0,0,0,306700102,0,0,0,0,'Ugly Lovely',1001);
 INSERT INTO "skill_data" VALUES(3067002,'',0,0,6.0,306700201,306700202,306700203,306700204,306700205,0,0,0,0,0,306700201,0,0,0,'Ugly Lovely',1001);
 INSERT INTO "skill_data" VALUES(3067003,'',0,0,2.8,306700301,306700302,306700303,306700304,0,0,0,0,306700301,306700301,306700303,0,0,0,'Ugly Lovely',1001);
