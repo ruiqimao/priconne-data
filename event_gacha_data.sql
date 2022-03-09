@@ -11,3 +11,4 @@ INSERT INTO "event_gacha_data" VALUES(10009,10009,'The Carol That Never Was',2,6
 INSERT INTO "event_gacha_data" VALUES(10010,10010,'New Year''s Day Twinkle Crisis!',2,60092,1,5);
 INSERT INTO "event_gacha_data" VALUES(10011,10011,'Rumble on Valentine''s Day! Fight for Your Right to Love',2,60102,1,5);
 INSERT INTO "event_gacha_data" VALUES(10012,10012,'Landosol''s Ace Detective: The Case of the Woeful Stalker',2,60112,1,5);
+INSERT INTO "event_gacha_data" VALUES(10013,10013,'The Twin Flowers of Astrum',2,60122,1,5);

@@ -448,3 +448,15 @@ INSERT INTO "notif_data" VALUES(109101,3,'Your guildhouse is full of stamina! No
 INSERT INTO "notif_data" VALUES(109101,4,'Look at all these EXP potions at your guildhouse! Your big sis might get even stronger now! ♪');
 INSERT INTO "notif_data" VALUES(109101,5,'Your guildhouse is full of Mana! Here, let me budget it all out for you.');
 INSERT INTO "notif_data" VALUES(109101,6,'All the items at your guildhouse are full! Come on, let''s tidy up together. If you do a good job, I''ll pat you on the head! ♪');
+INSERT INTO "notif_data" VALUES(109201,1,'Your stamina has fully recovered! Come on, let''s get a move on!');
+INSERT INTO "notif_data" VALUES(109201,2,'Hey, the skip tickets at the guildhouse are full! This way—hurry!');
+INSERT INTO "notif_data" VALUES(109201,3,'You have full stamina back at the guildhouse! All right, let''s get out there and show the world what we''ve got!');
+INSERT INTO "notif_data" VALUES(109201,4,'Your EXP potions at the guildhouse are full! Let''s put them to good use on our quests!');
+INSERT INTO "notif_data" VALUES(109201,5,'The guildhouse is full to the brim with Mana! Let''s be careful how we spend it!');
+INSERT INTO "notif_data" VALUES(109201,6,'It seems all items at the guildhouse are full! Don''t let them go to waste!');
+INSERT INTO "notif_data" VALUES(109301,1,'Our stamina is completely full again! Time for us to go and play!');
+INSERT INTO "notif_data" VALUES(109301,2,'We''ve got full skip tickets at the guildhouse! Let''s go and live it up while we''re young!');
+INSERT INTO "notif_data" VALUES(109301,3,'You''ve got full stamina waiting at the guildhouse! Now we can go out and play all day!');
+INSERT INTO "notif_data" VALUES(109301,4,'Guildhouse EXP potions are full to the brim! Let''s use them right away!');
+INSERT INTO "notif_data" VALUES(109301,5,'You have lots and lots of Mana at the guildhouse! Boy, I sure could use something sweet to eat!');
+INSERT INTO "notif_data" VALUES(109301,6,'Hey, all of your items at the guildhouse are full! Better come get them!');

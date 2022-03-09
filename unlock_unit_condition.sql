@@ -74,3 +74,5 @@ INSERT INTO "unlock_unit_condition" VALUES(108801,'Yui (New Year)',1,0,1,2,31088
 INSERT INTO "unlock_unit_condition" VALUES(108901,'Rei (New Year)',1,0,1,2,31089,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(109001,'Eriko (Valentine)',1,0,1,2,31090,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(109101,'Shizuru (Valentine)',1,0,1,2,31091,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(109201,'Anne',1,0,1,2,31092,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(109301,'Lou',1,0,1,2,31093,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

@@ -57,3 +57,5 @@ INSERT INTO "tips" VALUES(4106001,106001,1,'Tsundere');
 INSERT INTO "tips" VALUES(4106101,106101,1,'Special Attack');
 INSERT INTO "tips" VALUES(4106301,106301,1,'Joyful Revelation');
 INSERT INTO "tips" VALUES(4107101,107101,1,'Accursed Tedium');
+INSERT INTO "tips" VALUES(4109201,109201,1,'I''m Curious!');
+INSERT INTO "tips" VALUES(4109301,109301,1,'Secret Technique');
