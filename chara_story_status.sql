@@ -454,3 +454,6 @@ INSERT INTO "chara_story_status" VALUES(1092004,'Anne''s Episode 4',4,150,7,10,0
 INSERT INTO "chara_story_status" VALUES(1093002,'Lou''s Episode 2',4,60,0,0,0,0,0,0,0,0,1093,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1093003,'Lou''s Episode 3',4,100,0,0,0,0,0,0,0,0,1093,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1093004,'Lou''s Episode 4',4,150,7,10,0,0,0,0,0,0,1093,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1094002,'Grea''s Episode 2',4,60,0,0,0,0,0,0,0,0,1094,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1094003,'Grea''s Episode 3',4,100,0,0,0,0,0,0,0,0,1094,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1094004,'Grea''s Episode 4',4,170,0,0,0,0,0,0,0,0,1094,0,0,0,0,0,0,0,0,0);

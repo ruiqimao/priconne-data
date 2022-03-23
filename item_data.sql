@@ -86,6 +86,7 @@ INSERT INTO "item_data" VALUES(31090,'Eriko (Valentine)''s Memory Shard','A shar
 INSERT INTO "item_data" VALUES(31091,'Shizuru (Valentine)''s Memory Shard','A shard of Shizuru (Valentine)''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31091,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31092,'Anne''s Memory Shard','A shard of Anne''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31092,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(31093,'Lou''s Memory Shard','A shard of Lou''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31093,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
+INSERT INTO "item_data" VALUES(31094,'Grea''s Memory Shard','A shard of Grea''s sealed memories. Collect these items to unleash your characters'' hidden power.',1,11,31094,0,9999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50001,'Churro Heart','Used in the Guildhouse. Adds 10 character bond points.',1,7,10,200,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50002,'Apple Pie','Used in the Guildhouse. Adds 20 character bond points.',2,7,20,400,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');
 INSERT INTO "item_data" VALUES(50003,'Mixed Berry Cake','Used in the Guildhouse. Adds 30 character bond points.',3,7,30,600,99999,'2015/12/17 15:00:00','2030/08/01 14:59:59');

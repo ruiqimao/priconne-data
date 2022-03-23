@@ -313,5 +313,6 @@ INSERT INTO "unit_enemy_data" VALUES(609001,'Eriko (Valentine)''s Shadow',109001
 INSERT INTO "unit_enemy_data" VALUES(609101,'Shizuru (Valentine)''s Shadow',109101,5,5,450,385,1,2.125,0,1,'A peculiar monster bearing a striking resemblance to Shizuru (Valentine).');
 INSERT INTO "unit_enemy_data" VALUES(609201,'Anne''s Shadow',109201,23,7,450,630,2,2.27,0,1,'A peculiar monster bearing a striking resemblance to Anne.');
 INSERT INTO "unit_enemy_data" VALUES(609301,'Lou''s Shadow',109301,23,7,450,640,2,2.27,0,1,'A peculiar monster bearing a striking resemblance to Lou.');
+INSERT INTO "unit_enemy_data" VALUES(609401,'Grea''s Shadow',109401,1,1,450,525,2,2.27,0,1,'A peculiar monster bearing a striking resemblance to Grea.');
 INSERT INTO "unit_enemy_data" VALUES(902801,'Saren''s Shadow',902801,0,4,600,350,1,2.0,0,1,'A peculiar monster bearing a striking resemblance to Saren.');
 INSERT INTO "unit_enemy_data" VALUES(912401,'Rock Lizard',912401,0,14,270,200,1,3.0,0,0,'[Physical] Short-ranged attack.\nA rock lizard-like monster\nwhose head is as tough as\nan armor.');

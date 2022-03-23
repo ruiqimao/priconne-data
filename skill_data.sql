@@ -417,11 +417,16 @@ INSERT INTO "skill_data" VALUES(1092002,'Collision Spell',1,0,0.925,109200201,0,
 INSERT INTO "skill_data" VALUES(1092003,'Princess Calling',1,0,1.065,109200301,109200302,109200303,0,0,0,0,0,0,0,0,0,0,0,'Grants Spirit''s Blessing to all nearby allies. Boosts their magical attack by a large amount and their action speed by a small amount.',2003);
 INSERT INTO "skill_data" VALUES(1092501,'Radiant Calling',0,0,0.0,109250101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1092511,'Radiant Calling+',0,0,0.0,109251101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
-INSERT INTO "skill_data" VALUES(1093001,'Mr. Gawker Attack!',1,0,0.0,109300101,109300102,109300103,0,0,0,0,0,0,109300102,0,0,0,0,'',1002);
+INSERT INTO "skill_data" VALUES(1093001,'Mr. Gawker Attack!',1,0,0.0,109300101,109300102,109300103,0,0,0,0,0,0,109300102,0,0,0,0,'Deals moderate magical damage to all enemies in range. Damage increases for each active Mr. Gawker.',1002);
 INSERT INTO "skill_data" VALUES(1093002,'Come on Out, Mr. Gawker!',0,0,1.7325,109300201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Summons a Mr. Gawker. Each time Lou takes damage, one Mr. Gawker runs away, dealing damage to an enemy.',2017);
 INSERT INTO "skill_data" VALUES(1093003,'Beginner''s Luck',1,0,1.19,109300301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large magical damage to an enemy directly in front.',2002);
 INSERT INTO "skill_data" VALUES(1093501,'Never Give Up',0,0,0.0,109350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1093511,'Never Give Up+',0,0,0.0,109351101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1094001,'Cleaving Madness',1,0,0.0,109400101,0,0,0,0,0,0,0,0,109300102,0,0,0,0,'Deals large magical damage to all enemies in range.',1002);
+INSERT INTO "skill_data" VALUES(1094002,'Dragon Inferno',0,0,1.05,109400201,109400202,109400203,0,0,0,0,0,0,0,0,0,0,0,'Gains invincibility and charges toward an enemy directly in front, dealing moderate magical damage.',2002);
+INSERT INTO "skill_data" VALUES(1094003,'Dragon Agni',1,0,0.92,109400301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a field that deals magical damage around the enemy with the highest physical attack.',2002);
+INSERT INTO "skill_data" VALUES(1094501,'Dragonheart',0,0,0.0,109450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1094511,'Dragonheart+',0,0,0.0,109451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(2001001,'',0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2002001,'',1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2003001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);

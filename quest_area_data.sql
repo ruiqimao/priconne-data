@@ -21,6 +21,7 @@ INSERT INTO "quest_area_data" VALUES(11019,'19. Phaethon Fields (South)',102,'bg
 INSERT INTO "quest_area_data" VALUES(11020,'20. Castalia Woods (West)',102,'bgm_M180','bgm_M180','2022/01/05 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11021,'21. Castalia Woods (East)',102,'bgm_M180','bgm_M180','2022/02/01 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11022,'22. Mathilde Ridges (South)',102,'bgm_M232','bgm_M232','2022/03/01 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(11023,'23. Mathilde Ridges (North)',102,'bgm_M232','bgm_M232','2022/03/23 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12001,'1. Juno Plains',101,'bgm_M61','bgm_M61','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12002,'2. Pallas Peaks',101,'bgm_M61','bgm_M61_02','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12003,'3. Hebe Hill',101,'bgm_M61','bgm_M61_03','2015/12/17 15:00:00','2030/12/17 14:59:59');
@@ -43,6 +44,7 @@ INSERT INTO "quest_area_data" VALUES(12019,'19. Phaethon Fields (South)',102,'bg
 INSERT INTO "quest_area_data" VALUES(12020,'20. Castalia Woods (West)',102,'bgm_M180','bgm_M180','2022/01/05 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12021,'21. Castalia Woods (East)',102,'bgm_M180','bgm_M180','2022/02/01 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12022,'22. Mathilde Ridges (South)',102,'bgm_M232','bgm_M232','2022/03/01 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(12023,'23. Mathilde Ridges (North)',102,'bgm_M232','bgm_M232','2022/03/23 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(18001,'Sanctum Survey',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(21001,'Mana Quests',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(21002,'EXP Quests',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
