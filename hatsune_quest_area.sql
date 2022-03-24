@@ -29,3 +29,5 @@ INSERT INTO "hatsune_quest_area" VALUES(10012201,10012,'Landosol City',201,'bgm_
 INSERT INTO "hatsune_quest_area" VALUES(10013101,10013,'Mount Gastros',201,'bgm_M215','bgm_M215','2022/03/10 23:00:00','2022/03/23 22:59:59',1,1,110,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10013102,10013,'Shining Rift',201,'bgm_M215','bgm_M215','2022/03/10 23:00:00','2022/03/23 22:59:59',1,2,0,0,1,'202','208',11);
 INSERT INTO "hatsune_quest_area" VALUES(10013201,10013,'Shining Rift',201,'bgm_M215','bgm_M215','2022/03/10 23:00:00','2022/03/23 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10014101,10014,'Targum Region',201,'bgm_M32','bgm_M32','2022/03/24 23:00:00','2022/03/30 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10014201,10014,'Targum Region',201,'bgm_M32','bgm_M32','2022/03/24 23:00:00','2022/03/30 22:59:59',1,0,0,0,0,'0','0',0);
