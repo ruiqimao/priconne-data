@@ -7,6 +7,8 @@ INSERT INTO "content_release_data" VALUES(107,1,0,11003001,'To unlock, clear Mai
 INSERT INTO "content_release_data" VALUES(108,1,0,11009001,'To unlock, clear Main Quest 9-1 (NORMAL)');
 INSERT INTO "content_release_data" VALUES(109,1,0,11009002,'To unlock, clear Main Quest 9-2 (NORMAL)');
 INSERT INTO "content_release_data" VALUES(110,1,0,11001005,'To unlock, clear Main Quest 1-5 (NORMAL)');
+INSERT INTO "content_release_data" VALUES(111,1,0,12018001,'Preparing...');
+INSERT INTO "content_release_data" VALUES(112,1,0,11018005,'Preparing...');
 INSERT INTO "content_release_data" VALUES(201,1,0,0,'');
 INSERT INTO "content_release_data" VALUES(202,1,0,11004006,'To unlock, clear Main Quest 4-6 (NORMAL)');
 INSERT INTO "content_release_data" VALUES(203,1,0,11008015,'To unlock, clear Main Quest 8-15 (NORMAL)');
@@ -22,3 +24,4 @@ INSERT INTO "content_release_data" VALUES(601,1,0,11002001,'To unlock, clear Mai
 INSERT INTO "content_release_data" VALUES(602,1,0,11007001,'To unlock, clear Main Quest 7-1 (NORMAL)');
 INSERT INTO "content_release_data" VALUES(603,1,0,11016014,'To unlock, clear Main Quest 16-14 (NORMAL)');
 INSERT INTO "content_release_data" VALUES(701,1,0,11003001,'To unlock, clear Main Quest 3-1 (NORMAL)');
+INSERT INTO "content_release_data" VALUES(904,1,0,11002009,'Preparing...');

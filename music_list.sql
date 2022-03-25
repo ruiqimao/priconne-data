@@ -60,3 +60,9 @@ INSERT INTO "music_list" VALUES(58,'Aquarius',20.0,'','2022-01-19 23:00:00','',-
 INSERT INTO "music_list" VALUES(59,'Rumble on Valentine''s Day! Fight for Your Right to Love',20.0,'','2022-01-19 23:00:00','',-1,1000,59,'Rumble on Valentine''s Day! Fight for Your Right to Love','','','');
 INSERT INTO "music_list" VALUES(60,'Ugly Lovely',20.0,'','2022-01-19 23:00:00','',-1,1000,60,'Ugly Lovely','','','');
 INSERT INTO "music_list" VALUES(61,'Super Chocolate',20.0,'','2022-01-19 23:00:00','',-1,1500,61,'Super Chocolate','','','');
+INSERT INTO "music_list" VALUES(62,'Oasis in the Sands',20.0,'','2022-03-26 23:00:00','',-1,1000,62,'Oasis in the Sands','','','');
+INSERT INTO "music_list" VALUES(63,'Mysterious Forest',20.0,'','2022-03-26 23:00:00','',-1,1000,63,'Mysterious Forest','','','');
+INSERT INTO "music_list" VALUES(64,'Torpedon',20.0,'','2022-03-26 23:00:00','',-1,1000,64,'Torpedon','','','');
+INSERT INTO "music_list" VALUES(65,'Landosol''s Ace Detective: The Case of the Woeful Stalker',20.0,'','2022-03-26 23:00:00','',-1,1000,65,'Landosol''s Ace Detective: The Case of the Woeful Stalker','','','');
+INSERT INTO "music_list" VALUES(66,'Goddess of Woe',20.0,'','2022-03-26 23:00:00','',-1,1000,66,'Goddess of Woe','','','');
+INSERT INTO "music_list" VALUES(67,'Unsolved Emotions',20.0,'','2022-03-26 23:00:00','',-1,1500,67,'Unsolved Emotions','','','');
