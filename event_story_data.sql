@@ -12,3 +12,4 @@ INSERT INTO "event_story_data" VALUES(5010,5,10010,'New Year''s Day Twinkle Cris
 INSERT INTO "event_story_data" VALUES(5011,5,10011,'Rumble on Valentine''s Day! Fight for Your Right to Love',0,1,'2022/01/18 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5012,5,10012,'Landosol''s Ace Detective: The Case of the Woeful Stalker',0,1,'2022/02/14 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5013,5,10013,'The Twin Flowers of Astrum',0,1,'2022/03/10 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_data" VALUES(5015,5,10015,'Shogun Chronicles: The Whitewing Samurai',0,1,'2022/04/05 23:00:00','2030/04/24 14:59:59');

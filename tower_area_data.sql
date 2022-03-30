@@ -6,3 +6,4 @@ INSERT INTO "tower_area_data" VALUES(4,150,81000104,'bgm_M125',0);
 INSERT INTO "tower_area_data" VALUES(5,170,81000104,'bgm_M125',0);
 INSERT INTO "tower_area_data" VALUES(6,190,81000104,'bgm_M125',0);
 INSERT INTO "tower_area_data" VALUES(7,210,81000104,'bgm_M125',0);
+INSERT INTO "tower_area_data" VALUES(8,230,81000104,'bgm_M125',0);
