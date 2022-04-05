@@ -306,3 +306,4 @@ INSERT INTO "room_item" VALUES(1401,1,299,'Nebbia''s Leisurely Biotope',1,1,1,10
 INSERT INTO "room_item" VALUES(1402,1,202,'Springtime Kimono',1,1,10,0,'2022-04-03 23:00:00','2022-05-13 22:59:59','',600,0,0,0,300,900308);
 INSERT INTO "room_item" VALUES(1403,1,103,'Staircase Drawers',1,1,10,0,'2022-04-03 23:00:00','2022-05-13 22:59:59','',600,0,0,0,300,900307);
 INSERT INTO "room_item" VALUES(1404,5,903,'Nature Motif Background',1,1,1,0,'2022-04-03 23:00:00','2022-05-13 22:59:59','',1200,0,0,0,600,900306);
+INSERT INTO "room_item" VALUES(1405,1,202,'Ecstasy Leaper Trophy',1,1,1,0,'2022-04-05 23:00:00','','',-1,0,0,0,0,900310);

@@ -35,3 +35,5 @@ INSERT INTO "odds_name_data" VALUES(37,'box_rank_6-7','Random Equipment Box',990
 INSERT INTO "odds_name_data" VALUES(38,'box_rank_7-8','Random Equipment Box',99002,'Various random equipment can be obtained.');
 INSERT INTO "odds_name_data" VALUES(39,'box_rank_8-10','Random Equipment Box',99002,'Various random equipment can be obtained.');
 INSERT INTO "odds_name_data" VALUES(40,'box_rank_8-11','Random Equipment Box',99002,'Various random equipment can be obtained.');
+INSERT INTO "odds_name_data" VALUES(41,'box_rank_6-7','Random Equipment Box',99002,'Various random equipment can be obtained.');
+INSERT INTO "odds_name_data" VALUES(42,'box_rank_7-8','Random Equipment Box',99002,'Various random equipment can be obtained.');

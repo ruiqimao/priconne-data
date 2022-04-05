@@ -13,3 +13,4 @@ INSERT INTO "event_gacha_data" VALUES(10011,10011,'Rumble on Valentine''s Day! F
 INSERT INTO "event_gacha_data" VALUES(10012,10012,'Landosol''s Ace Detective: The Case of the Woeful Stalker',2,60112,1,5);
 INSERT INTO "event_gacha_data" VALUES(10013,10013,'The Twin Flowers of Astrum',2,60122,1,5);
 INSERT INTO "event_gacha_data" VALUES(10014,10014,'Hatsune''s Perfect Present',2,60132,1,5);
+INSERT INTO "event_gacha_data" VALUES(10015,10015,'Shogun Chronicles:The White-Winged Samurai',2,60142,1,5);

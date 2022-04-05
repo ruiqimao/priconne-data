@@ -535,6 +535,10 @@ INSERT INTO "story_detail" VALUES(1094001,1094,'Grea Episode 1','Warmth of a Dra
 INSERT INTO "story_detail" VALUES(1094002,1094,'Grea Episode 2','Tender Melodies',0,0,1094001,4,109401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1094003,1094,'Grea Episode 3','The Blazing Dragoness',0,0,1094002,5,109401,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1094004,1094,'Grea Episode 4','From the Dragoness, with Love',0,0,1094003,8,109401,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1095001,1095,'Kuka (Oedo) Episode 1','Kuka the Whirling Wonder!',0,0,0,0,109501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1095002,1095,'Kuka (Oedo) Episode 2','Kuka the Sensational Whirling Wonder!!',0,0,1095001,4,109501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1095003,1095,'Kuka (Oedo) Episode 3','Kuka the Super-Sensational Whirling Wonder!!!',0,0,1095002,5,109501,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1095004,1095,'Kuka (Oedo) Episode 4','Kuka the Infinite Whirligig?!',0,0,1095003,8,109501,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1900999,1900,'Ameth','Ameth''s Talk',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000001,2000,'Prologue','Part 1',0,0,0,0,0,0,51200001,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000002,2000,'Prologue','Part 2',0,1,0,0,0,0,51200002,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

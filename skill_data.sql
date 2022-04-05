@@ -42,6 +42,7 @@ INSERT INTO "skill_data" VALUES(1007511,'Floaty Wispy Ghosty!+',0,0,0.0,10075110
 INSERT INTO "skill_data" VALUES(1008001,'Bow to My Beauty!',1,0,0.0,100800101,100800102,0,0,0,0,0,0,100800101,0,0,0,0,0,'Deals small magical damage to all enemies in the front and lowers their physical defense by a small amount.',1002);
 INSERT INTO "skill_data" VALUES(1008002,'My Beauty Is Blinding ♪',1,0,1.93,100800201,100800202,0,0,0,0,0,0,100800201,0,0,0,0,0,'Deals small magical damage to the 2nd closest enemy and inflicts Blind.',2010);
 INSERT INTO "skill_data" VALUES(1008003,'The Cutest Supporter ♪',1,0,1.6,100800301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers the TP of the party member with the highest TP by a medium amount.',2006);
+INSERT INTO "skill_data" VALUES(1008012,'My Beauty Is Blinding ♪+',1,0,1.93,100801201,100801202,100801203,0,0,0,0,0,100801201,100801201,0,0,0,0,'Deals moderate magical damage to the 2nd closest enemy and inflicts Blind and Charm.',2010);
 INSERT INTO "skill_data" VALUES(1008501,'The Cutest Hard Worker',0,0,0.0,100850101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1008511,'The Cutest Hard Worker+',0,0,0.0,100851101,100851102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack and small boost to physical defense at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1009001,'Demonic Salvation: Apocalypse Dawn',1,0,0.0,100900101,100900102,100900103,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies. Lowers own physical and magical defense by a massive amount after use.',1002);
@@ -120,11 +121,13 @@ INSERT INTO "skill_data" VALUES(1022511,'Lightning Surge+',0,0,0.0,102251101,0,0
 INSERT INTO "skill_data" VALUES(1023001,'Pukichi Fullswing',0,0,0.0,102300101,102300102,102300103,102300104,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front, inflicts Stun, and knocks it back a large distance.',1001);
 INSERT INTO "skill_data" VALUES(1023002,'Pukichi Pummel',0,0,1.125,102300201,102300202,0,0,0,0,0,0,102300201,0,0,0,0,0,'Deals small physical damage and inflicts Stun to all enemies in range.',2018);
 INSERT INTO "skill_data" VALUES(1023003,'Pukichi Hurricane',0,0,0.855,102300301,102300302,0,0,0,0,0,0,102300301,0,0,0,0,0,'Deals small physical damage to all enemies in range and lowers their physical defense by a small amount.',2001);
+INSERT INTO "skill_data" VALUES(1023012,'Pukichi Pummel+',0,0,1.125,102301201,102301202,102301203,102301204,0,0,0,0,102301201,0,102301203,0,0,0,'Deals moderate physical damage and inflicts Stun to all enemies in range. Additionally deals large physical damage to an enemy directly in front and reduces their action speed by a small amount.',2018);
 INSERT INTO "skill_data" VALUES(1023501,'Pretty Pulverizer',0,0,0.0,102350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1023511,'Pretty Pulverizer+',0,0,0.0,102351101,102351102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack and small boost to magical defense at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1025001,'Whirlwind',1,0,0.0,102500101,102500102,102500103,102500104,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies in range and lowers their physical defense by a small to moderate amount.',1002);
 INSERT INTO "skill_data" VALUES(1025002,'Wind Blast',1,0,1.6,102500201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals small magical damage to all enemies in range.',2002);
 INSERT INTO "skill_data" VALUES(1025003,'Maid''s Comfort',1,0,1.46,102500301,102500302,0,0,0,0,0,0,102500301,0,0,0,0,0,'Recovers HP and boosts physical attack of all nearby allies by a small amount.',2005);
+INSERT INTO "skill_data" VALUES(1025012,'Wind Blast+',1,0,1.6,102501201,102501202,102501203,0,0,0,0,0,102501201,102501201,0,0,0,0,'Deals moderate magical damage to all enemies in range and lowers their physical and magical defense by a small amount.',2002);
 INSERT INTO "skill_data" VALUES(1025501,'Maid''s Dedication',0,0,0.0,102550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1025511,'Maid''s Dedication+',0,0,0.0,102551101,102551102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack and small boost to magical defense at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1026001,'Homemade Sweet Bun Boost',1,0,0.0,102600101,102600102,102600103,0,0,0,0,0,0,0,0,0,0,0,'Recovers HP of all allies by a small amount. Small boost to their physical attack and magical defense.',1003);
@@ -223,6 +226,7 @@ INSERT INTO "skill_data" VALUES(1044511,'Blood Pact+',0,0,0.0,104451101,0,0,0,0,
 INSERT INTO "skill_data" VALUES(1045001,'Throes of Ecstasy',1,0,0.0,104500101,104500102,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.',1013);
 INSERT INTO "skill_data" VALUES(1045002,'Play with Me Instead!',1,0,0.375,104500201,104500202,0,0,0,0,0,0,0,0,0,0,0,0,'[Taunt] Taunts all enemies. Small boost to own physical defense.',2012);
 INSERT INTO "skill_data" VALUES(1045003,'I Like It Rough!',1,0,1.375,104500301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense.',2003);
+INSERT INTO "skill_data" VALUES(1045012,'Play with Me Instead!+',1,0,0.375,104501201,104501202,104501203,0,0,0,0,0,0,0,0,0,0,0,'[Taunt] Taunts all enemies. Large boost to own physical defense, and recovers own HP by a moderate amount.',2012);
 INSERT INTO "skill_data" VALUES(1045501,'Sheltered by Fantasy',0,0,0.0,104550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(1045511,'Sheltered by Fantasy+',0,0,0.0,104551101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(1046001,'Kitty Cat-aclysm',0,0,0.0,104600101,104600102,0,0,0,0,0,0,0,0,0,0,0,0,'Deals massive physical damage to an enemy with the highest magical attack.',1001);
@@ -269,6 +273,7 @@ INSERT INTO "skill_data" VALUES(1052511,'Downy Defense+',0,0,0.0,105251101,0,0,0
 INSERT INTO "skill_data" VALUES(1053001,'Violetshock Flare',0,0,0.0,105300101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to all enemies in range.',1001);
 INSERT INTO "skill_data" VALUES(1053002,'Flügel Fanfare',1,0,1.06,105300201,105300202,105300203,0,0,0,0,0,105300201,105300201,0,0,0,0,'Small boost to physical and magical attack and action speeds of all allies.',2003);
 INSERT INTO "skill_data" VALUES(1053003,'Musket Shot',0,0,0.86,105300301,105300302,0,0,0,0,0,0,105300301,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and inflicts Stun.',2001);
+INSERT INTO "skill_data" VALUES(1053012,'Flügel Fanfare+',1,0,1.06,105301201,105301202,105301203,0,0,0,0,0,105300201,105300201,0,0,0,0,'Large boost to physical attack, magical attack and action speeds of all allies.',2003);
 INSERT INTO "skill_data" VALUES(1053501,'Blessing of the White Wings',0,0,0.0,105350101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1053511,'Blessing of the White Wings+',0,0,0.0,105351101,105351102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack and small boost to physical defense at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1054001,'Terminal Tie-Up',0,0,0.0,105400101,105400102,105400103,105400104,0,0,0,0,0,0,105400101,0,0,0,'Deals small physical damage to all enemies in range and inflicts Bind. Draws the farthest enemy in range slightly closer and knocks the closest enemy back slightly.',1007);
@@ -289,6 +294,7 @@ INSERT INTO "skill_data" VALUES(1056511,'True Enlightenment+',0,0,0.0,105651101,
 INSERT INTO "skill_data" VALUES(1057001,'Tempest Blade',1,0,0.0,105700101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals massive physical damage to an enemy directly in front.',1001);
 INSERT INTO "skill_data" VALUES(1057002,'Wide Blade',1,0,1.125,105700201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front.',2001);
 INSERT INTO "skill_data" VALUES(1057003,'Weapon Burst',1,0,1.125,105700301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers own TP by a moderate amount.',2006);
+INSERT INTO "skill_data" VALUES(1057012,'Wide Blade+',1,0,1.125,105701201,105701202,105701203,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front. Recovers own TP by a moderate amount, and all other allies'' TP by a small amount.',2001);
 INSERT INTO "skill_data" VALUES(1057501,'Tornado Blade',0,0,0.0,105750101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1057511,'Tornado Blade+',0,0,0.0,105751101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1058001,'Princess Strike',0,0,0.0,105800101,105800102,105800103,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front. Moderate boost to own physical and magical defense.',1001);
@@ -427,6 +433,11 @@ INSERT INTO "skill_data" VALUES(1094002,'Dragon Inferno',0,0,1.05,109400201,1094
 INSERT INTO "skill_data" VALUES(1094003,'Dragon Agni',1,0,0.92,109400301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a field that deals magical damage around the enemy with the highest physical attack.',2002);
 INSERT INTO "skill_data" VALUES(1094501,'Dragonheart',0,0,0.0,109450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1094511,'Dragonheart+',0,0,0.0,109451101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1095001,'Dance of Purest Ecstasy',1,0,0.0,109500101,109500102,109500103,0,0,0,0,0,0,0,0,0,0,0,'Massively recovers own HP. Large boost to physical and magical defense of all nearby allies.',1005);
+INSERT INTO "skill_data" VALUES(1095002,'Let''s Get Passionate!',1,0,0.675,109500201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to magical attack of all allies.',2003);
+INSERT INTO "skill_data" VALUES(1095003,'My Breath Is Bewitching!',1,0,0.715,109500301,109500302,0,0,0,0,0,0,0,109500302,0,0,0,0,'Deals small magical damage to an enemy directly in front and lowers its magical defense by a small amount.',2002);
+INSERT INTO "skill_data" VALUES(1095501,'Opulent Trip Zone',0,0,0.0,109550101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
+INSERT INTO "skill_data" VALUES(1095511,'Opulent Trip Zone+',0,0,0.0,109551101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(2001001,'',0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2002001,'',1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2003001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
@@ -512,6 +523,8 @@ INSERT INTO "skill_data" VALUES(2075001,'',0,0,1.5,207500101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2075002,'',0,0,1.5,207500201,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(2076001,'',0,0,4.0,207600101,207600102,0,0,0,0,0,0,207600101,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(2076002,'',0,0,0.0,207600201,207600202,207600203,0,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(2077001,'',0,0,1.0,207700101,207700102,0,0,0,0,0,0,0,0,0,0,0,0,'Applies Stealth to self when HP falls below 1%',1001);
+INSERT INTO "skill_data" VALUES(2077002,'',0,0,1.0,207700201,207700202,0,0,0,0,0,0,0,0,0,0,0,0,'When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy',1001);
 INSERT INTO "skill_data" VALUES(3001001,'',0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3001002,'',0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(3001003,'',1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,'sample',1001);
@@ -842,6 +855,14 @@ INSERT INTO "skill_data" VALUES(3072002,'',1,0,2.0,307200201,307200202,307200203
 INSERT INTO "skill_data" VALUES(3072003,'',1,0,1.8,307200301,307200302,0,0,0,0,0,0,307200301,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3072004,'',1,0,2.0,307200401,307200402,307200403,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3072005,'',1,0,2.0,307200501,307200502,307200503,307200504,0,0,0,0,0,0,0,0,0,0,'',1001);
+INSERT INTO "skill_data" VALUES(3073001,'',0,0,0.0,307300101,307300102,307300103,0,0,0,0,0,0,0,0,0,0,0,'Evil Magistrate',1001);
+INSERT INTO "skill_data" VALUES(3073002,'',0,0,1.8,307300201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Evil Magistrate',1001);
+INSERT INTO "skill_data" VALUES(3073003,'',0,0,1.8,307300301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Evil Magistrate',1001);
+INSERT INTO "skill_data" VALUES(3073004,'',0,0,0.0,307300401,307300402,307300403,307300404,0,0,0,0,0,0,0,0,0,0,'Evil Magistrate',1001);
+INSERT INTO "skill_data" VALUES(3073005,'',0,0,0.3,307300501,307300502,0,0,0,0,0,0,0,0,0,0,0,0,'Evil Magistrate',1001);
+INSERT INTO "skill_data" VALUES(3073006,'',0,0,0.0,307300601,307300602,307300603,307300604,0,0,0,0,0,0,0,0,0,0,'Evil Magistrate',1001);
+INSERT INTO "skill_data" VALUES(3073007,'',0,0,1.8,307300701,0,0,0,0,0,0,0,0,0,0,0,0,0,'Evil Magistrate',1001);
+INSERT INTO "skill_data" VALUES(3073008,'',0,0,1.8,307300801,0,0,0,0,0,0,0,0,0,0,0,0,0,'Evil Magistrate',1001);
 INSERT INTO "skill_data" VALUES(3075001,'',0,0,1.5,307500101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Ziz Skill 0',1001);
 INSERT INTO "skill_data" VALUES(3075002,'',0,0,1.5,307500201,307500202,307500203,0,0,0,0,0,307500201,307500202,0,0,0,0,'Ziz Skill 1',1001);
 INSERT INTO "skill_data" VALUES(3075003,'',0,0,1.5,307500301,307500302,0,0,0,0,0,0,307500301,0,0,0,0,0,'Ziz Skill 2',1001);

@@ -466,3 +466,9 @@ INSERT INTO "notif_data" VALUES(109401,3,'Your guildhouse supply is full of stam
 INSERT INTO "notif_data" VALUES(109401,4,'Looks like your EXP Potion supply at the guildhouse is full. Will these make me even stronger?');
 INSERT INTO "notif_data" VALUES(109401,5,'You''ve got a full supply of Mana at the guildhouse. I wouldn''t advise using it all at once, though...');
 INSERT INTO "notif_data" VALUES(109401,6,'You should check in on the items at your guildhouse. I think they''re all full.');
+INSERT INTO "notif_data" VALUES(109501,1,'Your stamina is completely full... Ohhh! Are you going to use all that energy to tug on my belt?!');
+INSERT INTO "notif_data" VALUES(109501,2,'Your guildhouse is full to bursting with skip tickets! Are you planning to get battles out of the way so you can close in on my kimono...?!');
+INSERT INTO "notif_data" VALUES(109501,3,'Your guildhouse can''t hold any more stamina! Are you planning to use it all at once so I won''t have a moment''s rest?!');
+INSERT INTO "notif_data" VALUES(109501,4,'Your guildhouse has produced a full stock of EXP Potions... Are you plotting to make me "grow up" so you can try all kinds of new things?!');
+INSERT INTO "notif_data" VALUES(109501,5,'Your guildhouse is full of Mana! I-I don''t care what price you offer, Mr. Sadist, I''ll never sell my dignity! Eheh... Gueheheh...');
+INSERT INTO "notif_data" VALUES(109501,6,'Your guildhouse is packed with more items than it can hold! Are you planning to drown me in all these supplies? *drool*...');
