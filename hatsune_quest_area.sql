@@ -33,3 +33,5 @@ INSERT INTO "hatsune_quest_area" VALUES(10014101,10014,'Targum Region',201,'bgm_
 INSERT INTO "hatsune_quest_area" VALUES(10014201,10014,'Targum Region',201,'bgm_M32','bgm_M32','2022/03/24 23:00:00','2022/03/30 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10015101,10015,'Oedo Town',201,'bgm_M223','bgm_M223','2022/04/05 23:00:00','2022/04/16 22:59:59',1,1,120,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10015201,10015,'Oedo Town',201,'bgm_M223','bgm_M223','2022/04/05 23:00:00','2022/04/16 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10016101,10016,'Macina Region',201,'bgm_M98','bgm_M98_2','2022/04/18 23:00:00','2022/04/25 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10016201,10016,'Macina Region',201,'bgm_M98','bgm_M98_2','2022/04/18 23:00:00','2022/04/25 22:59:59',1,0,0,0,0,'0','0',0);

@@ -14,3 +14,4 @@ INSERT INTO "event_gacha_data" VALUES(10012,10012,'Landosol''s Ace Detective: Th
 INSERT INTO "event_gacha_data" VALUES(10013,10013,'The Twin Flowers of Astrum',2,60122,1,5);
 INSERT INTO "event_gacha_data" VALUES(10014,10014,'Hatsune''s Perfect Present',2,60132,1,5);
 INSERT INTO "event_gacha_data" VALUES(10015,10015,'Shogun Chronicles:The White-Winged Samurai',2,60142,1,5);
+INSERT INTO "event_gacha_data" VALUES(10016,10016,'Little Lyrical Adventures Victory Medal Exchange',2,60152,1,5);

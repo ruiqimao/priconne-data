@@ -463,6 +463,10 @@ INSERT INTO "stationary_mission_data" VALUES(21003066,40,102,'Gather 1980 clear 
 INSERT INTO "stationary_mission_data" VALUES(21003067,40,102,'Gather 2010 clear rank stars',1002,0,0,0,0,0,0,0,0,0,0,2010,21003001,101,'2022/03/23 13:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21003068,40,102,'Gather 2040 clear rank stars',1002,0,0,0,0,0,0,0,0,0,0,2040,21003001,101,'2022/03/24 23:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21003069,40,102,'Gather 2070 clear rank stars',1002,0,0,0,0,0,0,0,0,0,0,2070,21003001,101,'2022/03/24 23:00:00','2030/04/01 14:59:59',0,0,0,1);
+INSERT INTO "stationary_mission_data" VALUES(21003070,40,102,'Gather 2100 clear rank stars',1002,0,0,0,0,0,0,0,0,0,0,2100,21003001,101,'2022/04/17 13:00:00','2030/04/01 14:59:59',0,0,0,1);
+INSERT INTO "stationary_mission_data" VALUES(21003071,40,102,'Gather 2130 clear rank stars',1002,0,0,0,0,0,0,0,0,0,0,2130,21003001,101,'2022/04/17 13:00:00','2030/04/01 14:59:59',0,0,0,1);
+INSERT INTO "stationary_mission_data" VALUES(21003072,40,102,'Gather 2160 clear rank stars',1002,0,0,0,0,0,0,0,0,0,0,2160,21003001,101,'2022/04/18 23:00:00','2030/04/01 14:59:59',0,0,0,1);
+INSERT INTO "stationary_mission_data" VALUES(21003073,40,102,'Gather 2190 clear rank stars',1002,0,0,0,0,0,0,0,0,0,0,2190,21003001,101,'2022/04/18 23:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21005001,110,204,'Clear the Cloudtop Peak',1005,31001007,0,0,0,0,0,0,0,0,0,1,21005001,104,'2015/04/01 15:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21005002,110,204,'Clear the Deepwood Oak',1005,31002010,0,0,0,0,0,0,0,0,0,1,21005002,104,'2015/04/01 15:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21005003,110,204,'Clear the Sheercliff Ruins',1005,31003010,0,0,0,0,0,0,0,0,0,1,21005003,104,'2015/04/01 15:00:00','2030/04/01 14:59:59',0,0,0,1);
@@ -491,6 +495,8 @@ INSERT INTO "stationary_mission_data" VALUES(21102020,160,208,'Clear Floor 200 o
 INSERT INTO "stationary_mission_data" VALUES(21102021,160,208,'Clear Floor 210 of the Tower of Luna',1102,71070210,0,0,0,0,0,0,0,0,0,1,21102001,108,'2022/03/05 13:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21102022,160,208,'Clear Floor 220 of the Tower of Luna',1102,71080220,0,0,0,0,0,0,0,0,0,1,21102001,108,'2022/03/24 23:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21102023,160,208,'Clear Floor 230 of the Tower of Luna',1102,71080230,0,0,0,0,0,0,0,0,0,1,21102001,108,'2022/03/24 23:00:00','2030/04/01 14:59:59',0,0,0,1);
+INSERT INTO "stationary_mission_data" VALUES(21102024,160,208,'Clear Floor 240 of the Tower of Luna',1102,71090240,0,0,0,0,0,0,0,0,0,1,21102001,108,'2022/04/17 23:00:00','2030/04/01 14:59:59',0,0,0,1);
+INSERT INTO "stationary_mission_data" VALUES(21102025,160,208,'Clear Floor 250 of the Tower of Luna',1102,71090250,0,0,0,0,0,0,0,0,0,1,21102001,108,'2022/04/17 23:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21103001,161,208,'Clear Floor 70''s EX Quest in the Tower of Luna',1103,72010070,0,0,0,0,0,0,0,0,0,1,21103001,108,'2021/09/10 13:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21103002,162,208,'Clear Floor 110''s EX Quest in the Tower of Luna',1103,72020110,0,0,0,0,0,0,0,0,0,1,21103001,108,'2021/10/13 13:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21103003,163,208,'Clear Floor 130''s EX Quest in the Tower of Luna',1103,72030130,0,0,0,0,0,0,0,0,0,1,21103001,108,'2021/11/10 13:00:00','2030/04/01 14:59:59',0,0,0,1);
@@ -499,6 +505,7 @@ INSERT INTO "stationary_mission_data" VALUES(21103005,165,208,'Clear Floor 170''
 INSERT INTO "stationary_mission_data" VALUES(21103006,166,208,'Clear Floor 190''s EX Quest in the Tower of Luna',1103,72060190,0,0,0,0,0,0,0,0,0,1,21103001,108,'2022/02/05 13:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21103007,167,208,'Clear Floor 210''s EX Quest in the Tower of Luna',1103,72070210,0,0,0,0,0,0,0,0,0,1,21103001,108,'2022/03/05 13:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21103008,168,208,'Clear Floor 230''s EX Quest in the Tower of Luna',1103,72080230,0,0,0,0,0,0,0,0,0,1,21103001,108,'2022/03/24 23:00:00','2030/04/01 14:59:59',0,0,0,1);
+INSERT INTO "stationary_mission_data" VALUES(21103009,169,208,'Clear Floor 250''s EX Quest in the Tower of Luna',1103,72090250,0,0,0,0,0,0,0,0,0,1,21103001,108,'2022/04/17 23:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21201001,200,209,'Clear Sanctum Survey Lvl 1',1201,18001001,0,0,0,0,0,0,0,0,0,1,21001004,109,'2021/11/30 13:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(21201002,200,209,'Clear Sanctum Survey Lvl 2',1201,18001002,0,0,0,0,0,0,0,0,0,1,21001004,109,'2021/11/30 13:00:00','2030/04/01 14:59:59',0,0,0,1);
 INSERT INTO "stationary_mission_data" VALUES(24002001,90,205,'Win 10 times in the Battle Arena',4002,0,0,0,0,0,0,0,0,0,0,10,24002001,401,'2015/04/01 15:00:00','2030/04/01 14:59:59',0,0,0,1);
