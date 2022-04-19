@@ -78,3 +78,4 @@ INSERT INTO "unlock_unit_condition" VALUES(109201,'Anne',1,0,1,2,31092,145,0,0,0
 INSERT INTO "unlock_unit_condition" VALUES(109301,'Lou',1,0,1,2,31093,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(109401,'Grea',1,0,1,2,31094,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(109501,'Kuka (Oedo)',1,0,1,2,31095,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(109601,'Ninon (Oedo)',1,0,1,2,31096,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

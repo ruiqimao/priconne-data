@@ -78,3 +78,4 @@ INSERT INTO "unit_motion_list" VALUES(109201,1);
 INSERT INTO "unit_motion_list" VALUES(109301,1);
 INSERT INTO "unit_motion_list" VALUES(109401,1);
 INSERT INTO "unit_motion_list" VALUES(109501,1);
+INSERT INTO "unit_motion_list" VALUES(109601,1);

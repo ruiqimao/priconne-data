@@ -188,13 +188,13 @@ INSERT INTO "chara_story_status" VALUES(1029005,'Nozomi''s Episode 5',5,8,0,0,0,
 INSERT INTO "chara_story_status" VALUES(1029006,'Nozomi''s Episode 6',5,8,3,4,0,0,0,0,0,0,1029,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1029007,'Nozomi''s Episode 7',5,8,3,4,0,0,0,0,0,0,1029,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1029008,'Nozomi''s Episode 8',5,12,3,6,10,200,0,0,0,0,1029,0,0,0,0,0,0,0,0,0);
-INSERT INTO "chara_story_status" VALUES(1030002,'Ninon''s Episode 2',2,15,0,0,0,0,0,0,0,0,1030,0,0,0,0,0,0,0,0,0);
-INSERT INTO "chara_story_status" VALUES(1030003,'Ninon''s Episode 3',2,15,0,0,0,0,0,0,0,0,1030,0,0,0,0,0,0,0,0,0);
-INSERT INTO "chara_story_status" VALUES(1030004,'Ninon''s Episode 4',2,30,0,0,0,0,0,0,0,0,1030,0,0,0,0,0,0,0,0,0);
-INSERT INTO "chara_story_status" VALUES(1030005,'Ninon''s Episode 5',2,40,0,0,0,0,0,0,0,0,1030,0,0,0,0,0,0,0,0,0);
-INSERT INTO "chara_story_status" VALUES(1030006,'Ninon''s Episode 6',2,40,3,4,0,0,0,0,0,0,1030,0,0,0,0,0,0,0,0,0);
-INSERT INTO "chara_story_status" VALUES(1030007,'Ninon''s Episode 7',2,40,3,4,0,0,0,0,0,0,1030,0,0,0,0,0,0,0,0,0);
-INSERT INTO "chara_story_status" VALUES(1030008,'Ninon''s Episode 8',2,60,3,6,6,10,0,0,0,0,1030,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1030002,'Ninon''s Episode 2',2,15,0,0,0,0,0,0,0,0,1030,1096,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1030003,'Ninon''s Episode 3',2,15,0,0,0,0,0,0,0,0,1030,1096,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1030004,'Ninon''s Episode 4',2,30,0,0,0,0,0,0,0,0,1030,1096,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1030005,'Ninon''s Episode 5',2,40,0,0,0,0,0,0,0,0,1030,1096,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1030006,'Ninon''s Episode 6',2,40,3,4,0,0,0,0,0,0,1030,1096,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1030007,'Ninon''s Episode 7',2,40,3,4,0,0,0,0,0,0,1030,1096,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1030008,'Ninon''s Episode 8',2,60,3,6,6,10,0,0,0,0,1030,1096,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1031002,'Shinobu''s Episode 2',2,15,0,0,0,0,0,0,0,0,1031,1081,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1031003,'Shinobu''s Episode 3',2,15,0,0,0,0,0,0,0,0,1031,1081,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1031004,'Shinobu''s Episode 4',2,30,0,0,0,0,0,0,0,0,1031,1081,0,0,0,0,0,0,0,0);
@@ -460,3 +460,6 @@ INSERT INTO "chara_story_status" VALUES(1094004,'Grea''s Episode 4',4,170,0,0,0,
 INSERT INTO "chara_story_status" VALUES(1095002,'Kuka (Oedo)''s Episode 2',3,2,0,0,0,0,0,0,0,0,1095,1045,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1095003,'Kuka (Oedo)''s Episode 3',3,6,0,0,0,0,0,0,0,0,1095,1045,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1095004,'Kuka (Oedo)''s Episode 4',3,10,0,0,0,0,0,0,0,0,1095,1045,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1096002,'Ninon (Oedo)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1096,1030,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1096003,'Ninon (Oedo)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1096,1030,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1096004,'Ninon (Oedo)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1096,1030,0,0,0,0,0,0,0,0);
