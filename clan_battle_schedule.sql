@@ -13,3 +13,4 @@ INSERT INTO "clan_battle_schedule" VALUES(1011,12,1010,1,1,2,'bgm_M186',1,'2021/
 INSERT INTO "clan_battle_schedule" VALUES(1012,1,1011,1,1,2,'bgm_M205',2,'2022/01/13 13:00:00','2022/02/18 12:59:59');
 INSERT INTO "clan_battle_schedule" VALUES(1013,2,1012,1,1,2,'bgm_M90',1,'2022/02/18 13:00:00','2022/03/17 12:59:59');
 INSERT INTO "clan_battle_schedule" VALUES(1014,3,1013,1,1,2,'bgm_M97',2,'2022/03/17 13:00:00','2022/04/26 12:59:59');
+INSERT INTO "clan_battle_schedule" VALUES(1015,4,1014,1,1,2,'bgm_M104',1,'2022/04/26 13:00:00','2022/05/25 12:59:59');

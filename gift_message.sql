@@ -84,3 +84,4 @@ INSERT INTO "gift_message" VALUES(9811,'1 year Anniv. Special gift',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9812,'Item obtained from 1,500 Jewel Gift (Anime Season 2).',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9813,'Beginner’s Support Mana Giveaway',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9814,'Spring 200k Followers Login Bonus',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9815,'“Re:ZERO -Starting Life in Another World-” Collab Login Bonus',0,0,0,0);

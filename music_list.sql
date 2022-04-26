@@ -66,3 +66,9 @@ INSERT INTO "music_list" VALUES(64,'Torpedon',20.0,'','2022-03-26 23:00:00','',-
 INSERT INTO "music_list" VALUES(65,'Landosol''s Ace Detective: The Case of the Woeful Stalker',20.0,'','2022-03-26 23:00:00','',-1,1000,65,'Landosol''s Ace Detective: The Case of the Woeful Stalker','','','');
 INSERT INTO "music_list" VALUES(66,'Goddess of Woe',20.0,'','2022-03-26 23:00:00','',-1,1000,66,'Goddess of Woe','','','');
 INSERT INTO "music_list" VALUES(67,'Unsolved Emotions',20.0,'','2022-03-26 23:00:00','',-1,1500,67,'Unsolved Emotions','','','');
+INSERT INTO "music_list" VALUES(68,'Attack of the Robo Lima! Countdown to Landosol''s End',20.0,'','2022-04-26 23:00:00','',-1,1000,68,'Attack of the Robo Lima! Countdown to Landosol''s End','','','');
+INSERT INTO "music_list" VALUES(69,'Robo Lima',20.0,'','2022-04-26 23:00:00','',-1,1000,69,'Robo Lima','','','');
+INSERT INTO "music_list" VALUES(70,'Robo Lima: Demise',20.0,'','2022-04-26 23:00:00','',-1,1000,70,'Robo Lima: Demise','','','');
+INSERT INTO "music_list" VALUES(71,'The Twin Flowers of Astrum',20.0,'','2022-04-26 23:00:00','',-1,1000,71,'The Twin Flowers of Astrum','','','');
+INSERT INTO "music_list" VALUES(72,'Core Gigas',20.0,'','2022-04-26 23:00:00','',-1,1000,72,'Core Gigas','','','');
+INSERT INTO "music_list" VALUES(73,'Crossing Destiny',20.0,'','2022-04-26 23:00:00','',-1,1500,73,'Crossing Destiny','','','');
