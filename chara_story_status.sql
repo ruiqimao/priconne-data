@@ -463,3 +463,9 @@ INSERT INTO "chara_story_status" VALUES(1095004,'Kuka (Oedo)''s Episode 4',3,10,
 INSERT INTO "chara_story_status" VALUES(1096002,'Ninon (Oedo)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1096,1030,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1096003,'Ninon (Oedo)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1096,1030,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1096004,'Ninon (Oedo)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1096,1030,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1097002,'Rem''s Episode 2',2,60,0,0,0,0,0,0,0,0,1097,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1097003,'Rem''s Episode 3',2,100,0,0,0,0,0,0,0,0,1097,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1097004,'Rem''s Episode 4',2,150,6,10,0,0,0,0,0,0,1097,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1098002,'Ram''s Episode 2',4,60,0,0,0,0,0,0,0,0,1098,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1098003,'Ram''s Episode 3',4,100,0,0,0,0,0,0,0,0,1098,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1098004,'Ram''s Episode 4',4,150,7,10,0,0,0,0,0,0,1098,0,0,0,0,0,0,0,0,0);

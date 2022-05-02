@@ -19,3 +19,8 @@ INSERT INTO "ailment_data" VALUES(17,30,0,'Death');
 INSERT INTO "ailment_data" VALUES(18,3,-1,'Knock(ed) back');
 INSERT INTO "ailment_data" VALUES(19,11,1,'Confusion');
 INSERT INTO "ailment_data" VALUES(20,9,4,'Venom');
+INSERT INTO "ailment_data" VALUES(21,56,-1,'千里眼');
+INSERT INTO "ailment_data" VALUES(22,59,-1,'回復阻害');
+INSERT INTO "ailment_data" VALUES(23,61,-1,'恐慌');
+INSERT INTO "ailment_data" VALUES(24,60,-1,'刻印付与');
+INSERT INTO "ailment_data" VALUES(25,62,-1,'畏怖');

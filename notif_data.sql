@@ -478,3 +478,15 @@ INSERT INTO "notif_data" VALUES(109601,3,'Your guildhouse has finished making st
 INSERT INTO "notif_data" VALUES(109601,4,'Your guildhouse is full of EXP potions! Time to complete my training and become an unbeatable ninja!');
 INSERT INTO "notif_data" VALUES(109601,5,'Look at these piles of Mana in your guildhouse! I''m sure they''ll tip the balance in our favor when we contest with rival nations!');
 INSERT INTO "notif_data" VALUES(109601,6,'Shogun! Your guildhouse is full of all kinds of items! It''s a cornucopia of conquest supplies!');
+INSERT INTO "notif_data" VALUES(109701,1,'Your stamina seems to have fully recovered. Shall we go on an adventure?');
+INSERT INTO "notif_data" VALUES(109701,2,'Your skip ticket supply at the guildhouse is full. You should probably collect them.');
+INSERT INTO "notif_data" VALUES(109701,3,'I noticed your guildhouse''s stamina supplies are full. Let''s go and pick them up—it would be a waste not to.');
+INSERT INTO "notif_data" VALUES(109701,4,'Your guildhouse has generated a full supply of EXP potions. I''d be happy to try them myself, if you like.');
+INSERT INTO "notif_data" VALUES(109701,5,'Your guildhouse has produced a full supply of Mana. This world''s Mana is so mysterious...');
+INSERT INTO "notif_data" VALUES(109701,6,'All the items you can collect at your guildhouse seem to be full. You should pick them up soon, or I might have to tidy them up.');
+INSERT INTO "notif_data" VALUES(109801,1,'Oh look, your stamina is full. You want me to come on a quest? Fine, but you''d better be grateful.');
+INSERT INTO "notif_data" VALUES(109801,2,'Your guildhouse''s skip ticket supply is full. Nice to be able to finish battles with a minimum of effort.');
+INSERT INTO "notif_data" VALUES(109801,3,'Your guildhouse''s stamina supply is full. Time for you to work hard so I don''t have to.');
+INSERT INTO "notif_data" VALUES(109801,4,'Your guildhouse can''t hold any more EXP potions. The pursuit for strength never ends. See that you give it your all.');
+INSERT INTO "notif_data" VALUES(109801,5,'Did you see your guildhouse has finished generating Mana? Careful what you use it for, now.');
+INSERT INTO "notif_data" VALUES(109801,6,'Your guildhouse is utterly full of items. ...I should clean them up? Well, don''t expect me to look happy about it.');

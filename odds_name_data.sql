@@ -37,3 +37,8 @@ INSERT INTO "odds_name_data" VALUES(39,'box_rank_8-10','Random Equipment Box',99
 INSERT INTO "odds_name_data" VALUES(40,'box_rank_8-11','Random Equipment Box',99002,'Various random equipment can be obtained.');
 INSERT INTO "odds_name_data" VALUES(41,'box_rank_6-7','Random Equipment Box',99002,'Various random equipment can be obtained.');
 INSERT INTO "odds_name_data" VALUES(42,'box_rank_7-8','Random Equipment Box',99002,'Various random equipment can be obtained.');
+INSERT INTO "odds_name_data" VALUES(43,'box_rank_8-10','Random Equipment Box',99002,'Various random equipment can be obtained.');
+INSERT INTO "odds_name_data" VALUES(44,'box_rank_8-11','Random Equipment Box',99002,'Various random equipment can be obtained.');
+INSERT INTO "odds_name_data" VALUES(45,'box_rank_9-12','Random Equipment Box',99002,'Various random equipment can be obtained.');
+INSERT INTO "odds_name_data" VALUES(46,'1001720101','Ram''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(47,'1001720102','Suzume''s Memory Shard',99002,'');

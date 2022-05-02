@@ -1,1 +1,16 @@
 CREATE TABLE 'dear_reward' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'dear_point' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO "dear_reward" VALUES(1,10017,1,100,'Raise intimacy to 100',12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(2,10017,1,200,'Raise intimacy to 200',12,94002,25000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(3,10017,1,500,'Raise intimacy to 500',8,91002,50,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(4,10017,1,800,'Raise intimacy to 800',12,94002,50000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(5,10017,1,1000,'Raise intimacy to max',8,91002,100,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(6,10017,2,100,'Raise intimacy to 100',12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(7,10017,2,200,'Raise intimacy to 200',12,94002,25000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(8,10017,2,500,'Raise intimacy to 500',8,91002,50,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(9,10017,2,800,'Raise intimacy to 800',12,94002,50000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(10,10017,2,1000,'Raise intimacy to max',8,91002,100,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(11,10017,3,100,'Raise intimacy to 100',12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(12,10017,3,200,'Raise intimacy to 200',12,94002,25000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(13,10017,3,500,'Raise intimacy to 500',8,91002,50,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(14,10017,3,800,'Raise intimacy to 800',12,94002,50000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(15,10017,3,1000,'Raise intimacy to max',8,91002,100,0,0,0,0,0,0,0,0,0,0,0,0);
