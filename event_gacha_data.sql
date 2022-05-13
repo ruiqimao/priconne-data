@@ -16,3 +16,4 @@ INSERT INTO "event_gacha_data" VALUES(10014,10014,'Hatsune''s Perfect Present',2
 INSERT INTO "event_gacha_data" VALUES(10015,10015,'Shogun Chronicles:The White-Winged Samurai',2,60142,1,5);
 INSERT INTO "event_gacha_data" VALUES(10016,10016,'Little Lyrical Adventures Victory Medal Exchange',2,60152,1,5);
 INSERT INTO "event_gacha_data" VALUES(10017,10017,'Re:ZERO -Sharing Lunch in Another World-',2,60162,1,5);
+INSERT INTO "event_gacha_data" VALUES(10018,10018,'Vampire Hunters with Illya Victory Medal Exchange',2,60172,1,5);

@@ -42,3 +42,5 @@ INSERT INTO "odds_name_data" VALUES(44,'box_rank_8-11','Random Equipment Box',99
 INSERT INTO "odds_name_data" VALUES(45,'box_rank_9-12','Random Equipment Box',99002,'Various random equipment can be obtained.');
 INSERT INTO "odds_name_data" VALUES(46,'1001720101','Ram''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(47,'1001720102','Suzume''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(48,'1001820101','Maho''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(49,'1001820102','Kaori''s Memory Shard',99002,'');
