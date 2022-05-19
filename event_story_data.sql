@@ -14,3 +14,4 @@ INSERT INTO "event_story_data" VALUES(5012,5,10012,'Landosol''s Ace Detective: T
 INSERT INTO "event_story_data" VALUES(5013,5,10013,'The Twin Flowers of Astrum',0,1,'2022/03/10 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5015,5,10015,'Shogun Chronicles: The Whitewing Samurai',0,1,'2022/04/05 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5017,5,10017,'Re:ZERO -Sharing Lunch in Another World-',0,1,'2022/05/02 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_data" VALUES(5019,5,10019,'Suzuna''s Rainbow Stage!',0,1,'2022/06/01 23:00:00','2030/04/24 14:59:59');

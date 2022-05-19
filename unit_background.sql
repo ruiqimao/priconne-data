@@ -82,3 +82,4 @@ INSERT INTO "unit_background" VALUES(109501,'Kuka (Oedo)',500650,'Streets of Oed
 INSERT INTO "unit_background" VALUES(109601,'Ninon (Oedo)',500650,'Streets of Oedo',0.0,2);
 INSERT INTO "unit_background" VALUES(109701,'Rem',500175,'Mysterion Woods',0.0,2);
 INSERT INTO "unit_background" VALUES(109801,'Ram',500175,'Mysterion Woods',0.0,12);
+INSERT INTO "unit_background" VALUES(109901,'Emilia',500175,'Mysterion Woods',0.0,2);

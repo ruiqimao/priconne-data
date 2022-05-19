@@ -133,3 +133,6 @@ INSERT INTO "experience_unit" VALUES(131,2097898);
 INSERT INTO "experience_unit" VALUES(132,2148050);
 INSERT INTO "experience_unit" VALUES(133,2198802);
 INSERT INTO "experience_unit" VALUES(134,2250154);
+INSERT INTO "experience_unit" VALUES(135,2302106);
+INSERT INTO "experience_unit" VALUES(136,2354658);
+INSERT INTO "experience_unit" VALUES(137,2407810);

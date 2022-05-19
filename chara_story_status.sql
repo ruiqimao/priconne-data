@@ -469,3 +469,6 @@ INSERT INTO "chara_story_status" VALUES(1097004,'Rem''s Episode 4',2,150,6,10,0,
 INSERT INTO "chara_story_status" VALUES(1098002,'Ram''s Episode 2',4,60,0,0,0,0,0,0,0,0,1098,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1098003,'Ram''s Episode 3',4,100,0,0,0,0,0,0,0,0,1098,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1098004,'Ram''s Episode 4',4,150,7,10,0,0,0,0,0,0,1098,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1099002,'Emilia''s Episode 2',4,60,0,0,0,0,0,0,0,0,1099,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1099003,'Emilia''s Episode 3',4,100,0,0,0,0,0,0,0,0,1099,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1099004,'Emilia''s Episode 4',4,170,0,0,0,0,0,0,0,0,1099,0,0,0,0,0,0,0,0,0);

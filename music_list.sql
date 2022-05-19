@@ -72,3 +72,7 @@ INSERT INTO "music_list" VALUES(70,'Robo Lima: Demise',20.0,'','2022-04-26 23:00
 INSERT INTO "music_list" VALUES(71,'The Twin Flowers of Astrum',20.0,'','2022-04-26 23:00:00','',-1,1000,71,'The Twin Flowers of Astrum','','','');
 INSERT INTO "music_list" VALUES(72,'Core Gigas',20.0,'','2022-04-26 23:00:00','',-1,1000,72,'Core Gigas','','','');
 INSERT INTO "music_list" VALUES(73,'Crossing Destiny',20.0,'','2022-04-26 23:00:00','',-1,1500,73,'Crossing Destiny','','','');
+INSERT INTO "music_list" VALUES(74,'What Lurks on the Crag',20.0,'','2022-05-25 23:00:00','',-1,1000,74,'What Lurks on the Crag','','','');
+INSERT INTO "music_list" VALUES(75,'Shogun Chronicles: The Whitewing Samurai',20.0,'','2022-05-25 23:00:00','',-1,1000,75,'Shogun Chronicles: The Whitewing Samurai','','','');
+INSERT INTO "music_list" VALUES(76,'Evil Magistrate',20.0,'','2022-05-25 23:00:00','',-1,1000,76,'Evil Magistrate','','','');
+INSERT INTO "music_list" VALUES(77,'White-Winged Glorie',20.0,'','2022-05-25 23:00:00','',-1,1500,77,'White-Winged Glorie','','','');
