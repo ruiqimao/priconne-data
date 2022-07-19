@@ -83,3 +83,9 @@ INSERT INTO "unit_background" VALUES(109601,'Ninon (Oedo)',500650,'Streets of Oe
 INSERT INTO "unit_background" VALUES(109701,'Rem',500175,'Mysterion Woods',0.0,2);
 INSERT INTO "unit_background" VALUES(109801,'Ram',500175,'Mysterion Woods',0.0,12);
 INSERT INTO "unit_background" VALUES(109901,'Emilia',500175,'Mysterion Woods',0.0,2);
+INSERT INTO "unit_background" VALUES(110001,'Suzuna (Summer)',500683,'Beach - Stage',0.0,4);
+INSERT INTO "unit_background" VALUES(110101,'Io (Summer)',500683,'Beach - Stage',0.0,2);
+INSERT INTO "unit_background" VALUES(110301,'Saren (Summer)',500164,'Marjan Coast',0.0,2);
+INSERT INTO "unit_background" VALUES(110401,'Makoto (Summer)',500710,'Okinawa-esque Coast',0.0,6);
+INSERT INTO "unit_background" VALUES(110501,'Kaori (Summer)',500710,'Okinawa-esque Coast',0.0,4);
+INSERT INTO "unit_background" VALUES(110601,'Maho (Summer)',500710,'Okinawa-esque Coast',0.0,4);

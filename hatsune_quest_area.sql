@@ -40,3 +40,11 @@ INSERT INTO "hatsune_quest_area" VALUES(10017102,10017,'Remote Village',201,'bgm
 INSERT INTO "hatsune_quest_area" VALUES(10017201,10017,'Remote Village',201,'bgm_M228','bgm_M228','2022/05/02 23:00:00','2022/05/14 22:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10018101,10018,'Landosol Outskirts',201,'bgm_M106','bgm_M106','2022/05/15 23:00:00','2022/05/24 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10018201,10018,'Landosol Outskirts',201,'bgm_M106','bgm_M106','2022/05/15 23:00:00','2022/05/24 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10019101,10019,'Rainshine Beach',201,'bgm_M237','bgm_M237','2022/06/01 23:00:00','2022/06/15 22:59:59',1,1,100,0,0,'0','0',12);
+INSERT INTO "hatsune_quest_area" VALUES(10019201,10019,'Rainshine Beach',201,'bgm_M237','bgm_M237','2022/06/01 23:00:00','2022/06/15 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10020101,10020,'Tapas Beach',201,'bgm_M112','bgm_M112','2022/06/19 23:00:00','2022/06/27 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10020201,10020,'Tapas Beach',201,'bgm_M112','bgm_M112','2022/06/19 23:00:00','2022/06/27 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10021101,10021,'Maho-Maho Kingdom Resort?',201,'bgm_M245','bgm_M245_02','2022/07/04 23:00:00','2022/07/17 22:59:59',1,0,150,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10021201,10021,'Maho-Maho Kingdom Resort?',201,'bgm_M245','bgm_M245_02','2022/07/04 23:00:00','2022/07/17 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10022101,10022,'Ellusion Isle',201,'bgm_M121','bgm_M121','2022/07/19 23:00:00','2022/07/25 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10022201,10022,'Ellusion Isle',201,'bgm_M121','bgm_M121','2022/07/19 23:00:00','2022/07/25 22:59:59',1,0,0,0,0,'0','0',0);

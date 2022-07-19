@@ -44,3 +44,11 @@ INSERT INTO "odds_name_data" VALUES(46,'1001720101','Ram''s Memory Shard',99002,
 INSERT INTO "odds_name_data" VALUES(47,'1001720102','Suzume''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(48,'1001820101','Maho''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(49,'1001820102','Kaori''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(50,'1001920101','Io (Summer)''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(51,'1001920102','Misaki''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(52,'1002020103','Kokkoro (Summer)''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(53,'1002020104','Saren''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(54,'1002120103','Kaori (Summer)''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(55,'1002120104','Kasumi''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(56,'1002220101','Mifuyu (Summer)''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(57,'1002220102','Akino''s Memory Shard',99002,'');

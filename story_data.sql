@@ -82,6 +82,12 @@ INSERT INTO "story_data" VALUES(1096,1,1096,'Ninon (Oedo)',0,82,'2015/04/01 15:0
 INSERT INTO "story_data" VALUES(1097,1,1097,'Rem',0,83,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1098,1,1098,'Ram',0,84,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1099,1,1099,'Emilia',0,85,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1100,1,1100,'Suzuna (Summer)',0,86,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1101,1,1101,'Io (Summer)',0,87,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1103,1,1103,'Saren (Summer)',0,88,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1104,1,1104,'Makoto (Summer)',0,89,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1105,1,1105,'Kaori (Summer)',0,90,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(1106,1,1106,'Maho (Summer)',0,91,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(1900,1,1900,'Ameth',0,90,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2000,2,0,'Prologue_First Connections',2000002,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2001,2,0,'Chapter 1_A Mysterious Girl',2001005,2,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
@@ -96,7 +102,7 @@ INSERT INTO "story_data" VALUES(2009,2,0,'Chapter 9_Crisis at the Concert',20090
 INSERT INTO "story_data" VALUES(2010,2,0,'Chapter 10_Saving Pecorine',2010006,11,'2021/12/06 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2011,2,0,'Chapter 11_The Ironclad Guardian',2011003,12,'2022/02/01 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(2012,2,0,'Chapter 12_Beneath the Mask',2012014,13,'2022/03/24 13:00:00','2030/12/17 14:59:59',0);
-INSERT INTO "story_data" VALUES(2013,2,0,'Chapter 13_The Battle of Landosol',2013015,14,'2022/04/19 13:00:00','2030/12/17 14:59:59',0);
+INSERT INTO "story_data" VALUES(2013,2,0,'Chapter 13_The Battle of Landosol',2013010,14,'2022/04/19 13:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3002,3,2,'Nightmare, Defenders of the Throne',0,8,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0);

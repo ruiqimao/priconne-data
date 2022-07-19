@@ -3,3 +3,4 @@ INSERT INTO "campaign_freegacha" VALUES(1,1,0,1,'2021/04/20 13:00:00','2021/04/3
 INSERT INTO "campaign_freegacha" VALUES(2,2,0,1,'2021/08/01 13:00:00','2021/08/12 12:59:59',0,0,0);
 INSERT INTO "campaign_freegacha" VALUES(3,3,0,1,'2021/12/11 13:00:00','2021/12/24 12:59:59',0,0,0);
 INSERT INTO "campaign_freegacha" VALUES(4,4,0,1,'2022/02/01 13:00:00','2022/02/15 12:59:59',1,0,0);
+INSERT INTO "campaign_freegacha" VALUES(6,6,0,1,'2022/07/19 13:00:00','2022/08/05 12:59:59',1,0,0);

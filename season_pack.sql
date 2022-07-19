@@ -3,4 +3,8 @@ INSERT INTO "season_pack" VALUES(9,17001001,1,403,'Day {1}''s set of the daily J
 INSERT INTO "season_pack" VALUES(15,0,0,0,'','',0,7,3,1,103,3,0,1,0);
 INSERT INTO "season_pack" VALUES(18,0,0,0,'','',0,30,3,1,103,3,0,1,0);
 INSERT INTO "season_pack" VALUES(19,17001002,2,405,'Day {1} of the 7-Day Stamina Support Pack.','',9402,7,0,0,103,1,20002,0,0);
+INSERT INTO "season_pack" VALUES(20,0,1,0,'','',9403,0,0,0,0,0,3,0,0);
+INSERT INTO "season_pack" VALUES(21,0,2,0,'','',9404,0,0,0,0,0,4,0,0);
+INSERT INTO "season_pack" VALUES(22,0,3,0,'','',9405,0,0,0,0,0,5,0,0);
+INSERT INTO "season_pack" VALUES(23,0,4,0,'','',9406,0,0,0,0,0,6,0,0);
 INSERT INTO "season_pack" VALUES(521,17001099,2,403,'Item set from the Goddess'' Blessing pack.','Item set from the Goddess'' Blessing pack.',0,1,0,0,0,0,2,0,0);

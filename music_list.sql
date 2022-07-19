@@ -76,3 +76,6 @@ INSERT INTO "music_list" VALUES(74,'What Lurks on the Crag',20.0,'','2022-05-25 
 INSERT INTO "music_list" VALUES(75,'Shogun Chronicles: The Whitewing Samurai',20.0,'','2022-05-25 23:00:00','',-1,1000,75,'Shogun Chronicles: The Whitewing Samurai','','','');
 INSERT INTO "music_list" VALUES(76,'Evil Magistrate',20.0,'','2022-05-25 23:00:00','',-1,1000,76,'Evil Magistrate','','','');
 INSERT INTO "music_list" VALUES(77,'White-Winged Glorie',20.0,'','2022-05-25 23:00:00','',-1,1500,77,'White-Winged Glorie','','','');
+INSERT INTO "music_list" VALUES(78,'Foot of the Volcano',20.0,'','2022-06-28 23:00:00','',-1,1000,78,'Foot of the Volcano','','','');
+INSERT INTO "music_list" VALUES(79,'Unforgiving Wasteland',20.0,'','2022-06-28 23:00:00','',-1,1000,79,'Unforgiving Wasteland','','','');
+INSERT INTO "music_list" VALUES(80,'Slothful Madman',20.0,'','2022-06-28 23:00:00','',-1,1000,80,'Slothful Madman','','','');

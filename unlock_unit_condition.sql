@@ -82,3 +82,9 @@ INSERT INTO "unlock_unit_condition" VALUES(109601,'Ninon (Oedo)',1,0,1,2,31096,1
 INSERT INTO "unlock_unit_condition" VALUES(109701,'Rem',1,0,1,2,31097,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(109801,'Ram',1,0,1,2,31098,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(109901,'Emilia',1,0,1,2,31099,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(110001,'Suzuna (Summer)',1,0,1,2,31100,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(110101,'Io (Summer)',1,0,1,2,31101,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(110301,'Saren (Summer)',1,0,1,2,31103,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(110401,'Makoto (Summer)',1,0,1,2,31104,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(110501,'Kaori (Summer)',1,0,1,2,31105,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(110601,'Maho (Summer)',1,0,1,2,31106,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

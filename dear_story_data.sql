@@ -1,2 +1,3 @@
 CREATE TABLE 'dear_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_group_id'));
 INSERT INTO "dear_story_data" VALUES(6017,6,10017,'Re:ZERO -Sharing Lunch in Another World-',0,1,'2022/04/27 15:00:00','2030/04/24 14:59:59');
+INSERT INTO "dear_story_data" VALUES(6019,6,10019,'Suzuna''s Rainbow Stage!',0,1,'2022/05/27 23:00:00','2030/04/24 14:59:59');

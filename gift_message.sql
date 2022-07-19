@@ -86,3 +86,10 @@ INSERT INTO "gift_message" VALUES(9813,'Beginner’s Support Mana Giveaway',0,0,
 INSERT INTO "gift_message" VALUES(9814,'Spring 200k Followers Login Bonus',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9815,'“Re:ZERO -Starting Life in Another World-” Collab Login Bonus',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9816,'Gift of Gratitude Giveaway',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9817,'Summer Celebration Giveaway',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9818,'Gourmet Guild Appreciation',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9819,'Twinkle Wish Appreciation',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9820,'Beach Getaway Login Bonus',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9821,'Countdown to 1.5-Year Anniversary!',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9822,'1.5-Year Anniversary Present',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9823,'Summer Splash Celebration',0,0,0,0);

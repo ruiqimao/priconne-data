@@ -36,3 +36,11 @@ INSERT INTO "hatsune_daily_mission_data" VALUES(61017001,101,601,'Battle Petelge
 INSERT INTO "hatsune_daily_mission_data" VALUES(61017002,102,601,'Clear 10 event quests',9004,0,0,0,10,61017002,6004,10017,'2022/05/02 23:00:00','2022/05/14 22:59:59');
 INSERT INTO "hatsune_daily_mission_data" VALUES(61018001,101,601,'Battle Garoog 1 time (NORMAL/HARD)',9012,0,0,0,1,61018001,6008,10018,'2022/05/15 23:00:00','2022/05/24 22:59:59');
 INSERT INTO "hatsune_daily_mission_data" VALUES(61018002,102,601,'Clear 10 event quests',9004,0,0,0,10,61018002,6004,10018,'2022/05/15 23:00:00','2022/05/24 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61019001,101,601,'Battle the Great Rain God 1 time (Any Difficulty)',9012,0,0,0,1,61019001,6008,10019,'2022/06/01 23:00:00','2022/06/15 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61019002,102,601,'Clear 10 event quests',9004,0,0,0,10,61019002,6004,10019,'2022/06/01 23:00:00','2022/06/15 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61020001,101,601,'Battle Tentapus 1 time (Any Difficulty)',9012,0,0,0,1,61020001,6008,10020,'2022/06/19 23:00:00','2022/06/27 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61020002,102,601,'Clear 10 event quests',9004,0,0,0,10,61020002,6004,10020,'2022/06/19 23:00:00','2022/06/27 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61021001,101,601,'Battle Majimun 1 time (Any Difficulty)',9012,0,0,0,1,61021001,6008,10021,'2022/07/04 23:00:00','2022/07/17 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61021002,102,601,'Clear 10 event quests',9004,0,0,0,10,61021002,6004,10021,'2022/07/04 23:00:00','2022/07/17 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61022001,101,601,'Battle the Island Whale 1 time (Any Difficulty)',9012,0,0,0,1,61022001,6008,10022,'2022/07/19 23:00:00','2022/07/25 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61022002,102,601,'Clear 10 event quests',9004,0,0,0,10,61022002,6004,10022,'2022/07/19 23:00:00','2022/07/25 22:59:59');

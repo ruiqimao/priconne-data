@@ -14,3 +14,13 @@ INSERT INTO "dear_reward" VALUES(12,10017,3,200,'Raise intimacy to 200',12,94002
 INSERT INTO "dear_reward" VALUES(13,10017,3,500,'Raise intimacy to 500',8,91002,50,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "dear_reward" VALUES(14,10017,3,800,'Raise intimacy to 800',12,94002,50000,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "dear_reward" VALUES(15,10017,3,1000,'Raise intimacy to max',8,91002,100,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001901,10019,1,100,'Raise intimacy to 100',12,94002,15000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001902,10019,1,200,'Raise intimacy to 200',12,94002,37500,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001903,10019,1,500,'Raise intimacy to 500',8,91002,75,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001904,10019,1,800,'Raise intimacy to 800',12,94002,75000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001905,10019,1,1000,'Raise intimacy to max',8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001906,10019,2,100,'Raise intimacy to 100',12,94002,15000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001907,10019,2,200,'Raise intimacy to 200',12,94002,37500,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001908,10019,2,500,'Raise intimacy to 500',8,91002,75,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001909,10019,2,800,'Raise intimacy to 800',12,94002,75000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "dear_reward" VALUES(1001910,10019,2,1000,'Raise intimacy to max',8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);

@@ -8,15 +8,15 @@ INSERT INTO "voice_group_chara" VALUES(100601001,'Diabolos (Akari)',100601,0,0,0
 INSERT INTO "voice_group_chara" VALUES(100701001,'Diabolos (Miyako)',100701,108201,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(100801001,'Weissflügel: Landosol Branch (Yuki)',100801,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(100901001,'Twilight Caravan (Anna)',100901,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(101001001,'Caon (Maho)',101001,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(101001001,'Caon (Maho)',101001,110601,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101101001,'Labyrinth (Rino)',101101,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101201001,'Forestier (Hatsune)',101201,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101301001,'Twilight Caravan (Nanaka)',101301,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101401001,'Caon (Kasumi)',101401,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101501001,'Forestier (Misato)',101501,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(101601001,'Lucent Academy (Suzuna)',101601,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(101701001,'Caon (Kaori)',101701,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(101801001,'Lucent Academy (Io)',101801,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(101601001,'Lucent Academy (Suzuna)',101601,110001,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(101701001,'Caon (Kaori)',101701,110501,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(101801001,'Lucent Academy (Io)',101801,110101,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102001001,'Little Lyrical (Mimi)',102001,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102101001,'Sarendia Orphanage (Kurumi)',102101,108501,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102201001,'Diabolos (Yori)',102201,0,0,0,0,0,0,0,0,0);
@@ -24,7 +24,7 @@ INSERT INTO "voice_group_chara" VALUES(102301001,'Sarendia Orphanage (Ayane)',10
 INSERT INTO "voice_group_chara" VALUES(102501001,'Sarendia Orphanage (Suzume)',102501,107701,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102601001,'Elizabeth Park (Rin)',102601,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102701001,'Twilight Caravan (Eriko)',102701,109001,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(102801001,'Sarendia Orphanage (Saren)',102801,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(102801001,'Sarendia Orphanage (Saren)',102801,110301,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102901001,'Carmina (Nozomi)',102901,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103001001,'Weissflügel: Landosol Branch (Ninon)',103001,109601,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103101001,'Diabolos (Shinobu)',103101,108101,0,0,0,0,0,0,0,0);
@@ -36,7 +36,7 @@ INSERT INTO "voice_group_chara" VALUES(103701001,'Nightmare (Tomo)',103701,0,0,0
 INSERT INTO "voice_group_chara" VALUES(103801001,'Elizabeth Park (Shiori)',103801,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104001001,'Forestier (Aoi)',104001,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104201001,'Carmina (Chika)',104201,108401,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(104301001,'Caon (Makoto)',104301,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(104301001,'Caon (Makoto)',104301,110401,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104401001,'Diabolos (Illya)',104401,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104501001,'Weissflügel: Landosol Branch (Kuka)',104501,109501,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104601001,'Mercurius Foundation (Tamaki)',104601,107901,0,0,0,0,0,0,0,0);
