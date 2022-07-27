@@ -79,3 +79,7 @@ INSERT INTO "music_list" VALUES(77,'White-Winged Glorie',20.0,'','2022-05-25 23:
 INSERT INTO "music_list" VALUES(78,'Foot of the Volcano',20.0,'','2022-06-28 23:00:00','',-1,1000,78,'Foot of the Volcano','','','');
 INSERT INTO "music_list" VALUES(79,'Unforgiving Wasteland',20.0,'','2022-06-28 23:00:00','',-1,1000,79,'Unforgiving Wasteland','','','');
 INSERT INTO "music_list" VALUES(80,'Slothful Madman',20.0,'','2022-06-28 23:00:00','',-1,1000,80,'Slothful Madman','','','');
+INSERT INTO "music_list" VALUES(81,'Forest of Beating Drums',20.0,'','2022-07-29 23:00:00','',-1,1000,81,'Forest of Beating Drums','','','');
+INSERT INTO "music_list" VALUES(82,'Suzuna''s Rainbow Stage!',20.0,'','2022-07-29 23:00:00','',-1,1000,82,'Suzuna''s Rainbow Stage!','','','');
+INSERT INTO "music_list" VALUES(83,'Great Rain God',20.0,'','2022-07-29 23:00:00','',-1,1000,83,'Great Rain God','','','');
+INSERT INTO "music_list" VALUES(84,'First Kiss on Tiptoes',20.0,'','2022-07-29 23:00:00','',-1,1500,84,'First Kiss on Tiptoes','','','');

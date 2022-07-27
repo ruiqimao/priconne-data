@@ -11,3 +11,4 @@ INSERT INTO "campaign_freegacha_data" VALUES(10,4,50027);
 INSERT INTO "campaign_freegacha_data" VALUES(11,4,30028);
 INSERT INTO "campaign_freegacha_data" VALUES(15,6,30044);
 INSERT INTO "campaign_freegacha_data" VALUES(16,6,40002);
+INSERT INTO "campaign_freegacha_data" VALUES(17,6,30046);

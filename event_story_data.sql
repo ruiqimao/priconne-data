@@ -16,3 +16,4 @@ INSERT INTO "event_story_data" VALUES(5015,5,10015,'Shogun Chronicles: The White
 INSERT INTO "event_story_data" VALUES(5017,5,10017,'Re:ZERO -Sharing Lunch in Another World-',0,1,'2022/05/02 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5019,5,10019,'Suzuna''s Rainbow Stage!',0,1,'2022/06/01 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5021,5,10021,'Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!',0,1,'2022/07/04 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_data" VALUES(5023,5,10023,'The Woodland Loner and the Saintly School Lycéennes',0,1,'2022/08/04 23:00:00','2030/04/24 14:59:59');
