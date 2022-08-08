@@ -1,1 +1,18 @@
 CREATE TABLE 'hatsune_diary_data' ('diary_id' INTEGER NOT NULL, 'contents_type' INTEGER NOT NULL, 'diary_date' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, 'forced_release_time' TEXT NOT NULL, 'condition_time' TEXT NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, PRIMARY KEY('diary_id'));
+INSERT INTO "hatsune_diary_data" VALUES(1,0,1,'What did I do to deserve this?','2030/01/01 1:00:00','2022/08/04 13:00:00',5023000,0);
+INSERT INTO "hatsune_diary_data" VALUES(2,0,2,'Even greetings are beyond me...','2030/01/01 1:00:00','2022/08/04 13:00:00',5023001,0);
+INSERT INTO "hatsune_diary_data" VALUES(3,0,3,'Kill me now!','2030/01/01 1:00:00','2022/08/04 13:00:00',5023002,0);
+INSERT INTO "hatsune_diary_data" VALUES(4,0,4,'My thoughts on Yuni','2030/01/01 1:00:00','2022/08/05 13:00:00',5023002,0);
+INSERT INTO "hatsune_diary_data" VALUES(5,0,5,'My thoughts on Chloe','2030/01/01 1:00:00','2022/08/05 13:00:00',5023002,0);
+INSERT INTO "hatsune_diary_data" VALUES(6,0,6,'My thoughts on Chieru','2030/01/01 1:00:00','2022/08/05 13:00:00',5023002,0);
+INSERT INTO "hatsune_diary_data" VALUES(7,0,7,'Yuni the Intellectual','2030/01/01 1:00:00','2022/08/06 13:00:00',5023003,0);
+INSERT INTO "hatsune_diary_data" VALUES(8,0,8,'Chloe the Kindhearted','2030/01/01 1:00:00','2022/08/06 13:00:00',5023003,0);
+INSERT INTO "hatsune_diary_data" VALUES(9,0,9,'Chieru the Incredible','2030/01/01 1:00:00','2022/08/06 13:00:00',5023003,0);
+INSERT INTO "hatsune_diary_data" VALUES(10,0,10,'Preparing for my presentation','2030/01/01 1:00:00','2022/08/07 13:00:00',5023003,0);
+INSERT INTO "hatsune_diary_data" VALUES(11,0,11,'The moment of truth...','2030/01/01 1:00:00','2022/08/07 13:00:00',5023004,0);
+INSERT INTO "hatsune_diary_data" VALUES(12,0,12,'The BB Brigade''s amazing leader!','2030/01/01 1:00:00','2022/08/07 13:00:00',5023005,0);
+INSERT INTO "hatsune_diary_data" VALUES(13,0,13,'Mandragora on the loose!','2030/01/01 1:00:00','2022/08/07 13:00:00',5023006,0);
+INSERT INTO "hatsune_diary_data" VALUES(14,0,14,'My final day...','2030/01/01 1:00:00','2022/08/18 13:00:00',5023006,1);
+INSERT INTO "hatsune_diary_data" VALUES(15,1,0,'','2030/01/01 1:00:00','2022/08/18 23:00:00',5023000,0);
+INSERT INTO "hatsune_diary_data" VALUES(16,1,0,'','2030/01/01 1:00:00','2022/08/18 23:00:00',5023000,0);
+INSERT INTO "hatsune_diary_data" VALUES(17,1,0,'','2030/01/01 1:00:00','2022/08/18 23:00:00',5023000,0);

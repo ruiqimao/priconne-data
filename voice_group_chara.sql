@@ -34,7 +34,7 @@ INSERT INTO "voice_group_chara" VALUES(103401001,'Mercurius Foundation (Yukari)'
 INSERT INTO "voice_group_chara" VALUES(103601001,'Little Lyrical (Kyoka)',103601,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103701001,'Nightmare (Tomo)',103701,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103801001,'Elizabeth Park (Shiori)',103801,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(104001001,'Forestier (Aoi)',104001,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(104001001,'Forestier (Aoi)',104001,110701,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104201001,'Carmina (Chika)',104201,108401,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104301001,'Caon (Makoto)',104301,110401,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104401001,'Diabolos (Illya)',104401,0,0,0,0,0,0,0,0,0);
@@ -56,6 +56,7 @@ INSERT INTO "voice_group_chara" VALUES(105901001,'Gourmet Guild (Kokkoro)',10590
 INSERT INTO "voice_group_chara" VALUES(106001001,'Gourmet Guild (Karyl)',106001,107801,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(106101001,'??? (Muimi)',106101,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(106301001,'??? (Arisa)',106301,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(107001001,'??? (Neneka)',107001,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(107101001,'Nightmare (Christina)',107101,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(109201001,'Mysteria (Anne)',109201,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(109301001,'Mysteria (Lou)',109301,0,0,0,0,0,0,0,0,0);

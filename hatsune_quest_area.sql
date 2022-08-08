@@ -48,3 +48,5 @@ INSERT INTO "hatsune_quest_area" VALUES(10021101,10021,'Maho-Maho Kingdom Resort
 INSERT INTO "hatsune_quest_area" VALUES(10021201,10021,'Maho-Maho Kingdom Resort?',201,'bgm_M245','bgm_M245_02','2022/07/04 23:00:00','2022/07/17 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10022101,10022,'Ellusion Isle',201,'bgm_M121','bgm_M121','2022/07/19 23:00:00','2022/07/25 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10022201,10022,'Ellusion Isle',201,'bgm_M121','bgm_M121','2022/07/19 23:00:00','2022/07/25 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10023101,10023,'St. Theresa''s Academy',201,'bgm_M254','bgm_M254','2022/08/04 23:00:00','2022/08/18 22:59:59',1,1,70,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10023201,10023,'St. Theresa''s Academy',201,'bgm_M254','bgm_M254','2022/08/04 23:00:00','2022/08/18 22:59:59',1,0,0,0,0,'0','0',0);

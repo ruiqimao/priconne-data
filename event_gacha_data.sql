@@ -21,3 +21,4 @@ INSERT INTO "event_gacha_data" VALUES(10019,10019,'Suzuna''s Rainbow Stage!',2,6
 INSERT INTO "event_gacha_data" VALUES(10020,10020,'Dangerous Vacation! Gourmet Princess on the Beach',2,60192,1,5);
 INSERT INTO "event_gacha_data" VALUES(10021,10021,'Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!',2,60202,1,5);
 INSERT INTO "event_gacha_data" VALUES(10022,10022,'Tamaki and Mifuyu''s Desert Island 0-Rupie Life!',2,60212,1,5);
+INSERT INTO "event_gacha_data" VALUES(10023,10023,'The Woodland Loner and the Saintly School Lycéennes',2,60222,1,5);

@@ -423,6 +423,10 @@ INSERT INTO "story_detail" VALUES(1058005,1058,'Pecorine Episode 5','A Meaty Mee
 INSERT INTO "story_detail" VALUES(1058006,1058,'Pecorine Episode 6','Viva Bureaucracy!',0,0,1058005,6,105801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1058007,1058,'Pecorine Episode 7','An Unforgettable Flavor',0,0,1058006,7,105801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1058008,1058,'Pecorine Episode 8','The Happiness You Gave Me',0,0,1058007,8,105801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1058009,1058,'Pecorine Episode 9','A Date with Departure',0,0,1058008,9,105801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1058010,1058,'Pecorine Episode 10','Gourmet Camping',0,0,1058009,10,105801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1058011,1058,'Pecorine Episode 11','The Princess''s Knight',0,0,1058010,11,105801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1058012,1058,'Pecorine Episode 12','Feelings for a Future Knight',0,0,1058011,12,105801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
 INSERT INTO "story_detail" VALUES(1059001,1059,'Kokkoro Episode 1','A Little Guide''s First Day on the Job',0,0,0,0,105901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1059002,1059,'Kokkoro Episode 2','The Great Glittering Blue',0,0,1059001,2,105901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1059003,1059,'Kokkoro Episode 3','A Letter to Family',0,0,1059002,3,105901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -431,6 +435,10 @@ INSERT INTO "story_detail" VALUES(1059005,1059,'Kokkoro Episode 5','Parent or Ch
 INSERT INTO "story_detail" VALUES(1059006,1059,'Kokkoro Episode 6','A Furry Lost Child',0,0,1059005,6,105901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1059007,1059,'Kokkoro Episode 7','The Warmth of Family',0,0,1059006,7,105901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1059008,1059,'Kokkoro Episode 8','Kokkoro''s Heart',0,0,1059007,8,105901,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1059009,1059,'Kokkoro Episode 9','A Lonely Little Guide',0,0,1059008,9,105901,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1059010,1059,'Kokkoro Episode 10','Guidance for the Guide',0,0,1059009,10,105901,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1059011,1059,'Kokkoro Episode 11','Heart''s Companion',0,0,1059010,11,105901,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1059012,1059,'Kokkoro Episode 12','Body and Heart Awakened',0,0,1059011,12,105901,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
 INSERT INTO "story_detail" VALUES(1060001,1060,'Karyl Episode 1','Under Her Watchful Eye',0,0,0,0,106001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1060002,1060,'Karyl Episode 2','A Cat''s Silent Cry',0,0,1060001,2,106001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1060003,1060,'Karyl Episode 3','A Place to Belong',0,0,1060002,3,106001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -439,6 +447,10 @@ INSERT INTO "story_detail" VALUES(1060005,1060,'Karyl Episode 5','Her Secret',0,
 INSERT INTO "story_detail" VALUES(1060006,1060,'Karyl Episode 6','The Queen of Monsters',0,0,1060005,6,106001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1060007,1060,'Karyl Episode 7','A Thrilling First Date',0,0,1060006,7,106001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1060008,1060,'Karyl Episode 8','Working Towards One''s Happiness',0,0,1060007,8,106001,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1060009,1060,'Karyl Episode 9','Bend to My Will',0,0,1060008,9,106001,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1060010,1060,'Karyl Episode 10','Transient Desires',0,0,1060009,10,106001,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1060011,1060,'Karyl Episode 11','A Helping Hand and a Delicious Burger',0,0,1060010,11,106001,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1060012,1060,'Karyl Episode 12','Our Own Little Adventure',0,0,1060011,12,106001,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
 INSERT INTO "story_detail" VALUES(1061001,1061,'Muimi Episode 1','Of Bygone Days',0,0,2010006,0,106101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
 INSERT INTO "story_detail" VALUES(1061002,1061,'Muimi Episode 2','A Strategy to Share',0,0,1061001,4,106101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
 INSERT INTO "story_detail" VALUES(1061003,1061,'Muimi Episode 3','Beyond the Pain of Solitude',0,0,1061002,5,106101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
@@ -451,6 +463,10 @@ INSERT INTO "story_detail" VALUES(1063005,1063,'Arisa Episode 5','Elven Archery'
 INSERT INTO "story_detail" VALUES(1063006,1063,'Arisa Episode 6','Forest of Dreams',0,0,1063005,6,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1063007,1063,'Arisa Episode 7','The Elven Wanderer',0,0,1063006,7,106301,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1063008,1063,'Arisa Episode 8','Pixie Paradise',0,0,1063007,8,106301,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1070001,1070,'Neneka Episode 1','An Engineered Reunion',0,0,2009005,0,107001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1070002,1070,'Neneka Episode 2','One Final Lesson',0,0,1070001,4,107001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1070003,1070,'Neneka Episode 3','The Nice Lady''s Name',0,0,1070002,5,107001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1070004,1070,'Neneka Episode 4','Secret Encounter',0,0,1070003,8,107001,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1071001,1071,'Christina Episode 1','The Troublesome Vice-Captain',0,0,0,0,107101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1071002,1071,'Christina Episode 2','A Deadly Diversion',0,0,1071001,4,107101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1071003,1071,'Christina Episode 3','An Absolute Geas',0,0,1071002,5,107101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -579,6 +595,10 @@ INSERT INTO "story_detail" VALUES(1106001,1106,'Maho (Summer) Episode 1','The Ho
 INSERT INTO "story_detail" VALUES(1106002,1106,'Maho (Summer) Episode 2','A Ball for the Prince and Princess',0,0,1106001,4,110601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1106003,1106,'Maho (Summer) Episode 3','Entrusting a Wish',0,0,1106002,5,110601,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1106004,1106,'Maho (Summer) Episode 4','An Extra Special Summer',0,0,1106003,8,110601,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1107001,1107,'Aoi (Student) Episode 1','The BB Brigade''s New Frontier',0,0,0,0,110701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1107002,1107,'Aoi (Student) Episode 2','High Society',0,0,1107001,4,110701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1107003,1107,'Aoi (Student) Episode 3','Every Loner''s Greatest Fear',0,0,1107002,5,110701,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1107004,1107,'Aoi (Student) Episode 4','Words of Goodwill',0,0,1107003,8,110701,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1900999,1900,'Ameth','Ameth''s Talk',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000001,2000,'Prologue','Part 1',0,0,0,0,0,0,51200001,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000002,2000,'Prologue','Part 2',0,1,0,0,0,0,51200002,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -716,6 +736,13 @@ INSERT INTO "story_detail" VALUES(2013007,2013,'Chapter 13 Episode 7','Trouble a
 INSERT INTO "story_detail" VALUES(2013008,2013,'Chapter 13 Episode 8','Bonds of Demonhood',5,0,2013007,0,0,11026008,0,8,91002,20,0,0,0,0,0,0,'2022/06/27 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2013009,2013,'Chapter 13 Episode 9','The Kaiser Attacks',5,0,2013008,0,0,11026011,0,8,91002,20,0,0,0,0,0,0,'2022/06/27 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2013010,2013,'Chapter 13 Episode 10','The Ruler of the Night''s Resolve',5,0,2013009,0,0,11026014,0,8,91002,20,0,0,0,0,0,0,'2022/06/27 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2013011,2013,'Chapter 13 Episode 11','Evil Surrounded',5,0,2013010,0,0,11027002,0,8,91002,20,0,0,0,0,0,0,'2022/08/04 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2013012,2013,'Chapter 13 Episode 12','Thus Spoke the Kaiser',5,0,2013011,0,0,11027004,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2013013,2013,'Chapter 13 Episode 13','Banquet of Horrors',5,0,2013012,0,0,11027006,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2013014,2013,'Chapter 13 Episode 14','Preparing the Feast',5,0,2013013,0,0,11027009,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2013015,2013,'Chapter 13 Episode 15','The Final Stage Begins',5,1,2013014,0,0,11027011,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2013016,2013,'Chapter 13 Episode 16','The Kindness That Connects Us',5,0,2013015,0,0,11027014,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2013099,2013,'Chapter 13 Interlude','Interlude 14',5,0,2013016,0,0,11027014,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

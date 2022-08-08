@@ -138,3 +138,6 @@ INSERT INTO "goldset_data_teamlevel" VALUES(136,136,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(137,137,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(138,138,0);
 INSERT INTO "goldset_data_teamlevel" VALUES(139,139,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(140,140,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(141,141,0);
+INSERT INTO "goldset_data_teamlevel" VALUES(142,142,0);

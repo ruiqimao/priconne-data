@@ -18,4 +18,4 @@ INSERT INTO "clanprofile_content" VALUES(16,'Summer Beach (Sunrise)','2022/06/01
 INSERT INTO "clanprofile_content" VALUES(17,'Summer Beach (Sunset)','2022/06/01 23:00:00','',3);
 INSERT INTO "clanprofile_content" VALUES(18,'Summer Beach (Starry Sky)','2022/06/01 23:00:00','',4);
 INSERT INTO "clanprofile_content" VALUES(19,'Underwater Scenery','2022/07/01 23:00:00','',1);
-INSERT INTO "clanprofile_content" VALUES(20,'???','2022/07/01 23:00:00','',20);
+INSERT INTO "clanprofile_content" VALUES(20,'???','2022/07/01 23:00:00','',21);

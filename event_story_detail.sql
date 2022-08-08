@@ -136,3 +136,11 @@ INSERT INTO "event_story_detail" VALUES(5021004,5021,'Episode 4','My True Feelin
 INSERT INTO "event_story_detail" VALUES(5021005,5021,'Episode 5','Fulfilled Desires',0,0,5021004,0,0,0,0,8,91002,20,2,31105,1,0,0,0,'2022/07/04 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5021006,5021,'Episode 6','Bright Lights in the Sky',0,0,5021005,0,0,0,0,8,91002,20,2,31014,1,0,0,0,'2022/07/04 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5021007,5021,'Ending','A Precious Present',0,0,5021006,0,0,0,0,8,91002,20,2,31105,1,0,0,0,'2022/07/04 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5023000,5023,'Opening','Trial by Fire',0,0,0,0,0,0,0,8,91002,20,2,31040,1,0,0,0,'2022/08/04 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5023001,5023,'Episode 1','Meet the Friendship Club!',0,0,5023000,0,0,0,0,8,91002,20,2,31056,1,0,0,0,'2022/08/04 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5023002,5023,'Episode 2','That Important First Step',0,0,5023001,0,0,0,0,8,91002,20,2,31040,1,0,0,0,'2022/08/04 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5023003,5023,'Episode 3','Presentation Brainstorming!',0,0,5023002,0,0,0,0,8,91002,20,2,31056,1,0,0,0,'2022/08/04 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5023004,5023,'Episode 4','A High Bar to Clear',0,0,5023003,0,0,0,0,8,91002,20,2,31040,1,0,0,0,'2022/08/04 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5023005,5023,'Episode 5','Mandragora Hunters',0,0,5023004,0,0,0,0,8,91002,20,2,31056,1,0,0,0,'2022/08/04 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5023006,5023,'Episode 6','Our Hearts as One',0,0,5023005,0,0,0,0,8,91002,20,2,31040,1,0,0,0,'2022/08/04 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5023007,5023,'Ending','The Magic of Youth Goes On',0,0,5023006,0,0,0,0,8,91002,20,2,31056,1,0,0,0,'2022/08/04 23:00:00','2030/12/31 14:59:59');
