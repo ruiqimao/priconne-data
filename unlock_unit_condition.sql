@@ -90,3 +90,4 @@ INSERT INTO "unlock_unit_condition" VALUES(110401,'Makoto (Summer)',1,0,1,2,3110
 INSERT INTO "unlock_unit_condition" VALUES(110501,'Kaori (Summer)',1,0,1,2,31105,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(110601,'Maho (Summer)',1,0,1,2,31106,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(110701,'Aoi (Student)',1,0,1,2,31107,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(110801,'Chloe',1,0,1,2,31108,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

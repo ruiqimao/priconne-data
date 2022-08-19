@@ -6,3 +6,4 @@ INSERT INTO "tower_story_data" VALUES(7004,7,4,'Big Bro Booking',0,1,'2022/01/05
 INSERT INTO "tower_story_data" VALUES(7005,7,5,'Haunted House, Hidden Hearts',0,1,'2022/02/05 13:00:00','2030/04/24 14:59:59');
 INSERT INTO "tower_story_data" VALUES(7006,7,6,'Of Bonds and Pride',0,1,'2022/04/17 13:00:00','2030/04/24 14:59:59');
 INSERT INTO "tower_story_data" VALUES(7007,7,7,'Gale Chronicles: Legend of the Vampire',0,1,'2022/06/16 13:00:00','2030/04/24 14:59:59');
+INSERT INTO "tower_story_data" VALUES(7008,7,8,'Sweet Little Sisters',0,1,'2022/08/19 13:00:00','2030/04/24 14:59:59');

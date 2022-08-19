@@ -1107,3 +1107,15 @@ INSERT INTO "unit_comments" VALUES(1107009,110731,1,4,1,0.0,1,'M-my fortune toda
 INSERT INTO "unit_comments" VALUES(1107010,110731,1,5,1,0.0,1,'T-today I''m going to ask him if we can walk home together... Waaahh! I''m so sorry for dreaming up such wild fancies!');
 INSERT INTO "unit_comments" VALUES(1107011,110701,2,6,5,6.8,2,'H-h-h-happy birthday to you!\nAhhh... Even being able to celebrate someone else''s birthday is an honor too great for me...');
 INSERT INTO "unit_comments" VALUES(1107012,110731,2,6,1,0.0,1,'I hope your birthday is full of happiness! I can''t believe you''re spending it with me... This is even better than making friends!');
+INSERT INTO "unit_comments" VALUES(1108001,110801,1,1,1,6.1,2,'You know what''s weird?\nAround school, a lotta people seem to think I''m scary. At least you''re not like that, I guess.');
+INSERT INTO "unit_comments" VALUES(1108002,110801,1,2,6,5.1,1,'So I heard this dumb rumor\nthe other day that you tried to\neat money. Hilarious, right?\nThat stuff''s not even tasty.');
+INSERT INTO "unit_comments" VALUES(1108003,110801,1,3,2,3.0,4,'How can I help you today~?!\n...Uh, yeah. The manager at my job told me I gotta act cheerful. Ugh, what a drag.');
+INSERT INTO "unit_comments" VALUES(1108004,110801,1,4,6,3.4,2,'So, like, uh.\nThe vibes you''re giving off?\nThey''re not all that bad.\nI guess.');
+INSERT INTO "unit_comments" VALUES(1108005,110801,1,5,6,3.1,5,'Ew, gross...\nWas that you trying to act cool?\nMy heart skipped a literal beat for a second. I''m creeping myself out.');
+INSERT INTO "unit_comments" VALUES(1108006,110831,1,1,1,0.0,1,'Night? I like the night. It kinda... gives you a bit more privacy.\nLets you say stuff you normally wouldn''t. And... y''know, it''s cool.');
+INSERT INTO "unit_comments" VALUES(1108007,110831,1,2,1,0.0,1,'Really. You''re actually lost again? Fine, I''ll walk you where you''re going. Uh, no, don''t thank me.\nI needed the fresh air anyway.');
+INSERT INTO "unit_comments" VALUES(1108008,110831,1,3,1,0.0,1,'A mysterious girl lurking in a dark alley... How''s that for a vibe, huh? Like, I''m just here for work, but still. It''s all about the feeling.');
+INSERT INTO "unit_comments" VALUES(1108009,110831,1,4,1,0.0,1,'Uh, listen. I know you don''t mean anything by it, but do you gotta keep staring at my face? ''Cause it gives me the weirdest feeling.');
+INSERT INTO "unit_comments" VALUES(1108010,110831,1,5,1,0.0,1,'You? Walk me home? Now that''s a reversal and a half. The streets aren''t safe at night? Hah. When''d you learn to sound so cool.');
+INSERT INTO "unit_comments" VALUES(1108011,110801,2,6,1,9.3,5,'So, uh. I made cake for my kid brothers, but there''s some spare, so can you eat it? I mean, if you''re hungry. Oh, and... happy birthday.');
+INSERT INTO "unit_comments" VALUES(1108012,110831,2,6,1,0.0,1,'So, what. You got a year older today, huh? Well, big whoop. Good for you. Have a Killer Pen.');

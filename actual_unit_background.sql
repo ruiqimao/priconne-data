@@ -84,3 +84,4 @@ INSERT INTO "actual_unit_background" VALUES(110431,'Makoto Aki',510360,1);
 INSERT INTO "actual_unit_background" VALUES(110531,'Kaori Kyan',510250,2);
 INSERT INTO "actual_unit_background" VALUES(110631,'Maho Himemiya',510240,4);
 INSERT INTO "actual_unit_background" VALUES(110731,'Aoi Futaba',510240,4);
+INSERT INTO "actual_unit_background" VALUES(110831,'Hanako Kuroe',510150,2);

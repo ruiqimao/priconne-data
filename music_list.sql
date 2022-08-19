@@ -83,3 +83,8 @@ INSERT INTO "music_list" VALUES(81,'Forest of Beating Drums',20.0,'','2022-07-29
 INSERT INTO "music_list" VALUES(82,'Suzuna''s Rainbow Stage!',20.0,'','2022-07-29 23:00:00','',-1,1000,82,'Suzuna''s Rainbow Stage!','','','');
 INSERT INTO "music_list" VALUES(83,'Great Rain God',20.0,'','2022-07-29 23:00:00','',-1,1000,83,'Great Rain God','','','');
 INSERT INTO "music_list" VALUES(84,'First Kiss on Tiptoes',20.0,'','2022-07-29 23:00:00','',-1,1500,84,'First Kiss on Tiptoes','','','');
+INSERT INTO "music_list" VALUES(85,'The Battle for Big Bro! Helping Shizuru',20.0,'','2022-08-25 23:00:00','',-1,1000,85,'The Battle for Big Bro! Helping Shizuru','','','');
+INSERT INTO "music_list" VALUES(86,'The Battle for Big Bro! Helping Eriko',20.0,'','2022-08-25 23:00:00','',-1,1000,86,'The Battle for Big Bro! Helping Eriko','','','');
+INSERT INTO "music_list" VALUES(87,'Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!',20.0,'','2022-08-25 23:00:00','',-1,1000,87,'Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!','','','');
+INSERT INTO "music_list" VALUES(88,'Majimun',20.0,'','2022-08-25 23:00:00','',-1,1000,88,'Majimun','','','');
+INSERT INTO "music_list" VALUES(89,'We Are Golden',20.0,'','2022-08-25 23:00:00','',-1,1500,89,'We Are Golden','','','');

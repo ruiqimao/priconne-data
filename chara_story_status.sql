@@ -508,3 +508,10 @@ INSERT INTO "chara_story_status" VALUES(1106004,'Maho (Summer)''s Episode 4',4,5
 INSERT INTO "chara_story_status" VALUES(1107002,'Aoi (Student)''s Episode 2',2,10,0,0,0,0,0,0,0,0,1107,1040,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1107003,'Aoi (Student)''s Episode 3',2,30,0,0,0,0,0,0,0,0,1107,1040,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1107004,'Aoi (Student)''s Episode 4',2,50,0,0,0,0,0,0,0,0,1107,1040,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1108002,'Chloe''s Episode 2',2,15,0,0,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1108003,'Chloe''s Episode 3',2,15,0,0,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1108004,'Chloe''s Episode 4',2,30,0,0,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1108005,'Chloe''s Episode 5',2,40,0,0,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1108006,'Chloe''s Episode 6',2,60,0,0,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1108007,'Chloe''s Episode 7',2,60,0,0,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1108008,'Chloe''s Episode 8',2,90,6,10,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);

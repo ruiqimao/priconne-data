@@ -91,3 +91,4 @@ INSERT INTO "unit_background" VALUES(110401,'Makoto (Summer)',500710,'Okinawa-es
 INSERT INTO "unit_background" VALUES(110501,'Kaori (Summer)',500710,'Okinawa-esque Coast',0.0,4);
 INSERT INTO "unit_background" VALUES(110601,'Maho (Summer)',500710,'Okinawa-esque Coast',0.0,4);
 INSERT INTO "unit_background" VALUES(110701,'Aoi (Student)',500730,'St. Theresa''s Academy - Main Gate',0.0,2);
+INSERT INTO "unit_background" VALUES(110801,'Chloe',500730,'St. Theresa''s Academy - Main Gate',0.0,2);
