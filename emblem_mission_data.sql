@@ -379,6 +379,9 @@ INSERT INTO "emblem_mission_data" VALUES(56012012,202012,301,'Reach a total bond
 INSERT INTO "emblem_mission_data" VALUES(56012013,202013,301,'Reach a total bond level of 10 with Twilight Caravan',6012,13,0,0,10,56012013,501,1,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "emblem_mission_data" VALUES(56012014,202014,301,'Reach a total bond level of 10 with Lucent Academy',6012,14,0,0,10,56012014,501,1,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "emblem_mission_data" VALUES(56012015,202015,301,'Reach a total bond level of 10 with Weissflügel',6012,15,0,0,10,56012015,501,1,'2015/04/01 15:00:00','2030/04/01 14:59:59');
+INSERT INTO "emblem_mission_data" VALUES(56014001,503001,108,'Become friends with 10 people',6014,0,0,0,10,56014001,904,1,'2022/08/26 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "emblem_mission_data" VALUES(56014002,503001,108,'Become friends with 20 people',6014,0,0,0,20,56014002,904,1,'2022/08/26 13:00:00','2030/04/01 14:59:59');
+INSERT INTO "emblem_mission_data" VALUES(56014003,503001,108,'Become friends with 30 people',6014,0,0,0,30,56014003,904,1,'2022/08/26 13:00:00','2030/04/01 14:59:59');
 INSERT INTO "emblem_mission_data" VALUES(58002001,101001,101,'Reach player level 50',8002,0,0,0,50,58002001,0,1,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "emblem_mission_data" VALUES(58002002,101001,101,'Reach player level 90',8002,0,0,0,90,58002002,0,1,'2015/04/01 15:00:00','2030/04/01 14:59:59');
 INSERT INTO "emblem_mission_data" VALUES(58002003,101001,101,'Reach player level 120',8002,0,0,0,120,58002003,0,1,'2015/04/01 15:00:00','2030/04/01 14:59:59');

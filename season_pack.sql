@@ -8,3 +8,4 @@ INSERT INTO "season_pack" VALUES(21,0,2,0,'','',9404,0,0,0,0,0,4,0,0);
 INSERT INTO "season_pack" VALUES(22,0,3,0,'','',9405,0,0,0,0,0,5,0,0);
 INSERT INTO "season_pack" VALUES(23,0,4,0,'','',9406,0,0,0,0,0,6,0,0);
 INSERT INTO "season_pack" VALUES(521,17001099,2,403,'Item set from the Goddess'' Blessing pack.','Item set from the Goddess'' Blessing pack.',0,1,0,0,0,0,2,0,0);
+INSERT INTO "season_pack" VALUES(522,17001003,2,405,'Day {1} of the Advanced Weekly Support Pack.','Item set from the Advanced Weekly Support Pack',0,7,0,0,0,0,50001,0,0);
