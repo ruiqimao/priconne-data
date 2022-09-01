@@ -23,3 +23,4 @@ INSERT INTO "event_gacha_data" VALUES(10021,10021,'Dog Days in the Maho-Maho Kin
 INSERT INTO "event_gacha_data" VALUES(10022,10022,'Tamaki and Mifuyu''s Desert Island 0-Rupie Life!',2,60212,1,5);
 INSERT INTO "event_gacha_data" VALUES(10023,10023,'The Woodland Loner and the Saintly School Lycéennes',2,60222,1,5);
 INSERT INTO "event_gacha_data" VALUES(10024,10024,'Ironclad Nightmare',2,60232,1,5);
+INSERT INTO "event_gacha_data" VALUES(10025,10025,'Little Brave Halloween Night!',2,60242,1,5);

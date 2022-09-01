@@ -87,6 +87,10 @@ INSERT INTO "story_detail" VALUES(1011005,1011,'Rino Episode 5','A Stitch in Thy
 INSERT INTO "story_detail" VALUES(1011006,1011,'Rino Episode 6','Hanging by a Silken Thread',0,0,1011005,6,101101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1011007,1011,'Rino Episode 7','Time Flies Like an Arrow Rain',0,0,1011006,7,101101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1011008,1011,'Rino Episode 8','Lucky for Some',0,0,1011007,8,101101,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1011009,1011,'Rino Episode 9','To Get a Little Knowledge, Go a Long Way?',0,0,1011008,9,101101,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1011010,1011,'Rino Episode 10','Always Bolt from the Blue',0,0,1011009,10,101101,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1011011,1011,'Rino Episode 11','Make Curry While the Sun Shines',0,0,1011010,11,101101,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
+INSERT INTO "story_detail" VALUES(1011012,1011,'Rino Episode 12','When It Rains Arrows, It Pours!',0,0,1011011,12,101101,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:00');
 INSERT INTO "story_detail" VALUES(1012001,1012,'Hatsune Episode 1','Hatsune''s Super Secret ♪',0,0,0,0,101201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1012002,1012,'Hatsune Episode 2','Sleeping Beauty''s Hazy Adventure',0,0,1012001,2,101201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1012003,1012,'Hatsune Episode 3','Wait for Me, Shiorin',0,0,1012002,3,101201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -607,6 +611,14 @@ INSERT INTO "story_detail" VALUES(1108005,1108,'Chloe Episode 5','Chloe''s Part-
 INSERT INTO "story_detail" VALUES(1108006,1108,'Chloe Episode 6','Chloe''s Part-Time Pursuits: The Delivery',0,0,1108005,6,110801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1108007,1108,'Chloe Episode 7','Chloe''s Part-Time Pursuits: The Restaurant',0,0,1108006,7,110801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1108008,1108,'Chloe Episode 8','Chloe''s Earnest Emotions: Budding Affection',0,0,1108007,8,110801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1111001,1111,'Kyoka (Halloween) Episode 1','Costumes and Cupcakes',0,0,0,0,111101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1111002,1111,'Kyoka (Halloween) Episode 2','The Perils of Drinking',0,0,1111001,4,111101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1111003,1111,'Kyoka (Halloween) Episode 3','A Perplexing Parade',0,0,1111002,5,111101,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1111004,1111,'Kyoka (Halloween) Episode 4','A Mouth Full of Cupcake',0,0,1111003,8,111101,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1112001,1112,'Misogi (Halloween) Episode 1','Candy Hunt Panic!',0,0,0,0,111201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1112002,1112,'Misogi (Halloween) Episode 2','A Special Prank',0,0,1112001,4,111201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1112003,1112,'Misogi (Halloween) Episode 3','Halloween Madness',0,0,1112002,5,111201,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1112004,1112,'Misogi (Halloween) Episode 4','Halloween Never Ends!',0,0,1112003,8,111201,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1900999,1900,'Ameth','Ameth''s Talk',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000001,2000,'Prologue','Part 1',0,0,0,0,0,0,51200001,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(2000002,2000,'Prologue','Part 2',0,1,0,0,0,0,51200002,0,0,0,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

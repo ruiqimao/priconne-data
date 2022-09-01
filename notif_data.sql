@@ -550,3 +550,15 @@ INSERT INTO "notif_data" VALUES(110801,3,'So, uh. The stamina at your guildhouse
 INSERT INTO "notif_data" VALUES(110801,4,'Have you, like, checked your EXP potion machine lately? ''Cause I think it''s full. Just a heads-up.');
 INSERT INTO "notif_data" VALUES(110801,5,'Amazing. Your guildhouse is drowning in Mana. How does that even happen.');
 INSERT INTO "notif_data" VALUES(110801,6,'So, these item gadgets at your guildhouse. Have you noticed they''re all full?  Maybe you could... you know. Make them less full.');
+INSERT INTO "notif_data" VALUES(111101,1,'Your stamina seems to have filled up. Would you like to go to a Halloween party? I suppose you''ll need me to come too.');
+INSERT INTO "notif_data" VALUES(111101,2,'Just look at all these skip tickets lying around at your guildhouse! Try not to use them all in a rush, or you might trip and fall.');
+INSERT INTO "notif_data" VALUES(111101,3,'Have you noticed the stamina supply at your guildhouse is full? If you put on a costume, I''ll take you out to collect some candy.');
+INSERT INTO "notif_data" VALUES(111101,4,'It looks like your guildhouse has finished making EXP Potions. But if I grow up too much, will people still give me candy?');
+INSERT INTO "notif_data" VALUES(111101,5,'Your guildhouse is full of Mana, so do you want to make some candy treats? To hand out to children, I mean. Of course, I''ll let you have some too.');
+INSERT INTO "notif_data" VALUES(111101,6,'How did you let your guildhouse get so full of items? You should hurry up and accept them. Halloween doesn''t last forever, you know!');
+INSERT INTO "notif_data" VALUES(111201,1,'Hey, mister! Your stamina''s full! C''mon, let''s throw a huge Halloween party!');
+INSERT INTO "notif_data" VALUES(111201,2,'Look, your guildhouse is full of skip tickets! You know what that means... Trick or Ticket!');
+INSERT INTO "notif_data" VALUES(111201,3,'Whoa, there''s tons of stamina here at your guildhouse! On a related note, you oughtta give me candy!');
+INSERT INTO "notif_data" VALUES(111201,4,'The EXP Potions at your guildhouse are full! Maybe I can use them to power up my tricks into SUPER tricks!');
+INSERT INTO "notif_data" VALUES(111201,5,'Your guildhouse just made a whole bunch of Mana! You''re gonna use it to buy me candy, right?');
+INSERT INTO "notif_data" VALUES(111201,6,'The items at your guildhouse are all filled up! Come and collect them already! I haven''t booby-trapped the generators or anything, heheh...');

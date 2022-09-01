@@ -52,3 +52,6 @@ INSERT INTO "hatsune_quest_area" VALUES(10023101,10023,'St. Theresa''s Academy',
 INSERT INTO "hatsune_quest_area" VALUES(10023201,10023,'St. Theresa''s Academy',201,'bgm_M254','bgm_M254','2022/08/04 23:00:00','2022/08/18 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10024101,10024,'Landosol City',201,'bgm_M128','bgm_M128','2022/08/19 23:00:00','2022/08/25 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10024201,10024,'Landosol City',201,'bgm_M128','bgm_M128','2022/08/19 23:00:00','2022/08/25 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10025101,10025,'Terror House Gardens',201,'bgm_M265','bgm_M265_Top','2022/09/01 23:00:00','2022/09/15 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10025102,10025,'Ghostly Graveyard',201,'bgm_M265','bgm_M265_Top','2022/09/01 23:00:00','2022/09/15 22:59:59',1,2,0,0,1,'202','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10025201,10025,'Ghostly Graveyard',201,'bgm_M265','bgm_M265_Top','2022/09/01 23:00:00','2022/09/15 22:59:59',1,1,0,0,0,'0','0',0);

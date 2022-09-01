@@ -2,7 +2,7 @@ CREATE TABLE 'voice_group_chara' ('group_unit_id' INTEGER NOT NULL, 'group_unit_
 INSERT INTO "voice_group_chara" VALUES(100101001,'Twinkle Wish (Hiyori)',100101,108701,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(100201001,'Twinkle Wish (Yui)',100201,108801,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(100301001,'Twinkle Wish (Rei)',100301,108901,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(100401001,'Little Lyrical (Misogi)',100401,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(100401001,'Little Lyrical (Misogi)',100401,111201,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(100501001,'Nightmare (Matsuri)',100501,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(100601001,'Diabolos (Akari)',100601,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(100701001,'Diabolos (Miyako)',100701,108201,0,0,0,0,0,0,0,0);
@@ -31,7 +31,7 @@ INSERT INTO "voice_group_chara" VALUES(103101001,'Diabolos (Shinobu)',103101,108
 INSERT INTO "voice_group_chara" VALUES(103201001,'Mercurius Foundation (Akino)',103201,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103301001,'Elizabeth Park (Mahiru)',103301,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103401001,'Mercurius Foundation (Yukari)',103401,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(103601001,'Little Lyrical (Kyoka)',103601,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(103601001,'Little Lyrical (Kyoka)',103601,111101,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103701001,'Nightmare (Tomo)',103701,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103801001,'Elizabeth Park (Shiori)',103801,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104001001,'Forestier (Aoi)',104001,110701,0,0,0,0,0,0,0,0);
