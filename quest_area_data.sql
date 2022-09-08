@@ -26,6 +26,7 @@ INSERT INTO "quest_area_data" VALUES(11024,'24. Redius Rockies (West)',102,'bgm_
 INSERT INTO "quest_area_data" VALUES(11025,'25. Redius Rockies (East)',102,'bgm_M233','bgm_M233','2022/05/19 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11026,'26. Petro Forest (West)',102,'bgm_M260','bgm_M260','2022/06/27 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11027,'27. Petro Forest (East)',102,'bgm_M260','bgm_M260','2022/08/04 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(11028,'28. Diestal Ravine (North)',102,'bgm_M278','bgm_M278','2022/09/08 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12001,'1. Juno Plains',101,'bgm_M61','bgm_M61','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12002,'2. Pallas Peaks',101,'bgm_M61','bgm_M61_02','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12003,'3. Hebe Hill',101,'bgm_M61','bgm_M61_03','2015/12/17 15:00:00','2030/12/17 14:59:59');
@@ -53,8 +54,9 @@ INSERT INTO "quest_area_data" VALUES(12024,'24. Redius Rockies (West)',102,'bgm_
 INSERT INTO "quest_area_data" VALUES(12025,'25. Redius Rockies (East)',102,'bgm_M233','bgm_M233','2022/05/19 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12026,'26. Petro Forest (West)',102,'bgm_M260','bgm_M260','2022/06/27 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12027,'27. Petro Forest (East)',102,'bgm_M260','bgm_M260','2022/08/04 13:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(12028,'28. Diestal Ravine (North)',102,'bgm_M278','bgm_M278','2022/09/08 13:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(13018,'18. Phaethon Fields (North)',102,'bgm_M179','bgm_M179','2022/08/04 13:00:00','2030/12/17 14:59:00');
-INSERT INTO "quest_area_data" VALUES(13019,'19. Phaethon Fields (South)',102,'bgm_M179','bgm_M179','2022/09/01 08:00:00','2030/12/17 14:59:00');
+INSERT INTO "quest_area_data" VALUES(13019,'19. Phaethon Fields (South)',102,'bgm_M179','bgm_M179','2022/09/01 8:00:00','2030/12/17 14:59:00');
 INSERT INTO "quest_area_data" VALUES(18001,'Sanctum Survey',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(19001,'Temple Trek',0,'','','2022/08/04 13:00:00','2030/12/17 14:59:00');
 INSERT INTO "quest_area_data" VALUES(21001,'Mana Quests',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');

@@ -763,6 +763,10 @@ INSERT INTO "story_detail" VALUES(2013014,2013,'Chapter 13 Episode 14','Preparin
 INSERT INTO "story_detail" VALUES(2013015,2013,'Chapter 13 Episode 15','The Final Stage Begins',5,1,2013014,0,0,11027011,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2013016,2013,'Chapter 13 Episode 16','The Kindness That Connects Us',5,0,2013015,0,0,11027014,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2013099,2013,'Chapter 13 Interlude','Interlude 14',5,0,2013016,0,0,11027014,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2014001,2014,'Chapter 14 Episode 1','The Key to Victory',5,0,2013099,0,0,11028003,0,8,91002,20,0,0,0,0,0,0,'2022/09/08 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2014002,2014,'Chapter 14 Episode 2','Ultimatum to a Friend',5,0,2014001,0,0,11028007,0,8,91002,20,0,0,0,0,0,0,'2022/09/08 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2014003,2014,'Chapter 14 Episode 3','A Terrible Shadow',5,0,2014002,0,0,11028010,0,8,91002,20,0,0,0,0,0,0,'2022/09/08 13:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2014004,2014,'Chapter 14 Episode 4','The Flying Hammer of Justice',5,1,2014003,0,0,11028014,0,8,91002,20,0,0,0,0,0,0,'2022/09/08 13:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

@@ -25,5 +25,5 @@ INSERT INTO "clan_invite_level_group" VALUES(23,121,125);
 INSERT INTO "clan_invite_level_group" VALUES(24,126,130);
 INSERT INTO "clan_invite_level_group" VALUES(25,131,135);
 INSERT INTO "clan_invite_level_group" VALUES(26,136,140);
-INSERT INTO "clan_invite_level_group" VALUES(27,141,142);
-INSERT INTO "clan_invite_level_group" VALUES(28,143,-1);
+INSERT INTO "clan_invite_level_group" VALUES(27,141,145);
+INSERT INTO "clan_invite_level_group" VALUES(28,146,-1);
