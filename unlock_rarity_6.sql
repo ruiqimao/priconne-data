@@ -311,3 +311,6 @@ INSERT INTO "unlock_rarity_6" VALUES(111101,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 INSERT INTO "unlock_rarity_6" VALUES(111201,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_rarity_6" VALUES(111201,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_rarity_6" VALUES(111201,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_rarity_6" VALUES(111301,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_rarity_6" VALUES(111301,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_rarity_6" VALUES(111301,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

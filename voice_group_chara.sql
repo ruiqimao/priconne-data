@@ -17,7 +17,7 @@ INSERT INTO "voice_group_chara" VALUES(101501001,'Forestier (Misato)',101501,0,0
 INSERT INTO "voice_group_chara" VALUES(101601001,'Lucent Academy (Suzuna)',101601,110001,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101701001,'Caon (Kaori)',101701,110501,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101801001,'Lucent Academy (Io)',101801,110101,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(102001001,'Little Lyrical (Mimi)',102001,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(102001001,'Little Lyrical (Mimi)',102001,111301,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102101001,'Sarendia Orphanage (Kurumi)',102101,108501,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102201001,'Diabolos (Yori)',102201,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102301001,'Sarendia Orphanage (Ayane)',102301,108601,0,0,0,0,0,0,0,0);

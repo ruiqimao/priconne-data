@@ -94,3 +94,4 @@ INSERT INTO "unit_background" VALUES(110701,'Aoi (Student)',500730,'St. Theresa'
 INSERT INTO "unit_background" VALUES(110801,'Chloe',500730,'St. Theresa''s Academy - Main Gate',0.0,2);
 INSERT INTO "unit_background" VALUES(111101,'Kyoka (Halloween)',500811,'Mansion - Main Hall',0.0,2);
 INSERT INTO "unit_background" VALUES(111201,'Misogi (Halloween)',500811,'Mansion - Main Hall',0.0,4);
+INSERT INTO "unit_background" VALUES(111301,'Mimi (Halloween)',500811,'Mansion - Main Hall',0.0,4);

@@ -1149,3 +1149,15 @@ INSERT INTO "unit_comments" VALUES(1112009,111231,1,4,1,0.0,1,'You''re always re
 INSERT INTO "unit_comments" VALUES(1112010,111231,1,5,1,0.0,1,'It''s fun pranking all sorts of people, sure, but I still love pranking you best of all!');
 INSERT INTO "unit_comments" VALUES(1112011,111201,2,6,2,2.7,1,'Hey, mister, happy birthday!\nYour present from me can be...\nanother prank, I guess!');
 INSERT INTO "unit_comments" VALUES(1112012,111231,2,6,1,0.0,1,'Happy birthday to you, mister!\nThanks for playing with me\nall the time and stuff!\nBut we''re nowhere near done yet!');
+INSERT INTO "unit_comments" VALUES(1113001,111301,1,1,3,4.2,1,'If you don''t give me candy,\nI might have to trick you!\nSo, um... what kind of trick\nwould be fun to play?');
+INSERT INTO "unit_comments" VALUES(1113002,111301,1,2,2,1.4,1,'Hi, mister! ♪\nLet''s go to the Halloween parade and hop like bunnies!');
+INSERT INTO "unit_comments" VALUES(1113003,111301,1,3,1,5.2,2,'Halloween is so much fun!\nAnd you know, seeing everyone else having fun makes me feel super happy too!');
+INSERT INTO "unit_comments" VALUES(1113004,111301,1,4,2,3.1,5,'Trick or treat!\nEheheh... So, mister!\nCan I have some candy?');
+INSERT INTO "unit_comments" VALUES(1113005,111301,1,5,1,6.0,2,'Tickle, tickle, tickle... Eheheh!\nThat was a trick for Halloween!\nTrick or treat! ♪');
+INSERT INTO "unit_comments" VALUES(1113006,111331,1,1,1,0.0,1,'If we go for a happy walk together, we''ll find lots of Halloween magic!\nEheheh... Happy Halloween!');
+INSERT INTO "unit_comments" VALUES(1113007,111331,1,2,1,0.0,1,'Ahhhh... Isn''t Halloween\njust so much fun?\nHey, mister, can we go to the parade together? ♪');
+INSERT INTO "unit_comments" VALUES(1113008,111331,1,3,1,0.0,1,'Happy Halloween! ♪\nHey, mister, do you think these Halloween clothes look cute?');
+INSERT INTO "unit_comments" VALUES(1113009,111331,1,4,1,0.0,1,'Halloween with Mr. Nice Guy...\nI''ll never forget these happy times! ♪');
+INSERT INTO "unit_comments" VALUES(1113010,111331,1,5,1,0.0,1,'If only it could be Halloween\nevery day... ''Cause I mean,\nif it was, we could keep\nplaying together forever!');
+INSERT INTO "unit_comments" VALUES(1113011,111301,2,6,6,4.1,2,'Happy Hallo... No, wait!\nHappy birthday, mister!');
+INSERT INTO "unit_comments" VALUES(1113012,111331,2,6,1,0.0,1,'Hey, mister, happy birthday!\nListen, did you know?\nI love you a whole lot! ♪');

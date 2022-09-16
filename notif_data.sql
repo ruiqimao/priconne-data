@@ -562,3 +562,9 @@ INSERT INTO "notif_data" VALUES(111201,3,'Whoa, there''s tons of stamina here at
 INSERT INTO "notif_data" VALUES(111201,4,'The EXP Potions at your guildhouse are full! Maybe I can use them to power up my tricks into SUPER tricks!');
 INSERT INTO "notif_data" VALUES(111201,5,'Your guildhouse just made a whole bunch of Mana! You''re gonna use it to buy me candy, right?');
 INSERT INTO "notif_data" VALUES(111201,6,'The items at your guildhouse are all filled up! Come and collect them already! I haven''t booby-trapped the generators or anything, heheh...');
+INSERT INTO "notif_data" VALUES(111301,1,'Wow, you''ve got so much stamina, mister! Let''s go on a Halloween parade! ♪');
+INSERT INTO "notif_data" VALUES(111301,2,'Eheheh... Trick or Treat! ♪ You''ve got a guildhouse full of skip tickets, mister!');
+INSERT INTO "notif_data" VALUES(111301,3,'Hey, mister, your guildhouse made lots of stamina! Let''s go for a walk in our pretty Halloween clothes! ♪');
+INSERT INTO "notif_data" VALUES(111301,4,'Oh, mister! There''s lots of potions at your guildhouse, so let''s use them to make Halloween fun for everyone! ♪');
+INSERT INTO "notif_data" VALUES(111301,5,'I heard your guildhouse is full of Mana, mister! I wonder if you''ll buy any candy for me...');
+INSERT INTO "notif_data" VALUES(111301,6,'Oh, mister! Your guildhouse is full of all sorts of items! Eheheh... Happy Halloween! ♪');
