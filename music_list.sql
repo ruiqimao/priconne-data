@@ -88,3 +88,7 @@ INSERT INTO "music_list" VALUES(86,'The Battle for Big Bro! Helping Eriko',20.0,
 INSERT INTO "music_list" VALUES(87,'Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!',20.0,'','2022-08-25 23:00:00','',-1,1000,87,'Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!','','','');
 INSERT INTO "music_list" VALUES(88,'Majimun',20.0,'','2022-08-25 23:00:00','',-1,1000,88,'Majimun','','','');
 INSERT INTO "music_list" VALUES(89,'We Are Golden',20.0,'','2022-08-25 23:00:00','',-1,1500,89,'We Are Golden','','','');
+INSERT INTO "music_list" VALUES(90,'Kuka the Whirling Wonder',20.0,'','2022-09-26 23:00:00','',-1,1000,90,'Kuka the Whirling Wonder','','','');
+INSERT INTO "music_list" VALUES(91,'The Woodland Loner and the Saintly School Lycéennes',20.0,'','2022-09-26 23:00:00','',-1,1000,91,'The Woodland Loner and the Saintly School Lycéennes','','','');
+INSERT INTO "music_list" VALUES(92,'Toxic Mandragora',20.0,'','2022-09-26 23:00:00','',-1,1000,92,'Toxic Mandragora','','','');
+INSERT INTO "music_list" VALUES(93,'Friendship Sensation',20.0,'','2022-09-26 23:00:00','',-1,1500,93,'Friendship Sensation','','','');
