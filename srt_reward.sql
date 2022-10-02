@@ -1,2 +1,16 @@
 CREATE TABLE 'srt_reward' ('id' INTEGER NOT NULL, 'srt_score' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
-INSERT INTO "srt_reward" VALUES(15,300000,'スコアを累計で300000獲得しよう',15,11001039,1,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(1,20000,'Achieve a total score of 20,000.',12,94002,5000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(2,40000,'Achieve a total score of 40,000.',12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(3,60000,'Achieve a total score of 60,000.',12,94002,15000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(4,80000,'Achieve a total score of 80,000.',12,94002,20000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(5,100000,'Achieve a total score of 100,000.',8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(6,120000,'Achieve a total score of 120,000.',12,94002,25000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(7,140000,'Achieve a total score of 140,000.',12,94002,30000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(8,160000,'Achieve a total score of 160,000.',12,94002,35000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(9,180000,'Achieve a total score of 180,000.',12,94002,40000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(10,200000,'Achieve a total score of 200,000.',8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(11,220000,'Achieve a total score of 220,000.',12,94002,55000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(12,240000,'Achieve a total score of 240,000.',12,94002,35000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(13,260000,'Achieve a total score of 260,000.',12,94002,40000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(14,280000,'Achieve a total score of 280,000.',12,94002,45000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "srt_reward" VALUES(15,300000,'Achieve a total score of 300,000.',15,11001039,1,8,91002,150,2,23001,10,0,0,0,0,0,0);

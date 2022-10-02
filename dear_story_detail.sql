@@ -109,3 +109,15 @@ INSERT INTO "dear_story_detail" VALUES(6025307,6025,'Misogi''s Intimacy Episode'
 INSERT INTO "dear_story_detail" VALUES(6025308,6025,'Misogi''s Intimacy Episode','A Real Big Sister',0,0,0,0,0,0,0,3,10025113,0,0,0,0,0,0,0,0,0,0,'2022/09/01 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "dear_story_detail" VALUES(6025309,6025,'Misogi''s Intimacy Episode','Halloween Party',0,0,0,0,0,0,0,3,10025113,0,0,0,0,0,0,0,0,0,0,'2022/09/01 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "dear_story_detail" VALUES(6025310,6025,'Misogi''s Intimacy Episode','Fast Friends',0,0,0,0,0,0,0,3,10025115,0,0,0,0,0,0,0,0,0,0,'2022/09/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027101,6027,'Inori''s Intimacy Episode','What Kind of Girl Is Kaya?',0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027102,6027,'Inori''s Intimacy Episode','What Kind of Person Is Homare?',0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027103,6027,'Inori''s Intimacy Episode','What Do Gangsters Do?',0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027104,6027,'Inori''s Intimacy Episode','What Are Dragonfolk?',0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027105,6027,'Inori''s Intimacy Episode','How''s Life on Elpis Island?',0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027106,6027,'Inori''s Intimacy Episode','How About That Pseudo-Dragon?',0,0,0,0,0,0,0,1,10027115,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027201,6027,'Kaya''s Intimacy Episode','What Kind of Girl Is Inori?',0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027202,6027,'Kaya''s Intimacy Episode','What Kind of Person Is Homare?',0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027203,6027,'Kaya''s Intimacy Episode','What Do Gangsters Do?',0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027204,6027,'Kaya''s Intimacy Episode','What Are Dragonfolk?',0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027205,6027,'Kaya''s Intimacy Episode','How''s Life on Elpis Island?',0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');
+INSERT INTO "dear_story_detail" VALUES(6027206,6027,'Kaya''s Intimacy Episode','How About That Pseudo-Dragon?',0,0,0,0,0,0,0,2,10027115,0,0,0,0,0,0,0,0,0,0,'2022/10/02 23:00','2030/12/31 14:59:59');

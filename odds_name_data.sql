@@ -60,3 +60,5 @@ INSERT INTO "odds_name_data" VALUES(62,'1002420101','Jun''s Memory Shard',99002,
 INSERT INTO "odds_name_data" VALUES(63,'1002420102','Yukari''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(64,'1002620101','Miyako (Halloween)''s Memory Shard',99002,'');
 INSERT INTO "odds_name_data" VALUES(65,'1002620102','Yori''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(66,'1002720101','Tomo''s Memory Shard',99002,'');
+INSERT INTO "odds_name_data" VALUES(67,'1002720102','Matsuri''s Memory Shard',99002,'');

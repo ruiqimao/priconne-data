@@ -95,3 +95,4 @@ INSERT INTO "unit_background" VALUES(110801,'Chloe',500730,'St. Theresa''s Acade
 INSERT INTO "unit_background" VALUES(111101,'Kyoka (Halloween)',500811,'Mansion - Main Hall',0.0,2);
 INSERT INTO "unit_background" VALUES(111201,'Misogi (Halloween)',500811,'Mansion - Main Hall',0.0,4);
 INSERT INTO "unit_background" VALUES(111301,'Mimi (Halloween)',500811,'Mansion - Main Hall',0.0,4);
+INSERT INTO "unit_background" VALUES(111401,'Luna',500175,'Mysterion Woods',0.0,4);

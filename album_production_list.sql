@@ -380,6 +380,11 @@ INSERT INTO "album_production_list" VALUES(10520105,105201,104,'Bond Level 4',''
 INSERT INTO "album_production_list" VALUES(10520106,105201,105,'Bond Level 5','');
 INSERT INTO "album_production_list" VALUES(10520107,105201,106,'Bond Level 6','');
 INSERT INTO "album_production_list" VALUES(10520108,105201,107,'Bond Level 7','');
+INSERT INTO "album_production_list" VALUES(10520109,105201,202,'6★ Ascension animation','');
+INSERT INTO "album_production_list" VALUES(10520110,105201,108,'Bond Level 8','');
+INSERT INTO "album_production_list" VALUES(10520111,105201,109,'Bond Level 9','');
+INSERT INTO "album_production_list" VALUES(10520112,105201,110,'Bond Level 10','');
+INSERT INTO "album_production_list" VALUES(10520113,105201,111,'Bond Level 11','');
 INSERT INTO "album_production_list" VALUES(10530101,105301,201,'Unlock animation 1','');
 INSERT INTO "album_production_list" VALUES(10530102,105301,101,'Bond Level 1','');
 INSERT INTO "album_production_list" VALUES(10530103,105301,102,'Bond Level 2','');
@@ -779,3 +784,11 @@ INSERT INTO "album_production_list" VALUES(11130105,111301,104,'Bond Level 4',''
 INSERT INTO "album_production_list" VALUES(11130106,111301,105,'Bond Level 5','');
 INSERT INTO "album_production_list" VALUES(11130107,111301,106,'Bond Level 6','');
 INSERT INTO "album_production_list" VALUES(11130108,111301,107,'Bond Level 7','');
+INSERT INTO "album_production_list" VALUES(11140101,111401,201,'Unlock animation 1','');
+INSERT INTO "album_production_list" VALUES(11140102,111401,101,'Bond Level 1','');
+INSERT INTO "album_production_list" VALUES(11140103,111401,102,'Bond Level 2','');
+INSERT INTO "album_production_list" VALUES(11140104,111401,103,'Bond Level 3','');
+INSERT INTO "album_production_list" VALUES(11140105,111401,104,'Bond Level 4','');
+INSERT INTO "album_production_list" VALUES(11140106,111401,105,'Bond Level 5','');
+INSERT INTO "album_production_list" VALUES(11140107,111401,106,'Bond Level 6','');
+INSERT INTO "album_production_list" VALUES(11140108,111401,107,'Bond Level 7','');

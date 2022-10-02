@@ -153,3 +153,11 @@ INSERT INTO "event_story_detail" VALUES(5025005,5025,'Episode 5','Captive Souls'
 INSERT INTO "event_story_detail" VALUES(5025006,5025,'Episode 6','Farewell to Unhappy Halloweens',0,0,5025005,0,0,0,0,8,91002,20,2,31036,1,0,0,0,'2022/09/01 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5025007,5025,'Halloween SFX','Halloween SFX',8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2022/09/01 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5025008,5025,'Ending','Forever Friends',0,0,5025006,0,0,0,0,8,91002,20,2,31112,1,0,0,0,'2022/09/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5027000,5027,'Opening','Top Secret Mission',0,0,0,0,0,0,0,8,91002,20,2,31005,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5027001,5027,'Episode 1','To Uncharted Lands!',0,0,5027000,0,0,0,0,8,91002,20,2,31037,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5027002,5027,'Episode 2','Arrival on Elpis Island',0,0,5027001,0,0,0,0,8,91002,20,2,31005,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5027003,5027,'Episode 3','Assailant in the Dark',0,0,5027002,0,0,0,0,8,91002,20,2,31037,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5027004,5027,'Episode 4','The Price of Haste',0,0,5027003,0,0,0,0,8,91002,20,2,31005,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5027005,5027,'Episode 5','Lurker in the Jungle Ruins',0,0,5027004,0,0,0,0,8,91002,20,2,31037,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5027006,5027,'Episode 6','Dragon''s Fury',0,0,5027005,0,0,0,0,8,91002,20,2,31005,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5027007,5027,'Ending','The Adventure Goes On',0,0,5027006,0,0,0,0,8,91002,20,2,31037,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');

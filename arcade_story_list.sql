@@ -1,1 +1,14 @@
 CREATE TABLE 'arcade_story_list' ('story_id' INTEGER NOT NULL, 'arcade_id' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('story_id'));
+INSERT INTO "arcade_story_list" VALUES(5021700,1003,'カオリと海辺で大特訓！');
+INSERT INTO "arcade_story_list" VALUES(5021701,1003,'礼に始まり礼に終わる');
+INSERT INTO "arcade_story_list" VALUES(5021710,1003,'挑め、己の限界に');
+INSERT INTO "arcade_story_list" VALUES(5021711,1003,'本物が一番');
+INSERT INTO "arcade_story_list" VALUES(5027700,1004,'再び、エルピス島へ！');
+INSERT INTO "arcade_story_list" VALUES(5027701,1004,'過熱する戦い');
+INSERT INTO "arcade_story_list" VALUES(5027702,1004,'真打登場');
+INSERT INTO "arcade_story_list" VALUES(5027703,1004,'戦いの果てに……');
+INSERT INTO "arcade_story_list" VALUES(5040700,1005,'チーズを見張ろう！');
+INSERT INTO "arcade_story_list" VALUES(5040701,1005,'小さき敵との攻防');
+INSERT INTO "arcade_story_list" VALUES(5040702,1005,'チーズの誘惑');
+INSERT INTO "arcade_story_list" VALUES(5040703,1005,'芽生える愛情？');
+INSERT INTO "arcade_story_list" VALUES(5040704,1005,'労働は続くよどこまでも');
