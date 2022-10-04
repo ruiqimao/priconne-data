@@ -224,7 +224,7 @@ INSERT INTO "srt_panel" VALUES(1005100,'umbrella',1,10051,'An invaluable tool fo
 INSERT INTO "srt_panel" VALUES(1005101,'beach parasol',2,10051,'A variety of umbrella generally used as a shield from the sun rather than the rain.');
 INSERT INTO "srt_panel" VALUES(1005102,'yellow',2,10051,'A bright and summery color, though it''s at least as popular for rain umbrellas as for parasols.');
 INSERT INTO "srt_panel" VALUES(1005103,'rainy day',2,10051,'The kind of day when you might regret leaving your umbrella at home.');
-INSERT INTO "srt_panel" VALUES(1005104,'Pecorine (Summer)',3,10051,'Casting her Royal Equipment aside to enjoy the beach to the full, Pecorine instead wields a parasol that somehow doubles as a weapon.');
+INSERT INTO "srt_panel" VALUES(1005104,'Pecorine (Summer)''s weapon',3,10051,'Casting her Royal Equipment aside to enjoy the beach to the full, Pecorine instead wields a parasol that somehow doubles as a weapon.');
 INSERT INTO "srt_panel" VALUES(1005200,'dice',1,10052,'Technically, a single dice is a "die," but who''s counting?');
 INSERT INTO "srt_panel" VALUES(1005201,'random number',2,10052,'In the hands of a skilled swindler, perhaps not as random as you might think.');
 INSERT INTO "srt_panel" VALUES(1005202,'box',2,10052,'The basic shape of most six-sided dice.');
