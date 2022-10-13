@@ -616,6 +616,7 @@ INSERT INTO "skill_data" VALUES(2058021,'',1,0,3.0,205802101,0,0,0,0,0,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(2060001,'',1,0,4.0,206000101,206000102,206000103,206000104,0,0,0,0,206000101,206000101,206000101,0,0,0,'Sealidon skill',1001);
 INSERT INTO "skill_data" VALUES(2061001,'',1,0,3.0,206100101,206100102,206100103,0,0,0,0,0,206100101,206100101,0,0,0,0,'Wisewand',1001);
 INSERT INTO "skill_data" VALUES(2062001,'',0,0,3.0,206200101,206200102,0,0,0,0,0,0,206200101,0,0,0,0,0,'Mafiotter',1001);
+INSERT INTO "skill_data" VALUES(2062011,'',0,0,4.0,206201101,206201102,0,0,0,0,0,0,206201101,0,0,0,0,0,'Mafiotter',1001);
 INSERT INTO "skill_data" VALUES(2063001,'',1,0,5.0,206300101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2067001,'',0,0,0.0,206700101,206700102,206700103,0,0,0,0,0,206700102,0,0,0,0,0,'Deals large physical damage to an enemy directly in front and deals moderate physical damage to all enemies in a small radius around it.',1001);
 INSERT INTO "skill_data" VALUES(2067002,'',0,0,1.125,206700201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front.',1001);

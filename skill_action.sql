@@ -1138,6 +1138,8 @@ INSERT INTO "skill_action" VALUES(206100102,1,10,11,1,0,1.0,6.0,6.0,12.0,0.0,0.0
 INSERT INTO "skill_action" VALUES(206100103,1,10,31,1,0,1.0,6.0,6.0,12.0,0.0,0.0,0.0,1,1,3000,1,0,1,'Magic attack debuff','');
 INSERT INTO "skill_action" VALUES(206200101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,750,2,0,1,'Damage','');
 INSERT INTO "skill_action" VALUES(206200102,1,8,7,0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,1,750,1,0,1,'Stun','');
+INSERT INTO "skill_action" VALUES(206201101,1,1,1,0,0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,3000,16,0,1,'Damage','');
+INSERT INTO "skill_action" VALUES(206201102,1,10,31,0,0,1.0,0.6,0.6,10.0,0.0,0.0,0.0,1,1,750,1,0,1,'Magic attack debuff','');
 INSERT INTO "skill_action" VALUES(206300101,1,16,1,0,0,99.0,1.0,0.0,0.0,0.0,0.0,0.0,2,1,1500,24,0,1,'','');
 INSERT INTO "skill_action" VALUES(206700101,1,1,1,0,0,30.0,30.0,2.4,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Single-target physical damage + {0}');
 INSERT INTO "skill_action" VALUES(206700102,1,3,3,0,0,50.0,0.0,500.0,0.0,0.0,0.0,0.0,1,1,-1,3,0,99,'','');
