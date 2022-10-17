@@ -56,6 +56,7 @@ INSERT INTO "unlock_unit_condition" VALUES(105901,'Kokkoro',1,0,1,2,31059,15,0,0
 INSERT INTO "unlock_unit_condition" VALUES(106001,'Karyl',1,0,1,2,31060,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(106101,'Muimi',1,0,1,2,31061,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "unlock_unit_condition" VALUES(106301,'Arisa',1,0,1,2,31063,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "unlock_unit_condition" VALUES(106501,'Kaya',1,0,1,2,31065,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(107001,'Neneka',1,0,1,2,31070,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(107101,'Christina',1,0,1,2,31071,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(107501,'Pecorine (Summer)',1,0,1,2,31075,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

@@ -26,3 +26,4 @@ INSERT INTO "event_gacha_data" VALUES(10024,10024,'Ironclad Nightmare',2,60232,1
 INSERT INTO "event_gacha_data" VALUES(10025,10025,'Little Brave Halloween Night!',2,60242,1,5);
 INSERT INTO "event_gacha_data" VALUES(10026,10026,'Trick or Pudding! The Promised Halloween Party',2,60252,1,5);
 INSERT INTO "event_gacha_data" VALUES(10027,10027,'Dragon Explorers',2,60262,1,5);
+INSERT INTO "event_gacha_data" VALUES(10028,10028,'Twilight Breakers',2,60272,1,5);

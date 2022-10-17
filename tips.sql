@@ -66,3 +66,4 @@ INSERT INTO "tips" VALUES(4109601,109601,1,'Ninpo: Konohagakure no Jutsu');
 INSERT INTO "tips" VALUES(4110701,110701,1,'I''m Not Worthy');
 INSERT INTO "tips" VALUES(4110801,110801,1,'Easily Misunderstood');
 INSERT INTO "tips" VALUES(4111401,111401,1,'Come on My Adventure');
+INSERT INTO "tips" VALUES(4111501,106501,1,'Anytime!');

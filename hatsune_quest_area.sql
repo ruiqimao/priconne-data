@@ -61,3 +61,5 @@ INSERT INTO "hatsune_quest_area" VALUES(10026103,10026,'Central Landosol',201,'b
 INSERT INTO "hatsune_quest_area" VALUES(10026201,10026,'Landosol Outskirts',201,'bgm_M135','bgm_M135','2022/09/17 23:00:00','2022/09/24 22:59:59',1,1,0,0,0,'0','0',31);
 INSERT INTO "hatsune_quest_area" VALUES(10027101,10027,'Elpis Island: Camp Vicinity',201,'bgm_M273','bgm_M273','2022/10/02 23:00:00','2022/10/16 22:59:59',1,0,90,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10027201,10027,'Elpis Island: Camp Vicinity',201,'bgm_M273','bgm_M273','2022/10/02 23:00:00','2022/10/16 22:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10028101,10028,'Landosol Vicinity',201,'bgm_M162','bgm_M162','2022/10/17 23:00:00','2022/10/25 22:59:59',1,0,35,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10028201,10028,'Landosol Vicinity',201,'bgm_M162','bgm_M162','2022/10/17 23:00:00','2022/10/25 22:59:59',1,0,0,0,0,'0','0',0);

@@ -414,6 +414,13 @@ INSERT INTO "chara_story_status" VALUES(1063005,'Arisa''s Episode 5',2,40,0,0,0,
 INSERT INTO "chara_story_status" VALUES(1063006,'Arisa''s Episode 6',2,60,0,0,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1063007,'Arisa''s Episode 7',2,60,0,0,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1063008,'Arisa''s Episode 8',2,90,6,10,0,0,0,0,0,0,1063,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1065002,'Kaya''s Episode 2',2,15,0,0,0,0,0,0,0,0,1065,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1065003,'Kaya''s Episode 3',2,15,0,0,0,0,0,0,0,0,1065,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1065004,'Kaya''s Episode 4',2,30,0,0,0,0,0,0,0,0,1065,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1065005,'Kaya''s Episode 5',2,40,0,0,0,0,0,0,0,0,1065,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1065006,'Kaya''s Episode 6',2,60,0,0,0,0,0,0,0,0,1065,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1065007,'Kaya''s Episode 7',2,60,0,0,0,0,0,0,0,0,1065,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1065008,'Kaya''s Episode 8',2,90,6,10,0,0,0,0,0,0,1065,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1070002,'Neneka''s Episode 2',4,60,0,0,0,0,0,0,0,0,1070,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1070003,'Neneka''s Episode 3',4,80,11,60,0,0,0,0,0,0,1070,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1070004,'Neneka''s Episode 4',4,100,11,150,5,4,0,0,0,0,1070,0,0,0,0,0,0,0,0,0);

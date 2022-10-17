@@ -56,6 +56,7 @@ INSERT INTO "actual_unit_background" VALUES(105931,'Kokoro Natsume',510120,2);
 INSERT INTO "actual_unit_background" VALUES(106031,'Kiruya Momochi',510350,2);
 INSERT INTO "actual_unit_background" VALUES(106131,'Muimi Sonoue',510121,4);
 INSERT INTO "actual_unit_background" VALUES(106331,'Arisa',510350,4);
+INSERT INTO "actual_unit_background" VALUES(106531,'Kaya Kido',510352,4);
 INSERT INTO "actual_unit_background" VALUES(107031,'Neneka Utsushimi',510181,4);
 INSERT INTO "actual_unit_background" VALUES(107131,'Christina Morgan',510120,4);
 INSERT INTO "actual_unit_background" VALUES(107531,'Eustiana von Astraea',510360,4);
