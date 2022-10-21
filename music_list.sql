@@ -92,3 +92,13 @@ INSERT INTO "music_list" VALUES(90,'Kuka the Whirling Wonder',20.0,'','2022-09-2
 INSERT INTO "music_list" VALUES(91,'The Woodland Loner and the Saintly School Lycéennes',20.0,'','2022-09-26 23:00:00','',-1,1000,91,'The Woodland Loner and the Saintly School Lycéennes','','','');
 INSERT INTO "music_list" VALUES(92,'Toxic Mandragora',20.0,'','2022-09-26 23:00:00','',-1,1000,92,'Toxic Mandragora','','','');
 INSERT INTO "music_list" VALUES(93,'Friendship Sensation',20.0,'','2022-09-26 23:00:00','',-1,1500,93,'Friendship Sensation','','','');
+INSERT INTO "music_list" VALUES(94,'Traverse the Restless Roots',20.0,'','2022-10-26 23:00:00','',-1,1000,94,'Traverse the Restless Roots','','','');
+INSERT INTO "music_list" VALUES(95,'Kaori''s Soulful Karate Dojo',20.0,'','2022-10-26 23:00:00','',-1,1000,95,'Kaori''s Soulful Karate Dojo','','','');
+INSERT INTO "music_list" VALUES(96,'Little Brave Halloween Night!',20.0,'','2022-10-26 23:00:00','',-1,1000,96,'Little Brave Halloween Night!','','','');
+INSERT INTO "music_list" VALUES(97,'Phantom Baron',20.0,'','2022-10-26 23:00:00','',-1,1000,97,'Phantom Baron','','','');
+INSERT INTO "music_list" VALUES(98,'Trickholic',20.0,'','2022-10-26 23:00:00','',-1,1500,98,'Trickholic','','','');
+INSERT INTO "music_list" VALUES(99,'Beyond the Marshy Wood',20.0,'','2022-10-26 23:00:00','',-1,1000,94,'Beyond the Marshy Wood','','','');
+INSERT INTO "music_list" VALUES(100,'Alphabet Clash! Word Link Dragons',20.0,'','2022-10-26 23:00:00','',-1,1000,95,'Alphabet Clash! Word Link Dragons','','','');
+INSERT INTO "music_list" VALUES(101,'Dragon Explorers',20.0,'','2022-10-26 23:00:00','',-1,1000,96,'Dragon Explorers','','','');
+INSERT INTO "music_list" VALUES(102,'Pseudo-Dragon',20.0,'','2022-10-26 23:00:00','',-1,1000,97,'Pseudo-Dragon','','','');
+INSERT INTO "music_list" VALUES(103,'In Flames',20.0,'','2022-10-26 23:00:00','',-1,1500,98,'In Flames','','','');
