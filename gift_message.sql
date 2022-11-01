@@ -101,3 +101,4 @@ INSERT INTO "gift_message" VALUES(9826,'Skill Description Update Present',0,0,0,
 INSERT INTO "gift_message" VALUES(9827,'Priconne Summer Jewel Festival',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9828,'Autumn Celebration Giveaway',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9829,'Halloween Jewel giveaway',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9830,'Winter Jewel giveaway',0,0,0,0);

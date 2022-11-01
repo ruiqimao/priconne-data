@@ -161,3 +161,11 @@ INSERT INTO "event_story_detail" VALUES(5027004,5027,'Episode 4','The Price of H
 INSERT INTO "event_story_detail" VALUES(5027005,5027,'Episode 5','Lurker in the Jungle Ruins',0,0,5027004,0,0,0,0,8,91002,20,2,31037,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5027006,5027,'Episode 6','Dragon''s Fury',0,0,5027005,0,0,0,0,8,91002,20,2,31005,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
 INSERT INTO "event_story_detail" VALUES(5027007,5027,'Ending','The Adventure Goes On',0,0,5027006,0,0,0,0,8,91002,20,2,31037,1,0,0,0,'2022/10/02 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5029000,5029,'Opening','The Holidays with Santa',0,0,0,0,0,0,0,8,91002,20,2,31044,1,0,0,0,'2022/11/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5029001,5029,'Episode 1','Bursting with Pudding',0,0,5029000,0,0,0,0,8,91002,20,2,31116,1,0,0,0,'2022/11/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5029002,5029,'Episode 2','Justice for the Brave',0,0,5029001,0,0,0,0,8,91002,20,2,31044,1,0,0,0,'2022/11/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5029003,5029,'Episode 3','Attack on Santa',0,0,5029002,0,0,0,0,8,91002,20,2,31116,1,0,0,0,'2022/11/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5029004,5029,'Episode 4','White Snow, White Steam',0,0,5029003,0,0,0,0,8,91002,20,2,31044,1,0,0,0,'2022/11/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5029005,5029,'Episode 5','Silent Night, Insurgent Night',0,0,5029004,0,0,0,0,8,91002,20,2,31116,1,0,0,0,'2022/11/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5029006,5029,'Episode 6','Snowy Night Encore',0,0,5029005,0,0,0,0,8,91002,20,2,31044,1,0,0,0,'2022/11/01 23:00:00','2030/12/31 14:59:59');
+INSERT INTO "event_story_detail" VALUES(5029007,5029,'Ending','Gift for the Gifters',0,0,5029006,0,0,0,0,8,91002,20,2,31116,1,0,0,0,'2022/11/01 23:00:00','2030/12/31 14:59:59');
