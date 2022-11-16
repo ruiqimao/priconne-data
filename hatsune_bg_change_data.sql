@@ -6,3 +6,5 @@ INSERT INTO "hatsune_bg_change_data" VALUES(4,10019101,2,1001901,1,0);
 INSERT INTO "hatsune_bg_change_data" VALUES(5,10021101,1,10021112,1,0);
 INSERT INTO "hatsune_bg_change_data" VALUES(6,10025101,1,10025109,1,0);
 INSERT INTO "hatsune_bg_change_data" VALUES(7,10025,3,5025001,2,500810);
+INSERT INTO "hatsune_bg_change_data" VALUES(8,10030101,1,10030106,1,0);
+INSERT INTO "hatsune_bg_change_data" VALUES(9,10030101,1,10030112,1,0);

@@ -28,3 +28,4 @@ INSERT INTO "event_gacha_data" VALUES(10026,10026,'Trick or Pudding! The Promise
 INSERT INTO "event_gacha_data" VALUES(10027,10027,'Dragon Explorers',2,60262,1,5);
 INSERT INTO "event_gacha_data" VALUES(10028,10028,'Twilight Breakers',2,60272,1,5);
 INSERT INTO "event_gacha_data" VALUES(10029,10029,'Present Panic! The Santas of Landosol',2,60282,1,5);
+INSERT INTO "event_gacha_data" VALUES(10030,10030,'The Carol That Never Was',2,60292,1,5);

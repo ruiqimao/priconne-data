@@ -66,3 +66,5 @@ INSERT INTO "hatsune_quest_area" VALUES(10028201,10028,'Landosol Vicinity',201,'
 INSERT INTO "hatsune_quest_area" VALUES(10029101,10029,'Landosol City: Outskirts',201,'bgm_M281','bgm_M281','2022/11/01 23:00:00','2022/11/15 22:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10029102,10029,'Landosol City: Central Plaza',201,'bgm_M281','bgm_M281','2022/11/01 23:00:00','2022/11/15 22:59:59',1,2,0,0,0,'0','0',11);
 INSERT INTO "hatsune_quest_area" VALUES(10029201,10029,'Landosol City: Central Plaza',201,'bgm_M281','bgm_M281','2022/11/01 23:00:00','2022/11/15 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10030101,10030,'Sarendia Orphanage',201,'bgm_M171','bgm_M171','2022/11/17 23:00:00','2022/11/24 22:59:59',1,1,110,0,0,'0','0',11);
+INSERT INTO "hatsune_quest_area" VALUES(10030201,10030,'Landosol City',201,'bgm_M171','bgm_M171','2022/11/17 23:00:00','2022/11/24 22:59:59',1,1,0,0,0,'0','0',0);
