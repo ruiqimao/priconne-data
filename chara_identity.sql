@@ -102,3 +102,4 @@ INSERT INTO "chara_identity" VALUES(111301,20);
 INSERT INTO "chara_identity" VALUES(111401,114);
 INSERT INTO "chara_identity" VALUES(111501,71);
 INSERT INTO "chara_identity" VALUES(111601,29);
+INSERT INTO "chara_identity" VALUES(111701,44);

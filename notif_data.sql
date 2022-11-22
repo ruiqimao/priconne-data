@@ -592,3 +592,9 @@ INSERT INTO "notif_data" VALUES(111601,3,'Your stamina supply at the guildhouse 
 INSERT INTO "notif_data" VALUES(111601,4,'Did you notice your EXP potions at the guildhouse are full? Maybe they''ll help me improve my performance!');
 INSERT INTO "notif_data" VALUES(111601,5,'There''s a full supply of Mana at your guildhouse! Let''s spend it on a fancy party for the holidays!');
 INSERT INTO "notif_data" VALUES(111601,6,'All the items at your guildhouse are completely full! Even Santa would be amazed by such a mountain of gifts!');
+INSERT INTO "notif_data" VALUES(111701,1,'Your stamina is full, and you are positively brimming with vitality... *gulp* C-could I have a taste of that blood, perhaps?');
+INSERT INTO "notif_data" VALUES(111701,2,'You have far too many skip tickets. We shouldn''t let them go to waste, so, ah... shall we go out somewhere together?');
+INSERT INTO "notif_data" VALUES(111701,3,'The stamina you have been generating at the guildhouse is full. Let us use it to make merry on the glorious eve!');
+INSERT INTO "notif_data" VALUES(111701,4,'You have a full stock of EXP potions at your guildhouse, minion. Perhaps they will give me the strength to conquer my garlic weakness!');
+INSERT INTO "notif_data" VALUES(111701,5,'Your guildhouse has a full supply of Mana. With such riches, I could decorate my entire castle for a festive banquet!');
+INSERT INTO "notif_data" VALUES(111701,6,'All the items available at your guildhouse are full. Collect them swiftly, or I may claim them for myself! I-it''s not that I am simply hoping for you to visit!');

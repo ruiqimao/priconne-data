@@ -98,6 +98,7 @@ INSERT INTO "story_data" VALUES(1113,1,1113,'Mimi (Halloween)',0,57,'2015/04/01 
 INSERT INTO "story_data" VALUES(1114,1,1114,'Luna',0,69,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(1115,1,1115,'Christina (Holiday)',0,1029,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(1116,1,1116,'Nozomi (Holiday)',0,1030,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
+INSERT INTO "story_data" VALUES(1117,1,1117,'Illya (Holiday)',0,12,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(1900,1,1900,'Ameth',0,90,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(2000,2,0,'Prologue_First Connections',2000002,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(2001,2,0,'Chapter 1_A Mysterious Girl',2001005,2,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,1);
@@ -114,7 +115,7 @@ INSERT INTO "story_data" VALUES(2011,2,0,'Chapter 11_The Ironclad Guardian',2011
 INSERT INTO "story_data" VALUES(2012,2,0,'Chapter 12_Beneath the Mask',2012014,13,'2022/03/24 13:00:00','2030/12/17 14:59:59',0,1);
 INSERT INTO "story_data" VALUES(2013,2,0,'Chapter 13_The Battle of Landosol',2013010,14,'2022/04/19 13:00:00','2030/12/17 14:59:59',0,1);
 INSERT INTO "story_data" VALUES(2014,2,0,'Chapter 14_Kaiser''s Downfall',2014004,15,'2022/09/08 13:00:00','2030/12/17 14:59:59',0,1);
-INSERT INTO "story_data" VALUES(2015,2,0,'Chapter 15_Re: Connect',2015009,16,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,1);
+INSERT INTO "story_data" VALUES(2015,2,0,'Chapter 15_Re: Connect',2015006,16,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,1);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(3002,3,2,'Nightmare, Defenders of the Throne',0,8,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
@@ -138,3 +139,4 @@ INSERT INTO "story_data" VALUES(4003,4,0,'Dungeon',0,1,'2015/04/01 15:00:00','20
 INSERT INTO "story_data" VALUES(4004,4,5,'Event',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',1,0);
 INSERT INTO "story_data" VALUES(4005,4,0,'Tower of Luna',0,1,'2021/09/10 13:00:00','2030/12/17 14:59:59',2,0);
 INSERT INTO "story_data" VALUES(4006,4,0,'Attack of the Robo Lima!',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',6,0);
+INSERT INTO "story_data" VALUES(9001,9,0,'Final Battle of Landosol',2015006,0,'2015/04/01 15:00:00','2030/12/17 14:59:59',6,0);

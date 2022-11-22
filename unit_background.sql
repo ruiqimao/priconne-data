@@ -99,3 +99,4 @@ INSERT INTO "unit_background" VALUES(111301,'Mimi (Halloween)',500811,'Mansion -
 INSERT INTO "unit_background" VALUES(111401,'Luna',500175,'Mysterion Woods',0.0,4);
 INSERT INTO "unit_background" VALUES(111501,'Christina (Holiday)',500038,'Landosol - Business District (Holiday)',0.0,4);
 INSERT INTO "unit_background" VALUES(111601,'Nozomi (Holiday)',500038,'Landosol - Business District (Holiday)',0.0,4);
+INSERT INTO "unit_background" VALUES(111701,'Illya (Holiday)',500038,'Landosol - Business District (Holiday)',0.0,4);

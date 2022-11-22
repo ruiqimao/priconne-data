@@ -37,7 +37,7 @@ INSERT INTO "voice_group_chara" VALUES(103801001,'Elizabeth Park (Shiori)',10380
 INSERT INTO "voice_group_chara" VALUES(104001001,'Forestier (Aoi)',104001,110701,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104201001,'Carmina (Chika)',104201,108401,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104301001,'Caon (Makoto)',104301,110401,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(104401001,'Diabolos (Illya)',104401,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(104401001,'Diabolos (Illya)',104401,111701,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104501001,'Weissflügel: Landosol Branch (Kuka)',104501,109501,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104601001,'Mercurius Foundation (Tamaki)',104601,107901,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104701001,'Nightmare (Jun)',104701,0,0,0,0,0,0,0,0,0);

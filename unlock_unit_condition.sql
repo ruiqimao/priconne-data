@@ -98,3 +98,4 @@ INSERT INTO "unlock_unit_condition" VALUES(111301,'Mimi (Halloween)',1,0,1,2,311
 INSERT INTO "unlock_unit_condition" VALUES(111401,'Luna',1,0,1,2,31114,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(111501,'Christina (Holiday)',1,0,1,2,31115,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(111601,'Nozomi (Holiday)',1,0,1,2,31116,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(111701,'Illya (Holiday)',1,0,1,2,31117,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

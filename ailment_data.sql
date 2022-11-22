@@ -25,3 +25,6 @@ INSERT INTO "ailment_data" VALUES(23,61,-1,'Panic');
 INSERT INTO "ailment_data" VALUES(24,60,-1,'(Gain) Crest');
 INSERT INTO "ailment_data" VALUES(25,62,-1,'Cower');
 INSERT INTO "ailment_data" VALUES(26,69,-1,'Reindeerification');
+INSERT INTO "ailment_data" VALUES(27,8,10,'Daze');
+INSERT INTO "ailment_data" VALUES(28,9,5,'Scourge');
+INSERT INTO "ailment_data" VALUES(29,70,-1,'HP Change');
