@@ -82,12 +82,12 @@ INSERT INTO "music_list" VALUES(80,'Slothful Madman',20.0,'','2022-06-28 23:00:0
 INSERT INTO "music_list" VALUES(81,'Forest of Beating Drums',20.0,'','2022-07-29 23:00:00','',-1,1000,81,'Forest of Beating Drums','','','');
 INSERT INTO "music_list" VALUES(82,'Suzuna''s Rainbow Stage!',20.0,'','2022-07-29 23:00:00','',-1,1000,82,'Suzuna''s Rainbow Stage!','','','');
 INSERT INTO "music_list" VALUES(83,'Great Rain God',20.0,'','2022-07-29 23:00:00','',-1,1000,83,'Great Rain God','','','');
-INSERT INTO "music_list" VALUES(84,'First Kiss on Tiptoes',20.0,'','2022-07-29 23:00:00','',-1,1500,84,'First Kiss on Tiptoes','','','');
+INSERT INTO "music_list" VALUES(84,'First Kiss on Tiptoes',20.0,'','2022-07-29 23:00:00','',-1,1500,84,'First Kiss on Tiptoes','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-11/1488880119?app=itunes','Bmhsk6kwaquqadelb6dh6dv3svy','A2001629618/');
 INSERT INTO "music_list" VALUES(85,'The Battle for Big Bro! Helping Shizuru',20.0,'','2022-08-25 23:00:00','',-1,1000,85,'The Battle for Big Bro! Helping Shizuru','','','');
 INSERT INTO "music_list" VALUES(86,'The Battle for Big Bro! Helping Eriko',20.0,'','2022-08-25 23:00:00','',-1,1000,86,'The Battle for Big Bro! Helping Eriko','','','');
 INSERT INTO "music_list" VALUES(87,'Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!',20.0,'','2022-08-25 23:00:00','',-1,1000,87,'Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!','','','');
 INSERT INTO "music_list" VALUES(88,'Majimun',20.0,'','2022-08-25 23:00:00','',-1,1000,88,'Majimun','','','');
-INSERT INTO "music_list" VALUES(89,'We Are Golden',20.0,'','2022-08-25 23:00:00','',-1,1500,89,'We Are Golden','','','');
+INSERT INTO "music_list" VALUES(89,'We Are Golden',20.0,'','2022-08-25 23:00:00','',-1,1500,89,'We Are Golden','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-11/1488880119?app=itunes','Bmhsk6kwaquqadelb6dh6dv3svy','A2001629618/');
 INSERT INTO "music_list" VALUES(90,'Kuka the Whirling Wonder',20.0,'','2022-09-26 23:00:00','',-1,1000,90,'Kuka the Whirling Wonder','','','');
 INSERT INTO "music_list" VALUES(91,'The Woodland Loner and the Saintly School Lycéennes',20.0,'','2022-09-26 23:00:00','',-1,1000,91,'The Woodland Loner and the Saintly School Lycéennes','','','');
 INSERT INTO "music_list" VALUES(92,'Toxic Mandragora',20.0,'','2022-09-26 23:00:00','',-1,1000,92,'Toxic Mandragora','','','');
@@ -102,3 +102,7 @@ INSERT INTO "music_list" VALUES(100,'Alphabet Clash! Word Link Dragons',20.0,'',
 INSERT INTO "music_list" VALUES(101,'Dragon Explorers',20.0,'','2022-10-26 23:00:00','',-1,1000,96,'Dragon Explorers','','','');
 INSERT INTO "music_list" VALUES(102,'Pseudo-Dragon',20.0,'','2022-10-26 23:00:00','',-1,1000,97,'Pseudo-Dragon','','','');
 INSERT INTO "music_list" VALUES(103,'In Flames',20.0,'','2022-10-26 23:00:00','',-1,1500,98,'In Flames','','','');
+INSERT INTO "music_list" VALUES(104,'Trial for New Power',20.0,'','2022-11-24 23:00:00','',-1,1000,104,'Trial for New Power','','','');
+INSERT INTO "music_list" VALUES(105,'Present Panic! The Santas of Landosol',20.0,'','2022-11-24 23:00:00','',-1,1000,105,'Present Panic! The Santas of Landosol','','','');
+INSERT INTO "music_list" VALUES(106,'Reindeer Vendetta',20.0,'','2022-11-24 23:00:00','',-1,1000,106,'Reindeer Vendetta','','','');
+INSERT INTO "music_list" VALUES(107,'Call Me Darling!',20.0,'','2022-11-24 23:00:00','',-1,1500,107,'Call Me Darling!','','','');

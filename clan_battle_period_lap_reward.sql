@@ -170,3 +170,8 @@ INSERT INTO "clan_battle_period_lap_reward" VALUES(168,1021,1,2,2,0,12,94002,250
 INSERT INTO "clan_battle_period_lap_reward" VALUES(169,1021,1,3,3,0,12,94002,500000,2,22002,40,2,22003,8,0,0,0,0,0,0);
 INSERT INTO "clan_battle_period_lap_reward" VALUES(170,1021,1,4,4,0,12,94002,750000,2,22002,60,2,22003,12,0,0,0,0,0,0);
 INSERT INTO "clan_battle_period_lap_reward" VALUES(171,1021,1,5,-1,0,12,94002,1000000,2,22002,80,2,22003,16,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_lap_reward" VALUES(172,1022,1,1,1,0,12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_lap_reward" VALUES(173,1022,1,2,2,0,12,94002,250000,2,22002,20,2,22003,4,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_lap_reward" VALUES(174,1022,1,3,3,0,12,94002,500000,2,22002,40,2,22003,8,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_lap_reward" VALUES(175,1022,1,4,4,0,12,94002,750000,2,22002,60,2,22003,12,0,0,0,0,0,0);
+INSERT INTO "clan_battle_period_lap_reward" VALUES(176,1022,1,5,-1,0,12,94002,1000000,2,22002,80,2,22003,16,0,0,0,0,0,0);

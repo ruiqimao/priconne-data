@@ -1,5 +1,5 @@
 CREATE TABLE 'room_item' ('id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'max_level' INTEGER NOT NULL, 'enable_remove' INTEGER NOT NULL, 'max_possession_num' INTEGER NOT NULL, 'effect_id_1' INTEGER NOT NULL, 'shop_start' TEXT NOT NULL, 'shop_end' TEXT NOT NULL, 'shop_new_disp_end' TEXT NOT NULL, 'cost_item_num' INTEGER NOT NULL, 'shop_open_type' INTEGER NOT NULL, 'shop_open_id' INTEGER NOT NULL, 'shop_open_value' INTEGER NOT NULL, 'sold_price' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, PRIMARY KEY('id'));
-INSERT INTO "room_item" VALUES(1,1,101,'Karin''s Table',15,1,1,1,'2015-04-01 14:00:00','','',500,0,0,0,0,900143,0);
+INSERT INTO "room_item" VALUES(1,1,101,'Karin''s Table',16,1,1,1,'2015-04-01 14:00:00','','',500,0,0,0,0,900143,0);
 INSERT INTO "room_item" VALUES(3,5,903,'Landosol Background',1,1,1,0,'2015-04-01 14:00:00','','',-1,0,0,0,0,900141,0);
 INSERT INTO "room_item" VALUES(4,4,902,'Guildhouse Wall',1,1,1,0,'2015-04-01 14:00:00','','',-1,0,0,0,0,900140,0);
 INSERT INTO "room_item" VALUES(5,4,902,'Transparent Wall',1,1,1,0,'2015-04-01 14:00:00','','',18000,0,0,0,9000,900139,0);
@@ -135,9 +135,9 @@ INSERT INTO "room_item" VALUES(136,1,201,'Color Tile 5',1,1,99,0,'2015-04-01 14:
 INSERT INTO "room_item" VALUES(137,1,201,'Color Tile 6',1,1,99,0,'2015-04-01 14:00:00','','',120,0,0,0,60,900006,0);
 INSERT INTO "room_item" VALUES(138,1,201,'Color Tile 7',1,1,99,0,'2015-04-01 14:00:00','','',120,0,0,0,60,900005,0);
 INSERT INTO "room_item" VALUES(139,1,201,'Color Tile 8',1,1,99,0,'2015-04-01 14:00:00','','',120,0,0,0,60,900004,0);
-INSERT INTO "room_item" VALUES(140,1,199,'Snack Table',15,1,1,2,'2015-04-01 14:00:00','','',500,0,0,0,0,900003,0);
-INSERT INTO "room_item" VALUES(141,1,299,'Potion Creation Device',15,1,1,3,'2015-04-01 14:00:00','','',500,0,0,0,0,900002,0);
-INSERT INTO "room_item" VALUES(142,1,299,'Mana Creation Device',15,1,1,4,'2015-04-01 14:00:00','','',500,0,0,0,0,900001,0);
+INSERT INTO "room_item" VALUES(140,1,199,'Snack Table',16,1,1,2,'2015-04-01 14:00:00','','',500,0,0,0,0,900003,0);
+INSERT INTO "room_item" VALUES(141,1,299,'Potion Creation Device',16,1,1,3,'2015-04-01 14:00:00','','',500,0,0,0,0,900002,0);
+INSERT INTO "room_item" VALUES(142,1,299,'Mana Creation Device',16,1,1,4,'2015-04-01 14:00:00','','',500,0,0,0,0,900001,0);
 INSERT INTO "room_item" VALUES(143,1,299,'Cafe Menu Board',1,1,1,0,'2015-04-01 14:00:00','','',600,0,0,0,300,900042,0);
 INSERT INTO "room_item" VALUES(144,1,299,'Cloudtop Monster Meat',1,1,1,5,'2015-04-01 14:00:00','','',-1,0,0,0,0,900144,0);
 INSERT INTO "room_item" VALUES(145,1,299,'Deepwood Fruit',1,1,1,6,'2015-04-01 14:00:00','','',-1,0,0,0,0,900145,0);
