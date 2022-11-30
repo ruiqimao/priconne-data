@@ -111,11 +111,11 @@ INSERT INTO "story_data" VALUES(2007,2,0,'Chapter 7_Calamity Foretold',2007012,8
 INSERT INTO "story_data" VALUES(2008,2,0,'Chapter 8_Friends or Foes?',2008015,9,'2021/08/09 13:00:00','2030/12/17 14:59:59',0,1);
 INSERT INTO "story_data" VALUES(2009,2,0,'Chapter 9_Crisis at the Concert',2009099,10,'2021/10/12 13:00:00','2030/12/17 14:59:59',0,1);
 INSERT INTO "story_data" VALUES(2010,2,0,'Chapter 10_Saving Pecorine',2010006,11,'2021/12/06 13:00:00','2030/12/17 14:59:59',0,1);
-INSERT INTO "story_data" VALUES(2011,2,0,'Chapter 11_The Ironclad Guardian',2011003,12,'2022/02/01 13:00:00','2030/12/17 14:59:59',0,1);
+INSERT INTO "story_data" VALUES(2011,2,0,'Chapter 11_The Ironclad Guardian',2011008,12,'2022/02/01 13:00:00','2030/12/17 14:59:59',0,1);
 INSERT INTO "story_data" VALUES(2012,2,0,'Chapter 12_Beneath the Mask',2012014,13,'2022/03/24 13:00:00','2030/12/17 14:59:59',0,1);
-INSERT INTO "story_data" VALUES(2013,2,0,'Chapter 13_The Battle of Landosol',2013010,14,'2022/04/19 13:00:00','2030/12/17 14:59:59',0,1);
-INSERT INTO "story_data" VALUES(2014,2,0,'Chapter 14_Kaiser''s Downfall',2014004,15,'2022/09/08 13:00:00','2030/12/17 14:59:59',0,1);
-INSERT INTO "story_data" VALUES(2015,2,0,'Chapter 15_Re: Connect',2015006,16,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,1);
+INSERT INTO "story_data" VALUES(2013,2,0,'Chapter 13_The Battle of Landosol',2013015,14,'2022/04/19 13:00:00','2030/12/17 14:59:59',0,1);
+INSERT INTO "story_data" VALUES(2014,2,0,'Chapter 14_Kaiser''s Downfall',2014008,15,'2022/09/08 13:00:00','2030/12/17 14:59:59',0,1);
+INSERT INTO "story_data" VALUES(2015,2,0,'Chapter 15_Re: Connect',2015009,16,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,1);
 INSERT INTO "story_data" VALUES(3001,3,1,'Gourmet Guild',0,1,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(3002,3,2,'Nightmare, Defenders of the Throne',0,8,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
 INSERT INTO "story_data" VALUES(3003,3,3,'Sarendia Orphanage',0,9,'2015/04/01 15:00:00','2030/12/17 14:59:59',0,0);
