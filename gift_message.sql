@@ -13,6 +13,7 @@ INSERT INTO "gift_message" VALUES(2011,'Item obtained from {0} on Day {1} of {2}
 INSERT INTO "gift_message" VALUES(2012,'Item obtained on day {1} of {0}.',17,2,0,0);
 INSERT INTO "gift_message" VALUES(2013,'Item obtained from {0}.',1,0,0,0);
 INSERT INTO "gift_message" VALUES(2014,'Reward for reaching Lap {2} in the {0} Clan Battle.',10,11,19,0);
+INSERT INTO "gift_message" VALUES(2015,'Additional reward for "{0}."',20,0,0,0);
 INSERT INTO "gift_message" VALUES(3001,'Item obtained for unlocking the 2nd floor of Guildhouse.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(3002,'Item obtaind for unlocking the third floor of the Guildhouse.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9101,'Compensation from the Admin team.',0,0,0,0);
