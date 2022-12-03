@@ -21,7 +21,7 @@ INSERT INTO "voice_group_chara" VALUES(102001001,'Little Lyrical (Mimi)',102001,
 INSERT INTO "voice_group_chara" VALUES(102101001,'Sarendia Orphanage (Kurumi)',102101,108501,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102201001,'Diabolos (Yori)',102201,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102301001,'Sarendia Orphanage (Ayane)',102301,108601,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(102501001,'Sarendia Orphanage (Suzume)',102501,107701,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(102501001,'Sarendia Orphanage (Suzume)',102501,107701,112101,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102601001,'Elizabeth Park (Rin)',102601,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102701001,'Twilight Caravan (Eriko)',102701,109001,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(102801001,'Sarendia Orphanage (Saren)',102801,110301,0,0,0,0,0,0,0,0);
@@ -53,7 +53,7 @@ INSERT INTO "voice_group_chara" VALUES(105601001,'Twilight Caravan (Ruka)',10560
 INSERT INTO "voice_group_chara" VALUES(105701001,'??? (Djeeta)',105701,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(105801001,'Gourmet Guild (Pecorine)',105801,107501,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(105901001,'Gourmet Guild (Kokkoro)',105901,107601,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(106001001,'Gourmet Guild (Karyl)',106001,107801,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(106001001,'Gourmet Guild (Karyl)',106001,107801,112001,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(106101001,'??? (Muimi)',106101,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(106301001,'??? (Arisa)',106301,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(107001001,'??? (Neneka)',107001,0,0,0,0,0,0,0,0,0);

@@ -190,6 +190,7 @@ INSERT INTO "skill_data" VALUES(1033511,'Opening One-Liner+',0,0,0.0,103351101,1
 INSERT INTO "skill_data" VALUES(1034001,'Seven Veils',1,0,0.0,103400101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier that negates magical damage around all allies.',1013);
 INSERT INTO "skill_data" VALUES(1034002,'Aqua Vitae',1,0,1.4,103400201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers the HP of the party member with the lowest HP by a moderate amount.',2005);
 INSERT INTO "skill_data" VALUES(1034003,'Moonlight',1,0,1.13,103400301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers the TP of the party member with the lowest TP by a medium amount.',2006);
+INSERT INTO "skill_data" VALUES(1034011,'Seventh Heaven',1,0,0.0,103401101,103401102,103401103,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier that negates magical damage around all allies, boosts their magical defense by a large amount, and recovers their HP by a small amount.',1013);
 INSERT INTO "skill_data" VALUES(1034012,'Aqua Vitae+',1,0,1.4,103401201,103401202,103401203,0,0,0,0,0,103401201,0,0,0,0,0,'Recovers the HP of the party member with the lowest HP by a large amount, boosts their magical defense by a moderate amount, and grants HP regen.',2005);
 INSERT INTO "skill_data" VALUES(1034501,'Liquid Courage',0,0,0.0,103450101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense at start of battle.',3004);
 INSERT INTO "skill_data" VALUES(1034511,'Liquid Courage+',0,0,0.0,103451101,103451102,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical defense and small boost to physical attack at start of battle.',3004);
@@ -576,6 +577,16 @@ INSERT INTO "skill_data" VALUES(1117002,'Bat Carnival',0,0,1.27,111700201,111700
 INSERT INTO "skill_data" VALUES(1117003,'Bloody Thorn',1,0,0.97,111700301,111700302,111700303,111700304,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to all enemies in range and moderately boosts own magical attack, at the cost of 20% of own HP. Deals more damage the lower Illya''s HP.',2002);
 INSERT INTO "skill_data" VALUES(1117501,'Silent Night Pact',0,0,0.0,111750101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(1117511,'Silent Night Pact+',0,0,0.0,111751101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1120001,'New Year Burst',1,0,0.0,112000101,112000102,112000103,0,0,0,0,0,0,0,0,0,0,0,'Deals massive magical damage to an enemy directly in front and moderately boosts own magical attack. Magical attack boost increases based on the damage dealt by this skill.',1002);
+INSERT INTO "skill_data" VALUES(1120002,'Shadow Bullet',0,0,0.74,112000201,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deals moderate magical damage to an enemy directly in front.',2002);
+INSERT INTO "skill_data" VALUES(1120003,'Wishing Field',1,0,0.74,112000301,112000302,112000303,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to all allies'' magical attack, and deploys a barrier that negates physical damage around them. Damage negated by barrier increases based on own magical attack.',2013);
+INSERT INTO "skill_data" VALUES(1120501,'Veil of Desire',0,0,0.0,112050101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1120511,'Veil of Desire+',0,0,0.0,112051101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1121001,'Ceremony of Blessings',1,0,0.0,112100101,112100102,0,0,0,0,0,0,0,0,0,0,0,0,'Recovers all allies'' HP by a moderate amount and boosts their action speed by a large amount.',1005);
+INSERT INTO "skill_data" VALUES(1121002,'Fresh New Breeze',0,0,1.27,112100201,112100202,0,0,0,0,0,0,0,0,0,0,0,0,'Deals small magical damage to the farthest enemy and knocks them back a large distance.',2002);
+INSERT INTO "skill_data" VALUES(1121003,'Warding Arrow',1,0,0.97,112100301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Deploys a barrier that negates magical damage around all allies.',2013);
+INSERT INTO "skill_data" VALUES(1121501,'New Year''s Blessings',0,0,0.0,112150101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own magical attack at start of battle.',3003);
+INSERT INTO "skill_data" VALUES(1121511,'New Year''s Blessings+',0,0,0.0,112151101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own magical attack at start of battle.',3003);
 INSERT INTO "skill_data" VALUES(2001001,'',0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Lobs a boulder to deal damage to a distant enemy.',1001);
 INSERT INTO "skill_data" VALUES(2002001,'',1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,'sample',1001);
 INSERT INTO "skill_data" VALUES(2003001,'',1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,'sample',1001);
@@ -1358,6 +1369,12 @@ INSERT INTO "skill_data" VALUES(3098003,'',1,0,1.5,309800301,309800302,0,0,0,0,0
 INSERT INTO "skill_data" VALUES(3098004,'',1,0,1.5,309800401,309800402,309800403,309800404,309800405,0,0,0,0,0,309800403,309800404,0,0,'skill2',1001);
 INSERT INTO "skill_data" VALUES(3098005,'',1,0,1.5,309800501,309800502,309800503,309800504,0,0,0,0,0,0,0,0,0,0,'skill2',1001);
 INSERT INTO "skill_data" VALUES(3098006,'',1,0,1.5,309800601,0,0,0,0,0,0,0,0,0,0,0,0,0,'skill2',1001);
+INSERT INTO "skill_data" VALUES(3100001,'',1,0,0.0,310000101,310000102,310000103,310000104,310000105,310000106,310000107,0,0,0,0,0,0,0,'Mountain God UB',1001);
+INSERT INTO "skill_data" VALUES(3100002,'',0,0,1.2,310000201,310000202,0,0,0,0,0,0,310000201,0,0,0,0,0,'Mountain God Skill1',1001);
+INSERT INTO "skill_data" VALUES(3100003,'',1,0,1.2,310000301,310000302,0,0,0,0,0,0,0,0,0,0,0,0,'Mountain God Skill2',1001);
+INSERT INTO "skill_data" VALUES(3100004,'',1,0,0.0,310000401,310000402,310000403,310000404,0,0,0,0,0,0,0,0,0,0,'Mountain God Awakening',1001);
+INSERT INTO "skill_data" VALUES(3100005,'',1,0,1.2,310000501,310000502,310000503,310000504,0,0,0,0,310000501,0,0,0,0,0,'Mountain God Skill3',1001);
+INSERT INTO "skill_data" VALUES(3100006,'',1,0,0.0,310000601,310000602,0,0,0,0,0,0,310000601,0,0,0,0,0,'Mountain God SP Battle Awakening',1001);
 INSERT INTO "skill_data" VALUES(3102001,'',0,0,0.0,310200101,310200102,310200103,0,0,0,0,0,310200101,310200101,0,0,0,0,'Sharkhead Ray: Union Burst',1001);
 INSERT INTO "skill_data" VALUES(3102002,'',0,0,1.5,310200201,310200202,310200203,0,0,0,0,0,310200201,310200201,0,0,0,0,'Sharkhead Ray: Skill',1001);
 INSERT INTO "skill_data" VALUES(3102003,'',0,0,1.5,310200301,0,0,0,0,0,0,0,0,0,0,0,0,0,'Sharkhead Ray: Standard Attack',1001);

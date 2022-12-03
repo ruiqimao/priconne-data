@@ -100,3 +100,5 @@ INSERT INTO "unit_background" VALUES(111401,'Luna',500175,'Mysterion Woods',0.0,
 INSERT INTO "unit_background" VALUES(111501,'Christina (Holiday)',500038,'Landosol - Business District (Holiday)',0.0,4);
 INSERT INTO "unit_background" VALUES(111601,'Nozomi (Holiday)',500038,'Landosol - Business District (Holiday)',0.0,4);
 INSERT INTO "unit_background" VALUES(111701,'Illya (Holiday)',500038,'Landosol - Business District (Holiday)',0.0,4);
+INSERT INTO "unit_background" VALUES(112001,'Karyl (New Year)',500910,'Landosol - Business District (Race)',0.0,6);
+INSERT INTO "unit_background" VALUES(112101,'Suzume (New Year)',500910,'Landosol - Business District (Race)',0.0,2);

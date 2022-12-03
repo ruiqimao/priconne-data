@@ -61,6 +61,7 @@ INSERT INTO "quest_area_data" VALUES(12029,'29. Diestal Ravine (South)','29. Die
 INSERT INTO "quest_area_data" VALUES(12030,'30. Photella Cliffs (North)','30. Photella Cliffs (North)',102,'bgm_M293','bgm_M293','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(13018,'18. Phaethon Fields (North)','18. Phaethon Fields (North)',102,'bgm_M179','bgm_M179','2022/08/04 13:00:00','2030/12/17 14:59:00');
 INSERT INTO "quest_area_data" VALUES(13019,'19. Phaethon Fields (South)','19. Phaethon Fields (South)',102,'bgm_M179','bgm_M179','2022/09/01 08:00:00','2030/12/17 14:59:00');
+INSERT INTO "quest_area_data" VALUES(13020,'20. Castalia Woods (West)','20. Castalia Woods (West)',102,'bgm_M180','bgm_M180','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(18001,'Sanctum Survey','Sanctum Survey',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(19001,'Temple Trek','Temple Trek',0,'','','2022/08/04 13:00:00','2030/12/17 14:59:00');
 INSERT INTO "quest_area_data" VALUES(21001,'Mana Quests','Mana Quests',0,'','','2015/12/17 15:00:00','2030/12/17 14:59:59');
