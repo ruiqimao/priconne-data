@@ -2,3 +2,4 @@ CREATE TABLE 'hatsune_present' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NU
 INSERT INTO "hatsune_present" VALUES(1,10009,'A Holiday Gift','Obtained the following as a special holiday gift.',0,1000901,0,5009901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "hatsune_present" VALUES(2,10010,'A New Year''s Gift','Obtained the following as a special New Year''s gift.',0,1001001,0,5010901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO "hatsune_present" VALUES(3,10030,'A Holiday Gift','Obtained the following as a special holiday gift.',0,1003001,0,5009901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO "hatsune_present" VALUES(4,10032,'A New Year''s Gift','Obtained the following as a special New Year''s gift.',0,1003201,0,5010901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
