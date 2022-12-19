@@ -21,3 +21,4 @@ INSERT INTO "event_story_data" VALUES(5025,5,10025,'Little Brave Halloween Night
 INSERT INTO "event_story_data" VALUES(5027,5,10027,'Dragon Explorers',0,1,'2022/10/02 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5029,5,10029,'Present Panic! The Santas of Landosol',0,1,'2022/11/01 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5031,5,10031,'Ready, Set, Go! The Landosol Guild Race',0,1,'2022/12/03 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_data" VALUES(5033,5,10033,'The Magical Girl Duo: We Are Misty & Purely',0,1,'2023/01/04 23:00:00','2030/04/24 14:59:59');

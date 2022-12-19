@@ -99,5 +99,6 @@ INSERT INTO "unlock_unit_condition" VALUES(111401,'Luna',1,0,1,2,31114,145,0,0,0
 INSERT INTO "unlock_unit_condition" VALUES(111501,'Christina (Holiday)',1,0,1,2,31115,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(111601,'Nozomi (Holiday)',1,0,1,2,31116,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(111701,'Illya (Holiday)',1,0,1,2,31117,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(111901,'Kokkoro (New Year)',1,0,1,2,31119,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(112001,'Karyl (New Year)',1,0,1,2,31120,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(112101,'Suzume (New Year)',1,0,1,2,31121,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

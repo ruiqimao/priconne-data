@@ -93,5 +93,6 @@ INSERT INTO "actual_unit_background" VALUES(111431,'Luna',510240,4);
 INSERT INTO "actual_unit_background" VALUES(111531,'Christina Morgan',510280,4);
 INSERT INTO "actual_unit_background" VALUES(111631,'Nozomi Sakurai',510150,9);
 INSERT INTO "actual_unit_background" VALUES(111731,'Illya Ornstein',510282,4);
+INSERT INTO "actual_unit_background" VALUES(111931,'Kokoro Natsume',510140,2);
 INSERT INTO "actual_unit_background" VALUES(112031,'Kiruya Momochi',510350,2);
 INSERT INTO "actual_unit_background" VALUES(112131,'Suzume Amano',510390,4);

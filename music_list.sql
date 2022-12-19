@@ -106,3 +106,10 @@ INSERT INTO "music_list" VALUES(104,'Trial for New Power',20.0,'','2022-11-24 23
 INSERT INTO "music_list" VALUES(105,'Present Panic! The Santas of Landosol',20.0,'','2022-11-24 23:00:00','',-1,1000,105,'Present Panic! The Santas of Landosol','','','');
 INSERT INTO "music_list" VALUES(106,'Reindeer Vendetta',20.0,'','2022-11-24 23:00:00','',-1,1000,106,'Reindeer Vendetta','','','');
 INSERT INTO "music_list" VALUES(107,'Call Me Darling!',20.0,'','2022-11-24 23:00:00','',-1,1500,107,'Call Me Darling!','','','');
+INSERT INTO "music_list" VALUES(108,'Final Battle for Landosol',20.0,'','2022-12-19 23:00:00','',2015007,1000,108,'Final Battle for Landosol','','','');
+INSERT INTO "music_list" VALUES(109,'Clash with the Kaiser''s Servant',20.0,'','2022-12-19 23:00:00','',2015007,1000,109,'Clash with the Kaiser''s Servant','','','');
+INSERT INTO "music_list" VALUES(110,'Omniscient Kaiser',20.0,'','2022-12-19 23:00:00','',2015007,1000,110,'Omniscient Kaiser','','','');
+INSERT INTO "music_list" VALUES(111,'Ready, Set, Go! The Landosol Guild Race',20.0,'','2022-12-19 23:00:00','',-1,1000,111,'Ready, Set, Go! The Landosol Guild Race','','','');
+INSERT INTO "music_list" VALUES(112,'Mountain God',20.0,'','2022-12-19 23:00:00','',-1,1000,112,'Mountain God','','','');
+INSERT INTO "music_list" VALUES(113,'Ulti*mate Start Dash',20.0,'','2022-12-19 23:00:00','',-1,1500,113,'Ulti*mate Start Dash','','','');
+INSERT INTO "music_list" VALUES(114,'Seeking the Sea',20.0,'','2022-12-19 23:00:00','',-1,1000,114,'Seeking the Sea','','','');

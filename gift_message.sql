@@ -58,6 +58,7 @@ INSERT INTO "gift_message" VALUES(9404,'Item obtained by purchasing Equipment Pa
 INSERT INTO "gift_message" VALUES(9405,'Item obtained by purchasing Equipment Pack 3.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9406,'Item obtained by purchasing Equipment Pack 4.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9407,'Item obtained by purchasing New Player Support Pack.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9408,'Item obtained by purchasing Heavenly Ephemera Pack.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9501,'Item obtained from the event login bonus day {1}.',13,2,0,0);
 INSERT INTO "gift_message" VALUES(9502,'Item obtained for clearing event quest for the first time.',13,0,0,0);
 INSERT INTO "gift_message" VALUES(9503,'Item obtained for clearing event quest {1}.',13,14,0,0);
@@ -106,3 +107,5 @@ INSERT INTO "gift_message" VALUES(9829,'Halloween Jewel giveaway',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9830,'Winter Jewel giveaway',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9831,'Final Battle of Landosol Support Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9832,'Main Story Part 2 Present',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9833,'2-Year Pre-Anniversary Bonus Present',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9835,'2-Year Pre-Anniversary Present',0,0,0,0);

@@ -4,3 +4,8 @@ INSERT INTO "login_bonus_adv" VALUES(2,70000,'2021/12/25 13:00:00','2021/12/26 1
 INSERT INTO "login_bonus_adv" VALUES(3,70001,'0','0',1,410);
 INSERT INTO "login_bonus_adv" VALUES(4,70001,'0','0',2,411);
 INSERT INTO "login_bonus_adv" VALUES(5,70001,'0','0',3,412);
+INSERT INTO "login_bonus_adv" VALUES(6,70002,'2022/12/24 13:00:00','2022/12/25 12:59:59',0,400);
+INSERT INTO "login_bonus_adv" VALUES(7,70002,'2022/12/25 13:00:00','2022/12/26 12:59:59',0,401);
+INSERT INTO "login_bonus_adv" VALUES(8,70003,'0','0',1,413);
+INSERT INTO "login_bonus_adv" VALUES(9,70003,'0','0',2,414);
+INSERT INTO "login_bonus_adv" VALUES(10,70003,'0','0',3,415);
