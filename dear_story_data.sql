@@ -5,3 +5,4 @@ INSERT INTO "dear_story_data" VALUES(6023,6,10023,'The Woodland Loner and the Sa
 INSERT INTO "dear_story_data" VALUES(6025,6,10025,'Little Brave Halloween Night!',0,1,'2022/08/27 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "dear_story_data" VALUES(6027,6,10027,'Dragon Explorers',0,1,'2022/09/27 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "dear_story_data" VALUES(6029,6,10029,'Present Panic! The Santas of Landosol',0,1,'2022/10/27 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "dear_story_data" VALUES(6033,6,10033,'The Magical Girl Duo: We Are Misty & Purely',0,1,'2022/12/30 23:00:00','2030/04/24 14:59:59');

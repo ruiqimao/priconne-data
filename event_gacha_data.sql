@@ -31,3 +31,4 @@ INSERT INTO "event_gacha_data" VALUES(10029,10029,'Present Panic! The Santas of 
 INSERT INTO "event_gacha_data" VALUES(10030,10030,'The Carol That Never Was',2,60292,1,5);
 INSERT INTO "event_gacha_data" VALUES(10031,10031,'Ready, Set, Go! The Landosol Guild Race',2,60302,1,5);
 INSERT INTO "event_gacha_data" VALUES(10032,10032,'New Year''s Day Twinkle Crisis!',2,60312,1,5);
+INSERT INTO "event_gacha_data" VALUES(10033,10033,'The Magical Girl Duo: We Are Misty & Purely',2,60322,1,5);

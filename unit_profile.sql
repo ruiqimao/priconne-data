@@ -108,3 +108,5 @@ INSERT INTO "unit_profile" VALUES(111701,'Illya (Holiday)','??','Diabolos','demo
 INSERT INTO "unit_profile" VALUES(111901,'Kokkoro (New Year)','11','Gourmet Guild','elvenfolk','140','35','5','11','B','meditating, raising plants and animals','Miku Ito',0,'A little guide who takes care of her lord','','1');
 INSERT INTO "unit_profile" VALUES(112001,'Karyl (New Year)','14','Gourmet Guild','beastfolk','152','39','9','2','A','playing with cats','Rika Tachibana',0,'A mysterious, cat-eared sorceress discovered lying unconscious','','1');
 INSERT INTO "unit_profile" VALUES(112101,'Suzume (New Year)','15','Sarendia Orphanage','humanfolk','154','43','12','12','O','serving others','Aoi Yuki',0,'A clumsy maid who works hard for her mistress','','9');
+INSERT INTO "unit_profile" VALUES(112201,'Kasumi (Magical)','18','Caon','beastfolk','152','41','11','3','AB','reading, reasoning','Inori Minase',0,'A brilliant, beautiful detective','','10');
+INSERT INTO "unit_profile" VALUES(112301,'Shiori (Magical)','14','Elizabeth Park','beastfolk','153','40','11','3','A','reading, taking walks','Ami Koshimizu',0,'A frail girl who enjoys reading','','11');

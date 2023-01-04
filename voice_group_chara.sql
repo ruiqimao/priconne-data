@@ -12,7 +12,7 @@ INSERT INTO "voice_group_chara" VALUES(101001001,'Caon (Maho)',101001,110601,0,0
 INSERT INTO "voice_group_chara" VALUES(101101001,'Labyrinth (Rino)',101101,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101201001,'Forestier (Hatsune)',101201,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101301001,'Twilight Caravan (Nanaka)',101301,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(101401001,'Caon (Kasumi)',101401,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(101401001,'Caon (Kasumi)',101401,112201,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101501001,'Forestier (Misato)',101501,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101601001,'Lucent Academy (Suzuna)',101601,110001,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(101701001,'Caon (Kaori)',101701,110501,0,0,0,0,0,0,0,0);
@@ -33,7 +33,7 @@ INSERT INTO "voice_group_chara" VALUES(103301001,'Elizabeth Park (Mahiru)',10330
 INSERT INTO "voice_group_chara" VALUES(103401001,'Mercurius Foundation (Yukari)',103401,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103601001,'Little Lyrical (Kyoka)',103601,111101,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(103701001,'Nightmare (Tomo)',103701,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(103801001,'Elizabeth Park (Shiori)',103801,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(103801001,'Elizabeth Park (Shiori)',103801,112301,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104001001,'Forestier (Aoi)',104001,110701,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104201001,'Carmina (Chika)',104201,108401,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(104301001,'Caon (Makoto)',104301,110401,0,0,0,0,0,0,0,0);

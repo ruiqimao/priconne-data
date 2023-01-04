@@ -67,3 +67,5 @@ INSERT INTO "tips" VALUES(4110701,110701,1,'I''m Not Worthy');
 INSERT INTO "tips" VALUES(4110801,110801,1,'Easily Misunderstood');
 INSERT INTO "tips" VALUES(4111401,111401,1,'Come on My Adventure');
 INSERT INTO "tips" VALUES(4111501,106501,1,'Anytime!');
+INSERT INTO "tips" VALUES(4112201,112201,1,'Ka-Pose! ☆');
+INSERT INTO "tips" VALUES(4112301,112301,1,'A Magical Girl?');

@@ -108,4 +108,5 @@ INSERT INTO "gift_message" VALUES(9830,'Winter Jewel giveaway',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9831,'Final Battle of Landosol Support Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9832,'Main Story Part 2 Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9833,'2-Year Pre-Anniversary Bonus Present',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9834,'2-Year Anniversary Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9835,'2-Year Pre-Anniversary Present',0,0,0,0);
