@@ -259,13 +259,16 @@ INSERT INTO "equipment_enhance_rate" VALUES(105552,'Wyrmswrath Pendant','Attack 
 INSERT INTO "equipment_enhance_rate" VALUES(105553,'War God''s Vigor','Attack Accessories',5,0.0,20.4,0.0,0.0,0.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105554,'Peony Flamepin','Attack Accessories',5,0.0,20.8,0.0,0.0,0.0,5.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105555,'Scarletwyrm''s Flame Ring','Attack Accessories',5,0.0,19.6,0.0,0.0,0.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6);
+INSERT INTO "equipment_enhance_rate" VALUES(105556,'Ruby Rose Choker','Attack Accessories',5,10.0,21.0,0.0,0.0,0.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105581,'Spirit King''s Talisman','Defense Accessory',5,40.0,0.0,0.0,2.0,1.2,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105582,'Mermaid Tears','Defense Accessory',5,12.0,0.0,0.0,2.4,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105583,'Warden King''s Armlet','Defense Accessory',5,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105584,'Leviathan Clasp','Defense Accessory',5,0.0,0.0,0.0,2.0,2.4,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105585,'Ancile Ring','Defense Accessory',5,10.0,0.0,0.0,2.8,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105586,'Elfin Choker','Defense Accessory',5,12.0,0.0,0.0,1.8,2.2,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105611,'Poseidon Earrings','Magic Accessory',5,0.0,0.0,15.6,0.0,0.0,0.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105612,'Sacred Steed''s Grace','Magic Accessory',5,28.0,0.0,16.8,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105613,'Sophos Bracelet','Magic Accessory',5,0.0,0.0,18.4,0.0,0.0,0.0,2.8,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105614,'Icetear Ribbon','Magic Accessory',5,6.0,0.0,19.6,0.0,0.0,0.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
 INSERT INTO "equipment_enhance_rate" VALUES(105615,'Xenocrystal','Magic Accessory',5,0.0,0.0,20.2,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
+INSERT INTO "equipment_enhance_rate" VALUES(105616,'Chaotic Choker','Magic Accessory',5,0.0,0.0,20.6,0.0,0.0,0.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0);
