@@ -51,6 +51,8 @@ INSERT INTO "gift_message" VALUES(9314,'Item converted from character exchange p
 INSERT INTO "gift_message" VALUES(9315,'Coins converted from stamina.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9316,'Item converted from Special Gala Exchange Points.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9317,'Reward obtained from friend support.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9318,'Special Exchange Ticket rewards obtained over the possession limit.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9319,'Item obtained upon purchase.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9401,'Daily Jewel Pack',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9402,'7-Day Stamina Support Pack',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9403,'Item obtained by purchasing Equipment Pack 1.',0,0,0,0);
@@ -59,6 +61,12 @@ INSERT INTO "gift_message" VALUES(9405,'Item obtained by purchasing Equipment Pa
 INSERT INTO "gift_message" VALUES(9406,'Item obtained by purchasing Equipment Pack 4.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9407,'Item obtained by purchasing New Player Support Pack.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9408,'Item obtained by purchasing Heavenly Ephemera Pack.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9409,'Item obtained by purchasing Equipment Pack 1 (Restocked).',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9410,'Item obtained by purchasing Equipment Pack 2 (Restocked).',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9411,'Item obtained by purchasing Equipment Pack 3 (Restocked).',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9412,'Item obtained by purchasing Equipment Pack 4 (Restocked).',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9413,'Item obtained by purchasing Equipment Pack 5.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9414,'Item obtained by purchasing Equipment Pack 6.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9501,'Item obtained from the event login bonus day {1}.',13,2,0,0);
 INSERT INTO "gift_message" VALUES(9502,'Item obtained for clearing event quest for the first time.',13,0,0,0);
 INSERT INTO "gift_message" VALUES(9503,'Item obtained for clearing event quest {1}.',13,14,0,0);

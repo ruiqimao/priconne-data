@@ -113,3 +113,6 @@ INSERT INTO "music_list" VALUES(111,'Ready, Set, Go! The Landosol Guild Race',20
 INSERT INTO "music_list" VALUES(112,'Mountain God',20.0,'','2022-12-19 23:00:00','',-1,1000,112,'Mountain God','','','');
 INSERT INTO "music_list" VALUES(113,'Ulti*mate Start Dash',20.0,'','2022-12-19 23:00:00','',-1,1500,113,'Ulti*mate Start Dash','','','');
 INSERT INTO "music_list" VALUES(114,'Seeking the Sea',20.0,'','2022-12-19 23:00:00','',-1,1000,114,'Seeking the Sea','','','');
+INSERT INTO "music_list" VALUES(115,'The Magical Girl Duo: We Are Misty and Purely',20.0,'','2023-01-19 23:00:00','',-1,1000,115,'The Magical Girl Duo: We Are Misty and Purely','','','');
+INSERT INTO "music_list" VALUES(116,'Antibeast',20.0,'','2023-01-19 23:00:00','',-1,1000,116,'Antibeast','','','');
+INSERT INTO "music_list" VALUES(117,'Sunbeam Montage',20.0,'','2023-01-19 23:00:00','',-1,1500,117,'Sunbeam Montage','','','');

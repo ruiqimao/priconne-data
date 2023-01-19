@@ -1248,6 +1248,7 @@ INSERT INTO "skip_monster_data" VALUES(21001005,21001,'Mana Quest Lvl 5',1010807
 INSERT INTO "skip_monster_data" VALUES(21001006,21001,'Mana Quest Lvl 6',101080703,100051);
 INSERT INTO "skip_monster_data" VALUES(21001007,21001,'Mana Quest Lvl 7',101080703,100051);
 INSERT INTO "skip_monster_data" VALUES(21001008,21001,'Mana Quest Lvl 8',101080703,100051);
+INSERT INTO "skip_monster_data" VALUES(21001009,21001,'Mana Quest Lvl 9',101080703,100051);
 INSERT INTO "skip_monster_data" VALUES(21002001,21002,'EXP Quest Lvl 1',101030303,100391);
 INSERT INTO "skip_monster_data" VALUES(21002002,21002,'EXP Quest Lvl 2',101030303,100391);
 INSERT INTO "skip_monster_data" VALUES(21002003,21002,'EXP Quest Lvl 3',101030303,100391);
@@ -1256,6 +1257,7 @@ INSERT INTO "skip_monster_data" VALUES(21002005,21002,'EXP Quest Lvl 5',10103030
 INSERT INTO "skip_monster_data" VALUES(21002006,21002,'EXP Quest Lvl 6',101030303,100391);
 INSERT INTO "skip_monster_data" VALUES(21002007,21002,'EXP Quest Lvl 7',101030303,100391);
 INSERT INTO "skip_monster_data" VALUES(21002008,21002,'EXP Quest Lvl 8',101030303,100391);
+INSERT INTO "skip_monster_data" VALUES(21002009,21002,'EXP Quest Lvl 9',101030303,100391);
 INSERT INTO "skip_monster_data" VALUES(73140350,14,'Tower of Luna: Phantom Passage (October)',720033005,102051);
 INSERT INTO "skip_monster_data" VALUES(73150360,15,'Tower of Luna: Phantom Passage (November)',720033005,102051);
 INSERT INTO "skip_monster_data" VALUES(73160370,16,'Tower of Luna: Phantom Passage (December)',720033005,102051);

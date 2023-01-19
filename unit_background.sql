@@ -105,3 +105,4 @@ INSERT INTO "unit_background" VALUES(112001,'Karyl (New Year)',500910,'Landosol 
 INSERT INTO "unit_background" VALUES(112101,'Suzume (New Year)',500910,'Landosol - Business District (Race)',0.0,2);
 INSERT INTO "unit_background" VALUES(112201,'Kasumi (Magical)',500010,'Landosol - Residential District (Day)',0.0,2);
 INSERT INTO "unit_background" VALUES(112301,'Shiori (Magical)',500010,'Landosol - Residential District (Day)',0.0,2);
+INSERT INTO "unit_background" VALUES(180401,'Pecorine (Princess)',500130,'Esterella Road',0.0,4);

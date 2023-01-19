@@ -1,16 +1,2 @@
 CREATE TABLE 'fke_reward' ('id' INTEGER NOT NULL, 'fke_point' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
-INSERT INTO "fke_reward" VALUES(1,2000,'Fly 2,000 m total in Kuka the Whirling Wonder.',12,94002,5000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(2,4000,'Fly 4,000 m total in Kuka the Whirling Wonder.',12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(3,6000,'Fly 6,000 m total in Kuka the Whirling Wonder.',12,94002,15000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(4,8000,'Fly 8,000 m total in Kuka the Whirling Wonder.',12,94002,20000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(5,10000,'Fly 10,000 m total in Kuka the Whirling Wonder.',8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(6,12000,'Fly 12,000 m total in Kuka the Whirling Wonder.',12,94002,25000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(7,14000,'Fly 14,000 m total in Kuka the Whirling Wonder.',12,94002,30000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(8,16000,'Fly 16,000 m total in Kuka the Whirling Wonder.',12,94002,35000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(9,18000,'Fly 18,000 m total in Kuka the Whirling Wonder.',12,94002,40000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(10,20000,'Fly 20,000 m total in Kuka the Whirling Wonder.',8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(11,22000,'Fly 22,000 m total in Kuka the Whirling Wonder.',12,94002,55000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(12,24000,'Fly 24,000 m total in Kuka the Whirling Wonder.',12,94002,35000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(13,26000,'Fly 26,000 m total in Kuka the Whirling Wonder.',12,94002,40000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(14,28000,'Fly 28,000 m total in Kuka the Whirling Wonder.',12,94002,45000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO "fke_reward" VALUES(15,30000,'Fly 30,000 m total in Kuka the Whirling Wonder.',7,1405,1,8,91002,150,2,23001,10,0,0,0,0,0,0);
+INSERT INTO "fke_reward" VALUES(1,30000,'Fly 30,000 m total in Kuka the Whirling Wonder.',7,1405,1,0,0,0,0,0,0,0,0,0,0,0,0);

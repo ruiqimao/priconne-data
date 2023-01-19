@@ -588,5 +588,6 @@ INSERT INTO "unit_enemy_data" VALUES(612001,'Karyl (New Year)''s Shadow',112001,
 INSERT INTO "unit_enemy_data" VALUES(612101,'Suzume (New Year)''s Shadow',112101,21,7,450,722,2,2.27,0,0,1,'A peculiar monster bearing a striking resemblance to Suzume (New Year).');
 INSERT INTO "unit_enemy_data" VALUES(612201,'Kasumi (Magical)''s Shadow',112201,7,7,450,730,2,2.27,0,0,1,'A peculiar monster bearing a striking resemblance to Kasumi (Magical).');
 INSERT INTO "unit_enemy_data" VALUES(612301,'Shiori (Magical)''s Shadow',112301,8,8,450,712,1,1.97,0,0,1,'A peculiar monster bearing a striking resemblance to Shiori (Magical).');
+INSERT INTO "unit_enemy_data" VALUES(680401,'Pecorine (Princess)''s Shadow',180401,0,0,450,155,1,1.965,0,0,1,'A peculiar monster bearing a striking resemblance to Pecorine (Princess).');
 INSERT INTO "unit_enemy_data" VALUES(902801,'Saren''s Shadow',902801,0,4,600,350,1,2.0,0,0,1,'A peculiar monster bearing a striking resemblance to Saren.');
 INSERT INTO "unit_enemy_data" VALUES(912401,'Rock Lizard',912401,0,14,270,200,1,3.0,0,0,0,'[Physical] Short-ranged attack.\nA rock lizard-like monster\nwhose head is as tough as\nan armor.');

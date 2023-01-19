@@ -98,3 +98,4 @@ INSERT INTO "actual_unit_background" VALUES(112031,'Kiruya Momochi',510350,2);
 INSERT INTO "actual_unit_background" VALUES(112131,'Suzume Amano',510390,4);
 INSERT INTO "actual_unit_background" VALUES(112231,'Kasumi Kirihara',510320,2);
 INSERT INTO "actual_unit_background" VALUES(112331,'Shiori Kashiwazaki',510320,2);
+INSERT INTO "actual_unit_background" VALUES(180431,'Eustiana von Astraea',510350,4);

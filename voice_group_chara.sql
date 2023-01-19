@@ -51,7 +51,7 @@ INSERT INTO "voice_group_chara" VALUES(105401001,'Carmina (Tsumugi)',105401,0,0,
 INSERT INTO "voice_group_chara" VALUES(105501001,'Weissflügel: Landosol Branch (Ayumi)',105501,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(105601001,'Twilight Caravan (Ruka)',105601,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(105701001,'??? (Djeeta)',105701,0,0,0,0,0,0,0,0,0);
-INSERT INTO "voice_group_chara" VALUES(105801001,'Gourmet Guild (Pecorine)',105801,107501,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(105801001,'Gourmet Guild (Pecorine)',105801,107501,180401,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(105901001,'Gourmet Guild (Kokkoro)',105901,107601,111901,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(106001001,'Gourmet Guild (Karyl)',106001,107801,112001,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(106101001,'??? (Muimi)',106101,0,0,0,0,0,0,0,0,0);

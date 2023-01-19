@@ -104,3 +104,4 @@ INSERT INTO "unlock_unit_condition" VALUES(112001,'Karyl (New Year)',1,0,1,2,311
 INSERT INTO "unlock_unit_condition" VALUES(112101,'Suzume (New Year)',1,0,1,2,31121,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(112201,'Kasumi (Magical)',1,0,1,2,31122,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(112301,'Shiori (Magical)',1,0,1,2,31123,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(180401,'Pecorine (Princess)',1,0,1,2,31804,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
