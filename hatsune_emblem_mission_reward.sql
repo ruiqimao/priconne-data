@@ -85,3 +85,11 @@ INSERT INTO "hatsune_emblem_mission_reward" VALUES(99,99001053,15,11001053,1,100
 INSERT INTO "hatsune_emblem_mission_reward" VALUES(100,99001053,8,91002,30,0);
 INSERT INTO "hatsune_emblem_mission_reward" VALUES(101,99001054,15,11001054,1,1003);
 INSERT INTO "hatsune_emblem_mission_reward" VALUES(102,99001054,8,91002,30,0);
+INSERT INTO "hatsune_emblem_mission_reward" VALUES(103,99001055,15,11001055,1,1001);
+INSERT INTO "hatsune_emblem_mission_reward" VALUES(104,99001055,8,91002,30,0);
+INSERT INTO "hatsune_emblem_mission_reward" VALUES(105,99001056,15,11001056,1,1001);
+INSERT INTO "hatsune_emblem_mission_reward" VALUES(106,99001056,8,91002,30,0);
+INSERT INTO "hatsune_emblem_mission_reward" VALUES(107,99001057,15,11001057,1,1002);
+INSERT INTO "hatsune_emblem_mission_reward" VALUES(108,99001057,8,91002,30,0);
+INSERT INTO "hatsune_emblem_mission_reward" VALUES(109,99001058,15,11001058,1,1003);
+INSERT INTO "hatsune_emblem_mission_reward" VALUES(110,99001058,8,91002,30,0);

@@ -68,3 +68,5 @@ INSERT INTO "hatsune_daily_mission_data" VALUES(61033001,101,601,'Battle the Ant
 INSERT INTO "hatsune_daily_mission_data" VALUES(61033002,102,601,'Clear 10 event quests',9004,0,0,0,10,61033002,6004,10033,'2023/01/04 23:00:00','2023/01/17 22:59:59');
 INSERT INTO "hatsune_daily_mission_data" VALUES(61034001,10034101,601,'Battle Ugly Lovely 1 time (Any Difficulty)',9012,0,0,0,1,61034001,6008,10034,'2023/01/18 23:00:00','2023/01/25 22:59:59');
 INSERT INTO "hatsune_daily_mission_data" VALUES(61034002,10034102,601,'Clear 10 event quests',9004,0,0,0,10,61034002,6004,10034,'2023/01/18 23:00:00','2023/01/25 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61035001,10035101,601,'Battle a boss 1 time (Part 1 or 2 / Any Difficulty)',9012,0,0,0,1,61035001,6008,10035,'2023/02/01 23:00:00','2023/02/22 22:59:59');
+INSERT INTO "hatsune_daily_mission_data" VALUES(61035002,10035102,601,'Clear 10 event quests (Part 1 or 2)',9004,0,0,0,10,61035002,6004,10035,'2023/02/01 23:00:00','2023/02/22 22:59:59');

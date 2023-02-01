@@ -53,6 +53,7 @@ INSERT INTO "gift_message" VALUES(9316,'Item converted from Special Gala Exchang
 INSERT INTO "gift_message" VALUES(9317,'Reward obtained from friend support.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9318,'Special Exchange Ticket rewards obtained over the possession limit.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9319,'Item obtained upon purchase.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9320,'Item converted from Comeback Special Gala exchange points.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9401,'Daily Jewel Pack',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9402,'7-Day Stamina Support Pack',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9403,'Item obtained by purchasing Equipment Pack 1.',0,0,0,0);
@@ -118,3 +119,4 @@ INSERT INTO "gift_message" VALUES(9832,'Main Story Part 2 Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9833,'2-Year Pre-Anniversary Bonus Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9834,'2-Year Anniversary Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9835,'2-Year Pre-Anniversary Present',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9836,'Starlight Princess Re:M@STER! Present',0,0,0,0);

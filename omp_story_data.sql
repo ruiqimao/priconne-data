@@ -1,1 +1,12 @@
 CREATE TABLE 'omp_story_data' ('omp_story_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'is_readable_on_result' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('omp_story_id'));
+INSERT INTO "omp_story_data" VALUES(7001,10035,10035103,0,1,0,0,0,0,'Uzuki and Rin''s Memory');
+INSERT INTO "omp_story_data" VALUES(7002,10035,10035107,0,2,0,0,0,0,'New Generations Memory');
+INSERT INTO "omp_story_data" VALUES(7003,10035,10035107,0,4,0,0,0,0,'Uzuki and Mio''s Memory');
+INSERT INTO "omp_story_data" VALUES(7004,10035,10035111,0,6,0,0,0,0,'Gourmet Guild Memory');
+INSERT INTO "omp_story_data" VALUES(7005,10035,10035111,0,7,0,0,0,0,'Rin and Mio''s Memory');
+INSERT INTO "omp_story_data" VALUES(7006,10035,10035111,0,8,0,0,0,0,'New Generations Memory');
+INSERT INTO "omp_story_data" VALUES(7007,10035,10035115,0,9,0,0,0,0,'New Generations & Gourmet Guild Memory');
+INSERT INTO "omp_story_data" VALUES(7008,10035,10035115,0,10,0,0,0,0,'Gourmet Guild Memory');
+INSERT INTO "omp_story_data" VALUES(7102,10035,10035107,0,3,0,0,0,0,'New Generations Memory');
+INSERT INTO "omp_story_data" VALUES(7103,10035,10035107,0,5,0,0,0,0,'Gourmet Guild Memory');
+INSERT INTO "omp_story_data" VALUES(7104,10035,10035115,0,11,0,0,0,0,'New Generations & Gourmet Guild Memory');

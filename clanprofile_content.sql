@@ -18,7 +18,7 @@ INSERT INTO "clanprofile_content" VALUES(16,'Summer Beach (Sunrise)','2022/06/01
 INSERT INTO "clanprofile_content" VALUES(17,'Summer Beach (Sunset)','2022/06/01 23:00:00','',10);
 INSERT INTO "clanprofile_content" VALUES(18,'Summer Beach (Starry Sky)','2022/06/01 23:00:00','',11);
 INSERT INTO "clanprofile_content" VALUES(19,'Underwater Scenery','2022/07/01 23:00:00','',8);
-INSERT INTO "clanprofile_content" VALUES(20,'???','2022/07/01 23:00:00','',29);
+INSERT INTO "clanprofile_content" VALUES(20,'???','2022/07/01 23:00:00','',30);
 INSERT INTO "clanprofile_content" VALUES(21,'St. Theresa''s Academy\n(Friendship Club)','2022/08/19 23:00:00','',27);
 INSERT INTO "clanprofile_content" VALUES(22,'Halloween (Afternoon)','2022/09/01 23:00:00','',6);
 INSERT INTO "clanprofile_content" VALUES(23,'Halloween (Evening)','2022/09/01 23:00:00','',7);
@@ -28,3 +28,4 @@ INSERT INTO "clanprofile_content" VALUES(26,'Dragons'' Nest','2022/10/02 23:00:0
 INSERT INTO "clanprofile_content" VALUES(27,'Festive (Afternoon)','2022/11/12 23:00:00','',2);
 INSERT INTO "clanprofile_content" VALUES(28,'Festive (Evening)','2022/11/12 23:00:00','',3);
 INSERT INTO "clanprofile_content" VALUES(29,'First Sunrise','2022/12/27 23:00:00','',1);
+INSERT INTO "clanprofile_content" VALUES(30,'New Generations','2023/02/01 23:00:00','',29);

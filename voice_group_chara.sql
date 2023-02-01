@@ -65,3 +65,5 @@ INSERT INTO "voice_group_chara" VALUES(109701001,'Re:ZERO (Rem)',109701,0,0,0,0,
 INSERT INTO "voice_group_chara" VALUES(109801001,'Re:ZERO (Ram)',109801,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(109901001,'Re:ZERO (Emilia)',109901,0,0,0,0,0,0,0,0,0);
 INSERT INTO "voice_group_chara" VALUES(110801001,'St. Theresa''s Academy (Friendship Club)(Chloe)',110801,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(112401001,'New Generations (Uzuki)',112401,0,0,0,0,0,0,0,0,0);
+INSERT INTO "voice_group_chara" VALUES(112601001,'New Generations (Mio)',112601,0,0,0,0,0,0,0,0,0);
