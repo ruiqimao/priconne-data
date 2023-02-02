@@ -34,7 +34,7 @@ INSERT INTO "skill_action" VALUES(100300306,1,1,1,0,0,40.0,40.0,3.2,0.0,0.0,0.0,
 INSERT INTO "skill_action" VALUES(100301101,1,1,1,0,0,120.0,120.0,9.6,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(100301102,1,35,0,0,0,1.0,77.0,18.0,1.0,0.0,0.0,0.0,2,1,0,7,0,1,'Equips Blades of Wind for a set period of time.','');
 INSERT INTO "skill_action" VALUES(100301201,1,28,677,100301203,100301202,1.0,2.0,1.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'','');
-INSERT INTO "skill_action" VALUES(100301202,1,1,1,0,0,20.0,20.0,1.6,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Lowers an enemy''s physical defense by {0}.','Physical defense lowered + {0}');
+INSERT INTO "skill_action" VALUES(100301202,1,1,1,0,0,20.0,20.0,1.6,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} physical damage to an enemy.','Physical damage + {0}');
 INSERT INTO "skill_action" VALUES(100301203,1,1,1,0,0,40.0,40.0,3.2,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'','');
 INSERT INTO "skill_action" VALUES(100301204,1,10,21,1,0,1.0,0.6,0.6,12.0,0.0,0.0,1.0,1,1,-1,3,0,1,'Lowers an enemy''s physical defense by {0}.','Physical defense lowered + {0}');
 INSERT INTO "skill_action" VALUES(100301205,1,10,21,1,0,1.0,1.2,1.2,24.0,0.0,0.0,1.0,1,1,-1,3,0,1,'','');
