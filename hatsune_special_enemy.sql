@@ -46,3 +46,7 @@ INSERT INTO "hatsune_special_enemy" VALUES(610035601,10035,1,0,-220,0);
 INSERT INTO "hatsune_special_enemy" VALUES(610035602,10035,1,0,10,0);
 INSERT INTO "hatsune_special_enemy" VALUES(610035603,10035,1,0,100,0);
 INSERT INTO "hatsune_special_enemy" VALUES(610035604,10035,1,0,800,0);
+INSERT INTO "hatsune_special_enemy" VALUES(610037501,10037,1,0,80,0);
+INSERT INTO "hatsune_special_enemy" VALUES(610037502,10037,1,0,180,0);
+INSERT INTO "hatsune_special_enemy" VALUES(610037503,10037,1,0,280,0);
+INSERT INTO "hatsune_special_enemy" VALUES(610037504,10037,1,0,380,0);

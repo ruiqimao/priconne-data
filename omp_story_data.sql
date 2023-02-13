@@ -7,6 +7,10 @@ INSERT INTO "omp_story_data" VALUES(7005,10035,10035111,0,7,0,0,0,0,'Rin and Mio
 INSERT INTO "omp_story_data" VALUES(7006,10035,10035111,0,8,0,0,0,0,'New Generations Memory');
 INSERT INTO "omp_story_data" VALUES(7007,10035,10035115,0,9,0,0,0,0,'New Generations & Gourmet Guild Memory');
 INSERT INTO "omp_story_data" VALUES(7008,10035,10035115,0,10,0,0,0,0,'Gourmet Guild Memory');
+INSERT INTO "omp_story_data" VALUES(7009,10036,10036111,0,14,0,0,0,0,'New Generations & Gourmet Guild Memory');
 INSERT INTO "omp_story_data" VALUES(7102,10035,10035107,0,3,0,0,0,0,'New Generations Memory');
 INSERT INTO "omp_story_data" VALUES(7103,10035,10035107,0,5,0,0,0,0,'Gourmet Guild Memory');
 INSERT INTO "omp_story_data" VALUES(7104,10035,10035115,0,11,0,0,0,0,'New Generations & Gourmet Guild Memory');
+INSERT INTO "omp_story_data" VALUES(7105,10036,10036111,0,12,0,0,0,0,'New Generations & Gourmet Guild Memory');
+INSERT INTO "omp_story_data" VALUES(7106,10036,10036111,0,13,0,0,0,0,'New Generations & Gourmet Guild Memory');
+INSERT INTO "omp_story_data" VALUES(7201,10035,10035103,0,15,1,7,2405,1,'');

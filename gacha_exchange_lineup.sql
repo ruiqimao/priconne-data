@@ -114,3 +114,4 @@ INSERT INTO "gacha_exchange_lineup" VALUES(112,67,107101,3,0);
 INSERT INTO "gacha_exchange_lineup" VALUES(113,68,110001,3,0);
 INSERT INTO "gacha_exchange_lineup" VALUES(114,68,110301,3,0);
 INSERT INTO "gacha_exchange_lineup" VALUES(115,69,112401,3,1011);
+INSERT INTO "gacha_exchange_lineup" VALUES(116,70,112501,3,1012);

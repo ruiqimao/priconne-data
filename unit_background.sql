@@ -106,5 +106,6 @@ INSERT INTO "unit_background" VALUES(112101,'Suzume (New Year)',500910,'Landosol
 INSERT INTO "unit_background" VALUES(112201,'Kasumi (Magical)',500010,'Landosol - Residential District (Day)',0.0,2);
 INSERT INTO "unit_background" VALUES(112301,'Shiori (Magical)',500010,'Landosol - Residential District (Day)',0.0,2);
 INSERT INTO "unit_background" VALUES(112401,'Uzuki (IM@S CG)',500920,'Musa Town (Day)',0.0,4);
+INSERT INTO "unit_background" VALUES(112501,'Rin (IM@S CG)',500920,'Musa Town (Day)',0.0,2);
 INSERT INTO "unit_background" VALUES(112601,'Mio (IM@S CG)',500920,'Musa Town (Day)',0.0,4);
 INSERT INTO "unit_background" VALUES(180401,'Pecorine (Princess)',500130,'Esterella Road',0.0,4);

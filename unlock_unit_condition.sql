@@ -105,5 +105,6 @@ INSERT INTO "unlock_unit_condition" VALUES(112101,'Suzume (New Year)',1,0,1,2,31
 INSERT INTO "unlock_unit_condition" VALUES(112201,'Kasumi (Magical)',1,0,1,2,31122,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(112301,'Shiori (Magical)',1,0,1,2,31123,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(112401,'Uzuki (IM@S CG)',1,0,1,2,31124,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO "unlock_unit_condition" VALUES(112501,'Rin (IM@S CG)',1,0,1,2,31125,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(112601,'Mio (IM@S CG)',1,0,1,2,31126,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO "unlock_unit_condition" VALUES(180401,'Pecorine (Princess)',1,0,1,2,31804,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

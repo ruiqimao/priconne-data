@@ -116,3 +116,6 @@ INSERT INTO "music_list" VALUES(114,'Seeking the Sea',20.0,'','2022-12-19 23:00:
 INSERT INTO "music_list" VALUES(115,'The Magical Girl Duo: We Are Misty and Purely',20.0,'','2023-01-19 23:00:00','',-1,1000,115,'The Magical Girl Duo: We Are Misty and Purely','','','');
 INSERT INTO "music_list" VALUES(116,'Antibeast',20.0,'','2023-01-19 23:00:00','',-1,1000,116,'Antibeast','','','');
 INSERT INTO "music_list" VALUES(117,'Sunbeam Montage',20.0,'','2023-01-19 23:00:00','',-1,1500,117,'Sunbeam Montage','','','');
+INSERT INTO "music_list" VALUES(118,'Aiming for Idoldom!',20.0,'','2023-02-14 23:00:00','',-1,1000,118,'Aiming for Idoldom!','','','');
+INSERT INTO "music_list" VALUES(119,'Footprints of Memories',20.0,'','2023-02-14 23:00:00','',-1,1000,119,'Footprints of Memories','','','');
+INSERT INTO "music_list" VALUES(120,'Princess Knight',20.0,'','2023-02-14 23:00:00','',-1,1000,120,'Princess Knight','','','');

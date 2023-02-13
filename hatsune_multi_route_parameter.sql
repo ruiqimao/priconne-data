@@ -9,3 +9,8 @@ INSERT INTO "hatsune_multi_route_parameter" VALUES(7,10028112,1,10028115,0,0,'')
 INSERT INTO "hatsune_multi_route_parameter" VALUES(8,10028101,3,10028103,0,0,'');
 INSERT INTO "hatsune_multi_route_parameter" VALUES(9,10028105,3,10028115,0,0,'');
 INSERT INTO "hatsune_multi_route_parameter" VALUES(10,10028112,4,150,0,0,'');
+INSERT INTO "hatsune_multi_route_parameter" VALUES(11,10037104,11,10037104,10037107,0,'');
+INSERT INTO "hatsune_multi_route_parameter" VALUES(12,10037108,11,10037108,10037109,0,'');
+INSERT INTO "hatsune_multi_route_parameter" VALUES(13,10037110,11,10037110,10037114,0,'');
+INSERT INTO "hatsune_multi_route_parameter" VALUES(14,10037115,11,10037115,10037115,0,'');
+INSERT INTO "hatsune_multi_route_parameter" VALUES(15,10037110,4,120,0,0,'');

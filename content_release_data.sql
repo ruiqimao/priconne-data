@@ -27,3 +27,4 @@ INSERT INTO "content_release_data" VALUES(603,1,0,11016014,'To unlock, clear Mai
 INSERT INTO "content_release_data" VALUES(701,1,0,11003001,'To unlock, clear Main Quest 3-1 (NORMAL)');
 INSERT INTO "content_release_data" VALUES(904,1,0,11002009,'To unlock, clear Main Quest 2-9 (NORMAL)');
 INSERT INTO "content_release_data" VALUES(906,1,0,0,'');
+INSERT INTO "content_release_data" VALUES(8001,1,0,11003002,'To unlock, clear Main Quest 3-2 (NORMAL)');

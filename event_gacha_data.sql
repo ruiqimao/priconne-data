@@ -34,3 +34,5 @@ INSERT INTO "event_gacha_data" VALUES(10032,10032,'New Year''s Day Twinkle Crisi
 INSERT INTO "event_gacha_data" VALUES(10033,10033,'The Magical Girl Duo: We Are Misty & Purely',2,60322,1,5);
 INSERT INTO "event_gacha_data" VALUES(10034,10034,'Rumble on Valentine''s Day! Fight for Your Right to Love',2,60332,1,5);
 INSERT INTO "event_gacha_data" VALUES(10035,10035,'Starlight Princess Re:M@STER!',2,60342,1,5);
+INSERT INTO "event_gacha_data" VALUES(10036,10036,'Starlight Princess Re:M@STER!',2,60342,1,5);
+INSERT INTO "event_gacha_data" VALUES(10037,10037,'Landosol''s Ace Detective: The Case of the Woeful Stalker',2,60362,1,5);
