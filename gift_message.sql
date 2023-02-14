@@ -78,6 +78,7 @@ INSERT INTO "gift_message" VALUES(9507,'Item obtained from {1}.',13,12,0,0);
 INSERT INTO "gift_message" VALUES(9508,'Item obtained from {0}.',13,0,0,0);
 INSERT INTO "gift_message" VALUES(9509,'Item obtained for solving a riddle.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9510,'Item obtained from {0}.',18,0,0,0);
+INSERT INTO "gift_message" VALUES(9511,'Item obtained from February event content.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9512,'Item obtained for clearing a Side Story quest for the first time.',13,0,0,0);
 INSERT INTO "gift_message" VALUES(9513,'Item obtained for clearing Side Story quest {1}.',13,14,0,0);
 INSERT INTO "gift_message" VALUES(9514,'Item obtained from Side Story boss "{1}."',13,15,0,0);
