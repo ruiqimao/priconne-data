@@ -24,3 +24,4 @@ INSERT INTO "event_story_data" VALUES(5031,5,10031,'Ready, Set, Go! The Landosol
 INSERT INTO "event_story_data" VALUES(5033,5,10033,'The Magical Girl Duo: We Are Misty & Purely',0,1,'2023/01/04 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5035,5,10035,'Starlight Princess Re:M@STER!',0,1,'2023/02/01 23:00:00','2030/04/24 14:59:59');
 INSERT INTO "event_story_data" VALUES(5036,5,10036,'Starlight Princess Re:M@STER!',0,1,'2023/02/13 23:00:00','2030/04/24 14:59:59');
+INSERT INTO "event_story_data" VALUES(5038,5,10038,'The Angelic Foundation and the Saintly School Lycéennes',0,1,'2023/03/04 23:00:00','2030/04/24 14:59:59');
