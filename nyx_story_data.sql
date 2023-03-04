@@ -1,1 +1,16 @@
 CREATE TABLE 'nyx_story_data' ('story_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, 'adv_flg' INTEGER NOT NULL, 'adv_id' INTEGER NOT NULL, PRIMARY KEY('story_id'));
+INSERT INTO "nyx_story_data" VALUES(11,1,1,'','','0',10038105,0,1,5038600);
+INSERT INTO "nyx_story_data" VALUES(12,2,1,'1st Year—Chieru','A Language for the Masses','0',10038105,0,0,0);
+INSERT INTO "nyx_story_data" VALUES(13,3,1,'2nd Year—Chloe','I''m Pretty Bad at Essays','0',10038107,0,0,0);
+INSERT INTO "nyx_story_data" VALUES(14,4,1,'3rd Year—Yuni','The Call of the Heavens','0',10038109,0,0,0);
+INSERT INTO "nyx_story_data" VALUES(21,5,2,'','','0',10038111,0,2,5038601);
+INSERT INTO "nyx_story_data" VALUES(22,6,2,'Akino''s Log','Eureka!','0',10038111,0,0,0);
+INSERT INTO "nyx_story_data" VALUES(23,7,2,'Tamaki''s Log','Time to Build!','0',10038112,0,0,0);
+INSERT INTO "nyx_story_data" VALUES(24,8,2,'Yukari''s Log','When Did I Write This...?','0',10038113,0,0,0);
+INSERT INTO "nyx_story_data" VALUES(25,9,2,'Mifuyu''s Log','I Can''t Let This Continue','0',10038114,0,0,0);
+INSERT INTO "nyx_story_data" VALUES(26,10,2,'Conclusion','Beyond the Special Lesson','0',10038115,0,0,0);
+INSERT INTO "nyx_story_data" VALUES(31,11,3,'','','0',10038115,1,2,5038602);
+INSERT INTO "nyx_story_data" VALUES(32,12,3,'Thesis on Inherited Inspiration','Dev Log: Brainstorming','0',10038115,1,0,0);
+INSERT INTO "nyx_story_data" VALUES(33,13,3,'Thesis on Deficient Drive','Dev Log: Prototyping','0',10038115,2,0,0);
+INSERT INTO "nyx_story_data" VALUES(34,14,3,'Thesis on Aesthetic Achievement','Dev Log: Refinement','0',10038115,3,0,0);
+INSERT INTO "nyx_story_data" VALUES(35,15,3,'','','2023/03/18 23:00:00',10038115,3,3,5038603);

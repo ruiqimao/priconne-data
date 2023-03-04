@@ -652,3 +652,9 @@ INSERT INTO "notif_data" VALUES(112501,3,'You''ve got a full stamina supply at y
 INSERT INTO "notif_data" VALUES(112501,4,'Your guildhouse has a full supply of EXP potions. I feel like my Violet Power might be getting stronger too...');
 INSERT INTO "notif_data" VALUES(112501,5,'Your guildhouse Mana supply is full. Maybe it''s time to buy a new set of equipment?');
 INSERT INTO "notif_data" VALUES(112501,6,'All the item supplies at your guildhouse are full. They''ll go to waste if you don''t come and clear them out.');
+INSERT INTO "notif_data" VALUES(111001,1,'Ahem. Your stamina seems to be full. In the terms of the layfolk, it''s time to hunt. Prepare to sally forth.');
+INSERT INTO "notif_data" VALUES(111001,2,'The skip tickets in your guildhouse have reached the limit of their capacity. I suggest you proceed to withdraw them.');
+INSERT INTO "notif_data" VALUES(111001,3,'The stamina at your guildhouse has reached the limit of its capacity. I suggest that you claim it forthwith.');
+INSERT INTO "notif_data" VALUES(111001,4,'The EXP potions at your guildhouse have reached the limit of their capacity. I suggest you retrieve them with haste.');
+INSERT INTO "notif_data" VALUES(111001,5,'The Mana at your guildhouse has reached the limit of its capacity. I suggest that you spend it with abandon.');
+INSERT INTO "notif_data" VALUES(111001,6,'All the supplies at your guildhouse have reached the limits of their capacity. What possessed you to leave them unchecked for so long?');

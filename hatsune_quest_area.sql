@@ -84,3 +84,5 @@ INSERT INTO "hatsune_quest_area" VALUES(10036101,10036,'Musa Town',201,'bgm_M341
 INSERT INTO "hatsune_quest_area" VALUES(10036201,10036,'Musa Town',201,'bgm_M341','bgm_M341','2023/02/13 23:00:00','2023/02/22 22:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10037101,10037,'Landosol City',201,'bgm_M206','bgm_M206','2023/02/18 23:00:00','2023/02/25 22:59:59',1,1,115,0,0,'0','0',0);
 INSERT INTO "hatsune_quest_area" VALUES(10037201,10037,'Landosol City',201,'bgm_M206','bgm_M206','2023/02/18 23:00:00','2023/02/25 22:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10038101,10038,'St. Theresa''s Academy',201,'bgm_M343','bgm_M343','2023/03/04 23:00:00','2023/03/18 22:59:59',1,1,45,0,0,'0','0',0);
+INSERT INTO "hatsune_quest_area" VALUES(10038201,10038,'St. Theresa''s Academy',201,'bgm_M343','bgm_M343','2023/03/04 23:00:00','2023/03/18 22:59:59',1,0,0,0,0,'0','0',0);
