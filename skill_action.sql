@@ -941,6 +941,10 @@ INSERT INTO "skill_action" VALUES(109200201,1,1,2,0,0,20.0,20.0,1.6,0.0,0.0,0.0,
 INSERT INTO "skill_action" VALUES(109200301,1,35,0,0,0,1.0,50.0,12.0,1.0,0.0,0.0,0.0,2,2,200,3,0,99,'Grants Spirit''s Blessing to allies in range.','');
 INSERT INTO "skill_action" VALUES(109200302,1,8,2,0,0,1.1,0.0,12.0,0.0,0.0,0.0,0.0,2,2,200,3,0,99,'Boosts action speed of allies in range.','');
 INSERT INTO "skill_action" VALUES(109200303,1,10,30,1,0,1.0,12.5,12.5,12.0,0.0,0.0,1.0,2,2,200,3,0,99,'Boosts magic attack of all allies in range by {0}.','Magic attack boost + {0}');
+INSERT INTO "skill_action" VALUES(109201201,1,1,2,0,0,33.5,33.5,2.7,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} magic damage to an enemy.','Magic damage + {0}');
+INSERT INTO "skill_action" VALUES(109201202,1,28,650,109201203,109201204,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'','');
+INSERT INTO "skill_action" VALUES(109201203,1,16,1,0,0,100.0,0.0,0.0,0.0,0.0,0.0,1.0,2,3,2160,3,0,99,'Recovers all allies'' TP by {0}.','');
+INSERT INTO "skill_action" VALUES(109201204,1,8,2,0,0,1.25,0.0,12.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'Boosts own action speed.','');
 INSERT INTO "skill_action" VALUES(109250101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(109251101,1,90,4,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(109300101,1,26,109300103,3,0,102.0,0.12,0.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'','');
@@ -948,6 +952,8 @@ INSERT INTO "skill_action" VALUES(109300102,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.
 INSERT INTO "skill_action" VALUES(109300103,1,1,2,0,0,4.2,4.2,0.45,0.0,0.0,0.0,0.0,1,2,200,3,0,99,'Deals {0} magic damage to enemies in range 5 times.','Magic damage + {0}');
 INSERT INTO "skill_action" VALUES(109300201,1,33,5,2,0,30.0,30.0,1.0,0.0,0.0,0.0,1.0,2,3,0,7,0,1,'Summons a Mr. Gawker that deals {0} damage to an enemy that attacks Lou, then disappears. (Up to 5)','Counter damage + {0}');
 INSERT INTO "skill_action" VALUES(109300301,1,1,2,0,0,24.0,24.0,2.0,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,'Deals {0} magic damage to an enemy.','Magic damage + {0}');
+INSERT INTO "skill_action" VALUES(109301201,1,33,5,2,0,30.0,30.0,2.0,0.0,0.0,0.0,1.0,2,3,0,7,0,1,'Summons 2 Mr. Gawkers that each deal {0} damage to an enemy that attacks Lou, then disappear. (Up to 5)','Counter damage + {0}');
+INSERT INTO "skill_action" VALUES(109301202,1,10,30,1,0,1.0,10.0,10.0,90.0,0.0,0.0,1.0,2,1,0,7,0,1,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(109350101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(109351101,1,90,4,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(109400101,1,1,2,0,0,32.0,32.0,2.55,0.0,0.0,0.0,0.0,1,1,890,3,0,99,'Deals {0} magic damage to enemies in range.','Magic damage + {0}');
@@ -955,6 +961,11 @@ INSERT INTO "skill_action" VALUES(109400201,1,21,1,0,0,2.2,0.0,0.0,0.0,0.0,0.0,0
 INSERT INTO "skill_action" VALUES(109400202,1,1,2,0,0,20.0,20.0,1.6,0.0,0.0,0.0,1.0,1,1,2160,3,0,1,'Deals {0} magic damage to an enemy.','Magic damage + {0}');
 INSERT INTO "skill_action" VALUES(109400203,1,2,1,0,0,325.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,2160,3,0,1,'','');
 INSERT INTO "skill_action" VALUES(109400301,1,36,4,0,0,2.0,2.0,0.15,0.0,8.5,0.0,300.0,1,1,2160,14,0,1,'Deploys a field that deals {0} magic damage every second.','Damage per second + {0}');
+INSERT INTO "skill_action" VALUES(109401201,1,21,1,0,0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,2,1,0,7,0,1,'Becomes immune to all damage while in flight.','');
+INSERT INTO "skill_action" VALUES(109401202,1,1,2,0,0,26.0,26.0,2.1,0.0,0.0,0.0,1.0,1,1,2160,3,0,1,'Deals {0} magic damage to an enemy.','Magic damage + {0}');
+INSERT INTO "skill_action" VALUES(109401203,1,2,1,0,0,325.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,2160,3,0,1,'','');
+INSERT INTO "skill_action" VALUES(109401204,1,7,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,2160,3,0,1,'','');
+INSERT INTO "skill_action" VALUES(109401205,1,1,2,0,0,24.0,24.0,1.89,0.0,0.0,0.0,1.0,1,2,450,3,0,99,'Deals {0} magic damage to enemies in range.','Magic damage + {0}');
 INSERT INTO "skill_action" VALUES(109450101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(109451101,1,90,4,0,0,1.0,240.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,'Boosts own magic attack by {0}.','Magic attack boost + {0}');
 INSERT INTO "skill_action" VALUES(109500101,1,4,2,0,0,1.0,22.5,22.5,2.1,0.0,0.0,0.0,2,1,0,7,0,1,'Recovers own HP by {0}.','HP recovery + {0}');

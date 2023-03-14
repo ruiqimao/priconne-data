@@ -68,6 +68,7 @@ INSERT INTO "gift_message" VALUES(9411,'Item obtained by purchasing Equipment Pa
 INSERT INTO "gift_message" VALUES(9412,'Item obtained by purchasing Equipment Pack 4 (Restocked).',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9413,'Item obtained by purchasing Equipment Pack 5.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9414,'Item obtained by purchasing Equipment Pack 6.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9415,'Item obtained by purchasing New Player 3-Star Deluxe Pack',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9501,'Item obtained from the event login bonus day {1}.',13,2,0,0);
 INSERT INTO "gift_message" VALUES(9502,'Item obtained for clearing event quest for the first time.',13,0,0,0);
 INSERT INTO "gift_message" VALUES(9503,'Item obtained for clearing event quest {1}.',13,14,0,0);
