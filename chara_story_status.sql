@@ -558,6 +558,13 @@ INSERT INTO "chara_story_status" VALUES(1108005,'Chloe''s Episode 5',2,40,0,0,0,
 INSERT INTO "chara_story_status" VALUES(1108006,'Chloe''s Episode 6',2,60,0,0,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1108007,'Chloe''s Episode 7',2,60,0,0,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1108008,'Chloe''s Episode 8',2,90,6,10,0,0,0,0,0,0,1108,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1109002,'Chieru''s Episode 2',2,15,0,0,0,0,0,0,0,0,1109,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1109003,'Chieru''s Episode 3',2,15,0,0,0,0,0,0,0,0,1109,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1109004,'Chieru''s Episode 4',2,30,0,0,0,0,0,0,0,0,1109,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1109005,'Chieru''s Episode 5',2,40,0,0,0,0,0,0,0,0,1109,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1109006,'Chieru''s Episode 6',2,40,6,10,0,0,0,0,0,0,1109,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1109007,'Chieru''s Episode 7',2,40,6,10,0,0,0,0,0,0,1109,0,0,0,0,0,0,0,0,0);
+INSERT INTO "chara_story_status" VALUES(1109008,'Chieru''s Episode 8',2,80,6,15,0,0,0,0,0,0,1109,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1110002,'Yuni''s Episode 2',5,3,0,0,0,0,0,0,0,0,1110,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1110003,'Yuni''s Episode 3',5,3,0,0,0,0,0,0,0,0,1110,0,0,0,0,0,0,0,0,0);
 INSERT INTO "chara_story_status" VALUES(1110004,'Yuni''s Episode 4',5,6,0,0,0,0,0,0,0,0,1110,0,0,0,0,0,0,0,0,0);

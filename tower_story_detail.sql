@@ -62,3 +62,6 @@ INSERT INTO "tower_story_detail" VALUES(7010005,7010,'Tower of Luna Chapter 10: 
 INSERT INTO "tower_story_detail" VALUES(7011000,7011,'Tower of Luna Chapter 11: Opening','A Clamorous Start',2,0,7010005,0,108,71180390,0,8,91002,20,0,0,0,0,0,0,'2020/03/12 12:00:00','2030/04/24 14:59:59');
 INSERT INTO "tower_story_detail" VALUES(7011001,7011,'Tower of Luna Chapter 11: Episode 1','Ninpo and the Sword',2,0,7011000,0,108,71190395,0,8,91002,20,0,0,0,0,0,0,'2020/03/12 12:00:00','2030/04/24 14:59:59');
 INSERT INTO "tower_story_detail" VALUES(7011002,7011,'Tower of Luna Chapter 11: Episode 2','Peculiar Guilds',2,0,7011001,0,108,71190400,0,8,91002,20,0,0,0,0,0,0,'2020/03/12 12:00:00','2030/04/24 14:59:59');
+INSERT INTO "tower_story_detail" VALUES(7011003,7011,'Tower of Luna Chapter 11: Episode 3','Too Much Togoku Talk',2,0,7011002,0,108,71190400,0,8,91002,20,0,0,0,0,0,0,'2023/03/19 13:00:00','2030/04/24 14:59:59');
+INSERT INTO "tower_story_detail" VALUES(7011004,7011,'Tower of Luna Chapter 11: Episode 4','Bonded by the Sword',2,0,7011003,0,108,71200405,0,8,91002,20,0,0,0,0,0,0,'2023/03/19 13:00:00','2030/04/24 14:59:59');
+INSERT INTO "tower_story_detail" VALUES(7011005,7011,'Tower of Luna Chapter 11: Episode 5','Fresh Finobi Fellowship',2,0,7011004,0,108,71200410,0,8,91002,20,0,0,0,0,0,0,'2023/03/19 13:00:00','2030/04/24 14:59:59');

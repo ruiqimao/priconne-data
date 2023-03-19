@@ -555,6 +555,11 @@ INSERT INTO "skill_data" VALUES(1108002,'Violet Dusk',0,0,0.73,110800201,1108002
 INSERT INTO "skill_data" VALUES(1108003,'Silvery Moonlight',1,0,0.57,110800301,110800302,110800303,110800304,0,0,0,0,0,0,0,0,0,0,'Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount. Damage and debuff both increase based on the number of Cower effects on the target.',2004);
 INSERT INTO "skill_data" VALUES(1108501,'Deepening Night',0,0,0.0,110850101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1108511,'Deepening Night+',0,0,0.0,110851101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1109001,'Cheru-Cheru☆Carnage',0,0,0.0,110900101,110900102,110900103,0,0,0,0,0,0,0,0,0,0,0,'Deals large physical damage to an enemy directly in front. Large boost to own physical attack and physical critical rate.',1001);
+INSERT INTO "skill_data" VALUES(1109002,'Chell☆We☆Dance?',0,0,1.0,110900201,110900202,110900203,110900204,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack, physical critical rate and action speed. Applies 1 "Cheru" effect to self for every critical hit landed on an enemy. Up to 30 Cheru effects can be applied at once.',2003);
+INSERT INTO "skill_data" VALUES(1109003,'Mega☆Cheru~n',0,0,1.0,110900301,110900302,110900303,110900304,110900305,110900306,0,0,110900301,0,0,0,0,0,'Deals small physical damage to an enemy directly in front and reduces their physical attack by a large amount. Small boost to own physical attack and physical critical rate. Stat boosts increase based on the number of Cheru effects on self.',2004);
+INSERT INTO "skill_data" VALUES(1109501,'The Chelliest Girl in the World',0,0,0.0,110950101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Moderate boost to own physical attack at start of battle.',3001);
+INSERT INTO "skill_data" VALUES(1109511,'The Chelliest Girl in the World+',0,0,0.0,110951101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Large boost to own physical attack at start of battle.',3001);
 INSERT INTO "skill_data" VALUES(1110001,'Philosophy of Perception and Potential',1,0,0.0,111000101,111000102,0,0,0,0,0,0,0,0,0,0,0,0,'Massive boost to physical attack and large boost to physical critical rate of all allies.',1003);
 INSERT INTO "skill_data" VALUES(1110002,'Hero Generation Theorem',1,0,0.73,111000201,111000202,111000203,111000204,111000205,0,0,0,111000201,111000201,0,0,0,0,'Large boost to the physical attack and physical critical rate of the ally with the highest physical attack, and recovers their TP by a small amount, but lowers own physical and magical defense by a small amount.',2003);
 INSERT INTO "skill_data" VALUES(1110003,'A Study in Insulating Factors',1,0,0.57,111000301,111000302,111000303,0,0,0,0,0,0,0,0,0,0,0,'Grants TP regen to all allies and deploys a barrier that negates magical damage around them, but lowers own magical attack by a large amount.',2013);
@@ -1396,6 +1401,14 @@ INSERT INTO "skill_data" VALUES(3070003,'',1,0,2.0,307000301,307000302,307000303
 INSERT INTO "skill_data" VALUES(3070004,'',1,0,2.0,307000401,307000402,307000403,307000404,0,0,0,0,0,0,0,0,0,0,'Gigas Awakening',1001);
 INSERT INTO "skill_data" VALUES(3070005,'',1,0,2.0,307000501,307000502,307000503,307000504,0,0,0,0,0,0,0,0,0,0,'Gigas Awakening (SP)',1001);
 INSERT INTO "skill_data" VALUES(3070006,'',1,0,2.0,307000601,0,0,0,0,0,0,0,0,0,0,0,0,0,'Gigas Standard Attack',1001);
+INSERT INTO "skill_data" VALUES(3070043,'',1,0,2.0,307004301,307004302,307004303,307004304,307004305,0,0,0,0,0,0,0,0,0,'Gigas Skill 2 (SP2)',1001);
+INSERT INTO "skill_data" VALUES(3070053,'',1,0,2.0,307005301,307005302,307005303,307005304,307005305,0,0,0,0,0,0,0,0,0,'Gigas Skill 2 (SP3)',1001);
+INSERT INTO "skill_data" VALUES(3070081,'',1,0,2.0,307008101,0,0,0,0,0,0,0,0,0,0,0,0,0,'Gigas UB',1001);
+INSERT INTO "skill_data" VALUES(3070082,'',1,0,2.0,307008201,307008202,0,0,0,0,0,0,307008201,0,0,0,0,0,'Gigas Skill 1',1001);
+INSERT INTO "skill_data" VALUES(3070083,'',1,0,2.0,307008301,307008302,307008303,307008304,307008305,307008306,0,0,0,0,0,0,0,0,'Gigas Skill 2',1001);
+INSERT INTO "skill_data" VALUES(3070084,'',1,0,2.0,307008401,307008402,307008403,307008404,0,0,0,0,0,0,0,0,0,0,'Gigas Awakening',1001);
+INSERT INTO "skill_data" VALUES(3070085,'',1,0,2.0,307008501,307008502,307008503,307008504,0,0,0,0,0,0,0,0,0,0,'Gigas Awakening (SP)',1001);
+INSERT INTO "skill_data" VALUES(3070086,'',1,0,2.0,307008601,0,0,0,0,0,0,0,0,0,0,0,0,0,'Gigas Standard Attack',1001);
 INSERT INTO "skill_data" VALUES(3071001,'',0,0,0.0,307100101,0,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3071002,'',0,0,0.0,307100201,307100202,307100203,307100204,0,0,0,0,307100201,307100201,307100201,0,0,0,'',1001);
 INSERT INTO "skill_data" VALUES(3071003,'',0,0,5.8,307100301,307100302,0,0,0,0,0,0,0,0,0,0,0,0,'',1001);

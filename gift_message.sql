@@ -69,6 +69,7 @@ INSERT INTO "gift_message" VALUES(9412,'Item obtained by purchasing Equipment Pa
 INSERT INTO "gift_message" VALUES(9413,'Item obtained by purchasing Equipment Pack 5.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9414,'Item obtained by purchasing Equipment Pack 6.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9415,'Item obtained by purchasing New Player 3-Star Deluxe Pack',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9416,'Item obtained by purchasing New Player Jump-start Pack',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9501,'Item obtained from the event login bonus day {1}.',13,2,0,0);
 INSERT INTO "gift_message" VALUES(9502,'Item obtained for clearing event quest for the first time.',13,0,0,0);
 INSERT INTO "gift_message" VALUES(9503,'Item obtained for clearing event quest {1}.',13,14,0,0);
@@ -127,3 +128,4 @@ INSERT INTO "gift_message" VALUES(9834,'2-Year Anniversary Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9835,'2-Year Pre-Anniversary Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9836,'Starlight Princess Re:M@STER! Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9837,'Countdown to Spring Login Bonus',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9838,'The Twin Flowers of Astrum Present',0,0,0,0);

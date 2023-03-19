@@ -651,6 +651,14 @@ INSERT INTO "story_detail" VALUES(1108005,1108,'Chloe Episode 5','Chloe''s Part-
 INSERT INTO "story_detail" VALUES(1108006,1108,'Chloe Episode 6','Chloe''s Part-Time Pursuits: The Delivery',0,0,1108005,6,110801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1108007,1108,'Chloe Episode 7','Chloe''s Part-Time Pursuits: The Restaurant',0,0,1108006,7,110801,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1108008,1108,'Chloe Episode 8','Chloe''s Earnest Emotions: Budding Affection',0,0,1108007,8,110801,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1109001,1109,'Chieru Episode 1','Just Another Magical Day',0,0,0,0,110901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1109002,1109,'Chieru Episode 2','An Overwhelmingly Underwhelming Boy',0,0,1109001,2,110901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1109003,1109,'Chieru Episode 3','Weirdness Is a Virtue',0,0,1109002,3,110901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1109004,1109,'Chieru Episode 4','A Breath of Fresh Air',0,0,1109003,4,110901,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1109005,1109,'Chieru Episode 5','One Girl''s Choice Is Another Girl''s Chance',0,0,1109004,5,110901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1109006,1109,'Chieru Episode 6','Over the Hills and Far Away',0,0,1109005,6,110901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1109007,1109,'Chieru Episode 7','A Rapid Recreational Rhapsody',0,0,1109006,7,110901,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "story_detail" VALUES(1109008,1109,'Chieru Episode 8','Time Waits for No Chellster',0,0,1109007,8,110901,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1110001,1110,'Yuni Episode 1','On the Ramifications of Dietary Routines',0,0,0,0,111001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1110002,1110,'Yuni Episode 2','On the Origins and Inaccuracy of Folklore',0,0,1110001,2,111001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(1110003,1110,'Yuni Episode 3','On Contemporary Hospitality in Practice',0,0,1110002,3,111001,0,0,8,91002,20,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
@@ -905,6 +913,11 @@ INSERT INTO "story_detail" VALUES(2101011,2101,'Part 2 Chapter 1 Episode 11','Pa
 INSERT INTO "story_detail" VALUES(2101012,2101,'Part 2 Chapter 1 Episode 12','Rage Legion',5,0,2101011,0,0,11032011,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2101013,2101,'Part 2 Chapter 1 Episode 13','A New Key',5,0,2101012,0,0,11032013,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(2101014,2101,'Part 2 Chapter 1 Episode 14','A New Power',5,1,2101013,0,0,11032014,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2102001,2102,'Part 2 Chapter 2 Episode 1','When Hunger Strikes',5,0,2101014,0,0,11033003,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2102002,2102,'Part 2 Chapter 2 Episode 2','Neneka''s Intuition',5,0,2102001,0,0,11033006,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2102003,2102,'Part 2 Chapter 2 Episode 3','Queen Labyrinth''s Return',5,0,2102002,0,0,11033009,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2102004,2102,'Part 2 Chapter 2 Episode 4','The Serene Maiden',5,0,2102003,0,0,11033012,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
+INSERT INTO "story_detail" VALUES(2102005,2102,'Part 2 Chapter 2 Episode 5','The Girls'' Desires',5,1,2102004,0,0,11033014,0,8,91002,20,0,0,0,0,0,0,'2015/04/04 15:00:00','2030/12/20 14:59:59');
 INSERT INTO "story_detail" VALUES(3001001,3001,'Gourmet Guild Episode 1','A Table Full of Happiness',5,0,0,0,1,11001004,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001002,3001,'Gourmet Guild Episode 2','Different Strokes, Different Folks ♪',0,0,3001001,6,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "story_detail" VALUES(3001003,3001,'Gourmet Guild Episode 3','Welcome to the Gourmet Guild!',0,0,3001002,8,1,0,0,8,91002,50,0,0,0,0,0,0,'2015/04/01 15:00:00','2030/12/17 14:59:59');

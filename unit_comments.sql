@@ -1176,6 +1176,18 @@ INSERT INTO "unit_comments" VALUES(1108009,110831,1,4,1,0.0,1,'Uh, listen. I kno
 INSERT INTO "unit_comments" VALUES(1108010,110831,1,5,1,0.0,1,'You? Walk me home? Now that''s a reversal and a half. The streets aren''t safe at night? Hah. When''d you learn to sound so cool.');
 INSERT INTO "unit_comments" VALUES(1108011,110801,2,6,1,9.3,5,'So, uh. I made cake for my kid brothers, but there''s some spare, so can you eat it? I mean, if you''re hungry. Oh, and... happy birthday.');
 INSERT INTO "unit_comments" VALUES(1108012,110831,2,6,1,0.0,1,'So, what. You got a year older today, huh? Well, big whoop. Good for you. Have a Killer Pen.');
+INSERT INTO "unit_comments" VALUES(1109001,110901,1,1,4,2.8,1,'Isn''t there anything fun to do?\nI wanna live just for fun stuff!\nFor the sake of fun, I''ll do anything!');
+INSERT INTO "unit_comments" VALUES(1109002,110901,1,2,1,8.1,6,'Hey, bro! ...No, not quite.\nHe~y, bro! ☆ Yep. That sounds way cuter. ...Hm? Nope, I don''t actually want to talk to you.');
+INSERT INTO "unit_comments" VALUES(1109003,110901,1,3,6,6.7,1,'What? You can''t even do a\nsimple thing like this?\nThat''s impressive. Like, wow.\nHuh? Are you okay?');
+INSERT INTO "unit_comments" VALUES(1109004,110901,1,4,6,4.9,4,'It''s a bit late for this, but you''re pretty plain to look at, huh?\nHmmm... Here''s hoping your personality shines through.');
+INSERT INTO "unit_comments" VALUES(1109005,110901,1,5,5,11.6,3,'So, I''ve been wanting to ask.\nUm... are you one of those guys?\nLike, are you interested in me?\nNot really? ...No? What the chell.');
+INSERT INTO "unit_comments" VALUES(1109006,110931,1,1,1,0.0,1,'A colorful parfait and an even cuter cutie! Mm, perfect! What a photo op! Oh—would you mind ducking out of the frame for me?');
+INSERT INTO "unit_comments" VALUES(1109007,110931,1,2,1,0.0,1,'Wanna go out for karaoke later? I''ll do all the singing, so you just chant "Chi~eru! Woo! Chi~eru! Woo!" to liven the mood, ''kay?');
+INSERT INTO "unit_comments" VALUES(1109008,110931,1,3,1,0.0,1,'Cheru~n! Cheru cheppeler, chellarellaro, cheru-popappy?\n...Nah! I''m just messing! Eheh! ☆ Man, aren''t we youth-ing it up?');
+INSERT INTO "unit_comments" VALUES(1109009,110931,1,4,1,0.0,1,'Say "ah"! ...Ugh, you creep.\nWhy''d you really open your mouth? Obviously it was a joke.\n...Geez. Just one bite, then!');
+INSERT INTO "unit_comments" VALUES(1109010,110931,1,5,1,0.0,1,'Doesn''t hanging out with such a cutie make you feel anything? Well, I guess that''s your charm... But... really? Not a single thing?');
+INSERT INTO "unit_comments" VALUES(1109011,110901,2,6,2,7.5,1,'A very chelly birthday to you!\nYou can have this adorable smile as a present! Cheru~n! ☆ Isn''t that the best? Treasure it for life!');
+INSERT INTO "unit_comments" VALUES(1109012,110931,2,6,1,0.0,1,'Happy birthday, chellster!\nSo, what kind of gifts you into?\nMe, I''d ask for cute accessories!\nSeptember 15, by the way!');
 INSERT INTO "unit_comments" VALUES(1110001,111001,1,1,1,10.2,2,'Insight, learning, enlightenment. They can be found in classic texts, or in our daily lives. Let''s cultivate our mutual knowledge.');
 INSERT INTO "unit_comments" VALUES(1110002,111001,1,2,6,7.0,4,'This uniform... I''d be lying if I claimed its size didn''t bother me on occasion. I assumed I''d grow into it, but I may need to rethink.');
 INSERT INTO "unit_comments" VALUES(1110003,111001,1,3,2,6.7,1,'I''m a scholar of the humanities,\nso I treasure subtle allusions and nuance. The absolutes of science leave little space for the heart.');

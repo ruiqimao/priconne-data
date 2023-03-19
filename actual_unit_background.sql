@@ -86,6 +86,7 @@ INSERT INTO "actual_unit_background" VALUES(110531,'Kaori Kyan',510250,2);
 INSERT INTO "actual_unit_background" VALUES(110631,'Maho Himemiya',510240,4);
 INSERT INTO "actual_unit_background" VALUES(110731,'Aoi Futaba',510240,4);
 INSERT INTO "actual_unit_background" VALUES(110831,'Hanako Kuroe',510150,2);
+INSERT INTO "actual_unit_background" VALUES(110931,'Chieru Kazama',510301,4);
 INSERT INTO "actual_unit_background" VALUES(111031,'Yuni Shingyoji',510050,4);
 INSERT INTO "actual_unit_background" VALUES(111131,'Kyoka Hikawa',510301,4);
 INSERT INTO "actual_unit_background" VALUES(111231,'Misogi Hodaka',510100,4);

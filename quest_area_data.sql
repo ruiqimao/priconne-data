@@ -31,6 +31,7 @@ INSERT INTO "quest_area_data" VALUES(11029,'29. Diestal Ravine (South)','29. Die
 INSERT INTO "quest_area_data" VALUES(11030,'30. Photella Cliffs (North)','30. Photella Cliffs (North)',102,'bgm_M293','bgm_M293','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11031,'31. Photella Cliffs (South)','31. Photella Cliffs (South)',102,'bgm_M293','bgm_M293','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(11032,'32. Fascia Forest (South)','32. Fascia Forest (South)',102,'bgm_M339','bgm_M339','2015/12/17 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(11033,'33. Fascia Forest (East)','33. Fascia Forest (East)',102,'bgm_M339','bgm_M339','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12001,'1. Juno Plains','1. Juno Plains',101,'bgm_M61','bgm_M61','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12002,'2. Pallas Peaks','2. Pallas Peaks',101,'bgm_M61','bgm_M61_02','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12003,'3. Hebe Hill','3. Hebe Hill',101,'bgm_M61','bgm_M61_03','2015/12/17 15:00:00','2030/12/17 14:59:59');
@@ -63,6 +64,7 @@ INSERT INTO "quest_area_data" VALUES(12029,'29. Diestal Ravine (South)','29. Die
 INSERT INTO "quest_area_data" VALUES(12030,'30. Photella Cliffs (North)','30. Photella Cliffs (North)',102,'bgm_M293','bgm_M293','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12031,'31. Photella Cliffs (South)','31. Photella Cliffs (South)',102,'bgm_M293','bgm_M293','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(12032,'32. Fascia Forest (South)','32. Fascia Forest (South)',102,'bgm_M339','bgm_M339','2015/12/17 15:00:00','2030/12/17 14:59:59');
+INSERT INTO "quest_area_data" VALUES(12033,'33. Fascia Forest (East)','33. Fascia Forest (East)',102,'bgm_M339','bgm_M339','2015/12/17 15:00:00','2030/12/17 14:59:59');
 INSERT INTO "quest_area_data" VALUES(13018,'18. Phaethon Fields (North)','18. Phaethon Fields (North)',102,'bgm_M179','bgm_M179','2022/08/04 13:00:00','2030/12/17 14:59:00');
 INSERT INTO "quest_area_data" VALUES(13019,'19. Phaethon Fields (South)','19. Phaethon Fields (South)',102,'bgm_M179','bgm_M179','2022/09/01 08:00:00','2030/12/17 14:59:00');
 INSERT INTO "quest_area_data" VALUES(13020,'20. Castalia Woods (West)','20. Castalia Woods (West)',102,'bgm_M180','bgm_M180','2015/12/17 15:00:00','2030/12/17 14:59:59');
