@@ -1,4 +1,4 @@
-CREATE TABLE 'event_story_seq' ('story_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, PRIMARY KEY('story_id'));
+CREATE TABLE 'event_story_seq' ('story_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL);
 INSERT INTO "event_story_seq" VALUES(5001000,20001,1);
 INSERT INTO "event_story_seq" VALUES(5001001,20001,2);
 INSERT INTO "event_story_seq" VALUES(5001002,20001,3);
@@ -211,3 +211,11 @@ INSERT INTO "event_story_seq" VALUES(5038004,10038,5);
 INSERT INTO "event_story_seq" VALUES(5038005,10038,6);
 INSERT INTO "event_story_seq" VALUES(5038006,10038,7);
 INSERT INTO "event_story_seq" VALUES(5038007,10038,8);
+INSERT INTO "event_story_seq" VALUES(5040000,10040,1);
+INSERT INTO "event_story_seq" VALUES(5040001,10040,2);
+INSERT INTO "event_story_seq" VALUES(5040002,10040,3);
+INSERT INTO "event_story_seq" VALUES(5040003,10040,4);
+INSERT INTO "event_story_seq" VALUES(5040004,10040,5);
+INSERT INTO "event_story_seq" VALUES(5040005,10040,6);
+INSERT INTO "event_story_seq" VALUES(5040006,10040,7);
+INSERT INTO "event_story_seq" VALUES(5040007,10040,8);

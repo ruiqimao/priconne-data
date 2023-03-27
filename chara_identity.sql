@@ -59,6 +59,7 @@ INSERT INTO "chara_identity" VALUES(106301,63);
 INSERT INTO "chara_identity" VALUES(106501,65);
 INSERT INTO "chara_identity" VALUES(106601,66);
 INSERT INTO "chara_identity" VALUES(106701,67);
+INSERT INTO "chara_identity" VALUES(106801,68);
 INSERT INTO "chara_identity" VALUES(107001,70);
 INSERT INTO "chara_identity" VALUES(107101,71);
 INSERT INTO "chara_identity" VALUES(107501,58);

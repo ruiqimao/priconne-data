@@ -1199,7 +1199,7 @@ INSERT INTO "unit_comments" VALUES(1110008,111031,1,3,1,0.0,1,'I''d prefer not t
 INSERT INTO "unit_comments" VALUES(1110009,111031,1,4,1,0.0,1,'My most valued lessons are the days of youth we share. Arcane secrets cannot compare. Not to you, the first friend I ever made.');
 INSERT INTO "unit_comments" VALUES(1110011,111001,2,6,2,0.0,2,'Life is a wondrous thing. Its very inception is a statistical miracle. Or in the terms of the layfolk, happy birthday to you.');
 INSERT INTO "unit_comments" VALUES(1110012,111031,2,6,1,0.0,1,'Happy birthday. It would seem this is the anniversary of the day you first entered the world.\nMy notes are never wrong.');
-INSERT INTO "unit_comments" VALUES(1111001,111101,1,1,2,4.9,6,'So, it''s Halloween.\nEveryone seems to be having 
+INSERT INTO "unit_comments" VALUES(1111001,111101,1,1,2,4.9,6,'So, it''s Halloween.\nEveryone seems to be having
 fun in their costumes.\n...No, of course I''m not scared!');
 INSERT INTO "unit_comments" VALUES(1111002,111101,1,2,4,6.0,6,'Just look at all these pumpkins...\nWith such creepy faces... Urghh...\nWait, is that one on your head, too?! Don''t surprise me like that!');
 INSERT INTO "unit_comments" VALUES(1111003,111101,1,3,1,8.7,5,'Wh-what do you think of this costume? Personally, I think it''s a little childish... Huh? It suits me? O-oh, I see. Well... thank you.');

@@ -519,3 +519,15 @@ INSERT INTO "emblem_mission_reward_data" VALUES(633,56011343,15,10201343,1,1001)
 INSERT INTO "emblem_mission_reward_data" VALUES(634,56011344,15,10201344,1,1002);
 INSERT INTO "emblem_mission_reward_data" VALUES(635,56011345,15,10201345,1,1003);
 INSERT INTO "emblem_mission_reward_data" VALUES(636,56011345,8,91002,50,0);
+INSERT INTO "emblem_mission_reward_data" VALUES(643,55008001,15,10603001,1,1001);
+INSERT INTO "emblem_mission_reward_data" VALUES(644,55008001,8,91002,50,0);
+INSERT INTO "emblem_mission_reward_data" VALUES(645,55008002,15,10603002,1,1001);
+INSERT INTO "emblem_mission_reward_data" VALUES(646,55008002,8,91002,50,0);
+INSERT INTO "emblem_mission_reward_data" VALUES(647,55008003,15,10603003,1,1002);
+INSERT INTO "emblem_mission_reward_data" VALUES(648,55008003,8,91002,50,0);
+INSERT INTO "emblem_mission_reward_data" VALUES(649,55008004,15,10603004,1,1002);
+INSERT INTO "emblem_mission_reward_data" VALUES(650,55008004,8,91002,50,0);
+INSERT INTO "emblem_mission_reward_data" VALUES(651,55008005,15,10603005,1,1003);
+INSERT INTO "emblem_mission_reward_data" VALUES(652,55008005,8,91002,50,0);
+INSERT INTO "emblem_mission_reward_data" VALUES(653,55008006,15,10603006,1,1003);
+INSERT INTO "emblem_mission_reward_data" VALUES(654,55008006,8,91002,50,0);

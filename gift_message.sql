@@ -14,6 +14,7 @@ INSERT INTO "gift_message" VALUES(2012,'Item obtained on day {1} of {0}.',17,2,0
 INSERT INTO "gift_message" VALUES(2013,'Item obtained from {0}.',1,0,0,0);
 INSERT INTO "gift_message" VALUES(2014,'Reward for reaching Lap {2} in the {0} Clan Battle.',10,11,19,0);
 INSERT INTO "gift_message" VALUES(2015,'Additional reward for "{0}."',20,0,0,0);
+INSERT INTO "gift_message" VALUES(2016,'Item received from {0} on their birthday.',1,0,0,0);
 INSERT INTO "gift_message" VALUES(3001,'Item obtained for unlocking the 2nd floor of Guildhouse.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(3002,'Item obtaind for unlocking the third floor of the Guildhouse.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9101,'Compensation from the Admin team.',0,0,0,0);
@@ -87,9 +88,10 @@ INSERT INTO "gift_message" VALUES(9514,'Item obtained from Side Story boss "{1}.
 INSERT INTO "gift_message" VALUES(9515,'Item obtained from a Side Story mission.',13,0,0,0);
 INSERT INTO "gift_message" VALUES(9516,'Item obtained from the revival event login bonus day {1}.',13,2,0,0);
 INSERT INTO "gift_message" VALUES(9600,'Item obtained from a minigame.',0,0,0,0);
-INSERT INTO "gift_message" VALUES(9700,'Ranking reward earned in Attack of the Robo Lima!',0,0,0,0);
-INSERT INTO "gift_message" VALUES(9701,'Attack reward earned in Attack of the Robo Lima!',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9700,'Ranking reward earned in Landosol Wars.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9701,'Attack reward earned in Landosol Wars.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9702,'Item obtained from the Final Battle of Landosol.',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9703,'Item obtained from the Landosol Wars special event.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9800,'A present in celebration of a character’s birthday.',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9801,'Celebrating 100 wonderful days!',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9802,'Celebrating 150K Social Media Followers!',0,0,0,0);
@@ -129,3 +131,4 @@ INSERT INTO "gift_message" VALUES(9835,'2-Year Pre-Anniversary Present',0,0,0,0)
 INSERT INTO "gift_message" VALUES(9836,'Starlight Princess Re:M@STER! Present',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9837,'Countdown to Spring Login Bonus',0,0,0,0);
 INSERT INTO "gift_message" VALUES(9838,'The Twin Flowers of Astrum Present',0,0,0,0);
+INSERT INTO "gift_message" VALUES(9839,'Training Support Present',0,0,0,0);
